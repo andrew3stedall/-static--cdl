@@ -1,8 +1,8 @@
 ---
 type: wiki
 last_updated: 2026-08-02T08:41:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]"
+latest_review: [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]]
+latest_changes: [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]]
 ---
 
 # FPL Draft Research Wiki
@@ -141,3 +141,10 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 - Latest review: [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]
 - Latest changes: [[07 Changes/2026/08/2026-08-02/0841-AEST-changes]]
 - Next: ranks 201–220 against the full active API pool and transfer/registration watchlist.
+
+## 2026-08-02 08:48 AEST
+
+- Completed the first manual pairwise pass across ranks 1–220.
+- Final block: ranks 201–220, challenged against ranks 196–200 and the full active API pool.
+- Latest review: [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]].
+- Latest changes: [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]].

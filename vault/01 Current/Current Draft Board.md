@@ -211,31 +211,31 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 193 | Vitor Reis | DEF | MCI | Undrafted buffer | D | 396 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
 | 194 | Anselmino | DEF | CHE | Undrafted buffer | D | 561 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
 | 195 | B.Badiashile | DEF | CHE | Undrafted buffer | D | 146 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 196 | Disasi | DEF | CHE | Undrafted buffer | D | 153 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 197 | M.Sarr | DEF | CHE | Undrafted buffer | D | 150 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 198 | Ji-soo | DEF | BRE | Undrafted buffer | D | 92 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 199 | Svoboda | DEF | BHA | Undrafted buffer | D | 120 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 200 | Vuskovic | DEF | BHA | Undrafted buffer | D | 504 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 201 | Schuster | DEF | BRE | Undrafted buffer | Watch | 93 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 202 | Coppola | DEF | BHA | Undrafted buffer | Watch | 117 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 203 | Costinha | DEF | BHA | Undrafted buffer | Watch | 119 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 204 | Igor | DEF | BHA | Undrafted buffer | Watch | 118 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 205 | Munoz | MID | LIV | Undrafted buffer | Watch | 377 | Available | 2026-08-02T08:41:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]] |
-| 206 | Talbi | MID | SUN | Undrafted buffer | Watch | 549 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 207 | Janelt | MID | BRE | Undrafted buffer | Watch | 98 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 208 | Emegha | FWD | CHE | Undrafted buffer | Watch | 170 | Hamstring injury - 75% chance of playing | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 209 | Mac Allister | MID | LIV | Undrafted buffer | Watch | 372 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 210 | Kroupi.Jr | MID | BOU | Undrafted buffer | Watch | 78 | Foot injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 211 | Buendía | MID | AVL | Undrafted buffer | Watch | 41 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 212 | Strand Larsen | FWD | CRY | Undrafted buffer | Watch | 222 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 213 | Yarmoliuk | MID | BRE | Undrafted buffer | Watch | 102 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 214 | Madueke | MID | ARS | Undrafted buffer | Watch | 16 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 215 | Hudson-Odoi | MID | NFO | Undrafted buffer | Watch | 482 | Thigh injury - 75% chance of playing | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 216 | Gallagher | MID | TOT | Undrafted buffer | Watch | 519 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 217 | Touré | MID | NEW | Undrafted buffer | Watch | 461 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 218 | Anthony | MID | BRE | Undrafted buffer | Watch | 105 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 219 | Manzambi | MID | AVL | Undrafted buffer | Watch | 53 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 220 | Nketiah | FWD | CRY | Undrafted buffer | Watch | 224 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 196 | Strand Larsen | FWD | CRY | Undrafted buffer | Watch | 222 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 197 | Nketiah | FWD | CRY | Undrafted buffer | Watch | 224 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 198 | Emegha | FWD | CHE | Undrafted buffer | Watch | 170 | Hamstring injury - 75% chance of playing | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 199 | Madueke | MID | ARS | Undrafted buffer | Watch | 16 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 200 | Hudson-Odoi | MID | NFO | Undrafted buffer | Watch | 482 | Thigh injury - 75% chance of playing | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 201 | Mac Allister | MID | LIV | Undrafted buffer | Watch | 372 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 202 | Buendía | MID | AVL | Undrafted buffer | Watch | 41 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 203 | Gallagher | MID | TOT | Undrafted buffer | Watch | 519 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 204 | Talbi | MID | SUN | Undrafted buffer | Watch | 549 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 205 | Yarmoliuk | MID | BRE | Undrafted buffer | Watch | 102 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 206 | Anthony | MID | BRE | Undrafted buffer | Watch | 105 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 207 | Touré | MID | NEW | Undrafted buffer | Watch | 461 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 208 | Manzambi | MID | AVL | Undrafted buffer | Watch | 53 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 209 | Janelt | MID | BRE | Undrafted buffer | Watch | 98 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 210 | Kroupi.Jr | MID | BOU | Undrafted buffer | Watch | 78 | Foot injury - Unknown return date | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 211 | Munoz | MID | LIV | Undrafted buffer | Watch | 377 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 212 | Igor | DEF | BHA | Undrafted buffer | Watch | 118 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 213 | Schuster | DEF | BRE | Undrafted buffer | Watch | 93 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 214 | Coppola | DEF | BHA | Undrafted buffer | Watch | 117 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 215 | Costinha | DEF | BHA | Undrafted buffer | Watch | 119 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 216 | Disasi | DEF | CHE | Undrafted buffer | Watch | 153 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 217 | M.Sarr | DEF | CHE | Undrafted buffer | Watch | 150 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 218 | Ji-soo | DEF | BRE | Undrafted buffer | Watch | 92 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 219 | Svoboda | DEF | BHA | Undrafted buffer | Watch | 120 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 220 | Vuskovic | DEF | BHA | Undrafted buffer | Watch | 504 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
 ## Method cautions
 
 - Price and ownership do not drive the ordering, although official pricing and expert commentary are useful expectation signals.

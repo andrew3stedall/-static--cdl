@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 120
-player_name: Svoboda
-team: "[[03 Teams/BHA]]"
-position: "[[04 Positions/Defender]]"
+fpl_id: 105
+player_name: Anthony
+team: "[[03 Teams/BRE]]"
+position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 219
+current_rank: 206
 current_segment: Undrafted buffer
 last_reviewed: 2026-08-02T08:48:00+10:00
 ---
 
-# Svoboda
+# Anthony
 
 ## Current assessment
 
-Ranked 219 after the final 201–220 pairwise review and full active API-pool screen. Raw expected points were assessed before positional scarcity.
+Ranked 206 after the final 201–220 pairwise review and full active API-pool screen. Raw expected points were assessed before positional scarcity.
 
 ## Pairwise placement
 
-- Immediate comparison: **Ji-soo / Vuskovic**.
+- Immediate comparison: **Yarmoliuk / Touré**.
 - Decision: placed after direct comparison of expected points, minutes, role, set pieces, injury/rotation risk and replacement value.
 - Confidence: low to medium; this range is outside the 160-player draft line.
 - Reversal trigger: confirmed first-team role, fitness, penalties, repeated strongest-XI minutes or completed transfer evidence.
 
 ## Evidence timeline
 
-- 2026-08-02 08:48 AEST — ranked 199 → 219 in the stable pairwise pass.
+- 2026-08-02 08:48 AEST — ranked 218 → 206 in the stable pairwise pass.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)

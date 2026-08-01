@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T08:41:00+10:00
+last_updated: 2026-08-02T08:48:00+10:00
 status: active
 ---
 
@@ -76,3 +76,11 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - Kalimuendo, Nmecha, Hirst, Simms, Wilson, Rodríguez, Wright, McBurnie and Isidor: monitor repeated first-team centre-forward minutes.
 - Vitor Reis and the Chelsea centre-backs: require a stable strongest-XI hierarchy.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Official fixtures](https://fantasy.premierleague.com/api/fixtures/); [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).
+
+## 2026-08-02 08:48 AEST — final board block
+
+- Strand Larsen and Nketiah: confirm first-team central-forward hierarchy.
+- Emegha, Hudson-Odoi and Kroupi.Jr: obtain direct fitness and return-to-training evidence.
+- Madueke, Buendía and Gallagher: monitor repeated strongest-XI role and set pieces.
+- Full API pool: promote any unranked player only on confirmed starting role, penalties, advanced transfer or repeated first-team minutes.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]].
