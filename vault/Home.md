@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-01T22:43:00+10:00
+last_updated: 2026-08-01T23:08:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -25,7 +25,7 @@ last_updated: 2026-08-01T22:43:00+10:00
 
 ## Entity entry points
 
-- Players: [[02 Players/Haaland - 411]], [[02 Players/B.Fernandes - 426]], [[02 Players/Saka - 12]], [[02 Players/Isak - 379]], [[02 Players/Thiago - 106]], [[02 Players/Palmer - 154]], [[02 Players/Gabriel - 4]], [[02 Players/Wirtz - 366]], [[02 Players/Mbeumo - 427]], [[02 Players/Cunha - 428]]
+- Players: [[02 Players/Haaland - 411]], [[02 Players/B.Fernandes - 426]], [[02 Players/Saka - 12]], [[02 Players/Isak - 379]], [[02 Players/Thiago - 106]], [[02 Players/Palmer - 154]], [[02 Players/Gabriel - 4]], [[02 Players/Wirtz - 366]], [[02 Players/Mbeumo - 427]], [[02 Players/Cunha - 428]], [[02 Players/Mitoma - 121]], [[02 Players/Xhaka - 544]], [[02 Players/Iwobi - 261]]
 - Teams: [[03 Teams/MCI]], [[03 Teams/MUN]], [[03 Teams/ARS]], [[03 Teams/LIV]], [[03 Teams/CHE]], [[03 Teams/BRE]]
 - Positions: [[04 Positions/Forward]], [[04 Positions/Midfielder]], [[04 Positions/Defender]], [[04 Positions/Goalkeeper]]
 
@@ -44,26 +44,18 @@ last_updated: 2026-08-01T22:43:00+10:00
 
 ## Latest run
 
-- [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] — no material change after the top-80 correction.
-- [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] — completed the first manual pairwise pass across ranks 1–80.
+- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
 
 ## Latest material ranking change
 
-- [[06 Reviews/2026/08/2026-08-01/1848-AEST-review|Second review — top-80 correction]]
-- [[07 Changes/2026/08/2026-08-01/1848-AEST-changes|Changes since the first board]]
-- [[09 Data/2026-08-01-1848-official-api-snapshot|Official API snapshot]]
-- `vault/09 Data/2026-08-01-1848-top80-movements.json`
+- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review|Ranks 65–80 and top-80 completion]]
+- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes|Changes in the final block]]
 
-## Latest review
+## Completed manual blocks
 
-- [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
-- Ranks 17–32 completed by direct pairwise sorting; next block is 33–48.
-
-## 2026-08-01 22:54 AEST — ranks 33–48
-
-- Review: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
-- Changes: [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
-- Solanke, Cherki, Marmoush, Ndiaye and Schade rose; Anderson, O'Reilly, Stach and Ampadu fell below 48.
-
-- 2026-08-01 23:00 AEST — ranks 49–64 pairwise review completed. [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- Ranks 1–16: [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
+- Ranks 17–32: [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
+- Ranks 33–48: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
+- Ranks 49–64: [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- Ranks 65–80: [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
