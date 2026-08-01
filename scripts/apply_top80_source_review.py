@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """Apply the second evidence-based FPL Draft review to the canonical board.
 
-The first board preserved a useful official-ID baseline but inherited too much of a
-last-season points ordering. This script applies a reviewed top-80 order, then keeps
-the prior relative order for the remaining player pool. Official FPL data remains
-authoritative for identity, team, position and availability metadata.
+The reviewed order is compared with an immutable snapshot of the 17:38 AEST board,
+so rerunning this script does not erase or rewrite the original movement history.
+Official FPL data remains authoritative for identity, team, position and status.
 """
 from __future__ import annotations
 
@@ -15,14 +14,19 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 BOARD_PATH = ROOT / "vault/01 Current/Current Draft Board.md"
+BASELINE_PATH = ROOT / "vault/09 Data/2026-08-01-1738-board-baseline.json"
 SNAPSHOT_PATH = ROOT / "vault/09 Data/2026-08-01-1848-official-api-snapshot.json"
 MOVEMENTS_PATH = ROOT / "vault/09 Data/2026-08-01-1848-top80-movements.json"
+BASELINE_URL = (
+    "https://raw.githubusercontent.com/andrew3stedall/-static--cdl/"
+    "main/vault/01%20Current/Current%20Draft%20Board.md"
+)
 BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
 FIXTURES_URL = "https://fantasy.premierleague.com/api/fixtures/"
 RUN_AT = "2026-08-01T18:48:00+10:00"
+BASELINE_AT = "2026-08-01T17:38:00+10:00"
 REVIEW_LINK = "[[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]"
 
-# Explicitly reviewed order. Stable official FPL element IDs are used throughout.
 TOP_80_IDS = [
     411, 426, 12, 379, 106, 154, 55, 4,
     480, 165, 427, 428, 397, 25, 366, 40,
@@ -44,10 +48,58 @@ ROW_RE = re.compile(
 )
 
 
-def get_json(url: str):
+def request_bytes(url: str) -> tuple[bytes, dict[str, str]]:
     request = urllib.request.Request(url, headers={"User-Agent": "fpl-draft-vault/2.0"})
     with urllib.request.urlopen(request, timeout=60) as response:
-        return json.load(response), dict(response.headers.items())
+        return response.read(), dict(response.headers.items())
+
+
+def get_json(url: str):
+    payload, headers = request_bytes(url)
+    return json.loads(payload.decode("utf-8")), headers
+
+
+def parse_board(text: str) -> list[dict]:
+    rows: list[dict] = []
+    for line in text.splitlines():
+        match = ROW_RE.match(line)
+        if not match:
+            continue
+        row = match.groupdict()
+        row["rank"] = int(row["rank"])
+        row["id"] = int(row["id"])
+        rows.append(row)
+    if len(rows) != 220:
+        raise RuntimeError(f"Expected 220 board rows, found {len(rows)}")
+    return rows
+
+
+def load_baseline() -> list[dict]:
+    if BASELINE_PATH.exists():
+        data = json.loads(BASELINE_PATH.read_text(encoding="utf-8"))
+        rows = data.get("rows", [])
+        if len(rows) != 220:
+            raise RuntimeError("Stored baseline does not contain 220 rows")
+        return rows
+
+    payload, _ = request_bytes(BASELINE_URL)
+    rows = parse_board(payload.decode("utf-8"))
+    BASELINE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    BASELINE_PATH.write_text(
+        json.dumps(
+            {
+                "captured_at": RUN_AT,
+                "baseline_reviewed_at": BASELINE_AT,
+                "source": BASELINE_URL,
+                "rows": rows,
+            },
+            indent=2,
+            ensure_ascii=False,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    return rows
 
 
 def segment(rank: int) -> str:
@@ -86,26 +138,10 @@ def tier(rank: int) -> str:
     return "Watch"
 
 
-def parse_board(text: str) -> list[dict]:
-    rows: list[dict] = []
-    for line in text.splitlines():
-        match = ROW_RE.match(line)
-        if not match:
-            continue
-        row = match.groupdict()
-        row["rank"] = int(row["rank"])
-        row["id"] = int(row["id"])
-        rows.append(row)
-    if len(rows) != 220:
-        raise RuntimeError(f"Expected 220 existing rows, found {len(rows)}")
-    return rows
-
-
 def official_status(element: dict) -> str:
     news = (element.get("news") or "").strip()
     if news:
         return news
-    code = element.get("status", "a")
     return {
         "a": "Available",
         "d": "Doubtful",
@@ -113,12 +149,13 @@ def official_status(element: dict) -> str:
         "s": "Suspended",
         "u": "Unavailable",
         "n": "Unavailable",
-    }.get(code, code)
+    }.get(element.get("status", "a"), element.get("status", "a"))
 
 
 def main() -> None:
     bootstrap, bootstrap_headers = get_json(BOOTSTRAP_URL)
     fixtures, fixtures_headers = get_json(FIXTURES_URL)
+    baseline_rows = load_baseline()
 
     elements = {element["id"]: element for element in bootstrap["elements"]}
     teams = {team["id"]: team for team in bootstrap["teams"]}
@@ -130,12 +167,10 @@ def main() -> None:
     if len(TOP_80_IDS) != 80 or len(set(TOP_80_IDS)) != 80:
         raise RuntimeError("TOP_80_IDS must contain 80 unique IDs")
 
-    old_text = BOARD_PATH.read_text(encoding="utf-8")
-    old_rows = parse_board(old_text)
-    old_by_id = {row["id"]: row for row in old_rows}
-    old_rank = {row["id"]: row["rank"] for row in old_rows}
-
-    ordered_ids = TOP_80_IDS + [row["id"] for row in old_rows if row["id"] not in set(TOP_80_IDS)]
+    old_by_id = {row["id"]: row for row in baseline_rows}
+    old_rank = {row["id"]: row["rank"] for row in baseline_rows}
+    top_ids = set(TOP_80_IDS)
+    ordered_ids = TOP_80_IDS + [row["id"] for row in baseline_rows if row["id"] not in top_ids]
     ordered_ids = ordered_ids[:220]
 
     new_rows: list[dict] = []
@@ -146,17 +181,14 @@ def main() -> None:
         position = positions[element["element_type"]]["singular_name_short"]
         status = official_status(element)
         player = element.get("web_name") or f"{element.get('first_name', '')} {element.get('second_name', '')}".strip()
-        previous = old_by_id.get(element_id)
-        previous_rank = old_rank.get(element_id)
+        previous = old_by_id[element_id]
+        previous_rank = old_rank[element_id]
         changed = (
-            previous is None
-            or previous_rank != rank
+            previous_rank != rank
             or previous["team"] != team
             or previous["position"] != position
             or previous["status"] != status
         )
-        last_changed = RUN_AT if changed else previous["changed"]
-        evidence = REVIEW_LINK if changed else previous["evidence"]
         new_rows.append(
             {
                 "rank": rank,
@@ -167,8 +199,8 @@ def main() -> None:
                 "tier": tier(rank),
                 "id": element_id,
                 "status": status,
-                "changed": last_changed,
-                "evidence": evidence,
+                "changed": RUN_AT if changed else previous["changed"],
+                "evidence": REVIEW_LINK if changed else previous["evidence"],
             }
         )
         if previous_rank != rank:
@@ -178,7 +210,7 @@ def main() -> None:
                     "player": player,
                     "old_rank": previous_rank,
                     "new_rank": rank,
-                    "delta": None if previous_rank is None else previous_rank - rank,
+                    "delta": previous_rank - rank,
                     "team": team,
                     "position": position,
                 }
@@ -224,6 +256,7 @@ def main() -> None:
 
     snapshot = {
         "retrieved_at": RUN_AT,
+        "baseline_reviewed_at": BASELINE_AT,
         "bootstrap_url": BOOTSTRAP_URL,
         "fixtures_url": FIXTURES_URL,
         "bootstrap_etag": bootstrap_headers.get("ETag") or bootstrap_headers.get("Etag"),
@@ -231,6 +264,7 @@ def main() -> None:
         "players": len(elements),
         "teams": len(teams),
         "fixtures": len(fixtures),
+        "baseline_rows": len(baseline_rows),
         "published_rows": len(new_rows),
         "reviewed_top_rows": len(TOP_80_IDS),
         "missing_reviewed_ids": missing,
@@ -240,6 +274,7 @@ def main() -> None:
         json.dumps(
             {
                 "reviewed_at": RUN_AT,
+                "baseline_reviewed_at": BASELINE_AT,
                 "movement_count": len(movements),
                 "movements": sorted(movements, key=lambda item: item["new_rank"]),
             },
@@ -250,7 +285,7 @@ def main() -> None:
         encoding="utf-8",
     )
     print(json.dumps(snapshot, indent=2))
-    print(f"Recorded {len(movements)} rank changes")
+    print(f"Recorded {len(movements)} rank changes against immutable baseline")
 
 
 if __name__ == "__main__":
