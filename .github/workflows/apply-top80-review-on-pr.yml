@@ -1,0 +1,164 @@
+name: Apply top-80 review on PR
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - scripts/apply_top80_source_review.py
+      - .github/workflows/apply-top80-review-on-pr.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply-reviewed-order:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Merge current main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge origin/main -m "Merge current main into top-80 review" -X ours
+      - name: Apply deterministic top-80 review
+        run: python scripts/apply_top80_source_review.py
+      - name: Preserve the later 20:00 review in navigation and audit
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import subprocess
+
+          root = Path('.')
+          review_1848 = '[[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]'
+          changes_1848 = '[[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]'
+          review_2000 = '[[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]'
+          changes_2000 = '[[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]'
+
+          changelog_path = root / 'vault/00 Meta/Document Changelog.md'
+          changelog = changelog_path.read_text(encoding='utf-8')
+          main_changelog = subprocess.check_output(
+              ['git', 'show', 'origin/main:vault/00 Meta/Document Changelog.md'],
+              text=True,
+          )
+          changelog = re.sub(
+              r'(?m)^last_updated: .+$',
+              'last_updated: 2026-08-01T20:00:00+10:00',
+              changelog,
+              count=1,
+          )
+          for line in main_changelog.splitlines():
+              if line.startswith('| 2026-08-01T20:00:00+10:00 |') and line not in changelog:
+                  changelog = changelog.rstrip() + '\n' + line + '\n'
+          changelog_path.write_text(changelog, encoding='utf-8')
+
+          home_path = root / 'vault/Home.md'
+          home = home_path.read_text(encoding='utf-8')
+          home = re.sub(
+              r'(?m)^last_updated: .+$',
+              'last_updated: 2026-08-01T20:00:00+10:00',
+              home,
+              count=1,
+          )
+          latest = f'''## Latest run
+
+- {review_2000} — no material change after the source-corrected board.
+- {changes_2000}
+
+## Latest material ranking change
+
+- {review_1848}
+- {changes_1848}
+- [[09 Data/2026-08-01-1848-official-api-snapshot|Official API snapshot]]
+'''
+          home = re.sub(r'(?s)## Latest run\n.*\Z', latest, home)
+          home_path.write_text(home.rstrip() + '\n', encoding='utf-8')
+
+          wiki_path = root / 'vault/Wiki.md'
+          wiki = wiki_path.read_text(encoding='utf-8')
+          wiki = re.sub(
+              r'(?m)^last_updated: .+$',
+              'last_updated: 2026-08-01T20:00:00+10:00',
+              wiki,
+              count=1,
+          )
+          wiki = re.sub(
+              r'(?m)^latest_review: .+$',
+              f'latest_review: "{review_2000}"',
+              wiki,
+              count=1,
+          )
+          wiki = re.sub(
+              r'(?m)^latest_changes: .+$',
+              f'latest_changes: "{changes_2000}"',
+              wiki,
+              count=1,
+          )
+          verification = f'''## Latest verification
+
+The 20:00 AEST review found no sufficiently strong new evidence to reverse or alter the source-corrected 18:48 board. The 18:48 review remains the latest material ranking change, while the 20:00 review is the latest completed evidence scan.
+
+- Latest completed review: {review_2000}
+- Latest completed changes record: {changes_2000}
+- Latest material ranking review: {review_1848}
+- Latest material ranking changes: {changes_1848}
+
+'''
+          if '## Latest verification' not in wiki:
+              wiki = wiki.replace('## Key navigation\n', verification + '## Key navigation\n')
+          for link in (review_2000, changes_2000, review_1848, changes_1848):
+              bullet = f'- {link}'
+              if bullet not in wiki:
+                  wiki = wiki.rstrip() + '\n' + bullet + '\n'
+          wiki_path.write_text(wiki.rstrip() + '\n', encoding='utf-8')
+          PY
+      - name: Validate generated board and movement audit
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          board = Path('vault/01 Current/Current Draft Board.md').read_text(encoding='utf-8')
+          ids = []
+          for line in board.splitlines():
+              if not line.startswith('| '):
+                  continue
+              parts = [part.strip() for part in line.strip().strip('|').split('|')]
+              if len(parts) >= 10 and parts[0].isdigit():
+                  ids.append(int(parts[6]))
+          assert len(ids) == 220, len(ids)
+          assert len(set(ids)) == 220, len(set(ids))
+          assert ids[79] == 261, ids[79]
+          assert ids[159] == 63, ids[159]
+          assert ids[219] == 139, ids[219]
+          assert 121 not in ids, 'Mitoma phantom row retained'
+
+          movement = json.loads(
+              Path('vault/09 Data/2026-08-01-1848-top80-movements.json').read_text(encoding='utf-8')
+          )
+          assert movement['movement_count'] == 216, movement['movement_count']
+          assert movement['entrants'] == [{'fpl_id': 70, 'new_rank': 28}], movement['entrants']
+          assert movement['removed_from_board'] == [{'fpl_id': 441, 'old_rank': 220}], movement['removed_from_board']
+
+          changelog = Path('vault/00 Meta/Document Changelog.md').read_text(encoding='utf-8')
+          assert '2026-08-01T18:48:00+10:00' in changelog
+          assert '2026-08-01T20:00:00+10:00' in changelog
+          PY
+      - name: Commit reconciled review
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Review branch already reconciled"
+          else
+            git commit -m "Reconcile and validate 1848 AEST top-80 review"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi
