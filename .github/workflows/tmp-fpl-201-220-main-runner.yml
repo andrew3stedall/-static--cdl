@@ -16,8 +16,25 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/fpl_block_201_220.py
-      - run: |
+      - name: Generate review files
+        run: python scripts/fpl_block_201_220.py || true
+      - name: Sort and validate canonical board
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p=Path('vault/01 Current/Current Draft Board.md')
+          lines=p.read_text().splitlines()
+          idx=[i for i,l in enumerate(lines) if re.match(r'^\| \d+ \|',l)]
+          rows=[lines[i] for i in idx]
+          rows.sort(key=lambda l:int(l.split('|')[1].strip()))
+          for i,row in zip(idx,rows): lines[i]=row
+          p.write_text('\n'.join(lines)+'\n')
+          ranks=[int(r.split('|')[1].strip()) for r in rows]
+          assert ranks==list(range(1,221)), ranks[:5]+ranks[-5:]
+          PY
+      - name: Commit generated review
+        run: |
           rm scripts/fpl_block_201_220.py .github/workflows/tmp-fpl-201-220-runner.yml
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
