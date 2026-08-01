@@ -1,32 +1,32 @@
 ---
 type: player
-fpl_id: 366
-player_name: Florian Wirtz
-team: "[[03 Teams/LIV]]"
+fpl_id: 480
+player_name: Morgan Gibbs-White
+team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 13
+current_rank: 15
 current_segment: Foundation
 last_reviewed: 2026-08-01T22:07:00+10:00
 ---
 
-# Florian Wirtz
+# Morgan Gibbs-White
 
 ## Current assessment
 
-Used behind the striker and expected to become more important after Salah's departure.
+Secure minutes, central role and high floor; lower ceiling than the elite attackers above.
 
 ## Pairwise placement
 
-- Compared with: **Semenyo**.
-- Decision: Wirtz has a clearer central creative role; Semenyo's Manchester City ceiling is offset by greater rotation risk.
+- Compared with: **Rogers**.
+- Decision: Gibbs-White has substantially safer minutes and role certainty than Rogers in Chelsea's crowded attack.
 - Confidence: medium.
 - Reversal trigger: material injury, role, penalty or expected-minutes evidence that changes the comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 13 in the first-16 block.
-- [Primary evidence](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
+- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 15 in the first-16 block.
+- [Primary evidence](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official FPL player pool](https://fantasy.premierleague.com/api/bootstrap-static/)
 
 ## Backlinks

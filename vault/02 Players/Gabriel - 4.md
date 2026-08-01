@@ -7,29 +7,30 @@ position: "[[04 Positions/Defender]]"
 api_status: available
 current_rank: 8
 current_segment: Franchise
-last_reviewed: 2026-08-01T18:48:00+10:00
+last_reviewed: 2026-08-01T22:07:00+10:00
 ---
 
 # Gabriel Magalhaes
 
 ## Current assessment
 
-Falls from third to eighth only because the cross-position baseline was corrected. He remains the leading defender after 209 points, 18 clean sheets, three goals, five assists and 22 defensive-contribution points in 30 starts.
+209 points, 18 clean sheets, set-piece threat and defensive-contribution routes.
 
-## Risks
+## Pairwise placement
 
-- Injury history and the need to exceed 30 starts.
-- Defender replacement level is deeper than elite forward replacement level.
+- Compared with: **Gyökeres**.
+- Decision: Gabriel has the stronger proven FPL total and floor; Gyokeres can pass him if the Arsenal striker role and penalties become secure.
+- Confidence: medium-high.
+- Reversal trigger: material injury, role, penalty or expected-minutes evidence that changes the comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 17:38 AEST — Initial rank 3.
-- 2026-08-01 18:48 AEST — Moved to rank 8 while retaining first-round status.
-- [Premier League key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
+- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 8 in the first-16 block.
+- [Primary evidence](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
+- [Official FPL player pool](https://fantasy.premierleague.com/api/bootstrap-static/)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[03 Teams/ARS]]
-- [[04 Positions/2026-27 Top-80 Correction]]
-- [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
+- [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]

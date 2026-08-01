@@ -4,34 +4,34 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 220
-last_updated: 2026-08-01T18:48:00+10:00
-status: top80_source_corrected_second_review
+last_updated: 2026-08-01T22:07:00+10:00
+status: top16_pairwise_sorted
 ---
 
 # Current Draft Board
 
-This is the **only canonical current overall ordering**. The second review corrects the first board's excessive dependence on 2025/26 total points by weighting current role, minutes security, injury status, transfer context, preseason evidence, fixture environment and positional scarcity.
+This is the **only canonical current overall ordering**. The first 16 have now been stable-sorted by explicit player-versus-player comparisons. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
 
 ## Advised order
 
 | Pick order | Player | Position | Team | Segment | Tier | FPL ID | Status | Last changed | Evidence |
 |---:|---|---|---|---|---|---:|---|---|---|
-| 1 | Haaland | FWD | MCI | Franchise | S | 411 | Available | 2026-08-01T17:38:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] |
-| 2 | B.Fernandes | MID | MUN | Franchise | S | 426 | Available | 2026-08-01T17:38:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] |
-| 3 | Saka | MID | ARS | Franchise | A+ | 12 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 4 | Isak | FWD | LIV | Franchise | A+ | 379 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 5 | Thiago | FWD | BRE | Franchise | A+ | 106 | Available | 2026-08-01T17:38:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] |
-| 6 | Palmer | MID | CHE | Franchise | A+ | 154 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 7 | Watkins | FWD | AVL | Franchise | A+ | 55 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 8 | Gabriel | DEF | ARS | Franchise | A+ | 4 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 9 | Gibbs-White | MID | NFO | Foundation | A | 480 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 10 | João Pedro | FWD | CHE | Foundation | A | 165 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 11 | Mbeumo | MID | MUN | Foundation | A | 427 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 12 | Cunha | MID | MUN | Foundation | A | 428 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 13 | Semenyo | MID | MCI | Foundation | A | 397 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 14 | Gyökeres | FWD | ARS | Foundation | A | 25 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 15 | Wirtz | MID | LIV | Foundation | A | 366 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 16 | Rogers | MID | CHE | Foundation | A | 40 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 1 | Haaland | FWD | MCI | Franchise | S | 411 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 2 | B.Fernandes | MID | MUN | Franchise | S | 426 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 3 | Saka | MID | ARS | Franchise | A+ | 12 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 4 | Isak | FWD | LIV | Franchise | A+ | 379 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 5 | Palmer | MID | CHE | Franchise | A+ | 154 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 6 | Thiago | FWD | BRE | Franchise | A+ | 106 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 7 | Watkins | FWD | AVL | Franchise | A+ | 55 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 8 | Gabriel | DEF | ARS | Franchise | A+ | 4 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 9 | Gyökeres | FWD | ARS | Foundation | A | 25 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 10 | Mbeumo | MID | MUN | Foundation | A | 427 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 11 | João Pedro | FWD | CHE | Foundation | A | 165 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 12 | Cunha | MID | MUN | Foundation | A | 428 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 13 | Wirtz | MID | LIV | Foundation | A | 366 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 14 | Semenyo | MID | MCI | Foundation | A | 397 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 15 | Gibbs-White | MID | NFO | Foundation | A | 480 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
+| 16 | Rogers | MID | CHE | Foundation | A | 40 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
 | 17 | Bruno G. | MID | NEW | Foundation | B+ | 452 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 18 | Virgil | DEF | LIV | Foundation | B+ | 356 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 19 | Rice | MID | ARS | Foundation | B+ | 13 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |

@@ -7,27 +7,30 @@ position: "[[04 Positions/Forward]]"
 api_status: available
 current_rank: 1
 current_segment: Franchise
-last_reviewed: 2026-08-01T18:48:00+10:00
+last_reviewed: 2026-08-01T22:07:00+10:00
 ---
 
 # Erling Haaland
 
 ## Current assessment
 
-The clearest first overall selection: elite ceiling, secure central role, 239 points from 27 goals and eight assists in 2025/26, and a history of fast FPL starts.
+Elite 239-point baseline, clearest central role and highest ceiling.
 
-## Risks
+## Pairwise placement
 
-- Normal injury risk attached to a premium forward.
-- Manchester City tactical change, but substantially less minutes uncertainty than their other attackers.
+- Compared with: **B.Fernandes**.
+- Decision: Haaland projects for more goals and has the scarcer elite-forward profile.
+- Confidence: medium-high.
+- Reversal trigger: material injury, role, penalty or expected-minutes evidence that changes the comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 17:38 AEST — Initial rank 1.
-- 2026-08-01 18:48 AEST — Retained rank 1 after top-80 correction.
-- [Premier League key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
+- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 1 in the first-16 block.
+- [Primary evidence](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
+- [Official FPL player pool](https://fantasy.premierleague.com/api/bootstrap-static/)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
+- [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
