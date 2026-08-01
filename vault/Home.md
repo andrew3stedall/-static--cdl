@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-01T18:48:00+10:00
+last_updated: 2026-08-01T20:00:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -43,6 +43,11 @@ last_updated: 2026-08-01T18:48:00+10:00
 - [[09 Data/FPL API|FPL API]]
 
 ## Latest run
+
+- [[06 Reviews/2026/08/2026-08-01/2000-AEST-review|2026-08-01 20:00 AEST review]] — no material change after the top-80 correction.
+- [[07 Changes/2026/08/2026-08-01/2000-AEST-changes|2026-08-01 20:00 AEST changes]]
+
+## Latest material ranking change
 
 - [[06 Reviews/2026/08/2026-08-01/1848-AEST-review|Second review — top-80 correction]]
 - [[07 Changes/2026/08/2026-08-01/1848-AEST-changes|Changes since the first board]]

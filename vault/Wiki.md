@@ -1,8 +1,8 @@
 ---
 type: wiki
-last_updated: 2026-08-01T18:48:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]"
+last_updated: 2026-08-01T20:00:00+10:00
+latest_review: "[[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
@@ -19,13 +19,18 @@ This is the navigational summary of the project. It records durable conclusions 
 
 ## Current state
 
-The official-ID-linked board now contains a manually corrected top 80. The second review found that the initial external ordering was explicitly based on 2025/26 real points until live August rankings were available. That baseline was useful for completeness but not adequate as a 2026/27 draft sequence.
+The official-ID-linked board now contains a manually corrected top 80. The 18:48 AEST review found that the initial external ordering was overly dependent on 2025/26 real points and replaced it with a current-role, minutes, injury, transfer, preseason and scarcity-based ordering.
+
+The 20:00 AEST review subsequently found no sufficiently strong new evidence to change that corrected order. It is therefore the latest completed evidence scan, while the 18:48 review remains the latest material ranking change.
 
 See:
 
 - [[01 Current/Current Draft Board]]
+- [[01 Current/Current Watchlist]]
 - [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]
 
 API reconciliation at 2026-08-01T18:48:00+10:00 found 564 players, 20 teams and 380 fixtures with no missing reviewed IDs. See [[09 Data/2026-08-01-1848-official-api-snapshot]].
 
@@ -52,6 +57,7 @@ API reconciliation at 2026-08-01T18:48:00+10:00 found 564 players, 20 teams and 
 - Goalkeepers can usually be delayed; the first goalkeeper is currently rank 73.
 - Manchester City and Chelsea attacking assets require significant rotation discounts outside their clearest anchors.
 - Ranks 81–160 remain the next major quality gap.
+- The 1 August preseason fixture slate is a next evidence trigger; fixture participation or raw output alone is not accepted as proof of role.
 
 ## Method
 
@@ -100,3 +106,5 @@ Current source preferences remain:
 - [[05 Sources/Official FPL Expert Panel]]
 - [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]
