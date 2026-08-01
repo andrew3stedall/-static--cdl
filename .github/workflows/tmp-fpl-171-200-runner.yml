@@ -1,0 +1,29 @@
+name: Temporary FPL 171-200 runner
+on:
+  push:
+    branches:
+      - codex/fpl-review-20260802-0841-ranks171-200
+    paths:
+      - .github/workflows/tmp-fpl-171-200-runner.yml
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-0841-ranks171-200
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fpl_block_171_200.py
+      - run: |
+          rm scripts/fpl_block_171_200.py .github/workflows/tmp-fpl-171-200-runner.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Complete ranks 171-200 pairwise review"
+          git push origin HEAD:codex/fpl-review-20260802-0841-ranks171-200
+# trigger 2026-08-02T08:41:00+10:00
