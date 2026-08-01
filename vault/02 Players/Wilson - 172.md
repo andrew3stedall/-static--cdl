@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 130
-player_name: Wieffer
-team: "[[03 Teams/BHA]]"
-position: "[[04 Positions/Defender]]"
+fpl_id: 172
+player_name: Wilson
+team: "[[03 Teams/COV]]"
+position: "[[04 Positions/Goalkeeper]]"
 api_status: Available
-current_rank: 119
-current_segment: Depth
+current_rank: 132
+current_segment: Endgame
 last_reviewed: 2026-08-02T08:30:00+10:00
 ---
 
-# Wieffer
+# Wilson
 
 ## Current assessment
 
-Ranked 119 after the ranks 111–140 review with challengers 106–145.
+Ranked 132 after the ranks 111–140 review with challengers 106–145.
 
 ## Pairwise placement
 
-- Compared with: **Hincapie**.
+- Compared with: **Kinsky**.
 - Decision: Higher expected season points and/or safer usable minutes.
 - Confidence: medium.
 - Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
 
 ## Evidence timeline
 
-- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 119.
+- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 132.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)

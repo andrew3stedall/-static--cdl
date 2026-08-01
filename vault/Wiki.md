@@ -1,6 +1,6 @@
 ---
 type: wiki
-last_updated: 2026-08-02T08:15:00+10:00
+last_updated: 2026-08-02T08:30:00+10:00
 latest_review: "[[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]"
 latest_changes: "[[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]"
 ---
@@ -120,3 +120,10 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 - [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
 - Next block: 111–140 with challengers 106–145.
+
+
+## 2026-08-02 08:30 AEST — ranks 111–140
+
+- Review: [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
+- Beto, Nicolas Jackson, Brobbey, Scott and attacking full-backs rose; Ekitiké and Garner remain injury-discounted.

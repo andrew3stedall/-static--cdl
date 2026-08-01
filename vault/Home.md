@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-02T08:15:00+10:00
+last_updated: 2026-08-02T08:30:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -72,3 +72,10 @@ last_updated: 2026-08-02T08:15:00+10:00
 - Changes: [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
 - Challenger range: 76–115.
 - Havertz, Rayan, Dorgu, Aina and Tete crossed above the prior goalkeeper run.
+
+
+## 2026-08-02 08:30 AEST — ranks 111–140
+
+- Review: [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
+- Beto, Nicolas Jackson, Brobbey, Scott and attacking full-backs rose; Ekitiké and Garner remain injury-discounted.

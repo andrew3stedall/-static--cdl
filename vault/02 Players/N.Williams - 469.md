@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 130
-player_name: Wieffer
-team: "[[03 Teams/BHA]]"
+fpl_id: 469
+player_name: N.Williams
+team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 119
+current_rank: 121
 current_segment: Depth
 last_reviewed: 2026-08-02T08:30:00+10:00
 ---
 
-# Wieffer
+# N.Williams
 
 ## Current assessment
 
-Ranked 119 after the ranks 111–140 review with challengers 106–145.
+Ranked 121 after the ranks 111–140 review with challengers 106–145.
 
 ## Pairwise placement
 
-- Compared with: **Hincapie**.
+- Compared with: **Bassey**.
 - Decision: Higher expected season points and/or safer usable minutes.
 - Confidence: medium.
 - Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
 
 ## Evidence timeline
 
-- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 119.
+- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 121.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
