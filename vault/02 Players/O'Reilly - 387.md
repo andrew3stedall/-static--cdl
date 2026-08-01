@@ -5,33 +5,28 @@ player_name: O'Reilly
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 66
-current_segment: Core
-last_reviewed: 2026-08-01T23:00:00+10:00
+current_rank: 81
+current_segment: Depth
+last_reviewed: 2026-08-01T23:08:00+10:00
 ---
 
 # O'Reilly
 
-## Current assessment
-
-Ranked 66 after the ranks 49–64 pairwise review. Expected season points were assessed before scarcity, then minutes, role, set pieces, injury and rotation risk.
-
 ## Pairwise placement
 
-- Compared with: **Ampadu**.
-- Decision: O’Reilly has the higher ceiling; Ampadu has the safer floor.
+- Compared with: **Matheus N.**
+- Decision: Higher attacking upside, but unresolved minutes risk removes him from the top 80.
 - Confidence: low.
-- Reversal trigger: confirmed starting role, fitness, penalties or material transfer evidence that changes the direct comparison.
+- Reversal trigger: confirmed regular starts materially improve the ranking.
 
 ## Evidence timeline
 
-- 2026-08-01 23:00 AEST — Pairwise-reviewed and placed at rank 66.
+- 2026-08-01 23:00 AEST — Ranked 66.
+- 2026-08-01 23:08 AEST — Moved to rank 81.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League fixture difficulty](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2300-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
