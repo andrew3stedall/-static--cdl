@@ -1,8 +1,8 @@
 ---
 type: wiki
-last_updated: 2026-08-01T23:08:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]"
+last_updated: 2026-08-02T08:00:00+10:00
+latest_review: "[[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-02/0800-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
@@ -19,16 +19,16 @@ This is the navigational summary of the project. It records durable conclusions 
 
 ## Current state
 
-The first 80 players have now completed an explicit manual pairwise pass across five bounded blocks. Each player was compared against immediate neighbours and plausible adjacent-block challengers. Raw expected season points were assessed first, with expected minutes, role, set pieces, injury and rotation risk, floor and ceiling following. Positional replacement value was used only for close cross-position decisions.
+The first 80 players have completed an explicit manual pairwise pass across five bounded blocks. The 2 August 08:00 AEST review rechecked the highest-risk top-80 comparators after the overnight API, transfer, injury and preseason scan and found no evidence strong enough to change a rank, tier or segment.
+
+The 1 August friendly slate is the main immediate trigger, but match participation and raw output are not accepted without probable-first-team context, position, minutes, set pieces or manager explanation.
 
 See:
 
 - [[01 Current/Current Draft Board]]
 - [[01 Current/Current Watchlist]]
-- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
-
-API reconciliation in the latest block preserved the official FPL IDs, teams, positions and availability labels of all assessed players.
+- [[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0800-AEST-changes]]
 
 ## Current top tier
 
@@ -46,15 +46,15 @@ API reconciliation in the latest block preserved the official FPL IDs, teams, po
 ## Durable conclusions
 
 - Haaland and Bruno Fernandes remain the two clearest anchors.
-- Saka, Isak and Palmer were materially understated by the original historical-points baseline.
-- Gabriel remains a first-round defender, but no longer automatically outranks elite healthy attackers.
 - Forward scarcity is the strongest positional pressure.
 - Elite attacking midfield roles are not replaceable merely because midfield has greater numerical depth.
-- Goalkeepers can usually be delayed; Raya is now the first goalkeeper at rank 76.
+- Gabriel remains a first-round defender, but ordinary centre-backs remain replaceable.
+- Goalkeepers can usually be delayed; Raya is first at rank 76.
 - Manchester City and Chelsea assets require significant rotation discounts outside their clearest anchors.
-- Mitoma is rank 65 on ceiling but retains an explicit hamstring-injury discount.
-- Xhaka and Iwobi lead the final block's midfield floor; O'Reilly falls outside the top 80 on minutes uncertainty.
+- Mitoma remains rank 65 on ceiling with an explicit unknown-return hamstring discount.
+- Kelleher remains at 80 above O'Reilly because role security currently outweighs uncertain outfield minutes.
 - Ranks 81–160 remain the next major quality gap.
+- No movement should be manufactured merely because a preseason match occurred.
 
 ## Completed pairwise blocks
 
@@ -64,28 +64,44 @@ API reconciliation in the latest block preserved the official FPL IDs, teams, po
 - Ranks 49–64: [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
 - Ranks 65–80: [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
 
+## Latest retained comparisons
+
+- Šeško over Welbeck: ceiling and forward scarcity, with low confidence due to injury uncertainty.
+- Kudus over Barnes: broader healthy ceiling, with low confidence due to fitness and role uncertainty.
+- Mitoma over Xhaka: higher attacking expected-points ceiling, explicitly injury-discounted.
+- Saliba over Timber: stronger established defensive floor, with both availability risks retained.
+- Raya over Pickford: stronger clean-sheet ceiling.
+- Kelleher over O'Reilly: secure goalkeeper minutes over uncertain Manchester City defender minutes.
+
 ## Method
 
 1. Reconcile the official [[09 Data/FPL API|FPL API]] player pool.
-2. Check whether secondary rankings are true projections or merely historical tables.
+2. Separate confirmed facts, credible reports and inference.
 3. Collect post-level evidence from official accounts, club reporters, tactical analysts, fixture specialists and informed supporters.
 4. Evaluate preseason and transfers separately before combining them into expected minutes and role.
 5. Compare players directly using expected points first and draft replacement value second.
 6. Rank at least 220 players with positional scarcity and replacement level considered.
 7. Publish an immutable full review and changes record.
-8. Update affected player, team, position and source notes.
+8. Update affected current-state and entity documents.
 
 See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 
 ## Active uncertainties
 
 - Ranks 81–160 have not received the same pairwise review as the top 80.
+- Role-level reports from the 1 August friendlies are incomplete.
 - Manchester City and Chelsea attacking and defensive hierarchies are unsettled.
 - Isak fitness, penalties and Liverpool's final attacking structure require confirmation.
-- Saliba and Timber retain injury-sensitive rankings.
-- Mitoma has an official unknown-return hamstring flag.
+- Šeško, Kudus, Mitoma, Saliba and Timber retain injury-sensitive rankings.
 - Several goalkeeper starting hierarchies need club-specific verification.
-- Public X indexing cannot expose a complete following graph; coverage expands iteratively.
+- Public X indexing cannot expose a complete overnight source graph.
+
+## Next triggers
+
+- Liverpool v Leeds and Sunderland v Wrexham on 2 August.
+- Verified positions, minutes and set pieces from the 1 August friendlies.
+- Direct manager comments and club medical updates.
+- Official transfers or high-confidence advanced reports with direct minutes consequences.
 
 ## Key navigation
 
@@ -94,5 +110,5 @@ See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 - [[04 Positions/2026-27 Top-80 Correction]]
 - [[05 Sources/X Source Graph]]
 - [[05 Sources/Official FPL Expert Panel]]
-- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0800-AEST-changes]]
