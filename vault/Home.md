@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-01T12:54:00+10:00
+last_updated: 2026-08-01T17:38:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -14,6 +14,8 @@ last_updated: 2026-08-01T12:54:00+10:00
 
 - [[Wiki]]
 - [[08 Strategy/Draft Strategy|Draft Strategy]]
+- [[04 Positions/2026-27 Initial Scarcity|Initial positional scarcity]]
+- [[05 Sources/X Source Graph|X source graph]]
 - [[02 Players/README|Players]]
 - [[03 Teams/README|Teams]]
 - [[04 Positions/README|Positions]]
@@ -34,5 +36,6 @@ last_updated: 2026-08-01T12:54:00+10:00
 
 ## Latest run
 
-- [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation|Repository foundation review]]
-- [[07 Changes/2026/08/2026-08-01/1254-AEST-foundation-changes|Repository foundation changes]]
+- [[06 Reviews/2026/08/2026-08-01/1738-AEST-review|First 2026/27 FPL Draft review]]
+- [[07 Changes/2026/08/2026-08-01/1738-AEST-changes|First board changes]]
+- [[09 Data/2026-08-01-official-api-snapshot|Official API snapshot]]
