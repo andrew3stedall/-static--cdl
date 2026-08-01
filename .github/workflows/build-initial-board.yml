@@ -1,0 +1,37 @@
+name: Build initial FPL draft board
+
+on:
+  push:
+    branches:
+      - codex/fpl-review-20260801-1738-initial-board
+    paths:
+      - scripts/build_initial_board.py
+      - .github/workflows/build-initial-board.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260801-1738-initial-board
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/build_initial_board.py
+      - name: Commit generated board and API snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "vault/01 Current/Current Draft Board.md" "vault/09 Data/2026-08-01-official-api-snapshot.json"
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Generate initial 2026-27 FPL draft board"
+            git push origin HEAD:codex/fpl-review-20260801-1738-initial-board
+          fi
