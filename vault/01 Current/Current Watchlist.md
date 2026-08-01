@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T08:00:00+10:00
+last_updated: 2026-08-02T08:15:00+10:00
 status: active
 ---
 
@@ -39,3 +39,13 @@ Resolved items should move into the appropriate dated changes record rather than
 - Exact transfer announcements or advanced reports with direct expected-minutes consequences.
 
 Evidence: [[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]; [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-summer-2026-friendlies-and-tours); [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/).
+
+## 2026-08-02 08:15 AEST — ranks 81–110 triggers
+
+- Arsenal: Havertz and Calafiori strongest-XI roles.
+- Manchester United: Dorgu deployment and Grealish fitness/role.
+- Manchester City: O'Reilly, Matheus Nunes and Rúben Dias defensive hierarchy.
+- Liverpool: Ekitiké Achilles recovery and Alisson role security.
+- Goalkeepers: opening-day hierarchy and late transfer movement.
+
+Evidence: [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).

@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-02T08:00:00+10:00
+last_updated: 2026-08-02T08:15:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -65,3 +65,10 @@ last_updated: 2026-08-02T08:00:00+10:00
 - Verified role-level reports from the 1 August preseason fixtures.
 - Liverpool v Leeds and Sunderland v Wrexham on 2 August.
 - Medical updates for Šeško, Kudus, Mitoma, Saliba and Timber.
+
+## 2026-08-02 08:15 AEST — ranks 81–110
+
+- Review: [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+- Challenger range: 76–115.
+- Havertz, Rayan, Dorgu, Aina and Tete crossed above the prior goalkeeper run.

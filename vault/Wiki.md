@@ -1,8 +1,8 @@
 ---
 type: wiki
-last_updated: 2026-08-02T08:00:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-02/0800-AEST-changes]]"
+last_updated: 2026-08-02T08:15:00+10:00
+latest_review: "[[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
@@ -112,3 +112,11 @@ See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 - [[05 Sources/Official FPL Expert Panel]]
 - [[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0800-AEST-changes]]
+
+## 2026-08-02 08:15 AEST — ranks 81–110
+
+The 81–110 block was manually pairwise-sorted with challengers from 76–115. Five outfield players crossed ahead of the goalkeeper run. Injury and rotation discounts remain decisive for Ekitiké, Grealish and Manchester City defenders.
+
+- [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+- Next block: 111–140 with challengers 106–145.
