@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-01T23:08:00+10:00
+last_updated: 2026-08-02T08:00:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -44,8 +44,8 @@ last_updated: 2026-08-01T23:08:00+10:00
 
 ## Latest run
 
-- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] — completed the first manual pairwise pass across ranks 1–80.
-- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0800-AEST-review]] — no material ranking change after the overnight API, transfer, injury and preseason scan.
+- [[07 Changes/2026/08/2026-08-02/0800-AEST-changes]]
 
 ## Latest material ranking change
 
@@ -59,3 +59,9 @@ last_updated: 2026-08-01T23:08:00+10:00
 - Ranks 33–48: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
 - Ranks 49–64: [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
 - Ranks 65–80: [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
+
+## Next evidence triggers
+
+- Verified role-level reports from the 1 August preseason fixtures.
+- Liverpool v Leeds and Sunderland v Wrexham on 2 August.
+- Medical updates for Šeško, Kudus, Mitoma, Saliba and Timber.
