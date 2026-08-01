@@ -1,12 +1,12 @@
 name: Temporary FPL 201-220 main runner
 on:
-  push:
-    paths:
-      - .github/workflows/tmp-fpl-201-220-main-runner.yml
+  pull_request:
+    types: [opened, synchronize, reopened]
 permissions:
   contents: write
 jobs:
   generate:
+    if: github.head_ref == 'codex/fpl-review-20260802-0848-ranks201-220'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,4 +24,3 @@ jobs:
           git add -A
           git commit -m "Complete ranks 201-220 pairwise review"
           git push origin HEAD:codex/fpl-review-20260802-0848-ranks201-220
-# trigger 2026-08-02T08:48:00+10:00
