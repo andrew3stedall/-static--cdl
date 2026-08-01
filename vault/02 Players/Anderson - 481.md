@@ -4,36 +4,34 @@ fpl_id: 481
 player_name: Anderson
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
-api_status: available
-current_rank: 49
+api_status: Available
+current_rank: 65
 current_segment: Core
-last_reviewed: 2026-08-01T22:54:00+10:00
+last_reviewed: 2026-08-01T23:00:00+10:00
 ---
 
 # Anderson
 
 ## Current assessment
 
-Manchester City upside is outweighed by unresolved role and rotation risk.
+Ranked 65 after the ranks 49–64 pairwise review. Expected season points were assessed before scarcity, then minutes, role, set pieces, injury and rotation risk.
 
 ## Pairwise placement
 
-- Compared with: **Van Hecke**.
-- Decision: Falls outside the block because minutes uncertainty overwhelms team strength.
+- Compared with: **O'Reilly**.
+- Decision: Anderson is preferred marginally on attacking upside, but both remain high-rotation risks.
 - Confidence: low.
-- Reversal trigger: Regular advanced starts are demonstrated.
+- Reversal trigger: confirmed starting role, fitness, penalties or material transfer evidence that changes the direct comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 49 in the ranks 33–48 review.
+- 2026-08-01 23:00 AEST — Pairwise-reviewed and placed at rank 65.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
-- [PL FDR](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
-- [FFScout preseason report](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
+- [Premier League fixture difficulty](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2300-AEST-changes]]

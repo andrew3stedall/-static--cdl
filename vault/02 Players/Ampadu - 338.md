@@ -4,36 +4,34 @@ fpl_id: 338
 player_name: Ampadu
 team: "[[03 Teams/LEE]]"
 position: "[[04 Positions/Midfielder]]"
-api_status: available
-current_rank: 52
+api_status: Available
+current_rank: 67
 current_segment: Core
-last_reviewed: 2026-08-01T22:54:00+10:00
+last_reviewed: 2026-08-01T23:00:00+10:00
 ---
 
 # Ampadu
 
 ## Current assessment
 
-Strong minutes floor but limited attacking ceiling leaves him outside the top 48.
+Ranked 67 after the ranks 49–64 pairwise review. Expected season points were assessed before scarcity, then minutes, role, set pieces, injury and rotation risk.
 
 ## Pairwise placement
 
-- Compared with: **Stach**.
-- Decision: Stach is preferred for slightly stronger attacking routes.
+- Compared with: **Chalobah**.
+- Decision: Ampadu has more reliable midfield minutes and a clearer baseline.
 - Confidence: medium.
-- Reversal trigger: Ampadu gains set pieces or a more advanced role.
+- Reversal trigger: confirmed starting role, fitness, penalties or material transfer evidence that changes the direct comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 52 in the ranks 33–48 review.
+- 2026-08-01 23:00 AEST — Pairwise-reviewed and placed at rank 67.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
-- [PL FDR](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
-- [FFScout preseason report](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
+- [Premier League fixture difficulty](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2300-AEST-changes]]

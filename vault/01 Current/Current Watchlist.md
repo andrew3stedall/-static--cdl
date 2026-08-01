@@ -39,3 +39,10 @@ Resolved items should move into the appropriate dated changes record rather than
 - Chelsea midfield deployment: Enzo.
 
 Evidence: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/).
+
+## 2026-08-01 23:00 AEST block triggers
+
+- Šeško — shin fitness and Manchester United striker hierarchy. [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- Kudus — thigh fitness and Tottenham role. [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- Neto / James — Chelsea starting and substitution patterns. [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
+- Anderson / O'Reilly — Manchester City first-team minutes. [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]
