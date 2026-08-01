@@ -5,27 +5,27 @@ player_name: Costinha
 team: "[[03 Teams/BHA]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 203
+current_rank: 215
 current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T08:41:00+10:00
+last_reviewed: 2026-08-02T08:48:00+10:00
 ---
 
 # Costinha
 
 ## Current assessment
 
-Ranked 203 after the ranks 171–200 pairwise review with challengers 166–205. Raw expected season points were assessed before positional scarcity.
+Ranked 215 after the final 201–220 pairwise review and full active API-pool screen. Raw expected points were assessed before positional scarcity.
 
 ## Pairwise placement
 
-- Immediate comparison: **Coppola / Igor**.
-- Decision: marginal preference over Igor.
-- Confidence: low.
-- Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
+- Immediate comparison: **Coppola / Disasi**.
+- Decision: placed after direct comparison of expected points, minutes, role, set pieces, injury/rotation risk and replacement value.
+- Confidence: low to medium; this range is outside the 160-player draft line.
+- Reversal trigger: confirmed first-team role, fitness, penalties, repeated strongest-XI minutes or completed transfer evidence.
 
 ## Evidence timeline
 
-- 2026-08-02 08:41 AEST — moved from rank 179 to 203 in the stable pairwise pass.
+- 2026-08-02 08:48 AEST — ranked 203 → 215 in the stable pairwise pass.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
@@ -33,5 +33,5 @@ Ranked 203 after the ranks 171–200 pairwise review with challengers 166–205.
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0841-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]]
