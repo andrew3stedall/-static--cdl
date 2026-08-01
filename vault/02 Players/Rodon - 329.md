@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 239
-player_name: Garner
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Midfielder]]"
-api_status: "Groin injury - Expected back 22 Aug"
-current_rank: 149
-current_segment: Endgame
+fpl_id: 329
+player_name: Rodon
+team: "[[03 Teams/LEE]]"
+position: "[[04 Positions/Defender]]"
+api_status: "Available"
+current_rank: 162
+current_segment: Undrafted buffer
 last_reviewed: 2026-08-02T08:37:00+10:00
 ---
 
-# Garner
+# Rodon
 
 ## Current assessment
 
-Ranked 149 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
+Ranked 162 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
 
 ## Pairwise placement
 
-- Immediate comparison: **Bentancur / Ayari**.
-- Decision: Garner is placed below Bentancur and above Ayari after expected points, minutes, role and risk were compared.
-- Confidence: low.
+- Immediate comparison: **O'Brien / Murillo**.
+- Decision: Rodon is placed below O'Brien and above Murillo after expected points, minutes, role and risk were compared.
+- Confidence: medium.
 - Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
 
 ## Evidence timeline
 
-- 2026-08-02 08:37 AEST — moved from rank 145 to 149 in the stable pairwise pass.
+- 2026-08-02 08:37 AEST — moved from rank 168 to 162 in the stable pairwise pass.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)

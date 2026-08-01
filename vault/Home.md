@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-02T08:30:00+10:00
+last_updated: 2026-08-02T08:37:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -79,3 +79,10 @@ last_updated: 2026-08-02T08:30:00+10:00
 - Review: [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
 - Beto, Nicolas Jackson, Brobbey, Scott and attacking full-backs rose; Ekitiké and Garner remain injury-discounted.
+
+
+## 2026-08-02 08:37 AEST — ranks 141–170
+
+- Review: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
+- The first 170 ranks now have a manual pairwise pass; next block is 171–200 with challengers 166–205.

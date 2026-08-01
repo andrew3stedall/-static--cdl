@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 239
-player_name: Garner
-team: "[[03 Teams/EVE]]"
+fpl_id: 404
+player_name: Reijnders
+team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
-api_status: "Groin injury - Expected back 22 Aug"
-current_rank: 149
+api_status: "Available"
+current_rank: 139
 current_segment: Endgame
 last_reviewed: 2026-08-02T08:37:00+10:00
 ---
 
-# Garner
+# Reijnders
 
 ## Current assessment
 
-Ranked 149 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
+Ranked 139 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
 
 ## Pairwise placement
 
-- Immediate comparison: **Bentancur / Ayari**.
-- Decision: Garner is placed below Bentancur and above Ayari after expected points, minutes, role and risk were compared.
+- Immediate comparison: **Georginio / Digne**.
+- Decision: Reijnders is placed below Georginio and above Digne after expected points, minutes, role and risk were compared.
 - Confidence: low.
 - Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
 
 ## Evidence timeline
 
-- 2026-08-02 08:37 AEST — moved from rank 145 to 149 in the stable pairwise pass.
+- 2026-08-02 08:37 AEST — moved from rank 147 to 139 in the stable pairwise pass.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
