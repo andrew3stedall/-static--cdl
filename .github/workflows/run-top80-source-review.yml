@@ -30,6 +30,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- \
             "vault/01 Current/Current Draft Board.md" \
+            "vault/09 Data/2026-08-01-1738-board-baseline.json" \
             "vault/09 Data/2026-08-01-1848-official-api-snapshot.json" \
             "vault/09 Data/2026-08-01-1848-top80-movements.json"
           if git diff --cached --quiet; then
