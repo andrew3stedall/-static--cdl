@@ -1,0 +1,15 @@
+{
+  "retrieved_at": "2026-08-01T18:48:00+10:00",
+  "baseline_reviewed_at": "2026-08-01T17:38:00+10:00",
+  "bootstrap_url": "https://fantasy.premierleague.com/api/bootstrap-static/",
+  "fixtures_url": "https://fantasy.premierleague.com/api/fixtures/",
+  "bootstrap_etag": null,
+  "fixtures_etag": null,
+  "players": 564,
+  "teams": 20,
+  "fixtures": 380,
+  "baseline_rows": 220,
+  "published_rows": 220,
+  "reviewed_top_rows": 80,
+  "missing_reviewed_ids": []
+}
