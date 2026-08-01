@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T08:37:00+10:00
+last_updated: 2026-08-02T08:41:00+10:00
 status: active
 ---
 
@@ -69,3 +69,10 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]].
 - Tsimikas — Liverpool full-back role and set-piece share.
 
 Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).
+
+## Ranks 171–200 review triggers — 2026-08-02 08:41 AEST
+
+- Tzimas, Wharton and Kamara: require direct fitness confirmation.
+- Kalimuendo, Nmecha, Hirst, Simms, Wilson, Rodríguez, Wright, McBurnie and Isidor: monitor repeated first-team centre-forward minutes.
+- Vitor Reis and the Chelsea centre-backs: require a stable strongest-XI hierarchy.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Official fixtures](https://fantasy.premierleague.com/api/fixtures/); [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).

@@ -1,6 +1,6 @@
 ---
 type: wiki
-last_updated: 2026-08-02T08:37:00+10:00
+last_updated: 2026-08-02T08:41:00+10:00
 latest_review: "[[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]"
 latest_changes: "[[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]"
 ---
@@ -134,3 +134,10 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 - Review: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
 - The first 170 ranks now have a manual pairwise pass; next block is 171–200 with challengers 166–205.
+
+## Latest review — 2026-08-02 08:41 AEST
+
+- Completed ranks 171–200 with challengers 166–205.
+- Latest review: [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]
+- Latest changes: [[07 Changes/2026/08/2026-08-02/0841-AEST-changes]]
+- Next: ranks 201–220 against the full active API pool and transfer/registration watchlist.
