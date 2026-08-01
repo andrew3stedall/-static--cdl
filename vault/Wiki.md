@@ -1,8 +1,8 @@
 ---
 type: wiki
-last_updated: 2026-08-01T17:38:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-01/1738-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-01/1738-AEST-changes]]"
+last_updated: 2026-08-01T18:48:00+10:00
+latest_review: "[[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
@@ -19,50 +19,75 @@ This is the navigational summary of the project. It records durable conclusions 
 
 ## Current state
 
-The first official-API-linked top-220 board has been produced. It is a provisional scarcity baseline, not a mature expert consensus. See [[01 Current/Current Draft Board]].
+The official-ID-linked board now contains a manually corrected top 80. The second review found that the initial external ordering was explicitly based on 2025/26 real points until live August rankings were available. That baseline was useful for completeness but not adequate as a 2026/27 draft sequence.
 
-API reconciliation at 2026-08-01T17:38:00+10:00 found 564 players, 20 teams and 380 fixtures, with all 240 external ranking rows mapped to official FPL IDs. See [[09 Data/2026-08-01-official-api-snapshot]].
+See:
 
-## Current high-level conclusions
+- [[01 Current/Current Draft Board]]
+- [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]
 
-- Haaland is the clearest first overall selection.
-- Bruno Fernandes is the clearest midfield anchor.
-- Forward scarcity is meaningful, but uncertain starters must not be promoted solely because of position.
-- Goalkeeper depth is sufficient to demote likely backups outside the drafted 160.
-- Defensive-contribution scoring may make elite defenders more valuable, but the external model appears to overstate some defender and low-ceiling midfielder ranks.
-- Manchester City and Chelsea attacking assets require strong rotation discounts until roles stabilise.
-- The top 80 now require manual review using club-local and tactical evidence.
+API reconciliation at 2026-08-01T18:48:00+10:00 found 564 players, 20 teams and 380 fixtures with no missing reviewed IDs. See [[09 Data/2026-08-01-1848-official-api-snapshot]].
+
+## Current top tier
+
+| Rank | Player | Position | Team |
+|---:|---|---|---|
+| 1 | [[02 Players/Haaland - 411]] | [[04 Positions/Forward]] | [[03 Teams/MCI]] |
+| 2 | [[02 Players/B.Fernandes - 426]] | [[04 Positions/Midfielder]] | [[03 Teams/MUN]] |
+| 3 | [[02 Players/Saka - 12]] | [[04 Positions/Midfielder]] | [[03 Teams/ARS]] |
+| 4 | [[02 Players/Isak - 379]] | [[04 Positions/Forward]] | [[03 Teams/LIV]] |
+| 5 | [[02 Players/Thiago - 106]] | [[04 Positions/Forward]] | [[03 Teams/BRE]] |
+| 6 | [[02 Players/Palmer - 154]] | [[04 Positions/Midfielder]] | [[03 Teams/CHE]] |
+| 7 | Watkins | [[04 Positions/Forward]] | Aston Villa |
+| 8 | [[02 Players/Gabriel - 4]] | [[04 Positions/Defender]] | [[03 Teams/ARS]] |
+
+## Durable conclusions
+
+- Haaland and Bruno Fernandes remain the two clearest anchors.
+- Saka, Isak and Palmer were materially understated by a prior-season points baseline.
+- Gabriel remains a first-round defender, but no longer automatically outranks elite healthy attackers.
+- Forward scarcity is the strongest positional pressure.
+- Elite attacking midfield roles are not replaceable merely because midfield has greater numerical depth.
+- Goalkeepers can usually be delayed; the first goalkeeper is currently rank 73.
+- Manchester City and Chelsea attacking assets require significant rotation discounts outside their clearest anchors.
+- Ranks 81–160 remain the next major quality gap.
 
 ## Method
 
 1. Reconcile the official [[09 Data/FPL API|FPL API]] player pool.
-2. Collect post-level evidence from official accounts, club reporters, tactical analysts, fixture specialists and informed supporters.
-3. Expand the [[05 Sources/X Source Graph]] through accounts cited, mentioned, interviewed or amplified by trusted seeds.
-4. Evaluate preseason and transfers separately before combining them into expected minutes and role.
-5. Rank at least 220 players with positional scarcity and replacement level considered.
-6. Publish an immutable full review and changes record.
-7. Update affected player, team, position and source notes.
+2. Check whether secondary rankings are true projections or merely historical tables.
+3. Collect post-level evidence from official accounts, club reporters, tactical analysts, fixture specialists and informed supporters.
+4. Expand the [[05 Sources/X Source Graph]] through accounts followed, cited, mentioned, interviewed or amplified by trusted seeds.
+5. Evaluate preseason and transfers separately before combining them into expected minutes and role.
+6. Rank at least 220 players with positional scarcity and replacement level considered.
+7. Publish an immutable full review and changes record.
+8. Update affected player, team, position and source notes.
 
 See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 
-## Current research preferences
+## Source network
 
-- James from Planet FPL is a preferred tactical source.
-- Fixture prediction specialists such as Ben Crellin are highly valued for schedule mechanics.
-- Sam Martin and other concise information accounts are useful where the underlying fact can be isolated.
-- Big Man Bakar may be used as an information source, but long-form analysis should be distilled to the underlying fact.
-- Fabrizio Romano is monitored for transfer probability and squad knock-on effects.
-- Club and fan accounts may supply valuable role information when properly attributed and corroborated.
-- A trusted account's following list is a discovery mechanism, not an endorsement list.
+The second review added an official-curated expert network through [[05 Sources/Official FPL Expert Panel]], including Pras, Zophar, FPL Family, Lateriser, FPL BlackBox, FC Crabdogg, FFScout Tom and The FPL Wire.
+
+Current source preferences remain:
+
+- James Linden and Planet FPL for broad tactical understanding and club-correspondent discovery.
+- Ben Crellin for fixture mechanics.
+- Fabrizio Romano for confidence-weighted transfer changes.
+- Official club and Premier League material for facts, direct comments and game metadata.
+- Draft-specific communities such as FML FPL as counterpoints rather than authorities.
+- Following lists as discovery mechanisms, not endorsement lists.
 
 ## Active uncertainties
 
-- Exact top-80 order remains low-to-medium confidence.
+- Ranks 81–160 have not received the same manual correction as the top 80.
 - Manchester City and Chelsea attacking hierarchies are unsettled.
-- Several goalkeeper starting hierarchies need club-specific verification.
+- Isak fitness, penalties and Liverpool's final attacking structure require confirmation.
+- Arsenal defender injuries and attacking set-piece distribution remain fluid.
 - Kroupi is recovering from foot surgery.
-- Liverpool's midfield roles and centre-back availability remain fluid.
-- Arsenal defender injury flags require current medical confirmation.
+- Mitoma has an official unknown-return hamstring flag.
+- Several goalkeeper starting hierarchies need club-specific verification.
 - Public X indexing cannot expose a complete following graph; coverage expands iteratively.
 
 ## Key navigation
@@ -70,6 +95,8 @@ See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 - [[01 Current/Current Draft Board]]
 - [[01 Current/Current Watchlist]]
 - [[04 Positions/2026-27 Initial Scarcity]]
+- [[04 Positions/2026-27 Top-80 Correction]]
 - [[05 Sources/X Source Graph]]
-- [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/1738-AEST-changes]]
+- [[05 Sources/Official FPL Expert Panel]]
+- [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]
