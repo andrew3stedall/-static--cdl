@@ -4,13 +4,13 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 220
-last_updated: 2026-08-01T22:43:00+10:00
-status: ranks17_32_pairwise_sorted
+last_updated: 2026-08-01T22:54:00+10:00
+status: ranks33_48_pairwise_sorted
 ---
 
 # Current Draft Board
 
-This is the **only canonical current overall ordering**. The first 32 have now been stable-sorted in two explicit player-versus-player blocks. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
+This is the **only canonical current overall ordering**. The first 48 have now been stable-sorted in three explicit player-versus-player blocks. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
 
 ## Advised order
 
@@ -48,26 +48,26 @@ This is the **only canonical current overall ordering**. The first 32 have now b
 | 30 | Wilson | MID | LEE | Foundation | B+ | 260 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
 | 31 | Rice | MID | ARS | Foundation | B+ | 13 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
 | 32 | Virgil | DEF | LIV | Foundation | B+ | 356 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
-| 33 | Dewsbury-Hall | MID | EVE | Core | B | 236 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
-| 34 | Tarkowski | DEF | EVE | Core | B | 229 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
-| 35 | Enzo | MID | CHE | Core | B | 155 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
-| 36 | Anderson | MID | MCI | Core | B | 481 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
-| 37 | Richarlison | FWD | TOT | Core | B | 527 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 38 | Guéhi | DEF | MCI | Core | B | 388 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 39 | Gvardiol | DEF | MCI | Core | B | 391 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 40 | O'Reilly | DEF | MCI | Core | B | 387 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 41 | Senesi | DEF | TOT | Core | B | 498 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 42 | Van Hecke | DEF | TOT | Core | B | 112 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 43 | Cherki | MID | MCI | Core | B | 399 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 44 | Doku | MID | MCI | Core | B | 400 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 45 | Marmoush | FWD | MCI | Core | B | 401 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 46 | Fernandes | MID | TOT | Core | B | 525 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 47 | E.Le Fée | MID | SUN | Core | B | 542 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 48 | Ndiaye | MID | EVE | Core | B | 237 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 49 | Schade | MID | BRE | Core | B | 94 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 50 | Stach | MID | LEE | Core | B | 335 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 51 | Ampadu | MID | LEE | Core | B | 338 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 52 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 33 | Dewsbury-Hall | MID | EVE | Core | B | 236 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 45 | Tarkowski | DEF | EVE | Core | B | 229 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 44 | Enzo | MID | CHE | Core | B | 155 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 49 | Anderson | MID | MCI | Core | B- | 481 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 35 | Richarlison | FWD | TOT | Core | B | 527 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 41 | Guéhi | DEF | MCI | Core | B | 388 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 40 | Gvardiol | DEF | MCI | Core | B | 391 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 50 | O'Reilly | DEF | MCI | Core | B- | 387 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 47 | Senesi | DEF | TOT | Core | B | 498 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 48 | Van Hecke | DEF | TOT | Core | B | 112 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 36 | Cherki | MID | MCI | Core | B | 399 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 42 | Doku | MID | MCI | Core | B | 400 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 37 | Marmoush | FWD | MCI | Core | B | 401 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 46 | Fernandes | MID | TOT | Core | B | 525 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 43 | E.Le Fée | MID | SUN | Core | B | 542 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 38 | Ndiaye | MID | EVE | Core | B | 237 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 39 | Schade | MID | BRE | Core | B | 94 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 51 | Stach | MID | LEE | Core | B- | 335 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 52 | Ampadu | MID | LEE | Core | B- | 338 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 34 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 53 | Sarr | MID | CRY | Core | B | 208 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 54 | Welbeck | FWD | BHA | Core | B | 136 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 55 | Minteh | MID | BHA | Core | B | 122 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |

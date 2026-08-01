@@ -59,3 +59,9 @@ last_updated: 2026-08-01T22:43:00+10:00
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
 - Ranks 17–32 completed by direct pairwise sorting; next block is 33–48.
+
+## 2026-08-01 22:54 AEST — ranks 33–48
+
+- Review: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
+- Solanke, Cherki, Marmoush, Ndiaye and Schade rose; Anderson, O'Reilly, Stach and Ampadu fell below 48.

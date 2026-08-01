@@ -5,31 +5,35 @@ player_name: Anderson
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 36
+current_rank: 49
 current_segment: Core
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-01T22:54:00+10:00
 ---
 
 # Anderson
 
 ## Current assessment
 
-Displaced after comparison with higher-upside challengers.
+Manchester City upside is outweighed by unresolved role and rotation risk.
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Enzo]]
-- Decision: Manchester City team strength is outweighed by substantial role and rotation uncertainty.
-- Confidence: Medium
-- Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.
+- Compared with: **Van Hecke**.
+- Decision: Falls outside the block because minutes uncertainty overwhelms team strength.
+- Confidence: low.
+- Reversal trigger: Regular advanced starts are demonstrated.
 
 ## Evidence timeline
 
-- 2026-08-01 22:43 AEST — Assessed in the ranks 17–32 stable pairwise block and placed at rank 36.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Official fixtures](https://fantasy.premierleague.com/api/fixtures/); [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy); [PL FDR](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season); [FFScout preseason report](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
+- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 49 in the ranks 33–48 review.
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+- [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
+- [PL FDR](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
+- [FFScout preseason report](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]

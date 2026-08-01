@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 236
-player_name: Dewsbury-Hall
+fpl_id: 237
+player_name: Ndiaye
 team: "[[03 Teams/EVE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 33
+current_rank: 38
 current_segment: Core
 last_reviewed: 2026-08-01T22:54:00+10:00
 ---
 
-# Dewsbury-Hall
+# Ndiaye
 
 ## Current assessment
 
-Everton advanced-role potential and probable secure minutes keep him above the more volatile attackers.
+Secure attacking minutes and possible penalties provide a strong floor in this range.
 
 ## Pairwise placement
 
-- Compared with: **Solanke**.
-- Decision: Dewsbury-Hall has the safer season-long minutes floor; Solanke has the higher forward scarcity upside.
+- Compared with: **Schade**.
+- Decision: Ndiaye has the safer role and set-piece routes.
 - Confidence: medium.
-- Reversal trigger: Solanke becomes a nailed, fit penalty-taking starter or Dewsbury-Hall loses the advanced role.
+- Reversal trigger: Schade becomes Brentford’s undisputed high-minute second scorer.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 33 in the ranks 33–48 review.
+- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 38 in the ranks 33–48 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)

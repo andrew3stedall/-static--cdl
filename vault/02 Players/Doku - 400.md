@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 236
-player_name: Dewsbury-Hall
-team: "[[03 Teams/EVE]]"
+fpl_id: 400
+player_name: Doku
+team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 33
+current_rank: 42
 current_segment: Core
 last_reviewed: 2026-08-01T22:54:00+10:00
 ---
 
-# Dewsbury-Hall
+# Doku
 
 ## Current assessment
 
-Everton advanced-role potential and probable secure minutes keep him above the more volatile attackers.
+Explosive points-per-start upside is discounted heavily for minutes volatility.
 
 ## Pairwise placement
 
-- Compared with: **Solanke**.
-- Decision: Dewsbury-Hall has the safer season-long minutes floor; Solanke has the higher forward scarcity upside.
-- Confidence: medium.
-- Reversal trigger: Solanke becomes a nailed, fit penalty-taking starter or Dewsbury-Hall loses the advanced role.
+- Compared with: **E.Le Fée**.
+- Decision: Doku’s ceiling narrowly beats Le Fée’s safer role.
+- Confidence: low.
+- Reversal trigger: Doku remains a bench option or Le Fée gains penalties.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 33 in the ranks 33–48 review.
+- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 42 in the ranks 33–48 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
