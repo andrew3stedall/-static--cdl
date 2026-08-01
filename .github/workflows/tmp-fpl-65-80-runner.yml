@@ -1,0 +1,36 @@
+name: Temporary FPL 65-80 runner
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-fpl-65-80-runner.yml
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260801-2308-ranks65-80
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fpl_block_65_80.py
+      - run: |
+          rm scripts/fpl_block_65_80.py .github/workflows/fpl-block-65-80.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Complete ranks 65-80 pairwise review"
+          git push origin HEAD:codex/fpl-review-20260801-2308-ranks65-80
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          rm .github/workflows/tmp-fpl-65-80-runner.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Remove temporary FPL review runner"
+          git push origin HEAD:main
