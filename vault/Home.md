@@ -100,3 +100,10 @@ last_updated: 2026-08-02T08:41:00+10:00
 - Final block: ranks 201–220, challenged against ranks 196–200 and the full active API pool.
 - Latest review: [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]].
 - Latest changes: [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]].
+
+## 2026-08-02 09:01 AEST
+
+- Revisited ranks 41–70 after Welbeck's confirmed Chelsea transfer invalidated the prior Brighton-minutes assumption.
+- Welbeck moved 52 → 86; all intervening players rose mechanically by one place.
+- Latest review: [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]].
+- Latest changes: [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]].

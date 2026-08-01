@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T08:48:00+10:00
+last_updated: 2026-08-02T09:01:00+10:00
 status: active
 ---
 
@@ -84,3 +84,12 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - Madueke, Buendía and Gallagher: monitor repeated strongest-XI role and set pieces.
 - Full API pool: promote any unranked player only on confirmed starting role, penalties, advanced transfer or repeated first-team minutes.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]].
+
+## 2026-08-02 09:01 AEST — transfer-driven revisit
+
+- Welbeck: official Chelsea confirmation, FPL registration, strongest-XI minutes and penalties. Current rank 86 after confirmed-transfer minutes downgrade.
+- Chelsea centre-forward hierarchy: Delap, João Pedro, Emegha and Welbeck require repeated probable-first-team evidence.
+- Brighton forward hierarchy: monitor who absorbs Welbeck's minutes.
+- António Silva: add only after stable FPL registration and a likely Bournemouth starting role.
+- Mamadou Sangare: establish FPL position and attacking relevance before considering entry.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]; [Reuters Welbeck](https://www.reuters.com/sports/soccer/chelsea-bring-35-year-old-striker-welbeck-from-brighton-2026-08-01/); [Reuters António Silva](https://www.reuters.com/sports/soccer/bournemouth-sign-portugal-centre-back-silva-benfica-2026-08-01/); [Reuters Sangare](https://www.reuters.com/sports/soccer/brentford-sign-sangare-lens-club-record-fee-2026-08-01/).

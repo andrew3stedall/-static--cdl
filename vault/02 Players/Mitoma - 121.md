@@ -1,25 +1,35 @@
 ---
 type: player
 fpl_id: 121
-player: Mitoma
-team: BHA
-position: MID
-current_rank: 65
-last_reviewed: 2026-08-01T23:08:00+10:00
+player_name: Mitoma
+team: "[[03 Teams/BHA]]"
+position: "[[04 Positions/Midfielder]]"
+api_status: "Hamstring injury - Unknown return date"
+current_rank: 64
+current_segment: Core
+last_reviewed: 2026-08-02T09:01:00+10:00
 ---
 
 # Mitoma
 
-## Current draft view
+## Current assessment
 
-- Rank: **65**
-- Status: Hamstring injury - Unknown return date
-- Compared with: **Xhaka**
-- Decision: Higher attacking ceiling wins, but the unresolved hamstring issue keeps confidence low.
-- Confidence: Low
-- Reversal trigger: a prolonged absence pushes him below the secure-minute midfielders and leading defenders.
+Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; rank changed only if Welbeck crossed this position.
 
-## Evidence
+## Pairwise placement
 
+- Immediate ordering remains Stach / Mitoma / Xhaka; no new player-specific evidence justified a separate move.
+- Confidence: medium.
+- Reversal trigger: confirmed role, injury, set-piece, transfer or repeated probable-first-team preseason evidence.
+
+## Evidence timeline
+
+- 2026-08-02 09:01 AEST — transfer-driven ranks 41–70 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+
+## Backlinks
+
+- [[01 Current/Current Draft Board]]
+- [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
