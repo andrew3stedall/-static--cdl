@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T09:01:00+10:00
+last_updated: 2026-08-02T09:04:00+10:00
 status: active
 ---
 
@@ -93,3 +93,9 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - António Silva: add only after stable FPL registration and a likely Bournemouth starting role.
 - Mamadou Sangare: establish FPL position and attacking relevance before considering entry.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]; [Reuters Welbeck](https://www.reuters.com/sports/soccer/chelsea-bring-35-year-old-striker-welbeck-from-brighton-2026-08-01/); [Reuters António Silva](https://www.reuters.com/sports/soccer/bournemouth-sign-portugal-centre-back-silva-benfica-2026-08-01/); [Reuters Sangare](https://www.reuters.com/sports/soccer/brentford-sign-sangare-lens-club-record-fee-2026-08-01/).
+
+## 2026-08-02 09:04 AEST — extended buffer
+
+- Added 20 API-active watch cases at ranks 221–240.
+- Promotion requires direct role evidence.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]].

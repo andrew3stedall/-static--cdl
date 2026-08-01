@@ -3,9 +3,9 @@ type: current_draft_board
 league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
-ranking_depth: 220
-last_updated: 2026-08-02T08:41:00+10:00
-status: ranks171_200_pairwise_sorted
+ranking_depth: 240
+last_updated: 2026-08-02T09:04:00+10:00
+status: ranks1_240_screened
 ---
 
 # Current Draft Board
@@ -236,6 +236,26 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 218 | Ji-soo | DEF | BRE | Undrafted buffer | Watch | 92 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
 | 219 | Svoboda | DEF | BHA | Undrafted buffer | Watch | 120 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
 | 220 | Vuskovic | DEF | BHA | Undrafted buffer | Watch | 504 | Available | 2026-08-02T08:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]] |
+| 221 | Kerkez | DEF | LIV | Extended watch buffer | Watch | 358 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 222 | Hall | DEF | NEW | Extended watch buffer | Watch | 449 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 223 | Konsa | DEF | AVL | Extended watch buffer | Watch | 31 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 224 | Spence | DEF | TOT | Extended watch buffer | Watch | 505 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 225 | Shaw | DEF | MUN | Extended watch buffer | Watch | 423 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 226 | Tonali | MID | TOT | Extended watch buffer | Watch | 455 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 227 | van Ewijk | DEF | COV | Extended watch buffer | Watch | 175 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 228 | Diop | DEF | IPS | Extended watch buffer | Watch | 259 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 229 | Mosquera | DEF | ARS | Extended watch buffer | Watch | 11 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 230 | Dubravka | GKP | TOT | Extended watch buffer | Watch | 497 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 231 | Yates | MID | NFO | Extended watch buffer | Watch | 489 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 232 | Hughes | MID | CRY | Extended watch buffer | Watch | 212 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 233 | Kusi-Asare | FWD | FUL | Extended watch buffer | Watch | 272 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 234 | Thomas | DEF | COV | Extended watch buffer | Watch | 173 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 235 | Palmer | GKP | IPS | Extended watch buffer | Watch | 301 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 236 | Petrović | GKP | BOU | Extended watch buffer | Watch | 57 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 237 | Leno | GKP | FUL | Extended watch buffer | Watch | 250 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 238 | Kayode | DEF | BRE | Extended watch buffer | Watch | 88 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 239 | Sánchez | GKP | CHE | Extended watch buffer | Watch | 140 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
+| 240 | Hume | DEF | SUN | Extended watch buffer | Watch | 534 | Available | 2026-08-02T09:04:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]] |
 ## Method cautions
 
 - Price and ownership do not drive the ordering, although official pricing and expert commentary are useful expectation signals.
