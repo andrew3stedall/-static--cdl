@@ -1,0 +1,27 @@
+name: Finalize FPL 65-80 changelog
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  finalize:
+    if: github.head_ref == 'codex/fpl-review-20260801-2308-ranks65-80' && github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260801-2308-ranks65-80
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/finalize_fpl_65_80_changelog.py
+      - run: |
+          rm scripts/finalize_fpl_65_80_changelog.py .github/workflows/finalize-fpl-65-80.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Finalize ranks 65-80 audit trail"
+          git push origin HEAD:codex/fpl-review-20260801-2308-ranks65-80
