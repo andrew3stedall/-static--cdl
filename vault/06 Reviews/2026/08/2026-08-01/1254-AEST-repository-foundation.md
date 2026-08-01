@@ -81,4 +81,4 @@ The repository now has a documented operating contract and empty canonical board
 
 ## Files changed
 
-See [[../../../00 Meta/Document Changelog]].
+See [[00 Meta/Document Changelog]].

@@ -33,4 +33,4 @@ Record important reviewed players who remained stable and why.
 
 ## Documents updated
 
-Cross-check against [[../../../00 Meta/Document Changelog]].
+Cross-check against [[00 Meta/Document Changelog]].

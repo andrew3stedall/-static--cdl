@@ -1,6 +1,6 @@
 ---
 type: changes
-review: "[[../../../../../06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]]"
+review: "[[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]]"
 timestamp: 2026-08-01T12:54:00+10:00
 material_ranking_change: false
 ---
@@ -40,4 +40,4 @@ None. The first evidence-based board is pending.
 
 ## Documents updated
 
-See [[../../../../../00 Meta/Document Changelog]].
+See [[00 Meta/Document Changelog]].

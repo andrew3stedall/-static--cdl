@@ -1,6 +1,6 @@
 ---
 type: changelog
-last_updated: 2026-08-01T12:54:00+10:00
+last_updated: 2026-08-01T13:02:00+10:00
 append_only: true
 ---
 
@@ -40,3 +40,13 @@ Every Markdown creation, update, correction or supersession is recorded separate
 | 2026-08-01T12:54:00+10:00 | `vault/07 Changes/2026/08/2026-08-01/1254-AEST-foundation-changes.md` | Created | Recorded all foundation changes and non-decisions. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | User instruction; [usage guidance](https://github.com/mattpocock/agent-rules-books/blob/main/docs/USAGE.md) |
 | 2026-08-01T12:54:00+10:00 | `vault/08 Strategy/Draft Strategy.md` | Created | Added initial draft-specific strategic constraints and segments. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | User requirements |
 | 2026-08-01T12:54:00+10:00 | `vault/09 Data/FPL API.md` | Created | Documented official API authority and stable identity rules. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | [FPL bootstrap endpoint](https://fantasy.premierleague.com/api/bootstrap-static/) |
+| 2026-08-01T13:02:00+10:00 | `vault/00 Meta/Templates/Review.md` | Corrected | Replaced invalid deep relative wikilinks with vault-root links. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/00 Meta/Templates/Changes.md` | Corrected | Replaced invalid deep relative changelog link with a vault-root link. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/02 Players/README.md` | Corrected | Standardised entity links as vault-root wikilinks. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/05 Sources/README.md` | Corrected | Standardised source-policy link as a vault-root wikilink. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/06 Reviews/README.md` | Corrected | Standardised template link as a vault-root wikilink. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation.md` | Corrected | Repaired changelog backlink. | Self | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/07 Changes/README.md` | Corrected | Standardised template link as a vault-root wikilink. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/07 Changes/2026/08/2026-08-01/1254-AEST-foundation-changes.md` | Corrected | Repaired review and changelog links. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/08 Strategy/Draft Strategy.md` | Corrected | Repaired canonical board link. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T13:02:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded each link correction in the append-only audit trail. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |

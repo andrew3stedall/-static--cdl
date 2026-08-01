@@ -34,4 +34,4 @@ Maximise expected season-long FPL Draft usefulness. Price, value and ownership a
 - Transfer, injury and preseason uncertainty should be priced explicitly rather than ignored.
 - The board should express an overall priority, while position notes preserve alternative roster-construction paths.
 
-This document records durable strategy. The current order remains only in [[../01 Current/Current Draft Board]].
+This document records durable strategy. The current order remains only in [[01 Current/Current Draft Board]].

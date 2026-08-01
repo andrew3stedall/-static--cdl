@@ -48,11 +48,11 @@ Record rejected hypotheses, weak signals and reasons no ranking change was made.
 
 ## Current board
 
-Link to [[../../../01 Current/Current Draft Board]].
+Link to [[01 Current/Current Draft Board]].
 
 ## Current watchlist
 
-Link to [[../../../01 Current/Current Watchlist]].
+Link to [[01 Current/Current Watchlist]].
 
 ## Uncertainties and next triggers
 
@@ -62,4 +62,4 @@ Use direct post or article links. Include retrieval timestamps.
 
 ## Files changed
 
-List every changed Markdown file; entries must also appear in [[../../../00 Meta/Document Changelog]].
+List every changed Markdown file; entries must also appear in [[00 Meta/Document Changelog]].
