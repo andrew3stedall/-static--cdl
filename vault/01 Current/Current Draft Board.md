@@ -69,7 +69,7 @@ This is the **only canonical current overall ordering**. The second review corre
 | 51 | Ampadu | MID | LEE | Core | B | 338 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 52 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 53 | Sarr | MID | CRY | Core | B | 208 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 54 | Mitoma | MID | BHA | Core | B | 121 | Hamstring injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 54 | Welbeck | FWD | BHA | Core | B | 136 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 55 | Minteh | MID | BHA | Core | B | 122 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 56 | Evanilson | FWD | BOU | Core | B | 79 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 57 | Šeško | FWD | MUN | Core | B | 439 | Shin injury - 75% chance of playing | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
@@ -96,14 +96,14 @@ This is the **only canonical current overall ordering**. The second review corre
 | 78 | Collins | DEF | BRE | Core | C+ | 84 | Available | 2026-08-01T17:38:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] |
 | 79 | Xhaka | MID | SUN | Core | C+ | 544 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 80 | Iwobi | MID | FUL | Core | C+ | 261 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 81 | Matheus N. | DEF | MCI | Depth | C+ | 389 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 82 | Lacroix | DEF | CHE | Depth | C+ | 200 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 83 | Rúben | DEF | MCI | Depth | C+ | 390 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 84 | Rayan | MID | BOU | Depth | C+ | 67 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 85 | Truffert | DEF | BOU | Depth | C+ | 61 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 86 | Ekitiké | FWD | LIV | Depth | C+ | 380 | Achilles injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 87 | Calafiori | DEF | ARS | Depth | C+ | 8 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 88 | Welbeck | FWD | BHA | Depth | C+ | 136 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 81 | Mitoma | MID | BHA | Depth | C+ | 121 | Hamstring injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 82 | Matheus N. | DEF | MCI | Depth | C+ | 389 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 83 | Lacroix | DEF | CHE | Depth | C+ | 200 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 84 | Rúben | DEF | MCI | Depth | C+ | 390 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 85 | Rayan | MID | BOU | Depth | C+ | 67 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 86 | Truffert | DEF | BOU | Depth | C+ | 61 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 87 | Ekitiké | FWD | LIV | Depth | C+ | 380 | Achilles injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 88 | Calafiori | DEF | ARS | Depth | C+ | 8 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 89 | Groß | MID | BHA | Depth | C+ | 124 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 90 | Ballard | DEF | SUN | Depth | C+ | 532 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 91 | Keane | DEF | EVE | Depth | C+ | 231 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
