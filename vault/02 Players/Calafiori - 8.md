@@ -1,40 +1,40 @@
 ---
 type: player
-fpl_id: 198
-player_name: Henderson
-team: "[[03 Teams/CRY]]"
-position: "[[04 Positions/Goalkeeper]]"
+fpl_id: 8
+player_name: Calafiori
+team: "[[03 Teams/ARS]]"
+position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 84
+current_rank: 87
 current_segment: Depth
 last_reviewed: 2026-08-02T08:15:00+10:00
 ---
 
-# Henderson
+# Calafiori
 
 ## Current assessment
 
-Ranked 84 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 198 remains active in the API pool.
+Ranked 87 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 8 remains active in the API pool.
 
 ## Direct comparison
 
-- Compared with: **Kelleher**.
-- Raw expected-points judgement: Henderson is currently preferred.
-- Draft decision: Henderson has the stronger established save and bonus profile.
+- Compared with: **Igor Jesus**.
+- Raw expected-points judgement: Calafiori is currently preferred.
+- Draft decision: Calafiori has the safer current role; Igor Jesus has forward scarcity but uncertain starts.
 - Confidence: medium.
 - Reversal trigger: confirmed strongest-XI role, set pieces, fitness or official transfer evidence that changes the comparison.
 
 ## Current metadata
 
-- Team: CRY
-- Position: GKP
+- Team: ARS
+- Position: DEF
 - Availability: Available
-- API total points field: 131
-- API minutes field: 3330
+- API total points field: 109
+- API minutes field: 1697
 
 ## Evidence timeline
 
-- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 84.
+- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 87.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)

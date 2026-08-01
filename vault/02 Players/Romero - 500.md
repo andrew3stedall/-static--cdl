@@ -1,40 +1,40 @@
 ---
 type: player
-fpl_id: 198
-player_name: Henderson
-team: "[[03 Teams/CRY]]"
-position: "[[04 Positions/Goalkeeper]]"
+fpl_id: 500
+player_name: Romero
+team: "[[03 Teams/TOT]]"
+position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 84
+current_rank: 96
 current_segment: Depth
 last_reviewed: 2026-08-02T08:15:00+10:00
 ---
 
-# Henderson
+# Romero
 
 ## Current assessment
 
-Ranked 84 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 198 remains active in the API pool.
+Ranked 96 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 500 remains active in the API pool.
 
 ## Direct comparison
 
-- Compared with: **Kelleher**.
-- Raw expected-points judgement: Henderson is currently preferred.
-- Draft decision: Henderson has the stronger established save and bonus profile.
+- Compared with: **Bijol**.
+- Raw expected-points judgement: Romero is currently preferred.
+- Draft decision: Romero has the higher attacking ceiling, though cards reduce his floor.
 - Confidence: medium.
 - Reversal trigger: confirmed strongest-XI role, set pieces, fitness or official transfer evidence that changes the comparison.
 
 ## Current metadata
 
-- Team: CRY
-- Position: GKP
+- Team: TOT
+- Position: DEF
 - Availability: Available
-- API total points field: 131
-- API minutes field: 3330
+- API total points field: 91
+- API minutes field: 1869
 
 ## Evidence timeline
 
-- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 84.
+- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 96.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
