@@ -1,30 +1,26 @@
-name: Temporary sync FPL expansion branch
+name: Temporary regenerate FPL expansion sweep
 on:
-  push:
-    paths:
-      - .github/workflows/tmp-sync-fpl-expand-branch.yml
+  pull_request:
+    types: [synchronize, reopened]
 permissions:
   contents: write
 jobs:
-  sync:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260802-0904-expand-board'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: codex/fpl-review-20260802-0904-expand-board
           fetch-depth: 0
-      - name: Merge current main and retain cleanup
-        run: |
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fpl_expand_to_240.py
+      - run: |
+          rm scripts/fpl_expand_to_240.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git merge origin/main --no-edit || true
-          git rm -f --ignore-unmatch scripts/fpl_expand_to_240.py .github/workflows/tmp-fpl-220-plus-main-runner.yml
           git add -A
-          if ! git diff --cached --quiet; then
-            git commit -m "Sync expansion review with current main"
-          elif git rev-parse -q --verify MERGE_HEAD >/dev/null; then
-            git commit -m "Sync expansion review with current main"
-          fi
+          git commit -m "Expand FPL Draft board after full-pool sweep"
           git push origin HEAD:codex/fpl-review-20260802-0904-expand-board
-# trigger 2026-08-02T09:08:00+10:00
