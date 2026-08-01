@@ -1,8 +1,8 @@
 ---
 type: wiki
 last_updated: 2026-08-01T22:43:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]"
+latest_review: "[[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-01/2300-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
@@ -120,3 +120,5 @@ Current source preferences remain:
 - Review: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
 - Solanke, Cherki, Marmoush, Ndiaye and Schade rose; Anderson, O'Reilly, Stach and Ampadu fell below 48.
+
+- 2026-08-01 23:00 AEST — ranks 49–64 pairwise review completed. [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]]

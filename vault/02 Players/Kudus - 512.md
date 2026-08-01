@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 335
-player_name: Stach
-team: "[[03 Teams/LEE]]"
+fpl_id: 512
+player_name: Kudus
+team: "[[03 Teams/TOT]]"
 position: "[[04 Positions/Midfielder]]"
-api_status: Available
-current_rank: 64
+api_status: Thigh injury - 75% chance of playing
+current_rank: 58
 current_segment: Core
 last_reviewed: 2026-08-01T23:00:00+10:00
 ---
 
-# Stach
+# Kudus
 
 ## Current assessment
 
-Ranked 64 after the ranks 49–64 pairwise review. Expected season points were assessed before scarcity, then minutes, role, set pieces, injury and rotation risk.
+Ranked 58 after the ranks 49–64 pairwise review. Expected season points were assessed before scarcity, then minutes, role, set pieces, injury and rotation risk.
 
 ## Pairwise placement
 
-- Compared with: **Anderson**.
-- Decision: Stach has the safer expected minutes and role.
-- Confidence: medium.
+- Compared with: **Barnes**.
+- Decision: Kudus has the higher all-round ceiling, but the thigh issue keeps confidence low.
+- Confidence: low.
 - Reversal trigger: confirmed starting role, fitness, penalties or material transfer evidence that changes the direct comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 23:00 AEST — Pairwise-reviewed and placed at rank 64.
+- 2026-08-01 23:00 AEST — Pairwise-reviewed and placed at rank 58.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League fixture difficulty](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season)
