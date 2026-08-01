@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 236
-player_name: Dewsbury-Hall
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Midfielder]]"
+fpl_id: 526
+player_name: Solanke
+team: "[[03 Teams/TOT]]"
+position: "[[04 Positions/Forward]]"
 api_status: available
-current_rank: 33
+current_rank: 34
 current_segment: Core
 last_reviewed: 2026-08-01T22:54:00+10:00
 ---
 
-# Dewsbury-Hall
+# Solanke
 
 ## Current assessment
 
-Everton advanced-role potential and probable secure minutes keep him above the more volatile attackers.
+Forward scarcity and a plausible central Tottenham role justify the largest promotion in this block.
 
 ## Pairwise placement
 
-- Compared with: **Solanke**.
-- Decision: Dewsbury-Hall has the safer season-long minutes floor; Solanke has the higher forward scarcity upside.
-- Confidence: medium.
-- Reversal trigger: Solanke becomes a nailed, fit penalty-taking starter or Dewsbury-Hall loses the advanced role.
+- Compared with: **Richarlison**.
+- Decision: Solanke is preferred on the cleaner long-term centre-forward profile.
+- Confidence: medium-low.
+- Reversal trigger: Richarlison is clearly first choice or Solanke lacks preseason starts.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 33 in the ranks 33–48 review.
+- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 34 in the ranks 33–48 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)

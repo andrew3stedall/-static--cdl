@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 236
-player_name: Dewsbury-Hall
-team: "[[03 Teams/EVE]]"
+fpl_id: 335
+player_name: Stach
+team: "[[03 Teams/LEE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 33
+current_rank: 51
 current_segment: Core
 last_reviewed: 2026-08-01T22:54:00+10:00
 ---
 
-# Dewsbury-Hall
+# Stach
 
 ## Current assessment
 
-Everton advanced-role potential and probable secure minutes keep him above the more volatile attackers.
+Leeds minutes may be secure, but direct attacking routes appear weaker than the players above.
 
 ## Pairwise placement
 
-- Compared with: **Solanke**.
-- Decision: Dewsbury-Hall has the safer season-long minutes floor; Solanke has the higher forward scarcity upside.
-- Confidence: medium.
-- Reversal trigger: Solanke becomes a nailed, fit penalty-taking starter or Dewsbury-Hall loses the advanced role.
+- Compared with: **O'Reilly**.
+- Decision: Stach has the safer floor but insufficient ceiling to enter the block.
+- Confidence: medium-low.
+- Reversal trigger: Set pieces or an advanced role are confirmed.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 33 in the ranks 33–48 review.
+- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 51 in the ranks 33–48 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)

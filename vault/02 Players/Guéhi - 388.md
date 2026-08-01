@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 236
-player_name: Dewsbury-Hall
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Midfielder]]"
+fpl_id: 388
+player_name: Guéhi
+team: "[[03 Teams/MCI]]"
+position: "[[04 Positions/Defender]]"
 api_status: available
-current_rank: 33
+current_rank: 41
 current_segment: Core
 last_reviewed: 2026-08-01T22:54:00+10:00
 ---
 
-# Dewsbury-Hall
+# Guéhi
 
 ## Current assessment
 
-Everton advanced-role potential and probable secure minutes keep him above the more volatile attackers.
+Likely strong clean-sheet environment and centre-back security keep him draftable, though attacking upside is limited.
 
 ## Pairwise placement
 
-- Compared with: **Solanke**.
-- Decision: Dewsbury-Hall has the safer season-long minutes floor; Solanke has the higher forward scarcity upside.
-- Confidence: medium.
-- Reversal trigger: Solanke becomes a nailed, fit penalty-taking starter or Dewsbury-Hall loses the advanced role.
+- Compared with: **Doku**.
+- Decision: Guéhi wins on minutes floor and season reliability.
+- Confidence: medium-low.
+- Reversal trigger: Doku becomes a regular starter.
 
 ## Evidence timeline
 
-- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 33 in the ranks 33–48 review.
+- 2026-08-01 22:54 AEST — Pairwise-sorted to rank 41 in the ranks 33–48 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)

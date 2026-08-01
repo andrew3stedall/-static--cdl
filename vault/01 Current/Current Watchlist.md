@@ -30,3 +30,12 @@ This is the canonical list of unresolved developments capable of changing the dr
 Resolved items should move into the appropriate dated changes record rather than remaining here indefinitely.
 
 - 2026-08-01T22:43:00+10:00 — Ranks 17–32 reversal triggers: Foden starts, Gakpo role, Eze/Ødegaard allocation, Mateta status, Kluivert penalties, Calvert-Lewin fitness and Wilson role. [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
+
+## 2026-08-01 22:54 AEST block triggers
+
+- Tottenham striker hierarchy: Solanke versus Richarlison.
+- Manchester City attacking starts: Cherki, Marmoush, Doku, Anderson and O'Reilly.
+- Everton advanced roles and set pieces: Dewsbury-Hall and Ndiaye.
+- Chelsea midfield deployment: Enzo.
+
+Evidence: [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/).
