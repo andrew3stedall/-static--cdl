@@ -4,33 +4,32 @@ fpl_id: 481
 player_name: Anderson
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
-api_status: Available
-current_rank: 68
+api_status: "Available"
+current_rank: 67
 current_segment: Core
-last_reviewed: 2026-08-01T23:08:00+10:00
+last_reviewed: 2026-08-02T09:01:00+10:00
 ---
 
 # Anderson
 
 ## Current assessment
 
-Ranked 68 after the final top-80 pairwise block. Attacking ceiling remains attractive, but expected minutes are less secure than the midfielders above him.
+Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; rank changed only if Welbeck crossed this position.
 
 ## Pairwise placement
 
-- Compared with: **Ampadu**.
-- Decision: Anderson's higher ceiling narrowly beats Ampadu's safer floor.
-- Confidence: low.
-- Reversal trigger: confirmed starting-role evidence or repeated reduced minutes.
+- Immediate ordering remains Iwobi / Anderson / Ampadu; no new player-specific evidence justified a separate move.
+- Confidence: medium.
+- Reversal trigger: confirmed role, injury, set-piece, transfer or repeated probable-first-team preseason evidence.
 
 ## Evidence timeline
 
-- 2026-08-01 23:00 AEST — Ranked 65.
-- 2026-08-01 23:08 AEST — Repositioned to rank 68.
+- 2026-08-02 09:01 AEST — transfer-driven ranks 41–70 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]

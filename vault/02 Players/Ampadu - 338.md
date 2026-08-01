@@ -4,33 +4,32 @@ fpl_id: 338
 player_name: Ampadu
 team: "[[03 Teams/LEE]]"
 position: "[[04 Positions/Midfielder]]"
-api_status: Available
-current_rank: 69
+api_status: "Available"
+current_rank: 68
 current_segment: Core
-last_reviewed: 2026-08-01T23:08:00+10:00
+last_reviewed: 2026-08-02T09:01:00+10:00
 ---
 
 # Ampadu
 
 ## Current assessment
 
-Ranked 69 after the final top-80 pairwise block. Reliable midfield minutes and a stable baseline keep him above the injury-affected defender cluster.
+Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; rank changed only if Welbeck crossed this position.
 
 ## Pairwise placement
 
-- Compared with: **Saliba**.
-- Decision: Expected minutes and midfield scoring routes edge an injured defender.
+- Immediate ordering remains Anderson / Ampadu / Saliba; no new player-specific evidence justified a separate move.
 - Confidence: medium.
-- Reversal trigger: a more defensive role or confirmed Saliba fitness and immediate starts.
+- Reversal trigger: confirmed role, injury, set-piece, transfer or repeated probable-first-team preseason evidence.
 
 ## Evidence timeline
 
-- 2026-08-01 23:00 AEST — Ranked 67.
-- 2026-08-01 23:08 AEST — Repositioned to rank 69.
+- 2026-08-02 09:01 AEST — transfer-driven ranks 41–70 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/2308-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]

@@ -5,42 +5,31 @@ player_name: Rayan
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 77
+current_rank: 76
 current_segment: Core
-last_reviewed: 2026-08-02T08:15:00+10:00
+last_reviewed: 2026-08-02T09:01:00+10:00
 ---
 
 # Rayan
 
 ## Current assessment
 
-Ranked 77 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 67 remains active in the API pool.
+Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; rank changed only if Welbeck crossed this position.
 
-## Direct comparison
+## Pairwise placement
 
-- Compared with: **Dorgu**.
-- Raw expected-points judgement: Rayan is currently preferred.
-- Draft decision: Rayan has the clearer attacking role today; Dorgu can pass him with repeated advanced starts.
+- Immediate ordering remains Havertz / Rayan / Dorgu; no new player-specific evidence justified a separate move.
 - Confidence: medium.
-- Reversal trigger: confirmed strongest-XI role, set pieces, fitness or official transfer evidence that changes the comparison.
-
-## Current metadata
-
-- Team: BOU
-- Position: MID
-- Availability: Available
-- API total points field: 67
-- API minutes field: 1110
+- Reversal trigger: confirmed role, injury, set-piece, transfer or repeated probable-first-team preseason evidence.
 
 ## Evidence timeline
 
-- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 77.
+- 2026-08-02 09:01 AEST — transfer-driven ranks 41–70 review.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]

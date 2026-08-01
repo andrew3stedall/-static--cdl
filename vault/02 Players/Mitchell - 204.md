@@ -1,19 +1,35 @@
 ---
 type: player
 fpl_id: 204
-player: Mitchell
-team: CRY
-position: DEF
-current_rank: 74
-last_reviewed: 2026-08-01T23:08:00+10:00
+player_name: Mitchell
+team: "[[03 Teams/CRY]]"
+position: "[[04 Positions/Defender]]"
+api_status: "Available"
+current_rank: 73
+current_segment: Core
+last_reviewed: 2026-08-02T09:01:00+10:00
 ---
 
 # Mitchell
 
-- Status: Available
-- Compared with: **Collins**
-- Decision: Wider role and more plausible assist potential.
-- Confidence: Medium
-- Reversal trigger: reduced attacking role or a material Brentford set-piece advantage for Collins.
+## Current assessment
 
-[[06 Reviews/2026/08/2026-08-01/2308-AEST-review]]
+Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; rank changed only if Welbeck crossed this position.
+
+## Pairwise placement
+
+- Immediate ordering remains Mukiele / Mitchell / Collins; no new player-specific evidence justified a separate move.
+- Confidence: medium.
+- Reversal trigger: confirmed role, injury, set-piece, transfer or repeated probable-first-team preseason evidence.
+
+## Evidence timeline
+
+- 2026-08-02 09:01 AEST — transfer-driven ranks 41–70 review.
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+
+## Backlinks
+
+- [[01 Current/Current Draft Board]]
+- [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
