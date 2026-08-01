@@ -1,6 +1,6 @@
 ---
 type: changelog
-last_updated: 2026-08-01T13:02:00+10:00
+last_updated: 2026-08-01T16:43:00+10:00
 append_only: true
 ---
 
@@ -50,3 +50,7 @@ Every Markdown creation, update, correction or supersession is recorded separate
 | 2026-08-01T13:02:00+10:00 | `vault/07 Changes/2026/08/2026-08-01/1254-AEST-foundation-changes.md` | Corrected | Repaired review and changelog links. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
 | 2026-08-01T13:02:00+10:00 | `vault/08 Strategy/Draft Strategy.md` | Corrected | Repaired canonical board link. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
 | 2026-08-01T13:02:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded each link correction in the append-only audit trail. | [[06 Reviews/2026/08/2026-08-01/1254-AEST-repository-foundation]] | Link audit |
+| 2026-08-01T16:43:00+10:00 | `AGENTS.md` | Updated | Required a fresh branch, non-draft PR, verified squash merge and merged-branch deletion for every full run. | User instruction 2026-08-01T16:43:00+10:00 | [Merged setup PR #1](https://github.com/andrew3stedall/-static--cdl/pull/1); user instruction |
+| 2026-08-01T16:43:00+10:00 | `.agents/skills/run-fpl-review/SKILL.md` | Updated | Added branch setup, PR validation, merge verification and branch-deletion completion steps. | User instruction 2026-08-01T16:43:00+10:00 | User instruction |
+| 2026-08-01T16:43:00+10:00 | `vault/00 Meta/Repository Contract.md` | Updated | Made one fresh branch, one PR, one squash merge and branch deletion mandatory for each scheduled or manual review. | User instruction 2026-08-01T16:43:00+10:00 | User instruction |
+| 2026-08-01T16:43:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded each document changed by the per-run Git lifecycle policy. | User instruction 2026-08-01T16:43:00+10:00 | User instruction |
