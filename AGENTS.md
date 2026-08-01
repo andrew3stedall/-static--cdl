@@ -18,6 +18,16 @@ Maintain an evidence-based FPL Draft board and Obsidian knowledge vault for an e
 - `vault/Wiki.md` is the navigational summary of the work.
 - Dated documents under `vault/06 Reviews/` and `vault/07 Changes/` are immutable after publication except for clearly labelled corrections.
 
+## Git lifecycle for every full run
+
+- Start from the latest `main` and create a new unique branch named `codex/fpl-review-YYYYMMDD-HHmm-<short-slug>`.
+- Never reuse a branch from an earlier run and never commit a review directly to `main`.
+- One run must produce exactly one branch, one non-draft pull request to `main`, and one squash merge.
+- Before merging, inspect the complete diff, verify citations, Obsidian links, timestamps and changelog coverage, confirm the PR is mergeable, and verify all configured checks pass. If no checks are configured, record that explicitly.
+- Merge only when the run is complete and internally consistent. Do not force-merge a conflicting or failing PR.
+- After a successful merge, verify the merged commit is on `main`, then delete the merged head branch.
+- If publication, merge or branch deletion fails, leave clear evidence of the incomplete step and do not claim the run completed.
+
 ## Source hierarchy
 
 1. Official FPL API for player identity, team, position, availability metadata and fixtures.
@@ -36,7 +46,7 @@ Use stable FPL player IDs. Never silently merge similarly named players.
 4. Invoke `.agents/skills/rank-draft-board/SKILL.md`.
 5. Invoke `.agents/skills/document-fpl-review/SKILL.md`.
 6. Invoke `.agents/skills/maintain-obsidian-vault/SKILL.md`.
-7. Verify citations, links, timestamps and changelog coverage before finishing.
+7. Verify citations, links, timestamps and changelog coverage before publishing through the required Git lifecycle.
 
 ## Non-negotiable rules
 
