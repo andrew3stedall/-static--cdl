@@ -24,3 +24,4 @@ jobs:
           git add -A
           git commit -m "Complete ranks 65-80 pairwise review"
           git push origin HEAD:codex/fpl-review-20260801-2308-ranks65-80
+# trigger: 2026-08-01T23:08:00+10:00
