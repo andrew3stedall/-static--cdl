@@ -1,6 +1,6 @@
 ---
 type: changelog
-last_updated: 2026-08-01T16:43:00+10:00
+last_updated: 2026-08-01T17:38:00+10:00
 append_only: true
 ---
 
@@ -54,3 +54,12 @@ Every Markdown creation, update, correction or supersession is recorded separate
 | 2026-08-01T16:43:00+10:00 | `.agents/skills/run-fpl-review/SKILL.md` | Updated | Added branch setup, PR validation, merge verification and branch-deletion completion steps. | User instruction 2026-08-01T16:43:00+10:00 | User instruction |
 | 2026-08-01T16:43:00+10:00 | `vault/00 Meta/Repository Contract.md` | Updated | Made one fresh branch, one PR, one squash merge and branch deletion mandatory for each scheduled or manual review. | User instruction 2026-08-01T16:43:00+10:00 | User instruction |
 | 2026-08-01T16:43:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded each document changed by the per-run Git lifecycle policy. | User instruction 2026-08-01T16:43:00+10:00 | User instruction |
+| 2026-08-01T17:38:00+10:00 | `vault/01 Current/Current Draft Board.md` | Updated | Replaced the empty state with a provisional official-API-linked top-220 board. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | [FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Draft Fantasy cheat sheet](https://www.draftfantasy.com/fpl/draft-cheat-sheet) |
+| 2026-08-01T17:38:00+10:00 | `vault/01 Current/Current Watchlist.md` | Updated | Added ranking-quality, transfer, rotation, injury, goalkeeper and source-coverage uncertainties. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | [FFScout preseason roundup](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper); [Reuters](https://www.reuters.com/sports/soccer/rogers-palmer-combination-key-chelsea-revival-says-alonso-2026-07-27/) |
+| 2026-08-01T17:38:00+10:00 | `vault/04 Positions/2026-27 Initial Scarcity.md` | Created | Documented initial forward, midfield, defender and goalkeeper replacement-level conclusions. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | [Draft Fantasy cheat sheet](https://www.draftfantasy.com/fpl/draft-cheat-sheet); official FPL player pool |
+| 2026-08-01T17:38:00+10:00 | `vault/05 Sources/X Source Graph.md` | Created | Added seed accounts, discovery-edge rules, reliability filters and public-access limitations for X research. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | User instruction; [Planet FPL](https://x.com/PlanetFPLPod); [Ben Crellin](https://x.com/BenCrellin); [Fabrizio Romano](https://x.com/FabrizioRomano) |
+| 2026-08-01T17:38:00+10:00 | `vault/06 Reviews/2026/08/2026-08-01/1738-AEST-review.md` | Created | Captured the complete first player-pool, ranking, transfer, preseason and source-graph review, including rejected evidence and limitations. | Self | [FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [FFScout preseason roundup](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper) |
+| 2026-08-01T17:38:00+10:00 | `vault/07 Changes/2026/08/2026-08-01/1738-AEST-changes.md` | Created | Recorded the transition from an empty board to the first top-220 baseline and all material initial evidence. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | [[01 Current/Current Draft Board]] |
+| 2026-08-01T17:38:00+10:00 | `vault/Wiki.md` | Updated | Replaced the foundation-only status with current conclusions, source-graph method, active uncertainties and latest records. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | Review synthesis |
+| 2026-08-01T17:38:00+10:00 | `vault/Home.md` | Updated | Pointed the vault landing page to the first review, changes, API snapshot, source graph and scarcity note. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | Repository navigation update |
+| 2026-08-01T17:38:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded every Markdown document created or changed in the first player review. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | Per-document audit |
