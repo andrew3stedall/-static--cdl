@@ -4,13 +4,13 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 220
-last_updated: 2026-08-02T08:30:00+10:00
-status: ranks111_140_pairwise_sorted
+last_updated: 2026-08-02T08:37:00+10:00
+status: ranks141_170_pairwise_sorted
 ---
 
 # Current Draft Board
 
-This is the **only canonical current overall ordering**. The first 140 have now been manually stable-sorted; this run reviewed ranks 111–140 with challengers from 106–145. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
+This is the **only canonical current overall ordering**. The first 170 have now been manually stable-sorted; this run reviewed ranks 141–170 with challengers from 136–175. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
 
 ## Advised order
 
@@ -151,46 +151,46 @@ This is the **only canonical current overall ordering**. The first 140 have now 
 | 133 | Kinsky | GKP | TOT | Endgame | D+ | 496 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
 | 134 | Van de Ven | DEF | TOT | Endgame | D+ | 503 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
 | 135 | Aaronson | MID | LEE | Endgame | D+ | 337 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 136 | Dalot | DEF | MUN | Endgame | D+ | 417 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 137 | Ayari | MID | BHA | Endgame | D+ | 129 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 138 | Hinshelwood | MID | BHA | Endgame | D+ | 123 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 139 | Livramento | DEF | NEW | Endgame | D+ | 450 | Calf injury - 75% chance of playing | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 140 | Boscagli | DEF | BHA | Endgame | D+ | 114 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 141 | Justin | DEF | LEE | Endgame | D+ | 332 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 142 | Palestra | DEF | CHE | Endgame | D+ | 152 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 143 | Caicedo | MID | CHE | Endgame | D+ | 159 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 144 | Burn | DEF | NEW | Endgame | D+ | 448 | Available | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 145 | Garner | MID | EVE | Endgame | D+ | 239 | Groin injury - Expected back 22 Aug | 2026-08-02T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]] |
-| 146 | Khusanov | DEF | MCI | Endgame | D+ | 393 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 147 | Reijnders | MID | MCI | Endgame | D+ | 404 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 148 | F.Kadıoğlu | DEF | BHA | Endgame | D+ | 113 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 149 | Bentancur | MID | TOT | Endgame | D+ | 516 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 150 | Branthwaite | DEF | EVE | Endgame | D+ | 230 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 151 | Schär | DEF | NEW | Endgame | D+ | 446 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 152 | Alleyne | DEF | MCI | Endgame | D+ | 394 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 153 | Struijk | DEF | BHA | Endgame | D+ | 328 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 154 | Colwill | DEF | CHE | Endgame | D+ | 149 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 155 | Jacquet | DEF | LIV | Endgame | D+ | 362 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 156 | Tsimikas | DEF | LIV | Endgame | D+ | 364 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 157 | Svoboda | DEF | BHA | Endgame | D+ | 120 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 158 | Vuskovic | DEF | BHA | Endgame | D+ | 504 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 159 | Awoniyi | FWD | NFO | Endgame | D+ | 492 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 160 | Milosavljević | DEF | BOU | Endgame | D+ | 63 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 161 | Muharemović | DEF | LEE | Undrafted buffer | D | 334 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 162 | Diarra | MID | SUN | Undrafted buffer | D | 543 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 163 | Georginio | FWD | BHA | Undrafted buffer | D | 125 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 164 | Digne | DEF | AVL | Undrafted buffer | D | 30 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 165 | Barry | FWD | EVE | Undrafted buffer | D | 249 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 166 | O'Brien | DEF | EVE | Undrafted buffer | D | 232 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 167 | Milenković | DEF | NFO | Undrafted buffer | D | 471 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 168 | Rodon | DEF | LEE | Undrafted buffer | D | 329 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 169 | Murillo | DEF | NFO | Undrafted buffer | D | 472 | Muscle injury - 75% chance of playing | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 170 | Vitor Reis | DEF | MCI | Undrafted buffer | D | 396 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 171 | Anselmino | DEF | CHE | Undrafted buffer | D | 561 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 172 | B.Badiashile | DEF | CHE | Undrafted buffer | D | 146 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 173 | Disasi | DEF | CHE | Undrafted buffer | D | 153 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 174 | M.Sarr | DEF | CHE | Undrafted buffer | D | 150 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 175 | Ji-soo | DEF | BRE | Undrafted buffer | D | 92 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 136 | Awoniyi | FWD | NFO | Endgame | D+ | 492 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 137 | Barry | FWD | EVE | Endgame | D+ | 249 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 138 | Georginio | FWD | BHA | Endgame | D+ | 125 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 139 | Reijnders | MID | MCI | Endgame | D+ | 404 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 140 | Digne | DEF | AVL | Endgame | D+ | 30 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 141 | Dalot | DEF | MUN | Endgame | D+ | 417 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 142 | F.Kadıoğlu | DEF | BHA | Endgame | D+ | 113 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 143 | Livramento | DEF | NEW | Endgame | D+ | 450 | Calf injury - 75% chance of playing | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 144 | Branthwaite | DEF | EVE | Endgame | D+ | 230 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 145 | Schär | DEF | NEW | Endgame | D+ | 446 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 146 | Milenković | DEF | NFO | Endgame | D+ | 471 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 147 | Boscagli | DEF | BHA | Endgame | D+ | 114 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 148 | Bentancur | MID | TOT | Endgame | D+ | 516 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 149 | Garner | MID | EVE | Endgame | D+ | 239 | Groin injury - Expected back 22 Aug | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 150 | Ayari | MID | BHA | Endgame | D+ | 129 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 151 | Hinshelwood | MID | BHA | Endgame | D+ | 123 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 152 | Caicedo | MID | CHE | Endgame | D+ | 159 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 153 | Burn | DEF | NEW | Endgame | D+ | 448 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 154 | Justin | DEF | LEE | Endgame | D+ | 332 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 155 | Struijk | DEF | BHA | Endgame | D+ | 328 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 156 | Colwill | DEF | CHE | Endgame | D+ | 149 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 157 | Tsimikas | DEF | LIV | Endgame | D+ | 364 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 158 | Palestra | DEF | CHE | Endgame | D+ | 152 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 159 | Khusanov | DEF | MCI | Endgame | D+ | 393 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 160 | Muharemović | DEF | LEE | Endgame | D+ | 334 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 161 | O'Brien | DEF | EVE | Undrafted buffer | D | 232 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 162 | Rodon | DEF | LEE | Undrafted buffer | D | 329 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 163 | Murillo | DEF | NFO | Undrafted buffer | D | 472 | Muscle injury - 75% chance of playing | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 164 | Jacquet | DEF | LIV | Undrafted buffer | D | 362 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 165 | Alleyne | DEF | MCI | Undrafted buffer | D | 394 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 166 | Milosavljević | DEF | BOU | Undrafted buffer | D | 63 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 167 | Diarra | MID | SUN | Undrafted buffer | D | 543 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 168 | Vitor Reis | DEF | MCI | Undrafted buffer | D | 396 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 169 | Anselmino | DEF | CHE | Undrafted buffer | D | 561 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 170 | B.Badiashile | DEF | CHE | Undrafted buffer | D | 146 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 171 | Disasi | DEF | CHE | Undrafted buffer | D | 153 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 172 | M.Sarr | DEF | CHE | Undrafted buffer | D | 150 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 173 | Ji-soo | DEF | BRE | Undrafted buffer | D | 92 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 174 | Svoboda | DEF | BHA | Undrafted buffer | D | 120 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
+| 175 | Vuskovic | DEF | BHA | Undrafted buffer | D | 504 | Available | 2026-08-02T08:37:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]] |
 | 176 | Pinnock | DEF | BRE | Undrafted buffer | D | 91 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 177 | Schuster | DEF | BRE | Undrafted buffer | D | 93 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 178 | Coppola | DEF | BHA | Undrafted buffer | D | 117 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |

@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T08:30:00+10:00
+last_updated: 2026-08-02T08:37:00+10:00
 status: active
 ---
 
@@ -59,3 +59,13 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]; [Official FPL boot
 - Verbruggen, Lammens, Sels, Wilson and Kinsky: confirmed goalkeeper hierarchies.
 
 Evidence: [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]].
+
+
+## 2026-08-02 08:37 AEST block triggers
+
+- Garner, Livramento and Murillo — fitness and return-to-training evidence.
+- Awoniyi, Barry and Georginio — repeated central-forward minutes with probable starters.
+- Manchester City and Chelsea defenders — stable strongest-XI hierarchy.
+- Tsimikas — Liverpool full-back role and set-piece share.
+
+Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).

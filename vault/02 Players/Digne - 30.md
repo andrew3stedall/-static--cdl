@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 239
-player_name: Garner
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Midfielder]]"
-api_status: "Groin injury - Expected back 22 Aug"
-current_rank: 149
+fpl_id: 30
+player_name: Digne
+team: "[[03 Teams/AVL]]"
+position: "[[04 Positions/Defender]]"
+api_status: "Available"
+current_rank: 140
 current_segment: Endgame
 last_reviewed: 2026-08-02T08:37:00+10:00
 ---
 
-# Garner
+# Digne
 
 ## Current assessment
 
-Ranked 149 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
+Ranked 140 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
 
 ## Pairwise placement
 
-- Immediate comparison: **Bentancur / Ayari**.
-- Decision: Garner is placed below Bentancur and above Ayari after expected points, minutes, role and risk were compared.
-- Confidence: low.
+- Immediate comparison: **Reijnders / Dalot**.
+- Decision: Digne is placed below Reijnders and above Dalot after expected points, minutes, role and risk were compared.
+- Confidence: medium.
 - Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
 
 ## Evidence timeline
 
-- 2026-08-02 08:37 AEST — moved from rank 145 to 149 in the stable pairwise pass.
+- 2026-08-02 08:37 AEST — moved from rank 164 to 140 in the stable pairwise pass.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
