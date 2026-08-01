@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-01T22:07:00+10:00
+last_updated: 2026-08-01T22:43:00+10:00
 status: active
 ---
 
@@ -28,3 +28,5 @@ This is the canonical list of unresolved developments capable of changing the dr
 | X source graph | Research coverage | Public following lists are incomplete and some posts are not indexed; the graph now includes official-panel experts but remains partial. | Club-local role or injury information may be missed. | Incremental discovery through cited, mentioned, followed and interviewed accounts. | Confirmed access limitation | [[05 Sources/X Source Graph]] |
 
 Resolved items should move into the appropriate dated changes record rather than remaining here indefinitely.
+
+- 2026-08-01T22:43:00+10:00 — Ranks 17–32 reversal triggers: Foden starts, Gakpo role, Eze/Ødegaard allocation, Mateta status, Kluivert penalties, Calvert-Lewin fitness and Wilson role. [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]

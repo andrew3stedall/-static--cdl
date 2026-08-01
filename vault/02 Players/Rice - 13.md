@@ -1,0 +1,35 @@
+---
+type: player
+fpl_id: 13
+player_name: Declan Rice
+team: "[[03 Teams/ARS]]"
+position: "[[04 Positions/Midfielder]]"
+api_status: available
+current_rank: 31
+current_segment: Foundation
+last_reviewed: 2026-08-01T22:43:00+10:00
+---
+
+# Declan Rice
+
+## Current assessment
+
+Outstanding minutes and set-piece involvement, but role is less attacking than the block's leaders.
+
+## Pairwise placement
+
+- Compared with: [[02 Players/Virgil]]
+- Decision: Rice is expected to score slightly more through set pieces and midfield scoring; defender scarcity does not reverse it.
+- Confidence: Medium-high
+- Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.
+
+## Evidence timeline
+
+- 2026-08-01 22:43 AEST — Assessed in the ranks 17–32 stable pairwise block and placed at rank 31.
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Official fixtures](https://fantasy.premierleague.com/api/fixtures/); [PL key-player analysis](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy); [PL FDR](https://www.premierleague.com/en/news/4675493/get-the-fixture-difficulty-ratings-for-202627-fpl-season); [FFScout preseason report](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
+
+## Backlinks
+
+- [[01 Current/Current Draft Board]]
+- [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]

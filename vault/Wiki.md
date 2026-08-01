@@ -1,6 +1,6 @@
 ---
 type: wiki
-last_updated: 2026-08-01T22:07:00+10:00
+last_updated: 2026-08-01T22:43:00+10:00
 latest_review: "[[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]"
 latest_changes: "[[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]"
 ---
@@ -108,3 +108,9 @@ Current source preferences remain:
 - [[07 Changes/2026/08/2026-08-01/1848-AEST-changes]]
 - [[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]
+
+## Latest review
+
+- [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+- Ranks 17–32 completed by direct pairwise sorting; next block is 33–48.
