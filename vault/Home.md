@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-01T17:38:00+10:00
+last_updated: 2026-08-01T20:00:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -36,6 +36,6 @@ last_updated: 2026-08-01T17:38:00+10:00
 
 ## Latest run
 
-- [[06 Reviews/2026/08/2026-08-01/1738-AEST-review|First 2026/27 FPL Draft review]]
-- [[07 Changes/2026/08/2026-08-01/1738-AEST-changes|First board changes]]
+- [[06 Reviews/2026/08/2026-08-01/2000-AEST-review|2026-08-01 20:00 AEST review]]
+- [[07 Changes/2026/08/2026-08-01/2000-AEST-changes|2026-08-01 20:00 AEST changes]]
 - [[09 Data/2026-08-01-official-api-snapshot|Official API snapshot]]
