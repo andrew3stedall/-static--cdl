@@ -4,43 +4,34 @@ fpl_id: 445
 player_name: Thiaw
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Defender]]"
-api_status: "Available"
-current_rank: 108
+api_status: Available
+current_rank: 118
 current_segment: Depth
-last_reviewed: 2026-08-02T08:15:00+10:00
+last_reviewed: 2026-08-02T08:30:00+10:00
 ---
 
 # Thiaw
 
 ## Current assessment
 
-Ranked 108 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 445 remains active in the API pool.
+Ranked 118 after the ranks 111–140 review with challengers 106–145.
 
-## Direct comparison
+## Pairwise placement
 
 - Compared with: **Wieffer**.
-- Raw expected-points judgement: Thiaw is currently preferred.
-- Draft decision: Thiaw has more set-piece threat; Wieffer’s defensive classification is useful but role-dependent.
+- Decision: Higher expected season points and/or safer usable minutes.
 - Confidence: medium.
-- Reversal trigger: confirmed strongest-XI role, set pieces, fitness or official transfer evidence that changes the comparison.
-
-## Current metadata
-
-- Team: NEW
-- Position: DEF
-- Availability: Available
-- API total points field: 126
-- API minutes field: 2963
+- Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
 
 ## Evidence timeline
 
-- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 108.
+- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 118.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
+- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
 
 ## Backlinks
 
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]

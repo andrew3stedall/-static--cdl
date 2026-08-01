@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T08:15:00+10:00
+last_updated: 2026-08-02T08:30:00+10:00
 status: active
 ---
 
@@ -49,3 +49,13 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0800-AEST-review]]; [Premier League pr
 - Goalkeepers: opening-day hierarchy and late transfer movement.
 
 Evidence: [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]; [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).
+
+
+## 2026-08-02 08:30 AEST block triggers
+
+- Ekitiké: Achilles return-to-training and probable-first-team minutes.
+- Nicolas Jackson, Rashford and Grealish: repeated starting role and position.
+- Livramento and Garner: fitness confirmation.
+- Verbruggen, Lammens, Sels, Wilson and Kinsky: confirmed goalkeeper hierarchies.
+
+Evidence: [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]].
