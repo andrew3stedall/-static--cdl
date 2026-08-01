@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import re
+import subprocess
 import urllib.request
 from pathlib import Path
 
@@ -17,10 +18,6 @@ BOARD_PATH = ROOT / "vault/01 Current/Current Draft Board.md"
 BASELINE_PATH = ROOT / "vault/09 Data/2026-08-01-1738-board-baseline.json"
 SNAPSHOT_PATH = ROOT / "vault/09 Data/2026-08-01-1848-official-api-snapshot.json"
 MOVEMENTS_PATH = ROOT / "vault/09 Data/2026-08-01-1848-top80-movements.json"
-BASELINE_URL = (
-    "https://raw.githubusercontent.com/andrew3stedall/-static--cdl/"
-    "main/vault/01%20Current/Current%20Draft%20Board.md"
-)
 BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
 FIXTURES_URL = "https://fantasy.premierleague.com/api/fixtures/"
 RUN_AT = "2026-08-01T18:48:00+10:00"
@@ -82,15 +79,28 @@ def load_baseline() -> list[dict]:
             raise RuntimeError("Stored baseline does not contain 220 rows")
         return rows
 
-    payload, _ = request_bytes(BASELINE_URL)
-    rows = parse_board(payload.decode("utf-8"))
+    subprocess.run(
+        ["git", "fetch", "origin", "main", "--depth=1"],
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    board_text = subprocess.run(
+        ["git", "show", "origin/main:vault/01 Current/Current Draft Board.md"],
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout
+    rows = parse_board(board_text)
     BASELINE_PATH.parent.mkdir(parents=True, exist_ok=True)
     BASELINE_PATH.write_text(
         json.dumps(
             {
                 "captured_at": RUN_AT,
                 "baseline_reviewed_at": BASELINE_AT,
-                "source": BASELINE_URL,
+                "source_ref": "origin/main before review PR merge",
                 "rows": rows,
             },
             indent=2,
@@ -167,6 +177,8 @@ def main() -> None:
     if len(TOP_80_IDS) != 80 or len(set(TOP_80_IDS)) != 80:
         raise RuntimeError("TOP_80_IDS must contain 80 unique IDs")
 
+    current_rows = parse_board(BOARD_PATH.read_text(encoding="utf-8"))
+    current_by_id = {row["id"]: row for row in current_rows}
     old_by_id = {row["id"]: row for row in baseline_rows}
     old_rank = {row["id"]: row["rank"] for row in baseline_rows}
     top_ids = set(TOP_80_IDS)
@@ -181,13 +193,14 @@ def main() -> None:
         position = positions[element["element_type"]]["singular_name_short"]
         status = official_status(element)
         player = element.get("web_name") or f"{element.get('first_name', '')} {element.get('second_name', '')}".strip()
-        previous = old_by_id[element_id]
+        baseline = old_by_id[element_id]
+        current = current_by_id.get(element_id, baseline)
         previous_rank = old_rank[element_id]
-        changed = (
+        changed_from_baseline = (
             previous_rank != rank
-            or previous["team"] != team
-            or previous["position"] != position
-            or previous["status"] != status
+            or baseline["team"] != team
+            or baseline["position"] != position
+            or baseline["status"] != status
         )
         new_rows.append(
             {
@@ -199,8 +212,8 @@ def main() -> None:
                 "tier": tier(rank),
                 "id": element_id,
                 "status": status,
-                "changed": RUN_AT if changed else previous["changed"],
-                "evidence": REVIEW_LINK if changed else previous["evidence"],
+                "changed": RUN_AT if changed_from_baseline else current["changed"],
+                "evidence": REVIEW_LINK if changed_from_baseline else current["evidence"],
             }
         )
         if previous_rank != rank:
