@@ -4,13 +4,13 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 220
-last_updated: 2026-08-01T23:00:00+10:00
-status: ranks49_64_pairwise_sorted
+last_updated: 2026-08-01T23:08:00+10:00
+status: top80_pairwise_sorted
 ---
 
 # Current Draft Board
 
-This is the **only canonical current overall ordering**. The first 64 have now been stable-sorted in four explicit player-versus-player blocks. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
+This is the **only canonical current overall ordering**. The first 80 have now been stable-sorted in five explicit player-versus-player blocks. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
 
 ## Advised order
 
@@ -49,57 +49,57 @@ This is the **only canonical current overall ordering**. The first 64 have now b
 | 31 | Rice | MID | ARS | Foundation | B+ | 13 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
 | 32 | Virgil | DEF | LIV | Foundation | B+ | 356 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
 | 33 | Dewsbury-Hall | MID | EVE | Core | B | 236 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 45 | Tarkowski | DEF | EVE | Core | B | 229 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 44 | Enzo | MID | CHE | Core | B | 155 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 65 | Anderson | MID | MCI | Core | C+ | 481 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
+| 34 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 35 | Richarlison | FWD | TOT | Core | B | 527 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 41 | Guéhi | DEF | MCI | Core | B | 388 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 40 | Gvardiol | DEF | MCI | Core | B | 391 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 66 | O'Reilly | DEF | MCI | Core | C+ | 387 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 47 | Senesi | DEF | TOT | Core | B | 498 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 48 | Van Hecke | DEF | TOT | Core | B | 112 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 36 | Cherki | MID | MCI | Core | B | 399 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 42 | Doku | MID | MCI | Core | B | 400 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 37 | Marmoush | FWD | MCI | Core | B | 401 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 46 | Fernandes | MID | TOT | Core | B | 525 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 43 | E.Le Fée | MID | SUN | Core | B | 542 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 38 | Ndiaye | MID | EVE | Core | B | 237 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 39 | Schade | MID | BRE | Core | B | 94 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 64 | Stach | MID | LEE | Core | B- | 335 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 67 | Ampadu | MID | LEE | Core | C+ | 338 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 34 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 40 | Gvardiol | DEF | MCI | Core | B | 391 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 41 | Guéhi | DEF | MCI | Core | B | 388 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 42 | Doku | MID | MCI | Core | B | 400 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 43 | E.Le Fée | MID | SUN | Core | B | 542 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 44 | Enzo | MID | CHE | Core | B | 155 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 45 | Tarkowski | DEF | EVE | Core | B | 229 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 46 | Fernandes | MID | TOT | Core | B | 525 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 47 | Senesi | DEF | TOT | Core | B | 498 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 48 | Van Hecke | DEF | TOT | Core | B | 112 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
 | 49 | Sarr | MID | CRY | Core | B- | 208 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 52 | Welbeck | FWD | BHA | Core | B- | 136 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 53 | Minteh | MID | BHA | Core | B- | 122 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 50 | Evanilson | FWD | BOU | Core | B- | 79 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 51 | Šeško | FWD | MUN | Core | B- | 439 | Shin injury - 75% chance of playing | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
+| 52 | Welbeck | FWD | BHA | Core | B- | 136 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
+| 53 | Minteh | MID | BHA | Core | B- | 122 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 54 | Wood | FWD | NFO | Core | B- | 490 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 55 | Woltemade | FWD | NEW | Core | B- | 463 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 63 | Osula | FWD | NEW | Core | B- | 465 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 59 | Barnes | MID | NEW | Core | B- | 453 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 56 | Amad | MID | MUN | Core | B- | 431 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 57 | Neto | MID | CHE | Core | B- | 156 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 58 | Kudus | MID | TOT | Core | B- | 512 | Thigh injury - 75% chance of playing | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
+| 59 | Barnes | MID | NEW | Core | B- | 453 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 60 | Maddison | MID | TOT | Core | B- | 515 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 61 | Pedro Porro | DEF | TOT | Core | B- | 499 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
 | 62 | James | DEF | CHE | Core | B- | 142 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 68 | Chalobah | DEF | CHE | Core | C+ | 143 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
-| 69 | Mukiele | DEF | SUN | Core | C+ | 533 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 70 | Mitchell | DEF | CRY | Core | C+ | 204 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 71 | Saliba | DEF | ARS | Core | C+ | 6 | Back injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 72 | J.Timber | DEF | ARS | Core | C+ | 5 | Groin injury - Expected back 21 Aug | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 73 | Raya | GKP | ARS | Core | C+ | 1 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 74 | Donnarumma | GKP | MCI | Core | C+ | 384 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 75 | Pickford | GKP | EVE | Core | C+ | 226 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 76 | Kelleher | GKP | BRE | Core | C+ | 82 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 77 | Henderson | GKP | CRY | Core | C+ | 198 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 78 | Collins | DEF | BRE | Core | C+ | 84 | Available | 2026-08-01T17:38:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] |
-| 79 | Xhaka | MID | SUN | Core | C+ | 544 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 80 | Iwobi | MID | FUL | Core | C+ | 261 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 81 | Mitoma | MID | BHA | Depth | C+ | 121 | Hamstring injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 82 | Matheus N. | DEF | MCI | Depth | C+ | 389 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 83 | Lacroix | DEF | CHE | Depth | C+ | 200 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 84 | Rúben | DEF | MCI | Depth | C+ | 390 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 63 | Osula | FWD | NEW | Core | B- | 465 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
+| 64 | Stach | MID | LEE | Core | B- | 335 | Available | 2026-08-01T23:00:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2300-AEST-review]] |
+| 65 | Mitoma | MID | BHA | Core | C+ | 121 | Hamstring injury - Unknown return date | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 66 | Xhaka | MID | SUN | Core | C+ | 544 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 67 | Iwobi | MID | FUL | Core | C+ | 261 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 68 | Anderson | MID | MCI | Core | C+ | 481 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 69 | Ampadu | MID | LEE | Core | C+ | 338 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 70 | Saliba | DEF | ARS | Core | C+ | 6 | Back injury - Unknown return date | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 71 | J.Timber | DEF | ARS | Core | C+ | 5 | Groin injury - Expected back 21 Aug | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 72 | Chalobah | DEF | CHE | Core | C+ | 143 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 73 | Mukiele | DEF | SUN | Core | C+ | 533 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 74 | Mitchell | DEF | CRY | Core | C+ | 204 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 75 | Collins | DEF | BRE | Core | C+ | 84 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 76 | Raya | GKP | ARS | Core | C+ | 1 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 77 | Pickford | GKP | EVE | Core | C+ | 226 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 78 | Donnarumma | GKP | MCI | Core | C+ | 384 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 79 | Henderson | GKP | CRY | Core | C+ | 198 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 80 | Kelleher | GKP | BRE | Core | C+ | 82 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 81 | O'Reilly | DEF | MCI | Depth | C | 387 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 82 | Matheus N. | DEF | MCI | Depth | C | 389 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 83 | Lacroix | DEF | CHE | Depth | C | 200 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
+| 84 | Rúben | DEF | MCI | Depth | C | 390 | Available | 2026-08-01T23:08:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2308-AEST-review]] |
 | 85 | Rayan | MID | BOU | Depth | C+ | 67 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 86 | Truffert | DEF | BOU | Depth | C+ | 61 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 87 | Ekitiké | FWD | LIV | Depth | C+ | 380 | Achilles injury - Unknown return date | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
@@ -240,7 +240,7 @@ This is the **only canonical current overall ordering**. The first 64 have now b
 ## Method cautions
 
 - Price and ownership do not drive the ordering, although official pricing and expert commentary are useful expectation signals.
-- The top 80 have been manually corrected; ranks 81-220 retain the prior relative order unless official metadata changed.
+- The top 80 have been manually pairwise sorted; ranks 81-220 retain the prior relative order unless official metadata changed.
 - Manchester City and Chelsea transfers are not automatic promotions because competition and rotation can offset team strength.
 - Goalkeepers remain deliberately delayed because the position is deep relative to forwards and elite attacking midfielders.
 - Material future movements require dated evidence and a changes record.
