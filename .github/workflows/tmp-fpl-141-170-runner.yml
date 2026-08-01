@@ -1,0 +1,26 @@
+name: Temporary FPL 141-170 runner
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-fpl-141-170-runner.yml
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-0837-ranks141-170
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fpl_block_141_170.py
+      - run: |
+          rm scripts/fpl_block_141_170.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Complete ranks 141-170 pairwise review"
+          git push origin HEAD:codex/fpl-review-20260802-0837-ranks141-170
