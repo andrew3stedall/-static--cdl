@@ -1,6 +1,6 @@
 ---
 type: home
-last_updated: 2026-08-01T22:07:00+10:00
+last_updated: 2026-08-01T22:43:00+10:00
 ---
 
 # FPL Draft Research Vault
@@ -53,3 +53,9 @@ last_updated: 2026-08-01T22:07:00+10:00
 - [[07 Changes/2026/08/2026-08-01/1848-AEST-changes|Changes since the first board]]
 - [[09 Data/2026-08-01-1848-official-api-snapshot|Official API snapshot]]
 - `vault/09 Data/2026-08-01-1848-top80-movements.json`
+
+## Latest review
+
+- [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+- Ranks 17–32 completed by direct pairwise sorting; next block is 33–48.

@@ -4,13 +4,13 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 220
-last_updated: 2026-08-01T22:07:00+10:00
-status: top16_pairwise_sorted
+last_updated: 2026-08-01T22:43:00+10:00
+status: ranks17_32_pairwise_sorted
 ---
 
 # Current Draft Board
 
-This is the **only canonical current overall ordering**. The first 16 have now been stable-sorted by explicit player-versus-player comparisons. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
+This is the **only canonical current overall ordering**. The first 32 have now been stable-sorted in two explicit player-versus-player blocks. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
 
 ## Advised order
 
@@ -32,26 +32,26 @@ This is the **only canonical current overall ordering**. The first 16 have now b
 | 14 | Semenyo | MID | MCI | Foundation | A | 397 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
 | 15 | Gibbs-White | MID | NFO | Foundation | A | 480 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
 | 16 | Rogers | MID | CHE | Foundation | A | 40 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |
-| 17 | Bruno G. | MID | NEW | Foundation | B+ | 452 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 18 | Virgil | DEF | LIV | Foundation | B+ | 356 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 19 | Rice | MID | ARS | Foundation | B+ | 13 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 20 | Wilson | MID | LEE | Foundation | B+ | 260 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 21 | Calvert-Lewin | FWD | LEE | Foundation | B+ | 346 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 22 | Dewsbury-Hall | MID | EVE | Foundation | B+ | 236 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 23 | Foden | MID | MCI | Foundation | B+ | 398 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 24 | Gakpo | MID | LIV | Foundation | B+ | 367 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 25 | Muñoz | DEF | CRY | Foundation | B+ | 201 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 26 | Tarkowski | DEF | EVE | Foundation | B+ | 229 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 27 | Tavernier | MID | BOU | Foundation | B+ | 68 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 28 | Kluivert | MID | BOU | Foundation | B+ | 70 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 29 | Szoboszlai | MID | LIV | Foundation | B+ | 368 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 30 | Enzo | MID | CHE | Foundation | B+ | 155 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 31 | Anderson | MID | MCI | Foundation | B+ | 481 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 32 | O.Dango | MID | BRE | Foundation | B+ | 95 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 33 | Damsgaard | MID | BRE | Core | B | 96 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 34 | Eze | MID | ARS | Core | B | 14 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 35 | Ødegaard | MID | ARS | Core | B | 15 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
-| 36 | Mateta | FWD | CRY | Core | B | 223 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
+| 17 | Foden | MID | MCI | Foundation | B+ | 398 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 18 | Gakpo | MID | LIV | Foundation | B+ | 367 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 19 | Eze | MID | ARS | Foundation | B+ | 14 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 20 | Ødegaard | MID | ARS | Foundation | B+ | 15 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 21 | Mateta | FWD | CRY | Foundation | B+ | 223 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 22 | Kluivert | MID | BOU | Foundation | B+ | 70 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 23 | Tavernier | MID | BOU | Foundation | B+ | 68 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 24 | Szoboszlai | MID | LIV | Foundation | B+ | 368 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 25 | Bruno G. | MID | NEW | Foundation | B+ | 452 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 26 | Muñoz | DEF | CRY | Foundation | B+ | 201 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 27 | Calvert-Lewin | FWD | LEE | Foundation | B+ | 346 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 28 | Damsgaard | MID | BRE | Foundation | B+ | 96 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 29 | O.Dango | MID | BRE | Foundation | B+ | 95 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 30 | Wilson | MID | LEE | Foundation | B+ | 260 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 31 | Rice | MID | ARS | Foundation | B+ | 13 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 32 | Virgil | DEF | LIV | Foundation | B+ | 356 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 33 | Dewsbury-Hall | MID | EVE | Core | B | 236 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 34 | Tarkowski | DEF | EVE | Core | B | 229 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 35 | Enzo | MID | CHE | Core | B | 155 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
+| 36 | Anderson | MID | MCI | Core | B | 481 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |
 | 37 | Richarlison | FWD | TOT | Core | B | 527 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 38 | Guéhi | DEF | MCI | Core | B | 388 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
 | 39 | Gvardiol | DEF | MCI | Core | B | 391 | Available | 2026-08-01T18:48:00+10:00 | [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]] |
