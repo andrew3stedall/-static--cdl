@@ -1,6 +1,6 @@
 ---
 type: changelog
-last_updated: 2026-08-01T17:38:00+10:00
+last_updated: 2026-08-01T18:09:00+10:00
 append_only: true
 ---
 
@@ -63,3 +63,6 @@ Every Markdown creation, update, correction or supersession is recorded separate
 | 2026-08-01T17:38:00+10:00 | `vault/Wiki.md` | Updated | Replaced the foundation-only status with current conclusions, source-graph method, active uncertainties and latest records. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | Review synthesis |
 | 2026-08-01T17:38:00+10:00 | `vault/Home.md` | Updated | Pointed the vault landing page to the first review, changes, API snapshot, source graph and scarcity note. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | Repository navigation update |
 | 2026-08-01T17:38:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded every Markdown document created or changed in the first player review. | [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]] | Per-document audit |
+| 2026-08-01T18:09:00+10:00 | `vault/05 Sources/X Source Graph.md` | Corrected | Corrected the Planet FPL host identity from James Richardson to James Linden and added source evidence and a correction backlink. | [[07 Changes/2026/08/2026-08-01/1809-AEST-source-name-correction]] | [Planet FPL on Apple Podcasts](https://podcasts.apple.com/au/podcast/planet-fpl-the-fantasy-football-podcast/id1280497332) |
+| 2026-08-01T18:09:00+10:00 | `vault/07 Changes/2026/08/2026-08-01/1809-AEST-source-name-correction.md` | Created | Recorded the original source-name error, correction evidence and confirmation that no player ranking changed. | Self | [Planet FPL on Apple Podcasts](https://podcasts.apple.com/au/podcast/planet-fpl-the-fantasy-football-podcast/id1280497332) |
+| 2026-08-01T18:09:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded each Markdown document changed by the Planet FPL source-name correction. | [[07 Changes/2026/08/2026-08-01/1809-AEST-source-name-correction]] | Per-document audit |

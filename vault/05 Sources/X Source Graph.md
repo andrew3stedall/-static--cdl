@@ -1,7 +1,7 @@
 ---
 type: source_graph
 platform: X
-last_reviewed: 2026-08-01T17:38:00+10:00
+last_reviewed: 2026-08-01T18:09:00+10:00
 coverage: partial_public_index
 ---
 
@@ -18,7 +18,7 @@ A follow, mention or repost is a **discovery edge**, not evidence that the linke
 | Account | Handle | Primary use | Treatment |
 |---|---|---|---|
 | Planet FPL | [@PlanetFPLPod](https://x.com/PlanetFPLPod) | Tactical discussion, club correspondents, manager tendencies | Preferred high-signal seed; extract underlying facts and James's judgement separately. |
-| James Richardson / Planet FPL network | Planet FPL ecosystem | Broad club knowledge and correspondent discovery | High-value discovery node; do not assume every contributor is equally reliable. |
+| James Linden / Planet FPL network | [Planet FPL podcast listing](https://podcasts.apple.com/au/podcast/planet-fpl-the-fantasy-football-podcast/id1280497332) | Broad club knowledge and correspondent discovery | High-value discovery node; do not assume every contributor is equally reliable. |
 | Suj | [@sujanshah](https://x.com/sujanshah) | Planet FPL discussion and West Ham perspective | Supporting seed. |
 | Clayton | [@claytsAFC](https://x.com/claytsAFC) | Arsenal and Planet FPL network | Supporting seed. |
 | Planet FPL Hunter | [@PlanetFPLHunter](https://x.com/PlanetFPLHunter) | Planet FPL network | Supporting seed. |
@@ -71,6 +71,10 @@ The public web does not provide a complete, dependable export of every seed acco
 - accounts are added only when actually discovered through public evidence;
 - inaccessible follow relationships are recorded as unavailable rather than guessed;
 - future runs should expand the graph incrementally and preserve discovery provenance.
+
+## Correction history
+
+- 2026-08-01T18:09:00+10:00 — Corrected the Planet FPL host from “James Richardson” to **James Linden** after checking the current Apple Podcasts host listing. See [[07 Changes/2026/08/2026-08-01/1809-AEST-source-name-correction]].
 
 ## Next expansion priorities
 
