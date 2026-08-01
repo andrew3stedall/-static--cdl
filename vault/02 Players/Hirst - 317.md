@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 561
-player_name: Anselmino
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Defender]]"
+fpl_id: 317
+player_name: Hirst
+team: "[[03 Teams/IPS]]"
+position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 194
+current_rank: 168
 current_segment: Undrafted buffer
 last_reviewed: 2026-08-02T08:41:00+10:00
 ---
 
-# Anselmino
+# Hirst
 
 ## Current assessment
 
-Ranked 194 after the ranks 171–200 pairwise review with challengers 166–205. Raw expected season points were assessed before positional scarcity.
+Ranked 168 after the ranks 171–200 pairwise review with challengers 166–205. Raw expected season points were assessed before positional scarcity.
 
 ## Pairwise placement
 
-- Immediate comparison: **Vitor Reis / B.Badiashile**.
-- Decision: marginal upside over Badiashile in an unresolved Chelsea hierarchy.
-- Confidence: low.
+- Immediate comparison: **Nmecha / Simms**.
+- Decision: starting-striker path beats the remaining fringe forwards.
+- Confidence: medium.
 - Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
 
 ## Evidence timeline
 
-- 2026-08-02 08:41 AEST — moved from rank 169 to 194 in the stable pairwise pass.
+- 2026-08-02 08:41 AEST — moved from rank 201 to 168 in the stable pairwise pass.
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
