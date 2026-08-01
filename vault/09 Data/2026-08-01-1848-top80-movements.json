@@ -1,0 +1,1950 @@
+{
+  "reviewed_at": "2026-08-01T18:48:00+10:00",
+  "movement_count": 216,
+  "movements": [
+    {
+      "fpl_id": 12,
+      "player": "Saka",
+      "old_rank": 11,
+      "new_rank": 3,
+      "delta": 8,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 379,
+      "player": "Isak",
+      "old_rank": 96,
+      "new_rank": 4,
+      "delta": 92,
+      "team": "LIV",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 154,
+      "player": "Palmer",
+      "old_rank": 35,
+      "new_rank": 6,
+      "delta": 29,
+      "team": "CHE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 55,
+      "player": "Watkins",
+      "old_rank": 8,
+      "new_rank": 7,
+      "delta": 1,
+      "team": "AVL",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 4,
+      "player": "Gabriel",
+      "old_rank": 3,
+      "new_rank": 8,
+      "delta": -5,
+      "team": "ARS",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 480,
+      "player": "Gibbs-White",
+      "old_rank": 12,
+      "new_rank": 9,
+      "delta": 3,
+      "team": "NFO",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 165,
+      "player": "João Pedro",
+      "old_rank": 4,
+      "new_rank": 10,
+      "delta": -6,
+      "team": "CHE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 427,
+      "player": "Mbeumo",
+      "old_rank": 29,
+      "new_rank": 11,
+      "delta": 18,
+      "team": "MUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 428,
+      "player": "Cunha",
+      "old_rank": 38,
+      "new_rank": 12,
+      "delta": 26,
+      "team": "MUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 397,
+      "player": "Semenyo",
+      "old_rank": 6,
+      "new_rank": 13,
+      "delta": -7,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 25,
+      "player": "Gyökeres",
+      "old_rank": 40,
+      "new_rank": 14,
+      "delta": 26,
+      "team": "ARS",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 366,
+      "player": "Wirtz",
+      "old_rank": 77,
+      "new_rank": 15,
+      "delta": 62,
+      "team": "LIV",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 40,
+      "player": "Rogers",
+      "old_rank": 26,
+      "new_rank": 16,
+      "delta": 10,
+      "team": "CHE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 452,
+      "player": "Bruno G.",
+      "old_rank": 7,
+      "new_rank": 17,
+      "delta": -10,
+      "team": "NEW",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 356,
+      "player": "Virgil",
+      "old_rank": 20,
+      "new_rank": 18,
+      "delta": 2,
+      "team": "LIV",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 13,
+      "player": "Rice",
+      "old_rank": 10,
+      "new_rank": 19,
+      "delta": -9,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 260,
+      "player": "Wilson",
+      "old_rank": 23,
+      "new_rank": 20,
+      "delta": 3,
+      "team": "LEE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 346,
+      "player": "Calvert-Lewin",
+      "old_rank": 18,
+      "new_rank": 21,
+      "delta": -3,
+      "team": "LEE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 236,
+      "player": "Dewsbury-Hall",
+      "old_rank": 13,
+      "new_rank": 22,
+      "delta": -9,
+      "team": "EVE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 398,
+      "player": "Foden",
+      "old_rank": 66,
+      "new_rank": 23,
+      "delta": 43,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 367,
+      "player": "Gakpo",
+      "old_rank": 101,
+      "new_rank": 24,
+      "delta": 77,
+      "team": "LIV",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 201,
+      "player": "Muñoz",
+      "old_rank": 17,
+      "new_rank": 25,
+      "delta": -8,
+      "team": "CRY",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 229,
+      "player": "Tarkowski",
+      "old_rank": 22,
+      "new_rank": 26,
+      "delta": -4,
+      "team": "EVE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 68,
+      "player": "Tavernier",
+      "old_rank": 61,
+      "new_rank": 27,
+      "delta": 34,
+      "team": "BOU",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 70,
+      "player": "Kluivert",
+      "old_rank": null,
+      "new_rank": 28,
+      "delta": null,
+      "team": "BOU",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 368,
+      "player": "Szoboszlai",
+      "old_rank": 33,
+      "new_rank": 29,
+      "delta": 4,
+      "team": "LIV",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 155,
+      "player": "Enzo",
+      "old_rank": 36,
+      "new_rank": 30,
+      "delta": 6,
+      "team": "CHE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 481,
+      "player": "Anderson",
+      "old_rank": 19,
+      "new_rank": 31,
+      "delta": -12,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 95,
+      "player": "O.Dango",
+      "old_rank": 42,
+      "new_rank": 32,
+      "delta": 10,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 96,
+      "player": "Damsgaard",
+      "old_rank": 125,
+      "new_rank": 33,
+      "delta": 92,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 14,
+      "player": "Eze",
+      "old_rank": 121,
+      "new_rank": 34,
+      "delta": 87,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 15,
+      "player": "Ødegaard",
+      "old_rank": 180,
+      "new_rank": 35,
+      "delta": 145,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 223,
+      "player": "Mateta",
+      "old_rank": 41,
+      "new_rank": 36,
+      "delta": 5,
+      "team": "CRY",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 527,
+      "player": "Richarlison",
+      "old_rank": 32,
+      "new_rank": 37,
+      "delta": -5,
+      "team": "TOT",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 388,
+      "player": "Guéhi",
+      "old_rank": 9,
+      "new_rank": 38,
+      "delta": -29,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 391,
+      "player": "Gvardiol",
+      "old_rank": 27,
+      "new_rank": 39,
+      "delta": -12,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 387,
+      "player": "O'Reilly",
+      "old_rank": 14,
+      "new_rank": 40,
+      "delta": -26,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 498,
+      "player": "Senesi",
+      "old_rank": 15,
+      "new_rank": 41,
+      "delta": -26,
+      "team": "TOT",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 112,
+      "player": "Van Hecke",
+      "old_rank": 44,
+      "new_rank": 42,
+      "delta": 2,
+      "team": "TOT",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 399,
+      "player": "Cherki",
+      "old_rank": 50,
+      "new_rank": 43,
+      "delta": 7,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 400,
+      "player": "Doku",
+      "old_rank": 62,
+      "new_rank": 44,
+      "delta": 18,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 401,
+      "player": "Marmoush",
+      "old_rank": 161,
+      "new_rank": 45,
+      "delta": 116,
+      "team": "MCI",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 525,
+      "player": "Fernandes",
+      "old_rank": 82,
+      "new_rank": 46,
+      "delta": 36,
+      "team": "TOT",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 542,
+      "player": "E.Le Fée",
+      "old_rank": 54,
+      "new_rank": 47,
+      "delta": 7,
+      "team": "SUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 237,
+      "player": "Ndiaye",
+      "old_rank": 65,
+      "new_rank": 48,
+      "delta": 17,
+      "team": "EVE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 94,
+      "player": "Schade",
+      "old_rank": 108,
+      "new_rank": 49,
+      "delta": 59,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 335,
+      "player": "Stach",
+      "old_rank": 21,
+      "new_rank": 50,
+      "delta": -29,
+      "team": "LEE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 338,
+      "player": "Ampadu",
+      "old_rank": 75,
+      "new_rank": 51,
+      "delta": 24,
+      "team": "LEE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 526,
+      "player": "Solanke",
+      "old_rank": 128,
+      "new_rank": 52,
+      "delta": 76,
+      "team": "TOT",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 208,
+      "player": "Sarr",
+      "old_rank": 46,
+      "new_rank": 53,
+      "delta": -7,
+      "team": "CRY",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 121,
+      "player": "Mitoma",
+      "old_rank": null,
+      "new_rank": 54,
+      "delta": null,
+      "team": "BHA",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 122,
+      "player": "Minteh",
+      "old_rank": 122,
+      "new_rank": 55,
+      "delta": 67,
+      "team": "BHA",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 79,
+      "player": "Evanilson",
+      "old_rank": 69,
+      "new_rank": 56,
+      "delta": 13,
+      "team": "BOU",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 439,
+      "player": "Šeško",
+      "old_rank": 43,
+      "new_rank": 57,
+      "delta": -14,
+      "team": "MUN",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 490,
+      "player": "Wood",
+      "old_rank": 120,
+      "new_rank": 58,
+      "delta": 62,
+      "team": "NFO",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 463,
+      "player": "Woltemade",
+      "old_rank": 63,
+      "new_rank": 59,
+      "delta": 4,
+      "team": "NEW",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 465,
+      "player": "Osula",
+      "old_rank": 70,
+      "new_rank": 60,
+      "delta": 10,
+      "team": "NEW",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 453,
+      "player": "Barnes",
+      "old_rank": 207,
+      "new_rank": 61,
+      "delta": 146,
+      "team": "NEW",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 431,
+      "player": "Amad",
+      "old_rank": 208,
+      "new_rank": 62,
+      "delta": 146,
+      "team": "MUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 156,
+      "player": "Neto",
+      "old_rank": 94,
+      "new_rank": 63,
+      "delta": 31,
+      "team": "CHE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 512,
+      "player": "Kudus",
+      "old_rank": 89,
+      "new_rank": 64,
+      "delta": 25,
+      "team": "TOT",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 515,
+      "player": "Maddison",
+      "old_rank": 191,
+      "new_rank": 65,
+      "delta": 126,
+      "team": "TOT",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 499,
+      "player": "Pedro Porro",
+      "old_rank": 115,
+      "new_rank": 66,
+      "delta": 49,
+      "team": "TOT",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 142,
+      "player": "James",
+      "old_rank": 52,
+      "new_rank": 67,
+      "delta": -15,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 143,
+      "player": "Chalobah",
+      "old_rank": 49,
+      "new_rank": 68,
+      "delta": -19,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 533,
+      "player": "Mukiele",
+      "old_rank": 16,
+      "new_rank": 69,
+      "delta": -53,
+      "team": "SUN",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 204,
+      "player": "Mitchell",
+      "old_rank": 98,
+      "new_rank": 70,
+      "delta": 28,
+      "team": "CRY",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 6,
+      "player": "Saliba",
+      "old_rank": 88,
+      "new_rank": 71,
+      "delta": 17,
+      "team": "ARS",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 5,
+      "player": "J.Timber",
+      "old_rank": 47,
+      "new_rank": 72,
+      "delta": -25,
+      "team": "ARS",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 1,
+      "player": "Raya",
+      "old_rank": 25,
+      "new_rank": 73,
+      "delta": -48,
+      "team": "ARS",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 384,
+      "player": "Donnarumma",
+      "old_rank": 45,
+      "new_rank": 74,
+      "delta": -29,
+      "team": "MCI",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 226,
+      "player": "Pickford",
+      "old_rank": 83,
+      "new_rank": 75,
+      "delta": 8,
+      "team": "EVE",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 82,
+      "player": "Kelleher",
+      "old_rank": 58,
+      "new_rank": 76,
+      "delta": -18,
+      "team": "BRE",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 198,
+      "player": "Henderson",
+      "old_rank": 84,
+      "new_rank": 77,
+      "delta": 7,
+      "team": "CRY",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 544,
+      "player": "Xhaka",
+      "old_rank": 102,
+      "new_rank": 79,
+      "delta": 23,
+      "team": "SUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 261,
+      "player": "Iwobi",
+      "old_rank": 113,
+      "new_rank": 80,
+      "delta": 33,
+      "team": "FUL",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 389,
+      "player": "Matheus N.",
+      "old_rank": 24,
+      "new_rank": 81,
+      "delta": -57,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 200,
+      "player": "Lacroix",
+      "old_rank": 28,
+      "new_rank": 82,
+      "delta": -54,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 390,
+      "player": "Rúben",
+      "old_rank": 30,
+      "new_rank": 83,
+      "delta": -53,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 67,
+      "player": "Rayan",
+      "old_rank": 31,
+      "new_rank": 84,
+      "delta": -53,
+      "team": "BOU",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 61,
+      "player": "Truffert",
+      "old_rank": 34,
+      "new_rank": 85,
+      "delta": -51,
+      "team": "BOU",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 380,
+      "player": "Ekitiké",
+      "old_rank": 37,
+      "new_rank": 86,
+      "delta": -49,
+      "team": "LIV",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 8,
+      "player": "Calafiori",
+      "old_rank": 39,
+      "new_rank": 87,
+      "delta": -48,
+      "team": "ARS",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 136,
+      "player": "Welbeck",
+      "old_rank": 48,
+      "new_rank": 88,
+      "delta": -40,
+      "team": "BHA",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 124,
+      "player": "Groß",
+      "old_rank": 51,
+      "new_rank": 89,
+      "delta": -38,
+      "team": "BHA",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 532,
+      "player": "Ballard",
+      "old_rank": 53,
+      "new_rank": 90,
+      "delta": -37,
+      "team": "SUN",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 231,
+      "player": "Keane",
+      "old_rank": 55,
+      "new_rank": 91,
+      "delta": -36,
+      "team": "EVE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 529,
+      "player": "Roefs",
+      "old_rank": 56,
+      "new_rank": 92,
+      "delta": -36,
+      "team": "SUN",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 327,
+      "player": "Bijol",
+      "old_rank": 57,
+      "new_rank": 93,
+      "delta": -36,
+      "team": "LEE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 500,
+      "player": "Romero",
+      "old_rank": 59,
+      "new_rank": 94,
+      "delta": -35,
+      "team": "TOT",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 418,
+      "player": "Maguire",
+      "old_rank": 60,
+      "new_rank": 95,
+      "delta": -35,
+      "team": "MUN",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 371,
+      "player": "Gravenberch",
+      "old_rank": 64,
+      "new_rank": 96,
+      "delta": -32,
+      "team": "LIV",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 202,
+      "player": "Richards",
+      "old_rank": 67,
+      "new_rank": 97,
+      "delta": -30,
+      "team": "CRY",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 28,
+      "player": "Martinez",
+      "old_rank": 68,
+      "new_rank": 98,
+      "delta": -30,
+      "team": "AVL",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 336,
+      "player": "Okafor",
+      "old_rank": 71,
+      "new_rank": 99,
+      "delta": -28,
+      "team": "LEE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 60,
+      "player": "Hill",
+      "old_rank": 72,
+      "new_rank": 100,
+      "delta": -28,
+      "team": "BOU",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 535,
+      "player": "Alderete",
+      "old_rank": 73,
+      "new_rank": 101,
+      "delta": -28,
+      "team": "SUN",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 473,
+      "player": "Aina",
+      "old_rank": 74,
+      "new_rank": 102,
+      "delta": -28,
+      "team": "NFO",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 491,
+      "player": "Igor Jesus",
+      "old_rank": 76,
+      "new_rank": 103,
+      "delta": -27,
+      "team": "NFO",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 256,
+      "player": "Tete",
+      "old_rank": 79,
+      "new_rank": 104,
+      "delta": -25,
+      "team": "FUL",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 26,
+      "player": "Havertz",
+      "old_rank": 80,
+      "new_rank": 105,
+      "delta": -25,
+      "team": "ARS",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 442,
+      "player": "Pope",
+      "old_rank": 81,
+      "new_rank": 106,
+      "delta": -25,
+      "team": "NEW",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 253,
+      "player": "Andersen",
+      "old_rank": 85,
+      "new_rank": 107,
+      "delta": -22,
+      "team": "FUL",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 238,
+      "player": "Grealish",
+      "old_rank": 86,
+      "new_rank": 108,
+      "delta": -22,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 130,
+      "player": "Wieffer",
+      "old_rank": 87,
+      "new_rank": 109,
+      "delta": -22,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 445,
+      "player": "Thiaw",
+      "old_rank": 90,
+      "new_rank": 110,
+      "delta": -20,
+      "team": "NEW",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 350,
+      "player": "A.Becker",
+      "old_rank": 91,
+      "new_rank": 111,
+      "delta": -20,
+      "team": "LIV",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 552,
+      "player": "Brobbey",
+      "old_rank": 92,
+      "new_rank": 112,
+      "delta": -20,
+      "team": "SUN",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 203,
+      "player": "Canvot",
+      "old_rank": 93,
+      "new_rank": 113,
+      "delta": -20,
+      "team": "CRY",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 415,
+      "player": "Dorgu",
+      "old_rank": 95,
+      "new_rank": 114,
+      "delta": -19,
+      "team": "MUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 69,
+      "player": "Scott",
+      "old_rank": 97,
+      "new_rank": 115,
+      "delta": -18,
+      "team": "BOU",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 447,
+      "player": "Botman",
+      "old_rank": 99,
+      "new_rank": 116,
+      "delta": -17,
+      "team": "NEW",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 392,
+      "player": "Aït-Nouri",
+      "old_rank": 100,
+      "new_rank": 117,
+      "delta": -17,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 85,
+      "player": "Van den Berg",
+      "old_rank": 103,
+      "new_rank": 118,
+      "delta": -15,
+      "team": "BRE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 269,
+      "player": "Sessegnon",
+      "old_rank": 104,
+      "new_rank": 119,
+      "delta": -15,
+      "team": "FUL",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 109,
+      "player": "Verbruggen",
+      "old_rank": 105,
+      "new_rank": 120,
+      "delta": -15,
+      "team": "BHA",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 412,
+      "player": "Lammens",
+      "old_rank": 106,
+      "new_rank": 121,
+      "delta": -15,
+      "team": "MUN",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 9,
+      "player": "Hincapie",
+      "old_rank": 107,
+      "new_rank": 122,
+      "delta": -15,
+      "team": "ARS",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 172,
+      "player": "Wilson",
+      "old_rank": 109,
+      "new_rank": 123,
+      "delta": -14,
+      "team": "COV",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 467,
+      "player": "Sels",
+      "old_rank": 110,
+      "new_rank": 124,
+      "delta": -14,
+      "team": "NFO",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 496,
+      "player": "Kinsky",
+      "old_rank": 111,
+      "new_rank": 125,
+      "delta": -14,
+      "team": "TOT",
+      "position": "GKP"
+    },
+    {
+      "fpl_id": 469,
+      "player": "N.Williams",
+      "old_rank": 112,
+      "new_rank": 126,
+      "delta": -14,
+      "team": "NFO",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 248,
+      "player": "Beto",
+      "old_rank": 114,
+      "new_rank": 127,
+      "delta": -13,
+      "team": "EVE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 257,
+      "player": "Bassey",
+      "old_rank": 116,
+      "new_rank": 128,
+      "delta": -12,
+      "team": "FUL",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 429,
+      "player": "Rashford",
+      "old_rank": 117,
+      "new_rank": 129,
+      "delta": -12,
+      "team": "MUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 19,
+      "player": "Zubimendi",
+      "old_rank": 118,
+      "new_rank": 130,
+      "delta": -12,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 166,
+      "player": "N.Jackson",
+      "old_rank": 119,
+      "new_rank": 131,
+      "delta": -12,
+      "team": "CHE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 32,
+      "player": "Cash",
+      "old_rank": 123,
+      "new_rank": 132,
+      "delta": -9,
+      "team": "AVL",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 45,
+      "player": "McGinn",
+      "old_rank": 124,
+      "new_rank": 133,
+      "delta": -9,
+      "team": "AVL",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 503,
+      "player": "Van de Ven",
+      "old_rank": 126,
+      "new_rank": 134,
+      "delta": -8,
+      "team": "TOT",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 337,
+      "player": "Aaronson",
+      "old_rank": 127,
+      "new_rank": 135,
+      "delta": -8,
+      "team": "LEE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 239,
+      "player": "Garner",
+      "old_rank": 129,
+      "new_rank": 136,
+      "delta": -7,
+      "team": "EVE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 417,
+      "player": "Dalot",
+      "old_rank": 130,
+      "new_rank": 137,
+      "delta": -7,
+      "team": "MUN",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 129,
+      "player": "Ayari",
+      "old_rank": 131,
+      "new_rank": 138,
+      "delta": -7,
+      "team": "BHA",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 123,
+      "player": "Hinshelwood",
+      "old_rank": 132,
+      "new_rank": 139,
+      "delta": -7,
+      "team": "BHA",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 450,
+      "player": "Livramento",
+      "old_rank": 133,
+      "new_rank": 140,
+      "delta": -7,
+      "team": "NEW",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 114,
+      "player": "Boscagli",
+      "old_rank": 134,
+      "new_rank": 141,
+      "delta": -7,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 332,
+      "player": "Justin",
+      "old_rank": 135,
+      "new_rank": 142,
+      "delta": -7,
+      "team": "LEE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 152,
+      "player": "Palestra",
+      "old_rank": 136,
+      "new_rank": 143,
+      "delta": -7,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 159,
+      "player": "Caicedo",
+      "old_rank": 137,
+      "new_rank": 144,
+      "delta": -7,
+      "team": "CHE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 448,
+      "player": "Burn",
+      "old_rank": 138,
+      "new_rank": 145,
+      "delta": -7,
+      "team": "NEW",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 393,
+      "player": "Khusanov",
+      "old_rank": 139,
+      "new_rank": 146,
+      "delta": -7,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 404,
+      "player": "Reijnders",
+      "old_rank": 140,
+      "new_rank": 147,
+      "delta": -7,
+      "team": "MCI",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 113,
+      "player": "F.Kadıoğlu",
+      "old_rank": 141,
+      "new_rank": 148,
+      "delta": -7,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 516,
+      "player": "Bentancur",
+      "old_rank": 142,
+      "new_rank": 149,
+      "delta": -7,
+      "team": "TOT",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 230,
+      "player": "Branthwaite",
+      "old_rank": 143,
+      "new_rank": 150,
+      "delta": -7,
+      "team": "EVE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 446,
+      "player": "Schär",
+      "old_rank": 144,
+      "new_rank": 151,
+      "delta": -7,
+      "team": "NEW",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 394,
+      "player": "Alleyne",
+      "old_rank": 145,
+      "new_rank": 152,
+      "delta": -7,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 328,
+      "player": "Struijk",
+      "old_rank": 146,
+      "new_rank": 153,
+      "delta": -7,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 149,
+      "player": "Colwill",
+      "old_rank": 147,
+      "new_rank": 154,
+      "delta": -7,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 362,
+      "player": "Jacquet",
+      "old_rank": 148,
+      "new_rank": 155,
+      "delta": -7,
+      "team": "LIV",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 364,
+      "player": "Tsimikas",
+      "old_rank": 149,
+      "new_rank": 156,
+      "delta": -7,
+      "team": "LIV",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 120,
+      "player": "Svoboda",
+      "old_rank": 150,
+      "new_rank": 157,
+      "delta": -7,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 504,
+      "player": "Vuskovic",
+      "old_rank": 151,
+      "new_rank": 158,
+      "delta": -7,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 492,
+      "player": "Awoniyi",
+      "old_rank": 152,
+      "new_rank": 159,
+      "delta": -7,
+      "team": "NFO",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 63,
+      "player": "Milosavljević",
+      "old_rank": 153,
+      "new_rank": 160,
+      "delta": -7,
+      "team": "BOU",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 334,
+      "player": "Muharemović",
+      "old_rank": 154,
+      "new_rank": 161,
+      "delta": -7,
+      "team": "LEE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 543,
+      "player": "Diarra",
+      "old_rank": 155,
+      "new_rank": 162,
+      "delta": -7,
+      "team": "SUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 125,
+      "player": "Georginio",
+      "old_rank": 156,
+      "new_rank": 163,
+      "delta": -7,
+      "team": "BHA",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 30,
+      "player": "Digne",
+      "old_rank": 157,
+      "new_rank": 164,
+      "delta": -7,
+      "team": "AVL",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 249,
+      "player": "Barry",
+      "old_rank": 158,
+      "new_rank": 165,
+      "delta": -7,
+      "team": "EVE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 232,
+      "player": "O'Brien",
+      "old_rank": 159,
+      "new_rank": 166,
+      "delta": -7,
+      "team": "EVE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 471,
+      "player": "Milenković",
+      "old_rank": 160,
+      "new_rank": 167,
+      "delta": -7,
+      "team": "NFO",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 329,
+      "player": "Rodon",
+      "old_rank": 162,
+      "new_rank": 168,
+      "delta": -6,
+      "team": "LEE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 472,
+      "player": "Murillo",
+      "old_rank": 163,
+      "new_rank": 169,
+      "delta": -6,
+      "team": "NFO",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 396,
+      "player": "Vitor Reis",
+      "old_rank": 164,
+      "new_rank": 170,
+      "delta": -6,
+      "team": "MCI",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 561,
+      "player": "Anselmino",
+      "old_rank": 165,
+      "new_rank": 171,
+      "delta": -6,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 146,
+      "player": "B.Badiashile",
+      "old_rank": 166,
+      "new_rank": 172,
+      "delta": -6,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 153,
+      "player": "Disasi",
+      "old_rank": 167,
+      "new_rank": 173,
+      "delta": -6,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 150,
+      "player": "M.Sarr",
+      "old_rank": 168,
+      "new_rank": 174,
+      "delta": -6,
+      "team": "CHE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 92,
+      "player": "Ji-soo",
+      "old_rank": 169,
+      "new_rank": 175,
+      "delta": -6,
+      "team": "BRE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 91,
+      "player": "Pinnock",
+      "old_rank": 170,
+      "new_rank": 176,
+      "delta": -6,
+      "team": "BRE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 93,
+      "player": "Schuster",
+      "old_rank": 171,
+      "new_rank": 177,
+      "delta": -6,
+      "team": "BRE",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 117,
+      "player": "Coppola",
+      "old_rank": 172,
+      "new_rank": 178,
+      "delta": -6,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 119,
+      "player": "Costinha",
+      "old_rank": 173,
+      "new_rank": 179,
+      "delta": -6,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 118,
+      "player": "Igor",
+      "old_rank": 174,
+      "new_rank": 180,
+      "delta": -6,
+      "team": "BHA",
+      "position": "DEF"
+    },
+    {
+      "fpl_id": 47,
+      "player": "Kamara",
+      "old_rank": 175,
+      "new_rank": 181,
+      "delta": -6,
+      "team": "AVL",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 488,
+      "player": "Sangaré",
+      "old_rank": 176,
+      "new_rank": 182,
+      "delta": -6,
+      "team": "NFO",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 81,
+      "player": "Rodríguez",
+      "old_rank": 177,
+      "new_rank": 183,
+      "delta": -6,
+      "team": "BOU",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 108,
+      "player": "Wilson",
+      "old_rank": 178,
+      "new_rank": 184,
+      "delta": -6,
+      "team": "BRE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 493,
+      "player": "Kalimuendo",
+      "old_rank": 179,
+      "new_rank": 185,
+      "delta": -6,
+      "team": "NFO",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 193,
+      "player": "Wright",
+      "old_rank": 181,
+      "new_rank": 186,
+      "delta": -5,
+      "team": "COV",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 316,
+      "player": "Emersonn",
+      "old_rank": 182,
+      "new_rank": 187,
+      "delta": -5,
+      "team": "IPS",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 295,
+      "player": "McBurnie",
+      "old_rank": 183,
+      "new_rank": 188,
+      "delta": -5,
+      "team": "HUL",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 557,
+      "player": "Tzolis",
+      "old_rank": 184,
+      "new_rank": 189,
+      "delta": -5,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 347,
+      "player": "Nmecha",
+      "old_rank": 185,
+      "new_rank": 190,
+      "delta": -5,
+      "team": "LEE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 210,
+      "player": "Wharton",
+      "old_rank": 186,
+      "new_rank": 191,
+      "delta": -5,
+      "team": "CRY",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 17,
+      "player": "Merino",
+      "old_rank": 187,
+      "new_rank": 192,
+      "delta": -5,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 86,
+      "player": "Lewis-Potter",
+      "old_rank": 188,
+      "new_rank": 193,
+      "delta": -5,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 377,
+      "player": "Munoz",
+      "old_rank": 189,
+      "new_rank": 194,
+      "delta": -5,
+      "team": "LIV",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 73,
+      "player": "Adams",
+      "old_rank": 190,
+      "new_rank": 195,
+      "delta": -5,
+      "team": "BOU",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 196,
+      "player": "Markelo",
+      "old_rank": 192,
+      "new_rank": 196,
+      "delta": -4,
+      "team": "COV",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 195,
+      "player": "Simms",
+      "old_rank": 193,
+      "new_rank": 197,
+      "delta": -4,
+      "team": "COV",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 194,
+      "player": "Thomas-Asante",
+      "old_rank": 194,
+      "new_rank": 198,
+      "delta": -4,
+      "team": "COV",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 320,
+      "player": "Akpom",
+      "old_rank": 195,
+      "new_rank": 199,
+      "delta": -4,
+      "team": "IPS",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 322,
+      "player": "Al-Hamadi",
+      "old_rank": 196,
+      "new_rank": 200,
+      "delta": -4,
+      "team": "IPS",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 317,
+      "player": "Hirst",
+      "old_rank": 197,
+      "new_rank": 201,
+      "delta": -4,
+      "team": "IPS",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 553,
+      "player": "Isidor",
+      "old_rank": 198,
+      "new_rank": 202,
+      "delta": -4,
+      "team": "SUN",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 54,
+      "player": "Gomes",
+      "old_rank": 199,
+      "new_rank": 203,
+      "delta": -4,
+      "team": "AVL",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 127,
+      "player": "Gomez",
+      "old_rank": 200,
+      "new_rank": 204,
+      "delta": -4,
+      "team": "BHA",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 137,
+      "player": "Tzimas",
+      "old_rank": 201,
+      "new_rank": 205,
+      "delta": -4,
+      "team": "BHA",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 549,
+      "player": "Talbi",
+      "old_rank": 202,
+      "new_rank": 206,
+      "delta": -4,
+      "team": "SUN",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 98,
+      "player": "Janelt",
+      "old_rank": 203,
+      "new_rank": 207,
+      "delta": -4,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 170,
+      "player": "Emegha",
+      "old_rank": 204,
+      "new_rank": 208,
+      "delta": -4,
+      "team": "CHE",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 372,
+      "player": "Mac Allister",
+      "old_rank": 205,
+      "new_rank": 209,
+      "delta": -4,
+      "team": "LIV",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 78,
+      "player": "Kroupi.Jr",
+      "old_rank": 206,
+      "new_rank": 210,
+      "delta": -4,
+      "team": "BOU",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 41,
+      "player": "Buendía",
+      "old_rank": 209,
+      "new_rank": 211,
+      "delta": -2,
+      "team": "AVL",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 222,
+      "player": "Strand Larsen",
+      "old_rank": 210,
+      "new_rank": 212,
+      "delta": -2,
+      "team": "CRY",
+      "position": "FWD"
+    },
+    {
+      "fpl_id": 102,
+      "player": "Yarmoliuk",
+      "old_rank": 211,
+      "new_rank": 213,
+      "delta": -2,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 16,
+      "player": "Madueke",
+      "old_rank": 212,
+      "new_rank": 214,
+      "delta": -2,
+      "team": "ARS",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 482,
+      "player": "Hudson-Odoi",
+      "old_rank": 213,
+      "new_rank": 215,
+      "delta": -2,
+      "team": "NFO",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 519,
+      "player": "Gallagher",
+      "old_rank": 214,
+      "new_rank": 216,
+      "delta": -2,
+      "team": "TOT",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 461,
+      "player": "Touré",
+      "old_rank": 215,
+      "new_rank": 217,
+      "delta": -2,
+      "team": "NEW",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 105,
+      "player": "Anthony",
+      "old_rank": 216,
+      "new_rank": 218,
+      "delta": -2,
+      "team": "BRE",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 53,
+      "player": "Manzambi",
+      "old_rank": 217,
+      "new_rank": 219,
+      "delta": -2,
+      "team": "AVL",
+      "position": "MID"
+    },
+    {
+      "fpl_id": 224,
+      "player": "Nketiah",
+      "old_rank": 218,
+      "new_rank": 220,
+      "delta": -2,
+      "team": "CRY",
+      "position": "FWD"
+    }
+  ]
+}
