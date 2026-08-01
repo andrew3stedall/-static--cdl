@@ -1,32 +1,32 @@
 ---
 type: player
-fpl_id: 366
-player_name: Florian Wirtz
-team: "[[03 Teams/LIV]]"
+fpl_id: 40
+player_name: Morgan Rogers
+team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 13
+current_rank: 16
 current_segment: Foundation
 last_reviewed: 2026-08-01T22:07:00+10:00
 ---
 
-# Florian Wirtz
+# Morgan Rogers
 
 ## Current assessment
 
-Used behind the striker and expected to become more important after Salah's departure.
+Promising link-up role with Palmer but substantial competition and role uncertainty.
 
 ## Pairwise placement
 
-- Compared with: **Semenyo**.
-- Decision: Wirtz has a clearer central creative role; Semenyo's Manchester City ceiling is offset by greater rotation risk.
+- Compared with: **Bruno G.**.
+- Decision: Rogers retains rank 16 for attacking ceiling; Bruno Guimaraes is the safer-floor challenger and should pass him if Rogers is not a regular starter.
 - Confidence: medium.
 - Reversal trigger: material injury, role, penalty or expected-minutes evidence that changes the comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 13 in the first-16 block.
-- [Primary evidence](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
+- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 16 in the first-16 block.
+- [Primary evidence](https://www.reuters.com/sports/soccer/rogers-palmer-combination-key-chelsea-revival-says-alonso-2026-07-27/)
 - [Official FPL player pool](https://fantasy.premierleague.com/api/bootstrap-static/)
 
 ## Backlinks

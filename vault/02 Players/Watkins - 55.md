@@ -1,32 +1,32 @@
 ---
 type: player
-fpl_id: 106
-player_name: Igor Thiago
-team: "[[03 Teams/BRE]]"
+fpl_id: 55
+player_name: Ollie Watkins
+team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Forward]]"
 api_status: available
-current_rank: 6
+current_rank: 7
 current_segment: Franchise
 last_reviewed: 2026-08-01T22:07:00+10:00
 ---
 
-# Igor Thiago
+# Ollie Watkins
 
 ## Current assessment
 
-22 goals, 41 big chances, secure striker role and likely penalties.
+Proven durable starting striker with a strong season-long floor and scarce classification.
 
 ## Pairwise placement
 
-- Compared with: **Watkins**.
-- Decision: Thiago's recent chance volume and likely penalties narrowly beat Watkins; reverse if Brentford role or fitness weakens.
+- Compared with: **Gabriel**.
+- Decision: Watkins is expected to score slightly more and forward replacement value is lower than defender replacement value.
 - Confidence: medium-high.
 - Reversal trigger: material injury, role, penalty or expected-minutes evidence that changes the comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 6 in the first-16 block.
-- [Primary evidence](https://www.premierleague.com/en/news/4680821/the-scouts-analysis-of-15-key-player-prices-in-202627-fantasy)
+- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 7 in the first-16 block.
+- [Primary evidence](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official FPL player pool](https://fantasy.premierleague.com/api/bootstrap-static/)
 
 ## Backlinks

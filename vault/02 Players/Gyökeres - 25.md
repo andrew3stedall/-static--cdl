@@ -1,31 +1,31 @@
 ---
 type: player
-fpl_id: 12
-player_name: Bukayo Saka
+fpl_id: 25
+player_name: Viktor Gyökeres
 team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
+position: "[[04 Positions/Forward]]"
 api_status: available
-current_rank: 3
-current_segment: Franchise
+current_rank: 9
+current_segment: Foundation
 last_reviewed: 2026-08-01T22:07:00+10:00
 ---
 
-# Bukayo Saka
+# Viktor Gyökeres
 
 ## Current assessment
 
-Primary Arsenal creator with elite ceiling; prior total was injury-suppressed.
+High-upside Arsenal centre-forward; scarce role and Saka partnership justify promotion.
 
 ## Pairwise placement
 
-- Compared with: **Isak**.
-- Decision: Saka has the safer minutes and broader scoring routes; Isak has greater forward scarcity but more fitness uncertainty.
-- Confidence: medium-high.
+- Compared with: **Mbeumo**.
+- Decision: Gyokeres is drafted first on forward scarcity and central-goal role, although Mbeumo currently has the safer Premier League evidence.
+- Confidence: medium.
 - Reversal trigger: material injury, role, penalty or expected-minutes evidence that changes the comparison.
 
 ## Evidence timeline
 
-- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 3 in the first-16 block.
+- 2026-08-01 22:07 AEST — Pairwise-sorted to rank 9 in the first-16 block.
 - [Primary evidence](https://www.premierleague.com/en/news/4650977/just-how-important-is-saka-to-arsenal)
 - [Official FPL player pool](https://fantasy.premierleague.com/api/bootstrap-static/)
 

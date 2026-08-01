@@ -1,8 +1,8 @@
 ---
 type: wiki
-last_updated: 2026-08-01T20:00:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]"
+last_updated: 2026-08-01T22:07:00+10:00
+latest_review: "[[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
