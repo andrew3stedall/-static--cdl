@@ -1,8 +1,8 @@
 ---
 type: wiki
-last_updated: 2026-08-01T17:38:00+10:00
-latest_review: "[[06 Reviews/2026/08/2026-08-01/1738-AEST-review]]"
-latest_changes: "[[07 Changes/2026/08/2026-08-01/1738-AEST-changes]]"
+last_updated: 2026-08-01T20:00:00+10:00
+latest_review: "[[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]"
+latest_changes: "[[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]"
 ---
 
 # FPL Draft Research Wiki
@@ -19,19 +19,20 @@ This is the navigational summary of the project. It records durable conclusions 
 
 ## Current state
 
-The first official-API-linked top-220 board has been produced. It is a provisional scarcity baseline, not a mature expert consensus. See [[01 Current/Current Draft Board]].
+The first official-API-linked top-220 board remains the canonical ordering. The 2026-08-01 20:00 AEST review found no sufficiently strong new evidence to justify rank, tier, segment, active-pool, injury-status, transfer-status or watchlist-resolution changes. See [[01 Current/Current Draft Board]], [[01 Current/Current Watchlist]] and [[06 Reviews/2026/08/2026-08-01/2000-AEST-review]].
 
-API reconciliation at 2026-08-01T17:38:00+10:00 found 564 players, 20 teams and 380 fixtures, with all 240 external ranking rows mapped to official FPL IDs. See [[09 Data/2026-08-01-official-api-snapshot]].
+API reconciliation at 2026-08-01T17:38:00+10:00 found 564 players, 20 teams and 380 fixtures, with all 240 external ranking rows mapped to official FPL IDs. The 20:00 AEST run rechecked endpoint reachability and found no material pool change requiring a board update. See [[09 Data/2026-08-01-official-api-snapshot]].
 
 ## Current high-level conclusions
 
-- Haaland is the clearest first overall selection.
-- Bruno Fernandes is the clearest midfield anchor.
+- Haaland remains the clearest first overall selection.
+- Bruno Fernandes remains the clearest midfield anchor.
 - Forward scarcity is meaningful, but uncertain starters must not be promoted solely because of position.
 - Goalkeeper depth is sufficient to demote likely backups outside the drafted 160.
 - Defensive-contribution scoring may make elite defenders more valuable, but the external model appears to overstate some defender and low-ceiling midfielder ranks.
 - Manchester City and Chelsea attacking assets require strong rotation discounts until roles stabilise.
-- The top 80 now require manual review using club-local and tactical evidence.
+- The top 80 require manual review using club-local and tactical evidence.
+- The 1 August preseason fixture slate is a next evidence trigger; fixture participation or raw output alone is not accepted as proof of role.
 
 ## Method
 
@@ -63,6 +64,7 @@ See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 - Kroupi is recovering from foot surgery.
 - Liverpool's midfield roles and centre-back availability remain fluid.
 - Arsenal defender injury flags require current medical confirmation.
+- Bruno Guimarães transfer reporting remains an active watch item.
 - Public X indexing cannot expose a complete following graph; coverage expands iteratively.
 
 ## Key navigation
@@ -71,5 +73,5 @@ See [[00 Meta/Repository Contract]] and [[00 Meta/Source Policy]].
 - [[01 Current/Current Watchlist]]
 - [[04 Positions/2026-27 Initial Scarcity]]
 - [[05 Sources/X Source Graph]]
-- [[06 Reviews/2026/08/2026-08-01/1738-AEST-review]]
-- [[07 Changes/2026/08/2026-08-01/1738-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-01/2000-AEST-review]]
+- [[07 Changes/2026/08/2026-08-01/2000-AEST-changes]]
