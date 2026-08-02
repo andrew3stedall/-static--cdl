@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T10:01:00+10:00
+last_updated: 2026-08-02T10:12:00+10:00
 status: active
 ---
 
@@ -105,3 +105,9 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - Re-ranked all 20 former extended-buffer players into comparable tier and segment ranges.
 - Priority triggers: Kerkez/Hall first-choice role, goalkeeper hierarchies, Shaw/Spence fitness and rotation.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]].
+
+## 2026-08-02 10:12 AEST — omitted-player screen
+
+- Added 14 previously omitted active players inside the top 140.
+- Highest-upside role checks: Frimpong, Martinelli, Gusto, Estêvão and Delap.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

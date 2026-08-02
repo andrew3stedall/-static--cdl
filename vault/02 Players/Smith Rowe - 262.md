@@ -1,0 +1,20 @@
+---
+type: player
+fpl_id: 262
+player_name: Smith Rowe
+team: "[[03 Teams/FUL]]"
+position: "[[04 Positions/Midfielder]]"
+api_status: "Available"
+current_rank: 118
+current_segment: Depth
+last_reviewed: 2026-08-02T10:12:00+10:00
+---
+
+# Smith Rowe
+
+Inserted at rank 118 after the full unranked-player screen. Compared with N.Jackson: creative and goal routes merit a Depth slot, discounted for competition.
+
+## Backlinks
+- [[01 Current/Current Draft Board]]
+- [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]]

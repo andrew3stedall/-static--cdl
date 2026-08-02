@@ -5,9 +5,9 @@ player_name: Igor Jesus
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 88
+current_rank: 92
 current_segment: Depth
-last_reviewed: 2026-08-02T08:15:00+10:00
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Igor Jesus
@@ -44,3 +44,7 @@ Ranked 88 after the ranks 81–110 review with challengers from 76–115. Offici
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 92 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

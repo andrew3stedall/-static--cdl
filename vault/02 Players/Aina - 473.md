@@ -5,9 +5,9 @@ player_name: Aina
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 78
-current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+current_rank: 80
+current_segment: Depth
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Aina
@@ -33,3 +33,7 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 80 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

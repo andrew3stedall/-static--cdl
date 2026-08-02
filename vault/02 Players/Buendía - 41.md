@@ -5,9 +5,9 @@ player_name: Buendía
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 202
-current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T08:48:00+10:00
+current_rank: 235
+current_segment: Extended watch buffer
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Buendía
@@ -35,3 +35,7 @@ Ranked 202 after the final 201–220 pairwise review and full active API-pool sc
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 235 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

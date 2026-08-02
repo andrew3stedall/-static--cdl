@@ -5,9 +5,9 @@ player_name: Sangaré
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 189
+current_rank: 220
 current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T08:41:00+10:00
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Sangaré
@@ -35,3 +35,7 @@ Ranked 189 after the ranks 171–200 pairwise review with challengers 166–205.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0841-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 220 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

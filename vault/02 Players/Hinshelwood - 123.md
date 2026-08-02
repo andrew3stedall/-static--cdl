@@ -5,9 +5,9 @@ player_name: Hinshelwood
 team: "[[03 Teams/BHA]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 151
-current_segment: Endgame
-last_reviewed: 2026-08-02T08:37:00+10:00
+current_rank: 176
+current_segment: Undrafted buffer
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Hinshelwood
@@ -35,3 +35,7 @@ Ranked 151 after the ranks 141–170 pairwise review with challengers 136–175.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 176 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

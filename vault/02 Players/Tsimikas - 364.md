@@ -5,9 +5,9 @@ player_name: Tsimikas
 team: "[[03 Teams/LIV]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 157
-current_segment: Endgame
-last_reviewed: 2026-08-02T08:37:00+10:00
+current_rank: 183
+current_segment: Undrafted buffer
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Tsimikas
@@ -35,3 +35,7 @@ Ranked 157 after the ranks 141–170 pairwise review with challengers 136–175.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 183 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
