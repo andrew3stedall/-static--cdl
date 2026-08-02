@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 2326-aest-chelsea-team-review -->
+## Chelsea team comparison — 2326-AEST
+
+- Internal Chelsea rank: **25 of 25**.
+- Overall rank: **348** (was 303).
+- Comparator outcome: lowest current Chelsea role certainty.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]].
+
