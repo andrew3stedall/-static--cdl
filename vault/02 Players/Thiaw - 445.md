@@ -45,3 +45,13 @@ Compared within ranks 106–145. Current placement: **130**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+<!-- 0741-aest-newcastle-team-review -->
+## Newcastle team comparison — 0741-AEST
+
+- Internal Newcastle rank: **12 of 19**.
+- Overall rank: **188** (was 130).
+- Segment/tier: **Deep watch / D-**.
+- Comparator outcome: centre-back floor with modest attacking upside.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].

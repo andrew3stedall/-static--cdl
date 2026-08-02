@@ -33,3 +33,13 @@ Excellent minutes security and floor, but fewer high-value attacking actions tha
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+
+<!-- 0741-aest-newcastle-team-review -->
+## Newcastle team comparison — 0741-AEST
+
+- Internal Newcastle rank: **1 of 19**.
+- Overall rank: **25** (was 25).
+- Segment/tier: **Foundation / B+**.
+- Comparator outcome: set pieces, secure minutes and the strongest all-round floor.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].

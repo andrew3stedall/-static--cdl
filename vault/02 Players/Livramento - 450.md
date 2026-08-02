@@ -39,3 +39,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 0741-aest-newcastle-team-review -->
+## Newcastle team comparison — 0741-AEST
+
+- Internal Newcastle rank: **8 of 19**.
+- Overall rank: **127** (was 188).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: two-way full-back ceiling, discounted for calf fitness.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].

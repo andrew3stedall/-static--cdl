@@ -39,3 +39,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 0741-aest-newcastle-team-review -->
+## Newcastle team comparison — 0741-AEST
+
+- Internal Newcastle rank: **10 of 19**.
+- Overall rank: **162** (was 189).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: aerial and long-range threat with secure centre-back value.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
