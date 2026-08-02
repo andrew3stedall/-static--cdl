@@ -35,3 +35,10 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+
+## 0910-AEST Ipswich comparison
+
+- Ipswich order: **1 of 6**; overall rank **205**.
+- Decision: Best established central-forward route and the strongest current raw-points case in the Ipswich group.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0910-AEST-review]].
