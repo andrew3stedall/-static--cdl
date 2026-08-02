@@ -4,7 +4,7 @@ fpl_id: 380
 player: Ekitiké
 team: LIV
 position: FWD
-current_rank: 158
+current_rank: 159
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **158**
+- Rank: **159**
 - Segment / tier: **Endgame / D+**
 - Availability: Achilles injury - Unknown return date
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

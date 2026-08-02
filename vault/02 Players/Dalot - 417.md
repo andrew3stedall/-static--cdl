@@ -4,7 +4,7 @@ fpl_id: 417
 player: Dalot
 team: MUN
 position: DEF
-current_rank: 148
+current_rank: 149
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **148**
+- Rank: **149**
 - Segment / tier: **Endgame / D+**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

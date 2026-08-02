@@ -4,7 +4,7 @@ fpl_id: 496
 player: Kinsky
 team: TOT
 position: GKP
-current_rank: 179
+current_rank: 180
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **179**
+- Rank: **180**
 - Segment / tier: **Undrafted buffer / D**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

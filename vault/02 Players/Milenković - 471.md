@@ -4,7 +4,7 @@ fpl_id: 471
 player: Milenković
 team: NFO
 position: DEF
-current_rank: 138
+current_rank: 139
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **138**
+- Rank: **139**
 - Segment / tier: **Endgame / D+**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

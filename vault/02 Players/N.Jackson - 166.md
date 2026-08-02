@@ -4,7 +4,7 @@ fpl_id: 166
 player: N.Jackson
 team: CHE
 position: FWD
-current_rank: 180
+current_rank: 181
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **180**
+- Rank: **181**
 - Segment / tier: **Undrafted buffer / D**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

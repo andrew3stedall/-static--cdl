@@ -4,7 +4,7 @@ fpl_id: 85
 player: Van den Berg
 team: BRE
 position: DEF
-current_rank: 144
+current_rank: 145
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **144**
+- Rank: **145**
 - Segment / tier: **Endgame / D+**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

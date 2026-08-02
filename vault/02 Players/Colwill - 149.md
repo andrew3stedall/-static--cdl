@@ -4,7 +4,7 @@ fpl_id: 149
 player: Colwill
 team: CHE
 position: DEF
-current_rank: 181
+current_rank: 182
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **181**
+- Rank: **182**
 - Segment / tier: **Undrafted buffer / D**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

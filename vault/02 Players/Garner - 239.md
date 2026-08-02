@@ -4,7 +4,7 @@ fpl_id: 239
 player: Garner
 team: EVE
 position: MID
-current_rank: 135
+current_rank: 136
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **135**
+- Rank: **136**
 - Segment / tier: **Endgame / D+**
 - Availability: Groin injury - Expected back 22 Aug
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

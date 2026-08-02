@@ -4,7 +4,7 @@ fpl_id: 19
 player: Zubimendi
 team: ARS
 position: MID
-current_rank: 136
+current_rank: 137
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **136**
+- Rank: **137**
 - Segment / tier: **Endgame / D+**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]

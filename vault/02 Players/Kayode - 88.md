@@ -4,7 +4,7 @@ fpl_id: 88
 player: Kayode
 team: BRE
 position: DEF
-current_rank: 143
+current_rank: 144
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-02T11:48:00+10:00
@@ -14,7 +14,7 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 
 ## Current assessment
 
-- Rank: **143**
+- Rank: **144**
 - Segment / tier: **Endgame / D+**
 - Availability: Available
 - Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
