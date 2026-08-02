@@ -155,3 +155,11 @@ last_updated: 2026-08-02T08:41:00+10:00
 - Changes: [[07 Changes/2026/08/2026-08-02/1602-AEST-changes]]
 - Target block: ranks 141–170; challengers 136–175.
 - Outcome: no rank or tier movement; API reconciliation and all adjacent boundaries validated.
+
+<!-- 1658-AEST-latest-run-—-1658-aest -->
+## Latest run — 1658-AEST
+
+- Full review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1658-AEST-changes]]
+- Target: ranks 171–200; challengers 166–205.
+- Outcome: no manufactured movement; API and adjacent boundaries validated.
