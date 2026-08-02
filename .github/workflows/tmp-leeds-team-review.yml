@@ -1,0 +1,30 @@
+name: Temporary Leeds Team Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260803-0012-leeds-team'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260803-0012-leeds-team
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          python scripts/review_leeds_team.py
+          python scripts/validate_draft_board.py
+          rm scripts/review_leeds_team.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Review Leeds United internal draft ordering"
+          git push origin HEAD:codex/fpl-review-20260803-0012-leeds-team
