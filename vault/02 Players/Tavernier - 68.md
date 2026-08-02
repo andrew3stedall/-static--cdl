@@ -33,3 +33,12 @@ Repeated preseason involvement supports role, but fixture difficulty limits prom
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+
+<!-- 1825-aest-bournemouth-team-review -->
+## Bournemouth team comparison — 1825-AEST
+
+- Internal rank: **2 of 19**.
+- Overall rank: **23** (was 23).
+- Comparator outcome: set pieces and secure attacking minutes.
+- Reversal trigger: verified change in minutes, role, set pieces or fitness.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].

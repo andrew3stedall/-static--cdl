@@ -33,3 +33,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+<!-- 1825-aest-bournemouth-team-review -->
+## Bournemouth team comparison — 1825-AEST
+
+- Internal rank: **3 of 19**.
+- Overall rank: **50** (was 50).
+- Comparator outcome: starting-forward scarcity.
+- Reversal trigger: verified change in minutes, role, set pieces or fitness.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].

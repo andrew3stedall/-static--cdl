@@ -33,3 +33,12 @@ High-value attacking role and possible penalties, moderated by difficult opening
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+
+<!-- 1825-aest-bournemouth-team-review -->
+## Bournemouth team comparison — 1825-AEST
+
+- Internal rank: **1 of 19**.
+- Overall rank: **22** (was 22).
+- Comparator outcome: penalties and advanced role.
+- Reversal trigger: verified change in minutes, role, set pieces or fitness.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].

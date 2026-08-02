@@ -35,3 +35,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 1825-aest-bournemouth-team-review -->
+## Bournemouth team comparison — 1825-AEST
+
+- Internal rank: **15 of 19**.
+- Overall rank: **286** (was 323).
+- Comparator outcome: minutes and some set pieces.
+- Reversal trigger: verified change in minutes, role, set pieces or fitness.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].

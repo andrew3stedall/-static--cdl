@@ -40,3 +40,12 @@ Rank updated to 99 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+
+<!-- 1825-aest-bournemouth-team-review -->
+## Bournemouth team comparison — 1825-AEST
+
+- Internal rank: **7 of 19**.
+- Overall rank: **119** (was 99).
+- Comparator outcome: secure goalkeeper floor.
+- Reversal trigger: verified change in minutes, role, set pieces or fitness.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].

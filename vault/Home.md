@@ -175,3 +175,6 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1811-AEST-changes]]
+
+<!-- 1825-aest-bournemouth-team-review -->
+- Bournemouth internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] · [[07 Changes/2026/08/2026-08-02/1825-AEST-changes]].
