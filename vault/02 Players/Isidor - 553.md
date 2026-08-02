@@ -35,3 +35,13 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **11 of 16**.
+- Overall rank: **199** (was 199).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: forward scarcity and scoring route, heavily discounted for hierarchy uncertainty.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+

@@ -51,3 +51,13 @@ Compared within ranks 106–145. Current placement: **123**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **3 of 16**.
+- Overall rank: **73** (was 123).
+- Segment/tier: **Core / C+**.
+- Comparator outcome: central-forward ceiling and forward scarcity, with adaptation risk.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+
