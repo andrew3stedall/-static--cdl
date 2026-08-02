@@ -34,3 +34,12 @@ last_reviewed: 2026-08-01T22:07:00+10:00
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+<!-- 0042-aest-man-united-team-review -->
+## Manchester United team comparison — 0042-AEST
+
+- Internal Manchester United rank: **1 of 22**.
+- Overall rank: **2** (was 2).
+- Segment/tier: **Franchise / S**.
+- Comparator outcome: penalties, set pieces and the strongest secure raw-points projection.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].

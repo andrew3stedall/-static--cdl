@@ -45,3 +45,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+<!-- 0042-aest-man-united-team-review -->
+## Manchester United team comparison — 0042-AEST
+
+- Internal Manchester United rank: **10 of 22**.
+- Overall rank: **149** (was 141).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: attacking full-back upside with durability risk.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].

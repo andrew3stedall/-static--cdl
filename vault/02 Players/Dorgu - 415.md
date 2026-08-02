@@ -37,3 +37,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 ## 2026-08-02 10:12 AEST
 
 Rank updated to 79 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+<!-- 0042-aest-man-united-team-review -->
+## Manchester United team comparison — 0042-AEST
+
+- Internal Manchester United rank: **6 of 22**.
+- Overall rank: **79** (was 79).
+- Segment/tier: **Core / C+**.
+- Comparator outcome: attacking wing-back upside and positional scarcity.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
