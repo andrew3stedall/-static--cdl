@@ -22,6 +22,17 @@ jobs:
 
           path = Path('vault/01 Current/Current Draft Board.md')
           lines = path.read_text(encoding='utf-8').splitlines()
+
+          # Remove any misplaced Martinez row before restoring the canonical rank-296 row.
+          cleaned = []
+          for line in lines:
+              if line.startswith('| ') and line.split('|')[1].strip().isdigit():
+                  cells = [cell.strip() for cell in line.strip('|').split('|')]
+                  if len(cells) >= 7 and cells[6] == '419':
+                      continue
+              cleaned.append(line)
+          lines = cleaned
+
           repairs = {
               5: '| 5 | Palmer | MID | CHE | Franchise | A+ | 154 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |',
               30: '| 30 | Wilson | MID | LEE | Foundation | B+ | 260 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |',
@@ -46,8 +57,9 @@ jobs:
           path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
           PY
           python scripts/validate_draft_board.py
+          rm -f .tmp/repair-ranks-trigger.txt .tmp/repair-ranks-trigger-2.txt
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add 'vault/01 Current/Current Draft Board.md'
+          git add -A
           git commit -m "Restore missing draft board ranks"
           git push origin HEAD:codex/fpl-review-20260802-1228-validate-ranks
