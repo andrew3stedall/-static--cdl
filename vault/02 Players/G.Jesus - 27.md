@@ -4,10 +4,10 @@ fpl_id: 27
 player: G.Jesus
 team: ARS
 position: FWD
-current_rank: 334
+current_rank: 316
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # G.Jesus
@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **334**
+- New overall rank: **316**
+- Arsenal order: **19 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]

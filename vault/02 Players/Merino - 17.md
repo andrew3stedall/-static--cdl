@@ -4,10 +4,10 @@ fpl_id: 17
 player: Merino
 team: ARS
 position: MID
-current_rank: 228
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T12:59:00+10:00
+current_rank: 190
+segment: Deep watch
+tier: D-
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # Merino
@@ -27,3 +27,13 @@ last_reviewed: 2026-08-02T12:59:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **228**
+- New overall rank: **190**
+- Arsenal order: **15 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]

@@ -4,10 +4,10 @@ fpl_id: 10
 player: White
 team: ARS
 position: DEF
-current_rank: 316
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 264
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # White
@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **316**
+- New overall rank: **264**
+- Arsenal order: **18 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]

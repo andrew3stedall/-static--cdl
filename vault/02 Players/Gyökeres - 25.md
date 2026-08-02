@@ -1,4 +1,6 @@
 ---
+tier: A
+segment: Foundation
 type: player
 fpl_id: 25
 player_name: Viktor Gyökeres
@@ -7,7 +9,7 @@ position: "[[04 Positions/Forward]]"
 api_status: available
 current_rank: 9
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # Viktor Gyökeres
@@ -34,3 +36,13 @@ High-upside Arsenal centre-forward; scarce role and Saka partnership justify pro
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **9**
+- New overall rank: **9**
+- Arsenal order: **3 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
