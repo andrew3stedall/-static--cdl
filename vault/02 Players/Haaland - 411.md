@@ -34,3 +34,14 @@ Elite 239-point baseline, clearest central role and highest ceiling.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+
+<!-- 0030-aest-man-city-team-review -->
+## Manchester City team comparison — 0030-AEST
+
+- Internal City rank: **1 of 22**.
+- Overall rank: **1** (was 1).
+- Segment/tier: **Franchise / S**.
+- Comparator outcome: best raw-points ceiling, penalties and elite central-forward role.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+

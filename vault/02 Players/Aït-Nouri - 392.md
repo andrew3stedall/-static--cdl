@@ -51,3 +51,14 @@ Compared within ranks 106–145. Current placement: **126**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+<!-- 0030-aest-man-city-team-review -->
+## Manchester City team comparison — 0030-AEST
+
+- Internal City rank: **12 of 22**.
+- Overall rank: **97** (was 126).
+- Segment/tier: **Depth / C**.
+- Comparator outcome: high attacking full-back ceiling but uncertain first-choice status.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+
