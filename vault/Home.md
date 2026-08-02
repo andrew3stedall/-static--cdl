@@ -181,3 +181,6 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 2032-aest-brentford-team-review -->
 - Brentford internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2032-AEST-changes]].
+
+<!-- 2045-aest-brighton-team-review -->
+- Brighton internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2045-AEST-changes]].

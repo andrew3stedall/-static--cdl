@@ -48,3 +48,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 2045-aest-brighton-team-review -->
+## Brighton team comparison — 2045-AEST
+
+- Internal Brighton rank: **12 of 23**.
+- Overall rank: **163** (was 169).
+- Comparator outcome: versatility and route to attacking returns.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]].
+
