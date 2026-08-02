@@ -7,7 +7,7 @@ position: DEF
 current_rank: 141
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T11:48:00+10:00
+last_reviewed: 2026-08-02T16:02:25+10:00
 ---
 
 # Shaw
@@ -36,3 +36,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+## Pairwise review — 1602-AEST
+
+- Current rank: **141**
+- Segment/tier: **Endgame / D+**
+- API status: Available
+- Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
+- Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.

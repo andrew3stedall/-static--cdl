@@ -195,3 +195,10 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 ## Latest changes
 
 - [[07 Changes/2026/08/2026-08-02/1500-AEST-changes]]
+
+## Latest review — 1602-AEST
+
+- Full review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1602-AEST-changes]]
+- Target block: ranks 141–170; challengers 136–175.
+- Outcome: no rank or tier movement; API reconciliation and all adjacent boundaries validated.

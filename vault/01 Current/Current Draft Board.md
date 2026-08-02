@@ -4,8 +4,8 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 350
-last_updated: 2026-08-02T12:59:00+10:00
-status: full_pool_top140_omissions_integrated
+last_updated: 2026-08-02T16:02:25+10:00
+status: ranks_141_170_pairwise_rechecked
 ---
 
 # Current Draft Board
