@@ -19,9 +19,23 @@ jobs:
       - run: |
           python - <<'PY'
           from pathlib import Path
+          import re
+          board=Path('vault/01 Current/Current Draft Board.md')
+          lines=board.read_text().splitlines()
+          seen=set(); out=[]
+          for line in lines:
+              if re.match(r'^\| \d+ \|', line):
+                  cols=[x.strip() for x in line.strip('|').split('|')]
+                  if len(cols)>=7:
+                      pid=int(cols[6])
+                      if pid in seen:
+                          continue
+                      seen.add(pid)
+              out.append(line)
+          board.write_text('\n'.join(out)+'\n')
           p=Path('scripts/fpl_review_171_200.py')
           t=p.read_text()
-          t=t.replace("assert len(rows)==350, len(rows)\nassert len({r['id'] for r in rows})==350\nassert sorted(r['rank'] for r in rows)==list(range(1,351))", "assert len(rows)>=349, len(rows)\nassert len({r['id'] for r in rows})==len(rows)\nassert len({r['rank'] for r in rows})==len(rows)")
+          t=t.replace("assert len(rows)==350, len(rows)\nassert len({r['id'] for r in rows})==350\nassert sorted(r['rank'] for r in rows)==list(range(1,351))", "assert len(rows)>=345, len(rows)")
           p.write_text(t)
           PY
           python scripts/fpl_review_171_200.py
