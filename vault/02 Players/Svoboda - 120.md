@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 2045-aest-brighton-team-review -->
+## Brighton team comparison — 2045-AEST
+
+- Internal Brighton rank: **22 of 23**.
+- Overall rank: **309** (was 307).
+- Comparator outcome: low-confidence defensive depth.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]].
+
