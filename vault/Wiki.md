@@ -237,3 +237,6 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 2336-aest-crystal-palace-team-review -->
 - Crystal Palace internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2336-AEST-changes]].
+
+<!-- 2359-aest-everton-team-review -->
+- Everton internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2359-AEST-changes]].

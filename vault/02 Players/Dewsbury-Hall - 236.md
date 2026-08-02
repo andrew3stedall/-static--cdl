@@ -37,3 +37,13 @@ Everton advanced-role potential and probable secure minutes keep him above the m
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
+
+<!-- 2359-aest-everton-team-review -->
+## Everton team comparison — 2359-AEST
+
+- Internal Everton rank: **2 of 15**.
+- Overall rank: **38** (was 33).
+- Comparator outcome: strong attacking involvement and minutes floor.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+
