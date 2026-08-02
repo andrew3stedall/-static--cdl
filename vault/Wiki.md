@@ -1,8 +1,8 @@
 ---
 type: wiki
 last_updated: 2026-08-02T08:41:00+10:00
-latest_review: [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-latest_changes: [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
+latest_review: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]]
+latest_changes: [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]]
 ---
 
 # FPL Draft Research Wiki
@@ -167,3 +167,9 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 - Integrated the 20 new additions into the full 240-player ordering.
 - Latest review: [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]].
 - Latest changes: [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]].
+
+## 2026-08-02 10:12 AEST
+
+- Screened every active player omitted from the 240-player board and inserted 14 credible top-140 candidates.
+- Latest review: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- Latest changes: [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]].

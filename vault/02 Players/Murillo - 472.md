@@ -5,9 +5,9 @@ player_name: Murillo
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Muscle injury - 75% chance of playing"
-current_rank: 163
+current_rank: 190
 current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T08:37:00+10:00
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Murillo
@@ -35,3 +35,7 @@ Ranked 163 after the ranks 141–170 pairwise review with challengers 136–175.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 190 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

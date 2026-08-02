@@ -5,9 +5,9 @@ player_name: Welbeck
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Confirmed Chelsea transfer; FPL API registration pending"
-current_rank: 86
+current_rank: 90
 current_segment: Depth
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Welbeck
@@ -33,3 +33,7 @@ Moved from 52 to 86 after the confirmed Chelsea transfer materially reduced expe
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 90 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

@@ -5,9 +5,9 @@ player_name: Keane
 team: "[[03 Teams/EVE]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 103
+current_rank: 112
 current_segment: Depth
-last_reviewed: 2026-08-02T08:15:00+10:00
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Keane
@@ -44,3 +44,7 @@ Ranked 103 after the ranks 81–110 review with challengers from 76–115. Offic
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 112 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].

@@ -5,9 +5,9 @@ player_name: Bassey
 team: "[[03 Teams/FUL]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 122
-current_segment: Depth
-last_reviewed: 2026-08-02T08:30:00+10:00
+current_rank: 142
+current_segment: Endgame
+last_reviewed: 2026-08-02T10:12:00+10:00
 ---
 
 # Bassey
@@ -35,3 +35,7 @@ Ranked 122 after the ranks 111–140 review with challengers 106–145.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
+
+## 2026-08-02 10:12 AEST
+
+Rank updated to 142 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
