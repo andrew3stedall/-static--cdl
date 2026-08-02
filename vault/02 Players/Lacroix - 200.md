@@ -40,3 +40,13 @@ Rank updated to 100 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+
+<!-- 2326-aest-chelsea-team-review -->
+## Chelsea team comparison — 2326-AEST
+
+- Internal Chelsea rank: **13 of 25**.
+- Overall rank: **186** (was 100).
+- Comparator outcome: defensive floor with role uncertainty.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]].
+

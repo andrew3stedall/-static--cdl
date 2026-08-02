@@ -231,3 +231,6 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 2045-aest-brighton-team-review -->
 - Brighton internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2045-AEST-changes]].
+
+<!-- 2326-aest-chelsea-team-review -->
+- Chelsea internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2326-AEST-changes]].

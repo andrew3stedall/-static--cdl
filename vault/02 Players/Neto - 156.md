@@ -33,3 +33,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+<!-- 2326-aest-chelsea-team-review -->
+## Chelsea team comparison — 2326-AEST
+
+- Internal Chelsea rank: **5 of 25**.
+- Overall rank: **56** (was 56).
+- Comparator outcome: direct attacking ceiling but rotation risk.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]].
+

@@ -35,3 +35,13 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 2326-aest-chelsea-team-review -->
+## Chelsea team comparison — 2326-AEST
+
+- Internal Chelsea rank: **18 of 25**.
+- Overall rank: **256** (was 204).
+- Comparator outcome: attacking defender upside with uncertain minutes.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]].
+
