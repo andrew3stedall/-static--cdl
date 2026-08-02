@@ -1,0 +1,46 @@
+name: Temporary fix review 141-180
+on:
+  pull_request:
+    types: [synchronize]
+permissions:
+  contents: write
+jobs:
+  fix:
+    if: github.head_ref == 'codex/fpl-review-20260802-1148-ranks141-180'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1148-ranks141-180
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          git fetch origin main
+          git checkout origin/main -- vault
+          git show 6cd7aaaa5f613e75fce6196fdc885a5c86aee5e3:scripts/fpl_review_141_180.py > scripts/fpl_review_141_180.py
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('vault/01 Current/Current Draft Board.md')
+          lines=p.read_text().splitlines()
+          if not any(x.startswith('| 155 |') for x in lines):
+              idx=next(i for i,x in enumerate(lines) if x.startswith('| 156 |'))
+              lines.insert(idx,'| 155 | Wilson | GKP | COV | Endgame | D+ | 172 | Available | 2026-08-02T11:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]] |')
+              p.write_text('\n'.join(lines)+'\n')
+          s=Path('scripts/fpl_review_141_180.py')
+          t=s.read_text()
+          start=t.index('# Rewrite every row in physical rank order.')
+          end=t.index('\nchanged=[]', start)
+          replacement='''# Rewrite only the bounded comparator ranks; preserve every rank outside 136-185.\nrank_to_row={r["rank"]:r for r in sorted_pool}\nfor idx in row_indexes:\n    current=[x.strip() for x in lines[idx].strip("|").split("|")]\n    rank=int(current[0])\n    if 136 <= rank <= 185:\n        r=rank_to_row[rank]\n        lines[idx]="| " + " | ".join([str(r["rank"]),r["name"],r["pos"],r["team"],r["segment"],r["tier"],str(r["id"]),r["status"],r["changed"],r["evidence"]]) + " |"\nBOARD.write_text("\\n".join(lines)+"\\n")\n'''
+          t=t[:start]+replacement+t[end:]
+          s.write_text(t)
+          PY
+          python scripts/fpl_review_141_180.py
+          rm scripts/fpl_review_141_180.py
+          rm -rf .tmp
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Correct bounded ranks 141-180 review"
+          git push origin HEAD:codex/fpl-review-20260802-1148-ranks141-180
