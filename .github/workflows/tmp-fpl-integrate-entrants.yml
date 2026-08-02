@@ -1,0 +1,26 @@
+name: Temporary FPL entrant integration
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: write
+jobs:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260802-1001-integrate-new-entrants'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1001-integrate-new-entrants
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fpl_integrate_new_entrants.py
+      - run: |
+          rm scripts/fpl_integrate_new_entrants.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Integrate new FPL entrants into ranked board"
+          git push origin HEAD:codex/fpl-review-20260802-1001-integrate-new-entrants
