@@ -29,3 +29,13 @@ Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury 
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
+
+<!-- 0018-aest-liverpool-team-review -->
+## Liverpool team comparison — 0018-AEST
+
+- Internal Liverpool rank: **7 of 19**.
+- Overall rank: **78** (was 68).
+- Segment/tier: **Core / C+**.
+- Comparator outcome: strong attacking full-back profile and clean-sheet access.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].

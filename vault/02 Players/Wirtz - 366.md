@@ -34,3 +34,13 @@ Used behind the striker and expected to become more important after Salah's depa
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+
+<!-- 0018-aest-liverpool-team-review -->
+## Liverpool team comparison — 0018-AEST
+
+- Internal Liverpool rank: **2 of 19**.
+- Overall rank: **13** (was 13).
+- Segment/tier: **Foundation / A**.
+- Comparator outcome: elite creative and goal-involvement ceiling in the post-Salah attack.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].

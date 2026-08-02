@@ -18,3 +18,13 @@ Inserted at rank 78 after the full unranked-player screen. Compared with Dorgu: 
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]]
+
+<!-- 0018-aest-liverpool-team-review -->
+## Liverpool team comparison — 0018-AEST
+
+- Internal Liverpool rank: **6 of 19**.
+- Overall rank: **68** (was 78).
+- Segment/tier: **Core / C+**.
+- Comparator outcome: greater attacking ceiling than the other defenders, with rotation risk.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
