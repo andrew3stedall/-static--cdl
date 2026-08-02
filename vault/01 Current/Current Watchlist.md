@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T09:04:00+10:00
+last_updated: 2026-08-02T09:58:00+10:00
 status: active
 ---
 
@@ -99,3 +99,11 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - Added 20 API-active watch cases at ranks 221–240.
 - Promotion requires direct role evidence.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]].
+
+## 2026-08-02 09:58 AEST — ranks 81–110 recheck
+
+- Mamadou Sangare: completed Brentford transfer; await unique FPL registration, position and probable role. [Reuters](https://www.reuters.com/sports/soccer/brentford-sign-sangare-lens-club-record-fee-2026-08-01/)
+- Joe Gomez: monitor recovery and Liverpool defensive replacement hierarchy. [Reuters](https://www.reuters.com/sports/soccer/liverpools-gomez-set-miss-premier-league-opener-with-muscle-injury-2026-07-30/)
+- Chelsea forwards: resolve Welbeck/Jackson and wider striker hierarchy before moving ranks 86 or 107.
+- Arsenal defenders: Saliba and Timber fitness can cascade into Calafiori and Hincapie.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/0958-AEST-review]].

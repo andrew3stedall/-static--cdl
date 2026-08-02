@@ -33,3 +33,9 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+## 2026-08-02 09:58 AEST recheck
+
+Retained at rank **82** after direct comparison with Pickford above and Henderson below. No new evidence changed expected points, minutes, role or positional replacement value enough to move the player. Confidence: medium. Reversal trigger: confirmed role, set pieces, fitness, registration or repeated probable-XI preseason minutes.
+
+Evidence: [[06 Reviews/2026/08/2026-08-02/0958-AEST-review]]; [Official FPL API](https://fantasy.premierleague.com/api/bootstrap-static/).

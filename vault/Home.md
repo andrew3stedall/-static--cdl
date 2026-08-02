@@ -113,3 +113,10 @@ last_updated: 2026-08-02T08:41:00+10:00
 - Expanded the canonical board from 220 to 240; ranks 1–220 were unchanged.
 - Latest review: [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]].
 - Latest changes: [[07 Changes/2026/08/2026-08-02/0904-AEST-changes]].
+
+## 2026-08-02 09:58 AEST
+
+- Rechecked ranks 81–110 with challengers 76–115; no rank or tier changes.
+- Added Sangare registration/role and Gomez injury hierarchy monitoring.
+- Latest review: [[06 Reviews/2026/08/2026-08-02/0958-AEST-review]].
+- Latest changes: [[07 Changes/2026/08/2026-08-02/0958-AEST-changes]].
