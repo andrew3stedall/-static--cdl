@@ -125,3 +125,7 @@ The 96 new depth entries require role confirmation before promotion into the man
 ## 2026-08-02T11:48:00+10:00 ranks 141–180 triggers
 
 - Recheck confirmed starting roles, injuries, transfers and set pieces for the 136–185 comparator pool. Evidence: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]].
+
+## 2026-08-02T12:01:00+10:00 ranks 171–200 triggers
+
+- Recheck starting roles, injuries, transfers, registrations, penalties and set pieces for ranks 166–205. Evidence: [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]].

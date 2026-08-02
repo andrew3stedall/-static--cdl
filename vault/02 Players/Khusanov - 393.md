@@ -4,34 +4,30 @@ fpl_id: 393
 player: Khusanov
 team: MCI
 position: DEF
-current_rank: 190
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 185
+segment: Deep watch
+tier: D-
+last_reviewed: 2026-08-02T12:01:00+10:00
 ---
 
 # Khusanov
 
-## Current placement
+## Current assessment
 
-- Rank: **190** (previously 185)
-- Segment/tier: **Undrafted buffer / D**
-- Status: Available
+- Rank: **185**
+- Segment / tier: **Deep watch / D-**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Ranks below [[02 Players/Canvot - 203|Canvot]] after the raw-points comparison and risk adjustment.
+- Ranks above [[02 Players/Delap - 167|Delap]] after expected-minutes, ceiling and replacement-value comparison.
 
-## Comparator range
+## Raw points and draft adjustment
 
-The player belongs around ranks **185–195** pending direct role, preseason and first-team minutes evidence.
+The comparison starts with expected season points using current FPL points, starts, minutes and expected attacking involvement as imperfect preseason proxies. Position scarcity is applied only after that comparison.
 
-## Reversal triggers
+## Confidence and reversal trigger
 
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is low to medium. Reverse for confirmed starting roles, repeated probable-first-team minutes, penalties or set pieces, recovery setbacks, suspension, transfer completion or material competition changes.
