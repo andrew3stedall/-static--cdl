@@ -4,34 +4,28 @@ fpl_id: 166
 player_name: N.Jackson
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Forward]]"
-api_status: Available
-current_rank: 107
+api_status: "Available"
+current_rank: 112
 current_segment: Depth
-last_reviewed: 2026-08-02T08:30:00+10:00
+current_tier: C
+last_reviewed: 2026-08-02T10:01:00+10:00
 ---
 
 # N.Jackson
 
 ## Current assessment
 
-Ranked 107 after the ranks 111–140 review with challengers 106–145.
+This player's rank is now 112 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
 
-## Pairwise placement
+## Direct range comparison
 
-- Compared with: **Brobbey**.
-- Decision: Forward scarcity supports the pick after first assessing expected points and availability.
-- Confidence: medium.
-- Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
+Placed between **Sánchez** and **Brobbey**.
 
-## Evidence timeline
+## Reversal trigger
 
-- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 107.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
+Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
 
 ## Backlinks
-
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]

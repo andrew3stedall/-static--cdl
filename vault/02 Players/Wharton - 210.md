@@ -5,33 +5,27 @@ player_name: Wharton
 team: "[[03 Teams/CRY]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Ankle injury - 75% chance of playing"
-current_rank: 185
+current_rank: 201
 current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T08:41:00+10:00
+current_tier: Watch
+last_reviewed: 2026-08-02T10:01:00+10:00
 ---
 
 # Wharton
 
 ## Current assessment
 
-Ranked 185 after the ranks 171–200 pairwise review with challengers 166–205. Raw expected season points were assessed before positional scarcity.
+This player's rank is now 201 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
 
-## Pairwise placement
+## Direct range comparison
 
-- Immediate comparison: **Diarra / Gomes**.
-- Decision: creative route beats the lower attacking midfielders despite injury risk.
-- Confidence: low.
-- Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
+Placed between **Diarra** and **Hughes**.
 
-## Evidence timeline
+## Reversal trigger
 
-- 2026-08-02 08:41 AEST — moved from rank 191 to 185 in the stable pairwise pass.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
+Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
 
 ## Backlinks
-
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0841-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]

@@ -5,31 +5,27 @@ player_name: Donnarumma
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 82
+current_rank: 83
 current_segment: Depth
-last_reviewed: 2026-08-02T09:01:00+10:00
+current_tier: C
+last_reviewed: 2026-08-02T10:01:00+10:00
 ---
 
 # Donnarumma
 
 ## Current assessment
 
-Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; rank changed only if Welbeck crossed this position.
+This player's rank is now 83 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
 
-## Pairwise placement
+## Direct range comparison
 
-- Immediate ordering remains Pickford / Donnarumma / Henderson; no new player-specific evidence justified a separate move.
-- Confidence: medium.
-- Reversal trigger: confirmed role, injury, set-piece, transfer or repeated probable-first-team preseason evidence.
+Placed between **Pickford** and **Hall**.
 
-## Evidence timeline
+## Reversal trigger
 
-- 2026-08-02 09:01 AEST — transfer-driven ranks 41–70 review.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
 
 ## Backlinks
-
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]

@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T09:04:00+10:00
+last_updated: 2026-08-02T10:01:00+10:00
 status: active
 ---
 
@@ -99,3 +99,9 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - Added 20 API-active watch cases at ranks 221–240.
 - Promotion requires direct role evidence.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]].
+
+## 2026-08-02 10:01 AEST — integrated additions
+
+- Re-ranked all 20 former extended-buffer players into comparable tier and segment ranges.
+- Priority triggers: Kerkez/Hall first-choice role, goalkeeper hierarchies, Shaw/Spence fitness and rotation.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]].

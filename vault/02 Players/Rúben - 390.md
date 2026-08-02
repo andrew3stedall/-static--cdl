@@ -5,42 +5,27 @@ player_name: Rúben
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 93
+current_rank: 95
 current_segment: Depth
-last_reviewed: 2026-08-02T08:15:00+10:00
+current_tier: C
+last_reviewed: 2026-08-02T10:01:00+10:00
 ---
 
 # Rúben
 
 ## Current assessment
 
-Ranked 93 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 390 remains active in the API pool.
+This player's rank is now 95 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
 
-## Direct comparison
+## Direct range comparison
 
-- Compared with: **Lacroix**.
-- Raw expected-points judgement: Rúben is currently preferred.
-- Draft decision: Rúben Dias has the stronger team clean-sheet ceiling.
-- Confidence: medium.
-- Reversal trigger: confirmed strongest-XI role, set pieces, fitness or official transfer evidence that changes the comparison.
+Placed between **Matheus N.** and **Petrović**.
 
-## Current metadata
+## Reversal trigger
 
-- Team: MCI
-- Position: DEF
-- Availability: Available
-- API total points field: 113
-- API minutes field: 2139
-
-## Evidence timeline
-
-- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 93.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
+Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
 
 ## Backlinks
-
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
