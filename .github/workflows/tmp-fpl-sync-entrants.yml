@@ -1,0 +1,21 @@
+name: Temporary FPL entrant branch sync
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-fpl-sync-entrants.yml
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1001-integrate-new-entrants
+          fetch-depth: 0
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge origin/main -s ours -m "Sync entrant integration review with current main"
+          git push origin HEAD:codex/fpl-review-20260802-1001-integrate-new-entrants
