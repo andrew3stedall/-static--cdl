@@ -35,3 +35,10 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+
+## 0910-AEST Ipswich comparison
+
+- Ipswich order: **6 of 6**; overall rank **290**.
+- Decision: Goalkeeper floor is replaceable and current role certainty is insufficient to move above the outfield options.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0910-AEST-review]].

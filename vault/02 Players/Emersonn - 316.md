@@ -27,3 +27,10 @@ last_reviewed: 2026-08-02T12:59:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
+
+
+## 0910-AEST Ipswich comparison
+
+- Ipswich order: **5 of 6**; overall rank **234**.
+- Decision: Forward classification preserves speculative upside, but the first-team role is less established.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0910-AEST-review]].
