@@ -136,3 +136,5 @@ last_updated: 2026-08-02T08:41:00+10:00
 - Latest ranks 171–200 review: [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]]
 
 - Latest ranks 201–220 review: [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]]
+
+- Latest full review: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]] — ranks 81–110 rechecked with challengers 76–115; no manufactured movement.

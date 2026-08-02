@@ -36,3 +36,10 @@ Rank updated to 107 after the unranked-player top-140 screen. Evidence: [[06 Rev
 
 ## 2026-08-02 11:01 AEST pairwise review
 Compared within ranks 106–145. Current placement: **107**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+
+## 2026-08-02 14:00 block recheck
+
+- Rank **107** retained after direct comparison with adjacent ranks and challengers 76–115.
+- Current status: Available.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
+- Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.

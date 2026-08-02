@@ -37,3 +37,10 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 ## 2026-08-02 10:12 AEST
 
 Rank updated to 89 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+
+## 2026-08-02 14:00 block recheck
+
+- Rank **89** retained after direct comparison with adjacent ranks and challengers 76–115.
+- Current status: Available.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
+- Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.

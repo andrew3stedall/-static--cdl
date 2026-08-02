@@ -1,0 +1,87 @@
+---
+type: review
+timestamp: 2026-08-02T14:00:00+10:00
+scope: ranks 81-110 recheck with challengers 76-115
+---
+
+# FPL Draft review — ranks 81–110 recheck
+
+## Changes since prior iteration
+
+- **Welbeck** metadata reconciled: CHE/Confirmed Chelsea transfer; FPL API registration pending → BHA/Available. Rank unchanged.
+
+## API reconciliation
+
+Official FPL returned 564 active players, 20 teams and 380 fixtures. All 40 comparator players remain in the API with stable IDs. The board retains 350 unique physically ordered ranks.
+
+## Method
+
+Ranks 81–110 were rechecked with challengers 76–115 using stable adjacent insertion logic. For each pair, raw expected-points evidence was considered first through prior FPL points, starts and minutes; current role, set pieces, availability, rotation, floor and ceiling followed; positional replacement value was applied last. No player moved because the fresh evidence did not justify overturning the completed manual order.
+
+## Pairwise comparisons
+
+- **Havertz over Rayan** — Raw points proxy: Havertz 36 points/7 starts versus Rayan 67 points/13 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Rayan. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Rayan over Frimpong** — Raw points proxy: Rayan 67 points/13 starts versus Frimpong 63 points/12 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Rayan. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Frimpong over Dorgu** — Raw points proxy: Frimpong 63 points/12 starts versus Dorgu 95 points/15 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Dorgu. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Dorgu over Aina** — Raw points proxy: Dorgu 95 points/15 starts versus Aina 67 points/18 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Dorgu. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Aina over Tete** — Raw points proxy: Aina 67 points/18 starts versus Tete 81 points/21 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Tete. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Tete over Raya** — Raw points proxy: Tete 81 points/21 starts versus Raya 162 points/37 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Raya. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Raya over Pickford** — Raw points proxy: Raya 162 points/37 starts versus Pickford 135 points/38 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Raya. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Pickford over Donnarumma** — Raw points proxy: Pickford 135 points/38 starts versus Donnarumma 135 points/34 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Pickford. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Donnarumma over Martinelli** — Raw points proxy: Donnarumma 135 points/34 starts versus Martinelli 57 points/11 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Donnarumma. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Martinelli over Hall** — Raw points proxy: Martinelli 57 points/11 starts versus Hall 79 points/24 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Hall. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Hall over Henderson** — Raw points proxy: Hall 79 points/24 starts versus Henderson 131 points/37 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Henderson. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Henderson over Kelleher** — Raw points proxy: Henderson 131 points/37 starts versus Kelleher 143 points/37 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Kelleher. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Kelleher over Truffert** — Raw points proxy: Kelleher 143 points/37 starts versus Truffert 165 points/38 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Truffert. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Truffert over Welbeck** — Raw points proxy: Truffert 165 points/38 starts versus Welbeck 126 points/26 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Truffert. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Welbeck over Calafiori** — Raw points proxy: Welbeck 126 points/26 starts versus Calafiori 109 points/22 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Welbeck. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Calafiori over Igor Jesus** — Raw points proxy: Calafiori 109 points/22 starts versus Igor Jesus 114 points/28 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Igor Jesus. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Igor Jesus over Groß** — Raw points proxy: Igor Jesus 114 points/28 starts versus Groß 78 points/18 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Igor Jesus. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Groß over Okafor** — Raw points proxy: Groß 78 points/18 starts versus Okafor 109 points/19 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Okafor. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Okafor over O'Reilly** — Raw points proxy: Okafor 109 points/19 starts versus O'Reilly 160 points/29 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: O'Reilly. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **O'Reilly over Vicario** — Raw points proxy: O'Reilly 160 points/29 starts versus Vicario 90 points/31 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: O'Reilly. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Vicario over Matheus N.** — Raw points proxy: Vicario 90 points/31 starts versus Matheus N. 154 points/32 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Matheus N.. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Matheus N. over Rúben** — Raw points proxy: Matheus N. 154 points/32 starts versus Rúben 113 points/24 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Matheus N.. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Rúben over Petrović** — Raw points proxy: Rúben 113 points/24 starts versus Petrović 124 points/38 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Petrović. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Petrović over Lacroix** — Raw points proxy: Petrović 124 points/38 starts versus Lacroix 154 points/35 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Lacroix. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Lacroix over Ballard** — Raw points proxy: Lacroix 154 points/35 starts versus Ballard 116 points/24 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Lacroix. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Ballard over Romero** — Raw points proxy: Ballard 116 points/24 starts versus Romero 91 points/22 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Ballard. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Romero over Bijol** — Raw points proxy: Romero 91 points/22 starts versus Bijol 99 points/21 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Bijol. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Bijol over Richards** — Raw points proxy: Bijol 99 points/21 starts versus Richards 128 points/31 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Richards. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Richards over Roefs** — Raw points proxy: Richards 128 points/31 starts versus Roefs 136 points/35 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Roefs. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Roefs over Leno** — Raw points proxy: Roefs 136 points/35 starts versus Leno 122 points/38 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Roefs. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Leno over Pope** — Raw points proxy: Leno 122 points/38 starts versus Pope 96 points/27 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Leno. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Pope over Dunk** — Raw points proxy: Pope 96 points/27 starts versus Dunk 100 points/31 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Dunk. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Dunk over A.Becker** — Raw points proxy: Dunk 100 points/31 starts versus A.Becker 91 points/26 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Dunk. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **A.Becker over Mykolenko** — Raw points proxy: A.Becker 91 points/26 starts versus Mykolenko 95 points/33 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Mykolenko. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Mykolenko over Martinez** — Raw points proxy: Mykolenko 95 points/33 starts versus Martinez 51 points/13 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Mykolenko. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Martinez over J.Murphy** — Raw points proxy: Martinez 51 points/13 starts versus J.Murphy 82 points/19 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: J.Murphy. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **J.Murphy over Smith Rowe** — Raw points proxy: J.Murphy 82 points/19 starts versus Smith Rowe 80 points/22 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: J.Murphy. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Smith Rowe over Jensen** — Raw points proxy: Smith Rowe 80 points/22 starts versus Jensen 98 points/26 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Jensen. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+- **Jensen over Keane** — Raw points proxy: Jensen 98 points/26 starts versus Keane 131 points/29 starts. Existing order remains the draft call after minutes, role uncertainty, risk and positional replacement value. Raw-points lean: Keane. Confidence: low-to-medium. Reverse on confirmed starting-role, penalty/set-piece, injury, suspension or transfer-competition evidence.
+
+## Public evidence searched
+
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/) and [fixtures](https://fantasy.premierleague.com/api/fixtures/).
+- [Premier League 2026 preseason fixtures and results](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results).
+- Public searches for Planet FPL James, Ben Crellin, Sam Martin, club correspondents and Fabrizio Romano. No exact accessible post supplied sufficiently reliable new role evidence for this block.
+- Arsenal 4–1 Girona and Chelsea 1–2 Tottenham reports were screened; isolated goals were rejected without durable probable-first-team role evidence.
+
+## Evidence adopted
+
+- Official API identity, team, FPL position, availability, prior points, starts and minutes.
+- Official preseason schedule as timing context.
+
+## Evidence rejected
+
+- Price and ownership.
+- Profile-only X results, unsourced transfer rumours and weak aggregation.
+- Friendly goals or assists without repeated role, first-team minutes, set pieces or manager confirmation.
+
+## Positional priorities
+
+Starting goalkeepers retain a useful floor in this range. Forward scarcity breaks close calls only when minutes are credible. Attacking defenders require a plausible starting route; low-attacking midfielders need secure volume or set pieces.
+
+## Uncertainty and next triggers
+
+Revisit Chelsea forward minutes, goalkeeper hierarchies, Arsenal and Liverpool defensive availability, penalties, set pieces, late transfers and repeated probable-first-team preseason usage.

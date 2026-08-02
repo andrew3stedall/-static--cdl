@@ -48,3 +48,10 @@ Ranked 98 after the ranks 81–110 review with challengers from 76–115. Offici
 ## 2026-08-02 10:12 AEST
 
 Rank updated to 104 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+
+## 2026-08-02 14:00 block recheck
+
+- Rank **104** retained after direct comparison with adjacent ranks and challengers 76–115.
+- Current status: Available.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
+- Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
