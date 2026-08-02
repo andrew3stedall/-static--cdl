@@ -196,3 +196,6 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 0005-aest-fulham-team-review -->
 - Fulham internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0005-AEST-changes]].
+
+<!-- 0012-aest-leeds-team-review -->
+- Leeds United internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0012-AEST-changes]].

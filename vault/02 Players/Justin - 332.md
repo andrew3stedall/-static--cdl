@@ -36,3 +36,13 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+
+<!-- 0012-aest-leeds-team-review -->
+## Leeds team comparison — 0012-AEST
+
+- Internal Leeds rank: **12 of 18**.
+- Overall rank: **176** (was 165).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: full-back upside but greater role and fitness risk.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].

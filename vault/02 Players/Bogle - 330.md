@@ -30,3 +30,13 @@ Compared within ranks 106–145. Current placement: **133**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+<!-- 0012-aest-leeds-team-review -->
+## Leeds team comparison — 0012-AEST
+
+- Internal Leeds rank: **7 of 18**.
+- Overall rank: **133** (was 133).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: attacking full-back upside and defender scarcity.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
