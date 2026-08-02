@@ -270,3 +270,7 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 
 - Latest team review: [[06 Reviews/2026/08/2026-08-03/0845-AEST-review]] · changes: [[07 Changes/2026/08/2026-08-03/0845-AEST-changes]]
+
+
+<!-- 0903-aest-hull-team-review -->
+- Hull City internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0903-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0903-AEST-changes]].
