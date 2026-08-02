@@ -1,38 +1,29 @@
 ---
 type: player
 fpl_id: 455
-player_name: Tonali
-team: "[[03 Teams/TOT]]"
-position: "[[04 Positions/Midfielder]]"
-api_status: "Available"
-current_rank: 135
-current_segment: Endgame
-current_tier: C
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Tonali
+team: TOT
+position: MID
+current_rank: 157
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Tonali
 
 ## Current assessment
 
-This player was insertion-sorted from rank 226 to 124. minutes and all-round midfield floor merit a core depth slot, without assuming penalties or an advanced role.
+- Rank: **157**
+- Segment / tier: **Endgame / D+**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## Direct range comparison
+## Pairwise placement
 
-Placed between **Thiaw** and **Wieffer**.
+- Ranks below [[02 Players/Sadiki - 545|Sadiki]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Ekitiké - 380|Ekitiké]] after expected-points, minutes and draft replacement-value comparison.
 
-## Reversal trigger
+## Confidence and reversal trigger
 
-Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
-
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 135 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
-
-## 2026-08-02 11:01 AEST pairwise review
-Compared within ranks 106–145. Current placement: **143**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

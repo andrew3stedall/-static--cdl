@@ -4,34 +4,26 @@ fpl_id: 125
 player: Georginio
 team: BHA
 position: FWD
-current_rank: 161
-segment: Endgame
-tier: D+
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 160
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Georginio
 
-## Current placement
+## Current assessment
 
-- Rank: **161** (previously 160)
-- Segment/tier: **Endgame / D+**
-- Status: Available
+- Rank: **160**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Ranks below [[02 Players/Ayari - 129|Ayari]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Burn - 448|Burn]] after expected-points, minutes and draft replacement-value comparison.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **156–166** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

@@ -1,38 +1,29 @@
 ---
 type: player
 fpl_id: 130
-player_name: Wieffer
-team: "[[03 Teams/BHA]]"
-position: "[[04 Positions/Defender]]"
-api_status: "Available"
-current_rank: 137
-current_segment: Endgame
-current_tier: C
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Wieffer
+team: BHA
+position: DEF
+current_rank: 162
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Wieffer
 
 ## Current assessment
 
-This player's rank is now 125 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
+- Rank: **162**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## Direct range comparison
+## Pairwise placement
 
-Placed between **Tonali** and **Hincapie**.
+- Ranks below [[02 Players/Burn - 448|Burn]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Digne - 30|Digne]] after expected-points, minutes and draft replacement-value comparison.
 
-## Reversal trigger
+## Confidence and reversal trigger
 
-Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
-
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 137 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
-
-## 2026-08-02 11:01 AEST pairwise review
-Compared within ranks 106–145. Current placement: **144**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

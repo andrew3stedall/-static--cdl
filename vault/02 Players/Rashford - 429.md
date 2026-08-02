@@ -1,44 +1,29 @@
 ---
 type: player
 fpl_id: 429
-player_name: Rashford
-team: "[[03 Teams/MUN]]"
-position: "[[04 Positions/Midfielder]]"
-api_status: Available
-current_rank: 125
-current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Rashford
+team: MUN
+position: MID
+current_rank: 182
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Rashford
 
 ## Current assessment
 
-Ranked 112 after the ranks 111–140 review with challengers 106–145.
+- Rank: **182**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
 ## Pairwise placement
 
-- Compared with: **Sessegnon**.
-- Decision: Higher expected season points and/or safer usable minutes.
-- Confidence: medium.
-- Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
+- Ranks below [[02 Players/Colwill - 149|Colwill]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/van Ewijk - 175|van Ewijk]] after expected-points, minutes and draft replacement-value comparison.
 
-## Evidence timeline
+## Confidence and reversal trigger
 
-- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 112.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 125 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
-
-## 2026-08-02 11:01 AEST pairwise review
-Compared within ranks 106–145. Current placement: **142**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

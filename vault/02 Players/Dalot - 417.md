@@ -4,34 +4,26 @@ fpl_id: 417
 player: Dalot
 team: MUN
 position: DEF
-current_rank: 165
+current_rank: 148
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Dalot
 
-## Current placement
+## Current assessment
 
-- Rank: **165** (previously 164)
-- Segment/tier: **Endgame / D+**
-- Status: Available
+- Rank: **148**
+- Segment / tier: **Endgame / D+**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Ranks below [[02 Players/Struijk - 328|Struijk]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Konsa - 31|Konsa]] after expected-points, minutes and draft replacement-value comparison.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **160–170** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

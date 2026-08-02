@@ -4,34 +4,26 @@ fpl_id: 471
 player: Milenković
 team: NFO
 position: DEF
-current_rank: 172
+current_rank: 138
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Milenković
 
-## Current placement
+## Current assessment
 
-- Rank: **172** (previously 170)
-- Segment/tier: **Endgame / D+**
-- Status: Available
+- Rank: **138**
+- Segment / tier: **Endgame / D+**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Ranks below [[02 Players/Verbruggen - 109|Verbruggen]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Aaronson - 337|Aaronson]] after expected-points, minutes and draft replacement-value comparison.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **167–177** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

@@ -121,3 +121,7 @@ The 96 new depth entries require role confirmation before promotion into the man
 - Newcastle attacking rotation around Jacob Murphy.
 - Arsenal defensive availability affecting Hincapie.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]].
+
+## 2026-08-02T11:48:00+10:00 ranks 141–180 triggers
+
+- Recheck confirmed starting roles, injuries, transfers and set pieces for the 136–185 comparator pool. Evidence: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]].

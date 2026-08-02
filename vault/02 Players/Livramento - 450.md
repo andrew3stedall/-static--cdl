@@ -4,34 +4,26 @@ fpl_id: 450
 player: Livramento
 team: NEW
 position: DEF
-current_rank: 167
-segment: Endgame
-tier: D+
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 174
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Livramento
 
-## Current placement
+## Current assessment
 
-- Rank: **167** (previously 166)
-- Segment/tier: **Endgame / D+**
-- Status: Calf injury - 75% chance of playing
+- Rank: **174**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Calf injury - 75% chance of playing
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Ranks below [[02 Players/Delap - 167|Delap]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Schär - 446|Schär]] after expected-points, minutes and draft replacement-value comparison.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **162–172** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.
