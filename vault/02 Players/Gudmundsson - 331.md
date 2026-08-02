@@ -39,3 +39,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 0012-aest-leeds-team-review -->
+## Leeds team comparison — 0012-AEST
+
+- Internal Leeds rank: **14 of 18**.
+- Overall rank: **236** (was 176).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: possible attacking full-back value with uncertain first-choice status.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].

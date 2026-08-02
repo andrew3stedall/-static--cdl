@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 0012-aest-leeds-team-review -->
+## Leeds team comparison — 0012-AEST
+
+- Internal Leeds rank: **9 of 18**.
+- Overall rank: **165** (was 314).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: starting-goalkeeper floor, discounted for positional replaceability.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].

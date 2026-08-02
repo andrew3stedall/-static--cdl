@@ -27,3 +27,13 @@ last_reviewed: 2026-08-02T12:59:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
+
+<!-- 0012-aest-leeds-team-review -->
+## Leeds team comparison — 0012-AEST
+
+- Internal Leeds rank: **18 of 18**.
+- Overall rank: **341** (was 206).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: lowest current first-team role certainty in the ranked Leeds pool.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].

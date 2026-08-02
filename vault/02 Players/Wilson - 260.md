@@ -33,3 +33,13 @@ Potential set-piece value remains attractive, but promoted-team projection is un
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+
+<!-- 0012-aest-leeds-team-review -->
+## Leeds team comparison — 0012-AEST
+
+- Internal Leeds rank: **2 of 18**.
+- Overall rank: **30** (was 30).
+- Segment/tier: **Foundation / B+**.
+- Comparator outcome: strongest established attacking and set-piece route among the midfielders.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
