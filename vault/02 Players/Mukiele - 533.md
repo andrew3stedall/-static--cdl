@@ -33,3 +33,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **4 of 16**.
+- Overall rank: **101** (was 73).
+- Segment/tier: **Depth / C**.
+- Comparator outcome: attacking defender upside, clean-sheet route and strong minutes case.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+

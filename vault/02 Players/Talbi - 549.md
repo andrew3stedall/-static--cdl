@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **12 of 16**.
+- Overall rank: **233** (was 273).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: wide attacking upside but limited proven Premier League role security.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+

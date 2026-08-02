@@ -55,3 +55,13 @@ Rank updated to 101 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **6 of 16**.
+- Overall rank: **123** (was 101).
+- Segment/tier: **Depth / C**.
+- Comparator outcome: secure centre-back minutes and aerial threat.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+

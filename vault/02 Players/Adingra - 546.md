@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **7 of 16**.
+- Overall rank: **129** (was 335).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: direct winger ceiling, discounted for role and minutes uncertainty.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+

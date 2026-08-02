@@ -27,3 +27,13 @@ last_reviewed: 2026-08-02T12:59:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
+<!-- 0830-aest-sunderland-team-review -->
+## Sunderland team comparison — 0830-AEST
+
+- Internal Sunderland rank: **13 of 16**.
+- Overall rank: **273** (was 233).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: minutes and progression value with limited direct FPL returns.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+

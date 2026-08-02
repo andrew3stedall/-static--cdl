@@ -214,3 +214,6 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 0749-aest-nottingham-forest-team-review -->
 - Nottingham Forest internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0749-AEST-changes]].
+
+<!-- 0830-aest-sunderland-team-review -->
+- Sunderland internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0830-AEST-changes]].
