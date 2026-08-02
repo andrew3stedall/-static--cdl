@@ -133,3 +133,7 @@ The 96 new depth entries require role confirmation before promotion into the man
 ## 2026-08-02T12:59:00+10:00 — ranks 201–220 triggers
 
 - Confirmed starting roles, penalties, set pieces, injuries and transfers for ranks 196–240 and screened API outsiders. Evidence: [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]].
+
+## 2026-08-02T14:00:00+10:00 ranks 81–110 recheck
+
+- No new material movement. Continue monitoring Chelsea forward minutes, goalkeeper hierarchies, Arsenal/Liverpool defensive availability, set pieces and late transfers. Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].

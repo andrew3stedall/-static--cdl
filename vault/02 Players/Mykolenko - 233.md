@@ -21,3 +21,10 @@ Inserted at rank 110 after the full unranked-player screen. Compared with Dunk: 
 
 ## 2026-08-02 11:01 AEST pairwise review
 Compared within ranks 106–145. Current placement: **110**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+
+## 2026-08-02 14:00 block recheck
+
+- Rank **110** retained after direct comparison with adjacent ranks and challengers 76–115.
+- Current status: Available.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
+- Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.

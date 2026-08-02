@@ -105,7 +105,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 87 | Henderson | GKP | CRY | Depth | C | 198 | Available | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
 | 88 | Kelleher | GKP | BRE | Depth | C | 82 | Available | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
 | 89 | Truffert | DEF | BOU | Depth | C | 61 | Available | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
-| 90 | Welbeck | FWD | CHE | Depth | C | 136 | Confirmed Chelsea transfer; FPL API registration pending | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
+| 90 | Welbeck | FWD | BHA | Depth | C | 136 | Available | 2026-08-02T14:00:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]] |
 | 91 | Calafiori | DEF | ARS | Depth | C | 8 | Available | 2026-08-02T08:15:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]] |
 | 92 | Igor Jesus | FWD | NFO | Depth | C | 491 | Available | 2026-08-02T08:15:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]] |
 | 93 | Groß | MID | BHA | Depth | C | 124 | Available | 2026-08-02T08:15:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]] |

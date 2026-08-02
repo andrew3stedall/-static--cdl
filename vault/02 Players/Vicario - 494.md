@@ -18,3 +18,10 @@ Inserted at rank 96 after the full unranked-player screen. Compared with Petrovi
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]]
+
+## 2026-08-02 14:00 block recheck
+
+- Rank **96** retained after direct comparison with adjacent ranks and challengers 76–115.
+- Current status: Available.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
+- Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
