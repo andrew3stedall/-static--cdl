@@ -1,23 +1,29 @@
 ---
 type: player
 fpl_id: 157
-player_name: Estêvão
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Midfielder]]"
-api_status: "Available"
-current_rank: 140
-current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Estêvão
+team: CHE
+position: MID
+current_rank: 173
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Estêvão
 
-Inserted at rank 140 after the full unranked-player screen. Compared with Spence: elite attacking ceiling earns the final top-140 slot, heavily rotation-discounted.
+## Current assessment
 
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]]
+- Rank: **173**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## 2026-08-02 11:01 AEST pairwise review
-Compared within ranks 106–145. Current placement: **145**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+## Pairwise placement
+
+- Ranks below [[02 Players/Canvot - 203|Canvot]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Delap - 167|Delap]] after expected-points, minutes and draft replacement-value comparison.
+
+## Confidence and reversal trigger
+
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

@@ -1,23 +1,29 @@
 ---
 type: player
 fpl_id: 167
-player_name: Delap
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Forward]]"
-api_status: "Available"
-current_rank: 132
-current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Delap
+team: CHE
+position: FWD
+current_rank: 174
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Delap
 
-Inserted at rank 132 after the full unranked-player screen. Compared with Gusto: forward scarcity and scoring ceiling merit late top-140 inclusion despite Chelsea competition.
+## Current assessment
 
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]]
+- Rank: **174**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
-## 2026-08-02 11:01 AEST pairwise review
-Compared within ranks 106–145. Current placement: **140**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+## Pairwise placement
+
+- Ranks below [[02 Players/Estêvão - 157|Estêvão]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Livramento - 450|Livramento]] after expected-points, minutes and draft replacement-value comparison.
+
+## Confidence and reversal trigger
+
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.

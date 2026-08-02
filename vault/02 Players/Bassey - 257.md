@@ -1,44 +1,29 @@
 ---
 type: player
 fpl_id: 257
-player_name: Bassey
-team: "[[03 Teams/FUL]]"
-position: "[[04 Positions/Defender]]"
-api_status: Available
-current_rank: 142
-current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Bassey
+team: FUL
+position: DEF
+current_rank: 151
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T11:48:00+10:00
 ---
 
 # Bassey
 
 ## Current assessment
 
-Ranked 122 after the ranks 111–140 review with challengers 106–145.
+- Rank: **151**
+- Segment / tier: **Endgame / D+**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]]
 
 ## Pairwise placement
 
-- Compared with: **Van den Berg**.
-- Decision: Higher expected season points and/or safer usable minutes.
-- Confidence: medium.
-- Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
+- Ranks below [[02 Players/Konsa - 31|Konsa]] after expected-points, minutes and risk comparison.
+- Ranks above [[02 Players/Berge - 265|Berge]] after expected-points, minutes and draft replacement-value comparison.
 
-## Evidence timeline
+## Confidence and reversal trigger
 
-- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 122.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 142 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
-
-## 2026-08-02 11:01 AEST pairwise review
-Compared within ranks 106–145. Current placement: **136**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.
