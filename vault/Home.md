@@ -128,3 +128,5 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 - Latest expansion review: [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
 - Latest expansion changes: [[07 Changes/2026/08/2026-08-02/1017-AEST-changes]]
+
+- Latest review: [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]; changes: [[07 Changes/2026/08/2026-08-02/1101-AEST-changes]].

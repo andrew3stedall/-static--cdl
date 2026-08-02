@@ -33,3 +33,6 @@ Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury 
 ## 2026-08-02 10:12 AEST
 
 Rank updated to 133 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+
+## 2026-08-02 11:01 AEST pairwise review
+Compared within ranks 106–145. Current placement: **130**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
