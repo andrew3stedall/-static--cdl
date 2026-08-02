@@ -37,3 +37,13 @@ Compared within ranks 106–145. Current placement: **110**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+<!-- 2359-aest-everton-team-review -->
+## Everton team comparison — 2359-AEST
+
+- Internal Everton rank: **7 of 15**.
+- Overall rank: **122** (was 110).
+- Comparator outcome: secure defensive minutes with some attacking upside.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+

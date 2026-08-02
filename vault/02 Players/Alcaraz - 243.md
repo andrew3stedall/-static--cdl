@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 2359-aest-everton-team-review -->
+## Everton team comparison — 2359-AEST
+
+- Internal Everton rank: **13 of 15**.
+- Overall rank: **283** (was 345).
+- Comparator outcome: attacking upside with uncertain minutes.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+

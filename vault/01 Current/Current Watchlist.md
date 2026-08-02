@@ -187,3 +187,6 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 2336-aest-crystal-palace-team-review -->
 - Crystal Palace internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2336-AEST-changes]].
+
+<!-- 2359-aest-everton-team-review -->
+- Everton internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2359-AEST-changes]].

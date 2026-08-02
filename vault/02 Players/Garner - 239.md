@@ -44,3 +44,13 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+
+<!-- 2359-aest-everton-team-review -->
+## Everton team comparison — 2359-AEST
+
+- Internal Everton rank: **8 of 15**.
+- Overall rank: **136** (was 136).
+- Comparator outcome: set pieces and accumulation floor, discounted by groin injury.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+

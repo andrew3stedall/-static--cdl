@@ -47,3 +47,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 2359-aest-everton-team-review -->
+## Everton team comparison — 2359-AEST
+
+- Internal Everton rank: **11 of 15**.
+- Overall rank: **192** (was 166).
+- Comparator outcome: minutes and defensive floor.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+
