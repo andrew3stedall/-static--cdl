@@ -4,34 +4,26 @@ fpl_id: 553
 player: Isidor
 team: SUN
 position: FWD
-current_rank: 216
+current_rank: 199
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T12:59:00+10:00
 ---
 
 # Isidor
 
-## Current placement
+## Current assessment
 
-- Rank: **216** (previously 203)
-- Segment/tier: **Undrafted buffer / D**
-- Status: Available
+- Rank: **199**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Available
+- Review: [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Below [[02 Players/Alleyne - 394|Alleyne]] after raw points, minutes, role and risk comparison.
+- Above [[02 Players/Rashford - 429|Rashford]] after the same draft comparator.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **211–221** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.

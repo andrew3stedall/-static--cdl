@@ -4,34 +4,26 @@ fpl_id: 210
 player: Wharton
 team: CRY
 position: MID
-current_rank: 234
+current_rank: 220
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T12:59:00+10:00
 ---
 
 # Wharton
 
-## Current placement
+## Current assessment
 
-- Rank: **234** (previously 215)
-- Segment/tier: **Undrafted buffer / D**
-- Status: Ankle injury - 75% chance of playing
+- Rank: **220**
+- Segment / tier: **Undrafted buffer / D**
+- Availability: Ankle injury - 75% chance of playing
+- Review: [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Below [[02 Players/Yates - 489|Yates]] after raw points, minutes, role and risk comparison.
+- Above [[02 Players/Johnson - 209|Johnson]] after the same draft comparator.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **229–239** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
