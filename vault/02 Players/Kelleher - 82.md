@@ -44,3 +44,12 @@ Rank updated to 88 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+<!-- 2032-aest-brentford-team-review -->
+## Brentford team comparison — 2032-AEST
+
+- Internal Brentford rank: **8 of 20**.
+- Overall rank: **144** (was 88).
+- Comparator outcome: starting-goalkeeper floor but a highly replaceable draft position.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+

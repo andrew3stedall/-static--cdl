@@ -35,3 +35,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+<!-- 2032-aest-brentford-team-review -->
+## Brentford team comparison — 2032-AEST
+
+- Internal Brentford rank: **16 of 20**.
+- Overall rank: **282** (was 282).
+- Comparator outcome: minutes floor with limited direct FPL ceiling.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+

@@ -33,3 +33,12 @@ Secure creative involvement offers a useful floor without elite goal volume.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+<!-- 2032-aest-brentford-team-review -->
+## Brentford team comparison — 2032-AEST
+
+- Internal Brentford rank: **2 of 20**.
+- Overall rank: **28** (was 28).
+- Comparator outcome: creative hub, secure minutes and set-piece involvement.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+

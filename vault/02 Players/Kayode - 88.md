@@ -45,3 +45,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+<!-- 2032-aest-brentford-team-review -->
+## Brentford team comparison — 2032-AEST
+
+- Internal Brentford rank: **9 of 20**.
+- Overall rank: **145** (was 144).
+- Comparator outcome: attacking full-back upside with developing role certainty.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+
