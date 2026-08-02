@@ -146,3 +146,10 @@ The 96 new depth entries require role confirmation before promotion into the man
 - Sanchez/Gusto — Chelsea starting hierarchy.
 - Beto/Brobbey — starting-striker and penalty evidence.
 
+## Review refresh — 1602-AEST
+
+Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
+
+- Recheck ranks 141–170 when a confirmed transfer, repeated probable-first-team lineup, penalty/set-piece assignment, or material injury update changes expected minutes.
+- Arsenal recruitment remains an uncertainty only; do not downgrade current players for unnamed or incomplete moves.
+- Preserve stable FPL IDs and keep transfer/registration cases outside the active board until present in the official API.

@@ -7,7 +7,7 @@ position: DEF
 current_rank: 163
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T11:48:00+10:00
+last_reviewed: 2026-08-02T16:02:25+10:00
 ---
 
 # Wieffer
@@ -27,3 +27,12 @@ last_reviewed: 2026-08-02T11:48:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is medium-low because ranks 141 onward are still being manually stabilised. Revisit for confirmed starting role, repeated probable-first-team minutes, set-piece responsibility, injury recovery, suspension or transfer-driven competition.
+
+## Pairwise review — 1602-AEST
+
+- Current rank: **163**
+- Segment/tier: **Undrafted buffer / D**
+- API status: Available
+- Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
+- Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.

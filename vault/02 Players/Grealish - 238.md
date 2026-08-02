@@ -7,7 +7,7 @@ position: MID
 current_rank: 175
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-02T16:02:25+10:00
 ---
 
 # Grealish
@@ -31,3 +31,12 @@ The comparison starts with expected season points using current FPL points, star
 ## Confidence and reversal trigger
 
 Confidence is low to medium. Reverse for confirmed starting roles, repeated probable-first-team minutes, penalties or set pieces, recovery setbacks, suspension, transfer completion or material competition changes.
+
+## Pairwise review — 1602-AEST
+
+- Current rank: **175**
+- Segment/tier: **Undrafted buffer / D**
+- API status: Foot injury - 75% chance of playing
+- Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
+- Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
