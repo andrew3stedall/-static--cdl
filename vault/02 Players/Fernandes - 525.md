@@ -33,3 +33,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+<!-- 0835-aest-tottenham-team-review -->
+## Tottenham team comparison — 0835-AEST
+
+- Internal Tottenham rank: **6 of 26**.
+- Overall rank: **57** (was 46).
+- Segment/tier: **Core / B-**.
+- Comparator outcome: creative midfield role and route to assists, while current team assignment needs monitoring.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+

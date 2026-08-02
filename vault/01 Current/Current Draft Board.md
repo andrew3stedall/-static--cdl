@@ -49,8 +49,8 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 31 | Rice | MID | ARS | Foundation | B+ | 13 | Available | 2026-08-02T17:58:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]] |
 | 32 | Virgil | DEF | LIV | Foundation | B+ | 356 | Available | 2026-08-03T00:18:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]] |
 | 33 | Ndiaye | MID | EVE | Core | B | 237 | Available | 2026-08-02T23:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] |
-| 34 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 35 | Richarlison | FWD | TOT | Core | B | 527 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 34 | Solanke | FWD | TOT | Core | B | 526 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
+| 35 | Kudus | MID | TOT | Core | B | 512 | Thigh injury - 75% chance of playing | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 36 | Cherki | MID | MCI | Core | B | 399 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 37 | Marmoush | FWD | MCI | Core | B | 401 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 38 | Dewsbury-Hall | MID | EVE | Core | B | 236 | Available | 2026-08-02T23:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] |
@@ -61,9 +61,9 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 43 | E.Le Fée | MID | SUN | Core | B | 542 | Available | 2026-08-03T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] |
 | 44 | Enzo | MID | CHE | Core | B | 155 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
 | 45 | McNeil | MID | EVE | Extended watch buffer | Watch | 241 | Available | 2026-08-02T23:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] |
-| 46 | Fernandes | MID | TOT | Core | B | 525 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 47 | Senesi | DEF | TOT | Core | B | 498 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
-| 48 | Van Hecke | DEF | TOT | Core | B | 112 | Available | 2026-08-01T22:54:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]] |
+| 46 | Maddison | MID | TOT | Core | B | 515 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
+| 47 | Pedro Porro | DEF | TOT | Core | B | 499 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
+| 48 | Richarlison | FWD | TOT | Core | B | 527 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 49 | Sarr | MID | CRY | Core | B- | 208 | Available | 2026-08-02T23:36:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]] |
 | 50 | Evanilson | FWD | BOU | Core | B- | 79 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
 | 51 | Šeško | FWD | MUN | Core | B- | 439 | Shin injury - 75% chance of playing | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
@@ -72,10 +72,10 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 54 | Barnes | MID | NEW | Core | B- | 453 | Available | 2026-08-03T07:41:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]] |
 | 55 | Amad | MID | MUN | Core | B- | 431 | Available | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
 | 56 | Neto | MID | CHE | Core | B- | 156 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
-| 57 | Kudus | MID | TOT | Core | B- | 512 | Thigh injury - 75% chance of playing | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
+| 57 | Fernandes | MID | TOT | Core | B- | 525 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 58 | Wissa | FWD | NEW | Core | B- | 464 | Available | 2026-08-03T07:41:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]] |
-| 59 | Maddison | MID | TOT | Core | B- | 515 | Available | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
-| 60 | Pedro Porro | DEF | TOT | Core | B- | 499 | Available | 2026-08-02T09:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]] |
+| 59 | Tel | MID | TOT | Core | B- | 514 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
+| 60 | Romero | DEF | TOT | Core | B- | 500 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 61 | James | DEF | CHE | Core | B- | 142 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
 | 62 | Woltemade | FWD | NEW | Core | B- | 463 | Available | 2026-08-03T07:41:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]] |
 | 63 | Okafor | MID | LEE | Core | B- | 336 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
@@ -111,13 +111,13 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 93 | Groß | MID | BHA | Depth | C | 124 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
 | 94 | Stach | MID | LEE | Depth | C | 335 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
 | 95 | O'Reilly | DEF | MCI | Depth | C | 387 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
-| 96 | Vicario | GKP | TOT | Depth | C | 494 | Available | 2026-08-02T10:12:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]] |
+| 96 | Vicario | GKP | TOT | Depth | C | 494 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 97 | Aït-Nouri | DEF | MCI | Depth | C | 392 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 98 | Savinho | MID | MCI | Depth | C | 403 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 99 | Truffert | DEF | BOU | Depth | C | 61 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
 | 100 | Estêvão | MID | CHE | Deep watch | D- | 157 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
 | 101 | Mukiele | DEF | SUN | Depth | C | 533 | Available | 2026-08-03T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] |
-| 102 | Romero | DEF | TOT | Depth | C | 500 | Available | 2026-08-02T08:15:00+10:00 | [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]] |
+| 102 | Van de Ven | DEF | TOT | Depth | C | 503 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 103 | Aaronson | MID | LEE | Depth | C | 337 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
 | 104 | Mitchell | DEF | CRY | Core | C+ | 204 | Available | 2026-08-02T23:36:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]] |
 | 105 | Roefs | GKP | SUN | Depth | C | 529 | Available | 2026-08-03T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] |
@@ -158,7 +158,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 140 | Bijol | DEF | LEE | Endgame | D+ | 327 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
 | 141 | Maguire | DEF | MUN | Endgame | D+ | 418 | Available | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
 | 142 | Verbruggen | GKP | BHA | Endgame | D+ | 109 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
-| 143 | Van de Ven | DEF | TOT | Endgame | D+ | 503 | Available | 2026-08-02T11:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]] |
+| 143 | Senesi | DEF | TOT | Endgame | D+ | 498 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 144 | Kelleher | GKP | BRE | Depth | C | 82 | Available | 2026-08-02T20:32:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] |
 | 145 | Kayode | DEF | BRE | Endgame | D+ | 88 | Available | 2026-08-02T20:32:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] |
 | 146 | Sadiki | MID | SUN | Endgame | D+ | 545 | Available | 2026-08-03T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] |
@@ -173,7 +173,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 155 | Barry | FWD | EVE | Endgame | D+ | 249 | Available | 2026-08-02T23:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] |
 | 156 | Hutchinson | MID | NFO | Endgame | D+ | 484 | Available | 2026-08-03T07:49:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] |
 | 157 | Hume | DEF | SUN | Endgame | D+ | 534 | Available | 2026-08-03T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] |
-| 158 | Tonali | MID | TOT | Endgame | D+ | 455 | Available | 2026-08-02T11:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]] |
+| 158 | Van Hecke | DEF | TOT | Endgame | D+ | 112 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 159 | Gravenberch | MID | LIV | Endgame | D+ | 371 | Available | 2026-08-03T00:18:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]] |
 | 160 | Struijk | DEF | BHA | Endgame | D+ | 328 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
 | 161 | Ayari | MID | BHA | Endgame | D+ | 129 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
@@ -189,11 +189,11 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 171 | Rodon | DEF | LEE | Undrafted buffer | D | 329 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
 | 172 | N.Williams | DEF | NFO | Undrafted buffer | D | 469 | Available | 2026-08-03T07:49:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] |
 | 173 | Ekitiké | FWD | LIV | Undrafted buffer | D | 380 | Achilles injury - Unknown return date | 2026-08-03T00:18:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]] |
-| 174 | Bentancur | MID | TOT | Undrafted buffer | D | 516 | Available | 2026-08-02T12:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]] |
+| 174 | Xavi | MID | TOT | Undrafted buffer | D | 513 | Knee injury - Unknown return date | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 175 | Rúben | DEF | MCI | Undrafted buffer | D | 390 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 176 | Justin | DEF | LEE | Undrafted buffer | D | 332 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
-| 177 | Spence | DEF | TOT | Undrafted buffer | D | 505 | Available | 2026-08-02T12:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]] |
-| 178 | Tel | MID | TOT | Undrafted buffer | D | 514 | Available | 2026-08-02T12:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]] |
+| 177 | Udogie | DEF | TOT | Undrafted buffer | D | 506 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
+| 178 | Spence | DEF | TOT | Undrafted buffer | D | 505 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 179 | Botman | DEF | NEW | Undrafted buffer | D | 447 | Available | 2026-08-03T07:41:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]] |
 | 180 | Milenković | DEF | NFO | Undrafted buffer | D | 471 | Available | 2026-08-03T07:49:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] |
 | 181 | Van den Berg | DEF | BRE | Endgame | D+ | 85 | Available | 2026-08-02T20:32:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] |
@@ -209,7 +209,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 191 | Boscagli | DEF | BHA | Deep watch | D- | 114 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
 | 192 | O'Brien | DEF | EVE | Undrafted buffer | D | 232 | Available | 2026-08-02T23:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] |
 | 193 | Kalimuendo | FWD | NFO | Deep watch | D- | 493 | Available | 2026-08-03T07:49:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] |
-| 194 | Kinsky | GKP | TOT | Deep watch | D- | 496 | Available | 2026-08-02T12:01:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]] |
+| 194 | Gallagher | MID | TOT | Deep watch | D- | 519 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 195 | N.Jackson | FWD | CHE | Undrafted buffer | D | 166 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
 | 196 | Emegha | FWD | CHE | Undrafted buffer | D | 170 | Hamstring injury - 75% chance of playing | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
 | 197 | Martinez | DEF | MUN | Undrafted buffer | D | 419 | Thigh injury - 75% chance of playing | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
@@ -239,7 +239,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 221 | Canvot | DEF | CRY | Deep watch | D- | 203 | Available | 2026-08-02T23:36:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]] |
 | 222 | Wilson | GKP | COV | Extended watch buffer | Watch | 172 | Available | 2026-08-02T12:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] |
 | 223 | Akpom | FWD | IPS | Extended watch buffer | Watch | 320 | Available | 2026-08-02T12:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] |
-| 224 | P.M.Sarr | MID | TOT | Extended watch buffer | Watch | 518 | Available | 2026-08-02T12:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] |
+| 224 | P.M.Sarr | MID | TOT | Extended watch buffer | Watch | 518 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 225 | Thomas-Asante | FWD | COV | Extended watch buffer | Watch | 194 | Available | 2026-08-02T12:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] |
 | 226 | Al-Hamadi | FWD | IPS | Extended watch buffer | Watch | 322 | Available | 2026-08-02T12:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] |
 | 227 | Tzimas | FWD | BHA | Extended watch buffer | Watch | 137 | Knee injury - 75% chance of playing | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
@@ -255,19 +255,19 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 237 | Lerma | MID | CRY | Undrafted buffer | D | 213 | Available | 2026-08-02T23:36:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]] |
 | 238 | N.Gonzalez | MID | MCI | Extended watch buffer | Watch | 405 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 239 | Madueke | MID | ARS | Extended watch buffer | Watch | 16 | Available | 2026-08-02T17:58:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]] |
-| 240 | Xavi | MID | TOT | Extended watch buffer | Watch | 513 | Knee injury - Unknown return date | 2026-08-02T12:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] |
+| 240 | Bergvall | MID | TOT | Extended watch buffer | Watch | 520 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 241 | Rodríguez | FWD | BOU | Undrafted buffer | D | 81 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
 | 242 | Buendía | MID | AVL | Undrafted buffer | D | 41 | Available | 2026-08-02T18:11:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]] |
 | 243 | Bakwa | MID | NFO | Undrafted buffer | D | 485 | Available | 2026-08-03T07:49:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] |
 | 244 | Martinez | GKP | AVL | Undrafted buffer | D | 28 | Available | 2026-08-02T18:11:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]] |
-| 245 | Danso | DEF | TOT | Undrafted buffer | D | 501 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 245 | Bentancur | MID | TOT | Undrafted buffer | D | 516 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 246 | Kusi-Asare | FWD | FUL | Undrafted buffer | D | 272 | Available | 2026-08-03T00:05:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]] |
 | 247 | Pinnock | DEF | BRE | Undrafted buffer | D | 91 | Available | 2026-08-02T20:32:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] |
 | 248 | Andersen | DEF | FUL | Endgame | D+ | 253 | Suspended until 29 Aug | 2026-08-03T00:05:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]] |
 | 249 | Hill | DEF | BOU | Endgame | D+ | 60 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
-| 250 | Dubravka | GKP | TOT | Undrafted buffer | D | 497 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 250 | Odobert | MID | TOT | Undrafted buffer | D | 517 | Knee injury - Unknown return date | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 251 | Enes Ünal | FWD | BOU | Extended watch buffer | Watch | 80 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
-| 252 | Gray | MID | TOT | Undrafted buffer | D | 522 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 252 | Gray | MID | TOT | Undrafted buffer | D | 522 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 253 | Joelinton | MID | NEW | Undrafted buffer | D | 458 | Thigh injury - 75% chance of playing | 2026-08-03T07:41:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]] |
 | 254 | Khusanov | DEF | MCI | Undrafted buffer | D | 393 | Available | 2026-08-03T00:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] |
 | 255 | Gittens | MID | CHE | Extended watch buffer | Watch | 158 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
@@ -286,7 +286,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 268 | Chiesa | MID | LIV | Undrafted buffer | D | 370 | Available | 2026-08-03T00:18:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]] |
 | 269 | Mings | DEF | AVL | Undrafted buffer | D | 33 | Available | 2026-08-02T18:11:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]] |
 | 270 | Mazraoui | DEF | MUN | Undrafted buffer | D | 422 | Available | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
-| 271 | Gallagher | MID | TOT | Undrafted buffer | D | 519 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 271 | Danso | DEF | TOT | Undrafted buffer | D | 501 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 272 | Tanaka | MID | LEE | Undrafted buffer | D | 345 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
 | 273 | Diarra | MID | SUN | Undrafted buffer | D | 543 | Available | 2026-08-03T08:30:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] |
 | 274 | Ajer | DEF | BRE | Deep watch | D- | 87 | Available | 2026-08-02T20:32:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] |
@@ -302,7 +302,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 284 | Yates | MID | NFO | Extended watch buffer | Watch | 489 | Available | 2026-08-03T07:49:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] |
 | 285 | Longstaff | MID | LEE | Extended watch buffer | Watch | 339 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
 | 286 | Cook | MID | BOU | Extended watch buffer | Watch | 71 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
-| 287 | Robertson | DEF | TOT | Extended watch buffer | Watch | 502 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 287 | Robertson | DEF | TOT | Extended watch buffer | Watch | 502 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 288 | Tsimikas | DEF | LIV | Extended watch buffer | Watch | 364 | Available | 2026-08-03T00:18:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]] |
 | 289 | Baleba | MID | BHA | Undrafted buffer | D | 131 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
 | 290 | Palmer | GKP | IPS | Extended watch buffer | Watch | 301 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
@@ -323,7 +323,7 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 305 | Schuster | DEF | BRE | Extended watch buffer | Watch | 93 | Available | 2026-08-02T20:32:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] |
 | 306 | De Ligt | DEF | MUN | Extended watch buffer | Watch | 416 | Back injury - Unknown return date | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
 | 307 | Costinha | DEF | BHA | Extended watch buffer | Watch | 119 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
-| 308 | Bergvall | MID | TOT | Extended watch buffer | Watch | 520 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 308 | Tonali | MID | TOT | Extended watch buffer | Watch | 455 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 309 | Svoboda | DEF | BHA | Extended watch buffer | Watch | 120 | Available | 2026-08-02T20:45:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]] |
 | 310 | Berge | MID | FUL | Endgame | D+ | 265 | Available | 2026-08-03T00:05:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]] |
 | 311 | Tielemans | MID | MUN | Extended watch buffer | Watch | 43 | Hamstring injury - 75% chance of playing | 2026-08-03T00:42:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] |
@@ -354,10 +354,10 @@ This is the **only canonical current overall ordering**. The first 170 have now 
 | 336 | Diakité | DEF | BOU | Extended watch buffer | Watch | 62 | Available | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
 | 337 | Mamardashvili | GKP | LIV | Extended watch buffer | Watch | 351 | Available | 2026-08-03T00:18:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]] |
 | 338 | Disasi | DEF | CHE | Extended watch buffer | Watch | 153 | Available | 2026-08-02T23:26:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]] |
-| 339 | Udogie | DEF | TOT | Extended watch buffer | Watch | 506 | Available | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 339 | Kinsky | GKP | TOT | Extended watch buffer | Watch | 496 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 340 | Lindelöf | DEF | AVL | Extended watch buffer | Watch | 37 | Available | 2026-08-02T18:11:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]] |
 | 341 | Muharemović | DEF | LEE | Extended watch buffer | Watch | 334 | Available | 2026-08-03T00:12:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]] |
-| 342 | Odobert | MID | TOT | Extended watch buffer | Watch | 517 | Knee injury - Unknown return date | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |
+| 342 | Dubravka | GKP | TOT | Extended watch buffer | Watch | 497 | Available | 2026-08-03T08:35:00+10:00 | [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] |
 | 343 | Mosquera | DEF | ARS | Extended watch buffer | Watch | 11 | Available | 2026-08-02T17:58:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]] |
 | 344 | Christie | MID | BOU | Extended watch buffer | Watch | 75 | Suspended until 29 Aug | 2026-08-02T18:25:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] |
 | 345 | Iroegbunam | MID | EVE | Extended watch buffer | Watch | 240 | Available | 2026-08-02T23:59:00+10:00 | [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]] |

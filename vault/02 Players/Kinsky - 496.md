@@ -39,3 +39,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+<!-- 0835-aest-tottenham-team-review -->
+## Tottenham team comparison — 0835-AEST
+
+- Internal Tottenham rank: **25 of 26**.
+- Overall rank: **339** (was 194).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: backup-goalkeeper profile.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+

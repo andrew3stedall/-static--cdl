@@ -214,3 +214,6 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 0830-aest-sunderland-team-review -->
 - Sunderland internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0830-AEST-changes]].
+
+<!-- 0835-aest-tottenham-team-review -->
+- Tottenham internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0835-AEST-changes]].

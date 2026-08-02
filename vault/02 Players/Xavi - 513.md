@@ -26,3 +26,13 @@ last_reviewed: 2026-08-02T12:59:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
+<!-- 0835-aest-tottenham-team-review -->
+## Tottenham team comparison — 0835-AEST
+
+- Internal Tottenham rank: **13 of 26**.
+- Overall rank: **174** (was 240).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: high creative ceiling, heavily discounted for knee injury and role uncertainty.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+
