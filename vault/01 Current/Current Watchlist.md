@@ -153,3 +153,10 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Recheck ranks 141–170 when a confirmed transfer, repeated probable-first-team lineup, penalty/set-piece assignment, or material injury update changes expected minutes.
 - Arsenal recruitment remains an uncertainty only; do not downgrade current players for unnamed or incomplete moves.
 - Preserve stable FPL IDs and keep transfer/registration cases outside the active board until present in the official API.
+
+<!-- 1658-AEST-1658-aest-review -->
+## 1658-AEST review
+
+- Ranks 171–200 rechecked with challengers 166–205: no rank movement.
+- Priority triggers: Livramento recovery, Chelsea hierarchy, final first-team friendlies and completed transfers.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].

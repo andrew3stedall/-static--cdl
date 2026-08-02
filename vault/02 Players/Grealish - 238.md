@@ -40,3 +40,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+
+<!-- 1658-AEST-1658-aest-assessment -->
+## 1658-AEST assessment
+
+- Overall rank retained: **175**.
+- Compared with immediate neighbours in the 166–205 window.
+- No current evidence justified movement.
+- Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].

@@ -27,3 +27,11 @@ last_reviewed: 2026-08-02T12:59:00+10:00
 ## Confidence and reversal trigger
 
 Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.
+
+<!-- 1658-AEST-1658-aest-assessment -->
+## 1658-AEST assessment
+
+- Overall rank retained: **205**.
+- Compared with immediate neighbours in the 166–205 window.
+- No current evidence justified movement.
+- Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].

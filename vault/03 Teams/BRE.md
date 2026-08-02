@@ -56,3 +56,9 @@ Players are listed in canonical overall draft rank order.
 
 Source: [[01 Current/Current Draft Board]] · generated 2026-08-02T18:10:00+10:00
 <!-- ranked-players:end -->
+
+<!-- 1658-AEST-1658-aest-block-review -->
+## 1658-AEST block review
+
+- Team players in ranks 166–205 were reconciled without a rank change.
+- Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
