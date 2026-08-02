@@ -166,3 +166,9 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 - Saliba and Timber fitness; Havertz central minutes; left-wing hierarchy among Martinelli, Tzolis and Madueke; penalty and set-piece duties.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+
+
+## 1811-AEST Aston Villa review
+
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1811-AEST-changes]]

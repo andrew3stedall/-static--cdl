@@ -5,9 +5,9 @@ player_name: Martinez
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 111
+current_rank: 244
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # Martinez
@@ -48,3 +48,12 @@ Ranked 102 after the ranks 81–110 review with challengers from 76–115. Offic
 ## 2026-08-02 10:12 AEST
 
 Rank updated to 111 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **244** (previously 296).
+- Internal club order: **8 of 19**.
+- Decision: secure goalkeeper minutes and save/clean-sheet floor beat low-upside outfield depth.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].

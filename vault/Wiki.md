@@ -216,3 +216,9 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 - [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 1811-AEST Aston Villa review
+
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1811-AEST-changes]]

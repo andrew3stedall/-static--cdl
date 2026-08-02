@@ -5,9 +5,9 @@ player_name: McGinn
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: Available
-current_rank: 124
+current_rank: 121
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # McGinn
@@ -51,3 +51,12 @@ Compared within ranks 106–145. Current placement: **121**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **121** (previously 121).
+- Internal club order: **3 of 19**.
+- Decision: secure minutes and broad route to returns beat the remaining options.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
