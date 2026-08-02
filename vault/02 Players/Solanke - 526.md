@@ -37,3 +37,13 @@ Forward scarcity and a plausible central Tottenham role justify the largest prom
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2254-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2254-AEST-changes]]
+<!-- 0835-aest-tottenham-team-review -->
+## Tottenham team comparison — 0835-AEST
+
+- Internal Tottenham rank: **1 of 26**.
+- Overall rank: **34** (was 34).
+- Segment/tier: **Core / B**.
+- Comparator outcome: clearest central-forward role, penalties possibility and strongest raw-points projection.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+

@@ -36,3 +36,13 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+<!-- 0835-aest-tottenham-team-review -->
+## Tottenham team comparison — 0835-AEST
+
+- Internal Tottenham rank: **24 of 26**.
+- Overall rank: **308** (was 158).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: strong real-football role but limited direct FPL output and questionable assignment.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+

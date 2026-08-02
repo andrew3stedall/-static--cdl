@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+<!-- 0835-aest-tottenham-team-review -->
+## Tottenham team comparison — 0835-AEST
+
+- Internal Tottenham rank: **26 of 26**.
+- Overall rank: **342** (was 250).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: lowest current first-choice certainty in the ranked Tottenham pool.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+
