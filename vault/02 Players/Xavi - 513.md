@@ -5,33 +5,24 @@ player: Xavi
 team: TOT
 position: MID
 current_rank: 240
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+segment: Extended watch buffer
+tier: Watch
+last_reviewed: 2026-08-02T12:59:00+10:00
 ---
 
 # Xavi
 
-## Current placement
+## Current assessment
 
-- Rank: **240** (previously unranked)
-- Segment/tier: **Undrafted buffer / D**
-- Status: Knee injury - Unknown return date
+- Rank: **240**
+- Segment / tier: **Extended watch buffer / Watch**
+- Availability: Knee injury - Unknown return date
+- Review: [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]]
 
-## Expansion assessment
+## Pairwise placement
 
-This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
+- Below [[02 Players/Tzolis - 557|Tzolis]] after raw points, minutes, role and risk comparison.
 
-## Comparator range
+## Confidence and reversal trigger
 
-The player belongs around ranks **235–245** pending direct role, preseason and first-team minutes evidence.
-
-## Reversal triggers
-
-Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
-
-## Evidence
-
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+Confidence is low-to-medium. Reverse for confirmed starting role, penalties or set pieces, repeated probable-first-team minutes, injury recovery, suspension, registration or transfer-driven competition.

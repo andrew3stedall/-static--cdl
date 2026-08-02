@@ -1,6 +1,6 @@
 ---
 type: current_watchlist
-last_updated: 2026-08-02T10:12:00+10:00
+last_updated: 2026-08-02T12:59:00+10:00
 status: active
 ---
 
@@ -129,3 +129,7 @@ The 96 new depth entries require role confirmation before promotion into the man
 ## 2026-08-02T12:01:00+10:00 ranks 171–200 triggers
 
 - Recheck starting roles, injuries, transfers, registrations, penalties and set pieces for ranks 166–205. Evidence: [[06 Reviews/2026/08/2026-08-02/1201-AEST-review]].
+
+## 2026-08-02T12:59:00+10:00 — ranks 201–220 triggers
+
+- Confirmed starting roles, penalties, set pieces, injuries and transfers for ranks 196–240 and screened API outsiders. Evidence: [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]].

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+from collections import Counter
 from pathlib import Path
 
 BOARD = Path("vault/01 Current/Current Draft Board.md")
@@ -26,10 +27,12 @@ def main() -> None:
     ranks = [rank for rank, _, _ in rows]
     ids = [fpl_id for _, fpl_id, _ in rows]
     expected = list(range(1, EXPECTED_MAX_RANK + 1))
+    rank_counts = Counter(ranks)
+    id_counts = Counter(ids)
 
     missing = sorted(set(expected) - set(ranks))
-    duplicate_ranks = sorted({rank for rank in ranks if ranks.count(rank) > 1})
-    duplicate_ids = sorted({fpl_id for fpl_id in ids if ids.count(fpl_id) > 1})
+    duplicate_ranks = sorted(rank for rank, count in rank_counts.items() if count > 1)
+    duplicate_ids = sorted(fpl_id for fpl_id, count in id_counts.items() if count > 1)
 
     errors: list[str] = []
     if len(rows) != EXPECTED_MAX_RANK:
