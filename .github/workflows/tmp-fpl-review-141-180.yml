@@ -16,7 +16,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/fpl_review_141_180.py
+      - run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('vault/01 Current/Current Draft Board.md')
+          lines=p.read_text().splitlines()
+          if not any(x.startswith('| 155 |') for x in lines):
+              idx=next(i for i,x in enumerate(lines) if x.startswith('| 156 |'))
+              lines.insert(idx,'| 155 | Wilson | GKP | COV | Endgame | D+ | 172 | Available | 2026-08-02T11:48:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1148-AEST-review]] |')
+              p.write_text('\n'.join(lines)+'\n')
+          PY
+          python scripts/fpl_review_141_180.py
       - run: |
           rm scripts/fpl_review_141_180.py
           git config user.name "github-actions[bot]"
