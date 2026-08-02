@@ -1,0 +1,21 @@
+name: Temporary sync ranks 141-180
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-sync-141-180.yml
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1148-ranks141-180
+          fetch-depth: 0
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge origin/main -s ours -m "Sync ranks 141-180 review with current main"
+          git push origin HEAD:codex/fpl-review-20260802-1148-ranks141-180
