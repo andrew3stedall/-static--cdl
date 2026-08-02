@@ -8,7 +8,7 @@ comparison_baseline: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]]
 
 ## Rank and tier changes
 
-- No rank or tier changes. The target block retained its ordering after 60 immediate-neighbour comparisons.
+- No rank or tier changes. The target block retained its ordering after 31 unique adjacent-boundary comparisons covering every target player and both five-rank buffers.
 
 ## API and availability changes
 
