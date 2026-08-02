@@ -114,9 +114,8 @@ last_updated: 2026-08-02T08:41:00+10:00
 - Latest review: [[06 Reviews/2026/08/2026-08-02/0904-AEST-review]].
 - Latest changes: [[07 Changes/2026/08/2026-08-02/0904-AEST-changes]].
 
-## 2026-08-02 09:58 AEST
+## 2026-08-02 10:01 AEST
 
-- Rechecked ranks 81–110 with challengers 76–115; no rank or tier changes.
-- Added Sangare registration/role and Gomez injury hierarchy monitoring.
-- Latest review: [[06 Reviews/2026/08/2026-08-02/0958-AEST-review]].
-- Latest changes: [[07 Changes/2026/08/2026-08-02/0958-AEST-changes]].
+- Integrated the 20 new additions into the full 240-player ordering.
+- Latest review: [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]].
+- Latest changes: [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]].

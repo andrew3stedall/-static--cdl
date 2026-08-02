@@ -29,7 +29,3 @@ last_reviewed: 2026-08-01T18:48:00+10:00
 - [Premier League expert panel](https://www.premierleague.com/en/news/4672877/fpl-experts-price-predictions-for-202627)
 - [FFScout preseason roundup](https://www.fantasyfootballscout.co.uk/2026/07/31/fpl-pre-season-tavernier-impresses-muharemovic-class-szoboszlai-deeper)
 - [[01 Current/Current Watchlist]]
-
-## 2026-08-02 09:58 AEST
-
-Joe Gomez is expected to miss the opener; short-term defensive opportunity rises, but season-long hierarchy remains unresolved. [Reuters](https://www.reuters.com/sports/soccer/liverpools-gomez-set-miss-premier-league-opener-with-muscle-injury-2026-07-30/)

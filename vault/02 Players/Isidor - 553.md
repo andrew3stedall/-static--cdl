@@ -5,33 +5,27 @@ player_name: Isidor
 team: "[[03 Teams/SUN]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 174
+current_rank: 189
 current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T08:41:00+10:00
+current_tier: D
+last_reviewed: 2026-08-02T10:01:00+10:00
 ---
 
 # Isidor
 
 ## Current assessment
 
-Ranked 174 after the ranks 171–200 pairwise review with challengers 166–205. Raw expected season points were assessed before positional scarcity.
+This player's rank is now 189 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
 
-## Pairwise placement
+## Direct range comparison
 
-- Immediate comparison: **McBurnie / Akpom**.
-- Decision: forward ceiling beats Akpom in a close role comparison.
-- Confidence: medium.
-- Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
+Placed between **Yates** and **Akpom**.
 
-## Evidence timeline
+## Reversal trigger
 
-- 2026-08-02 08:41 AEST — moved from rank 202 to 174 in the stable pairwise pass.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
+Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
 
 ## Backlinks
-
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0841-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0841-AEST-changes]]
+- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]

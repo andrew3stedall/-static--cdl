@@ -27,7 +27,3 @@ last_reviewed: 2026-08-01T18:48:00+10:00
 - [Premier League expert panel](https://www.premierleague.com/en/news/4672877/fpl-experts-price-predictions-for-202627)
 - [FML FPL dissenting view](https://podcasts.apple.com/us/podcast/fpl-is-back-2026-27-fpl-preseason-launch/id1024068765?i=1000778160164)
 - [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
-
-## 2026-08-02 09:58 AEST
-
-Mamadou Sangare's completed signing is a registration and midfield-competition watch case; do not merge him with Ibrahim Sangaré. [Reuters](https://www.reuters.com/sports/soccer/brentford-sign-sangare-lens-club-record-fee-2026-08-01/)

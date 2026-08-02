@@ -5,48 +5,27 @@ player_name: Pope
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 100
+current_rank: 104
 current_segment: Depth
-last_reviewed: 2026-08-02T08:15:00+10:00
+current_tier: C
+last_reviewed: 2026-08-02T10:01:00+10:00
 ---
 
 # Pope
 
 ## Current assessment
 
-Ranked 100 after the ranks 81–110 review with challengers from 76–115. Official FPL ID 442 remains active in the API pool.
+This player's rank is now 104 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
 
-## Direct comparison
+## Direct range comparison
 
-- Compared with: **A.Becker**.
-- Raw expected-points judgement: Pope is currently preferred.
-- Draft decision: Pope has the stronger save-volume route; Alisson relies more heavily on clean sheets.
-- Confidence: medium.
-- Reversal trigger: confirmed strongest-XI role, set pieces, fitness or official transfer evidence that changes the comparison.
+Placed between **Leno** and **A.Becker**.
 
-## Current metadata
+## Reversal trigger
 
-- Team: NEW
-- Position: GKP
-- Availability: Available
-- API total points field: 96
-- API minutes field: 2416
-
-## Evidence timeline
-
-- 2026-08-02 08:15 AEST — Pairwise-reviewed and placed at rank 100.
-- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
-- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason schedule](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
+Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
 
 ## Backlinks
-
 - [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0815-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0815-AEST-changes]]
-
-## 2026-08-02 09:58 AEST recheck
-
-Retained at rank **100** after direct comparison with Roefs above and A.Becker below. No new evidence changed expected points, minutes, role or positional replacement value enough to move the player. Confidence: medium. Reversal trigger: confirmed role, set pieces, fitness, registration or repeated probable-XI preseason minutes.
-
-Evidence: [[06 Reviews/2026/08/2026-08-02/0958-AEST-review]]; [Official FPL API](https://fantasy.premierleague.com/api/bootstrap-static/).
+- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
+- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
