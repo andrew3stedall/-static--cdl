@@ -1,0 +1,30 @@
+name: Temporary FPL Review 1500
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    if: github.head_ref == 'codex/fpl-review-20260802-1500-ranks111-140-recheck'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1500-ranks111-140-recheck
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          python scripts/run_fpl_review_1500.py
+          python scripts/validate_draft_board.py
+          rm scripts/run_fpl_review_1500.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Review FPL Draft ranks 111-140 at 1500 AEST"
+          git push origin HEAD:codex/fpl-review-20260802-1500-ranks111-140-recheck
