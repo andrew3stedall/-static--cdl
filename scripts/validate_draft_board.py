@@ -8,6 +8,7 @@ EXPECTED_MAX_RANK = 350
 
 
 def main() -> None:
+    # The canonical board must remain a complete physical sequence, not merely contain rank labels.
     lines = BOARD.read_text(encoding="utf-8").splitlines()
     rows: list[tuple[int, int, str]] = []
 
