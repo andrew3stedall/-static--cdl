@@ -1,41 +1,37 @@
 ---
 type: player
 fpl_id: 125
-player_name: Georginio
-team: "[[03 Teams/BHA]]"
-position: "[[04 Positions/Forward]]"
-api_status: "Available"
-current_rank: 160
-current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Georginio
+team: BHA
+position: FWD
+current_rank: 161
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Georginio
 
-## Current assessment
+## Current placement
 
-Ranked 138 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
+- Rank: **161** (previously 160)
+- Segment/tier: **Endgame / D+**
+- Status: Available
 
-## Pairwise placement
+## Expansion assessment
 
-- Immediate comparison: **Barry / Reijnders**.
-- Decision: Georginio is placed below Barry and above Reijnders after expected points, minutes, role and risk were compared.
-- Confidence: medium.
-- Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Evidence timeline
+## Comparator range
 
-- 2026-08-02 08:37 AEST — moved from rank 163 to 138 in the stable pairwise pass.
+The player belongs around ranks **156–166** pending direct role, preseason and first-team minutes evidence.
+
+## Reversal triggers
+
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
+
+## Evidence
+
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 160 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

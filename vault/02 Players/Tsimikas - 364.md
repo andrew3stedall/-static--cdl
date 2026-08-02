@@ -1,41 +1,37 @@
 ---
 type: player
 fpl_id: 364
-player_name: Tsimikas
-team: "[[03 Teams/LIV]]"
-position: "[[04 Positions/Defender]]"
-api_status: "Available"
-current_rank: 183
-current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Tsimikas
+team: LIV
+position: DEF
+current_rank: 188
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Tsimikas
 
-## Current assessment
+## Current placement
 
-Ranked 157 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
+- Rank: **188** (previously 183)
+- Segment/tier: **Undrafted buffer / D**
+- Status: Available
 
-## Pairwise placement
+## Expansion assessment
 
-- Immediate comparison: **Colwill / Palestra**.
-- Decision: Tsimikas is placed below Colwill and above Palestra after expected points, minutes, role and risk were compared.
-- Confidence: medium.
-- Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Evidence timeline
+## Comparator range
 
-- 2026-08-02 08:37 AEST — moved from rank 156 to 157 in the stable pairwise pass.
+The player belongs around ranks **183–193** pending direct role, preseason and first-team minutes evidence.
+
+## Reversal triggers
+
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
+
+## Evidence
+
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 183 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

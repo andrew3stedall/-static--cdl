@@ -125,3 +125,6 @@ last_updated: 2026-08-02T08:41:00+10:00
 - Screened every active player omitted from the 240-player board and inserted 14 credible top-140 candidates.
 - Latest review: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
 - Latest changes: [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]].
+
+- Latest expansion review: [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+- Latest expansion changes: [[07 Changes/2026/08/2026-08-02/1017-AEST-changes]]
