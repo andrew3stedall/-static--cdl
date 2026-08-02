@@ -137,3 +137,12 @@ The 96 new depth entries require role confirmation before promotion into the man
 ## 2026-08-02T14:00:00+10:00 ranks 81–110 recheck
 
 - No new material movement. Continue monitoring Chelsea forward minutes, goalkeeper hierarchies, Arsenal/Liverpool defensive availability, set pieces and late transfers. Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
+
+## Review 2026-08-02T15:00:00+10:00
+
+- [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]] — ranks 111–140 rechecked with challengers 106–145; no rank movement.
+- Lisandro Martinez — confirm full training and opening-week centre-back role. Evidence: https://www.thenationalnews.com/sport/football/2026/07/26/manchester-united-pre-season-update-transfers-injuries-and-marcus-rashfords-situation/
+- James Garner — monitor rehabilitation after groin surgery and set-piece role. Evidence: https://www.beinsports.com/en-asia/football/premier-league/articles/garner-a-doubt-for-evertons-premier-league-opener-after-groin-surgery-2026-07-25
+- Sanchez/Gusto — Chelsea starting hierarchy.
+- Beto/Brobbey — starting-striker and penalty evidence.
+

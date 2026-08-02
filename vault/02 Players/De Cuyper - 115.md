@@ -21,3 +21,12 @@ Inserted at rank 136 after the full unranked-player screen. Compared with Bogle:
 
 ## 2026-08-02 11:01 AEST pairwise review
 Compared within ranks 106–145. Current placement: **132**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+
+## Review 2026-08-02T15:00:00+10:00
+
+- Overall rank: **132**
+- Team/position: **BHA / DEF**
+- Segment/tier: **Endgame / D+**
+- Official API status: Available
+- Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]

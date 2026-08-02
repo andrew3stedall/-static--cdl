@@ -38,3 +38,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 
 ## 2026-08-02 11:01 AEST pairwise review
 Compared within ranks 106–145. Current placement: **111**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
+
+## Review 2026-08-02T15:00:00+10:00
+
+- Overall rank: **111**
+- Team/position: **MUN / DEF**
+- Segment/tier: **Depth / C**
+- Official API status: Thigh injury - 75% chance of playing
+- Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]

@@ -43,3 +43,12 @@ Compared within ranks 106–145. Current placement: **107**. See [[06 Reviews/20
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+
+## Review 2026-08-02T15:00:00+10:00
+
+- Overall rank: **107**
+- Team/position: **NEW / GKP**
+- Segment/tier: **Depth / C**
+- Official API status: Available
+- Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
