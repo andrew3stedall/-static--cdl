@@ -39,3 +39,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+<!-- 2032-aest-brentford-team-review -->
+## Brentford team comparison — 2032-AEST
+
+- Internal Brentford rank: **14 of 20**.
+- Overall rank: **274** (was 181).
+- Comparator outcome: versatility and attacking carries, offset by rotation risk.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+

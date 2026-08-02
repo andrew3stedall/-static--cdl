@@ -34,3 +34,12 @@ last_reviewed: 2026-08-01T22:07:00+10:00
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+<!-- 2032-aest-brentford-team-review -->
+## Brentford team comparison — 2032-AEST
+
+- Internal Brentford rank: **1 of 20**.
+- Overall rank: **6** (was 6).
+- Comparator outcome: secure central-forward role, penalties, production and forward scarcity.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+

@@ -225,3 +225,6 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 1825-aest-bournemouth-team-review -->
 - Bournemouth internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]] · [[07 Changes/2026/08/2026-08-02/1825-AEST-changes]].
+
+<!-- 2032-aest-brentford-team-review -->
+- Brentford internal ordering reviewed: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]] · [[07 Changes/2026/08/2026-08-02/2032-AEST-changes]].
