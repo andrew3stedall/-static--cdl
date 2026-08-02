@@ -205,3 +205,6 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 0030-aest-man-city-team-review -->
 - Manchester City internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0030-AEST-changes]].
+
+<!-- 0042-aest-man-united-team-review -->
+- Manchester United internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0042-AEST-changes]].

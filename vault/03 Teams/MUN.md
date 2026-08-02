@@ -2,7 +2,7 @@
 type: team
 team_name: Manchester United
 team_short: MUN
-last_reviewed: 2026-08-02T18:10:00+10:00
+last_reviewed: 2026-08-03T00:42:00+10:00
 ---
 
 # Manchester United
@@ -40,24 +40,24 @@ Players are listed in canonical overall draft rank order.
 51. [[02 Players/Šeško - 439|Šeško]] — FWD, MUN; Core / B-; Shin injury - 75% chance of playing
 55. [[02 Players/Amad - 431|Amad]] — MID, MUN; Core / B-; Available
 79. [[02 Players/Dorgu - 415|Dorgu]] — MID, MUN; Core / C+; Available
-111. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Depth / C; Thigh injury - 75% chance of playing
-116. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Depth / C; Available
-141. [[02 Players/Shaw - 423|Shaw]] — DEF, MUN; Endgame / D+; Available
-149. [[02 Players/Dalot - 417|Dalot]] — DEF, MUN; Endgame / D+; Available
-153. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Endgame / D+; Available
-197. [[02 Players/Mainoo - 432|Mainoo]] — MID, MUN; Undrafted buffer / D; Available
-200. [[02 Players/Rashford - 429|Rashford]] — MID, MUN; Undrafted buffer / D; Available
-202. [[02 Players/Tielemans - 43|Tielemans]] — MID, MUN; Undrafted buffer / D; Hamstring injury - 75% chance of playing
-213. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Undrafted buffer / D; Unspecified injury - 75% chance of playing
+111. [[02 Players/Rashford - 429|Rashford]] — MID, MUN; Depth / C; Available
+116. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Depth / C; Available
+141. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Endgame / D+; Available
+149. [[02 Players/Shaw - 423|Shaw]] — DEF, MUN; Endgame / D+; Available
+153. [[02 Players/Dalot - 417|Dalot]] — DEF, MUN; Endgame / D+; Available
+197. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Undrafted buffer / D; Thigh injury - 75% chance of playing
+200. [[02 Players/Mount - 430|Mount]] — MID, MUN; Undrafted buffer / D; Available
+202. [[02 Players/Mainoo - 432|Mainoo]] — MID, MUN; Undrafted buffer / D; Available
+213. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Undrafted buffer / D; Available
 262. [[02 Players/Yoro - 420|Yoro]] — DEF, MUN; Undrafted buffer / D; Available
-270. [[02 Players/Mount - 430|Mount]] — MID, MUN; Undrafted buffer / D; Available
-299. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF, MUN; Extended watch buffer / Watch; Available
-306. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Extended watch buffer / Watch; Available
-311. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
-321. [[02 Players/Heaven - 421|Heaven]] — DEF, MUN; Extended watch buffer / Watch; Available
-346. [[02 Players/De Ligt - 416|De Ligt]] — DEF, MUN; Extended watch buffer / Watch; Back injury - Unknown return date
+270. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF, MUN; Undrafted buffer / D; Available
+299. [[02 Players/Heaven - 421|Heaven]] — DEF, MUN; Extended watch buffer / Watch; Available
+306. [[02 Players/De Ligt - 416|De Ligt]] — DEF, MUN; Extended watch buffer / Watch; Back injury - Unknown return date
+311. [[02 Players/Tielemans - 43|Tielemans]] — MID, MUN; Extended watch buffer / Watch; Hamstring injury - 75% chance of playing
+321. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
+346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-02T18:10:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T00:42:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -65,3 +65,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-02T18:10:00+10:0
 
 - Team players in ranks 166–205 were reconciled without a rank change.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+
+<!-- 0042-aest-man-united-team-review -->
+## 0042-AEST team review
+
+- All 22 ranked Manchester United players were compared directly.
+- Review: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].

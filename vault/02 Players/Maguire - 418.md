@@ -60,3 +60,12 @@ Compared within ranks 106–145. Current placement: **116**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+<!-- 0042-aest-man-united-team-review -->
+## Manchester United team comparison — 0042-AEST
+
+- Internal Manchester United rank: **9 of 22**.
+- Overall rank: **141** (was 116).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: secure defensive minutes and aerial threat.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].

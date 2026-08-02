@@ -35,3 +35,12 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+<!-- 0042-aest-man-united-team-review -->
+## Manchester United team comparison — 0042-AEST
+
+- Internal Manchester United rank: **14 of 22**.
+- Overall rank: **202** (was 197).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: minutes and progression floor with limited direct FPL output.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
