@@ -1,41 +1,37 @@
 ---
 type: player
 fpl_id: 503
-player_name: Van de Ven
-team: "[[03 Teams/TOT]]"
-position: "[[04 Positions/Defender]]"
-api_status: Available
-current_rank: 156
-current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Van de Ven
+team: TOT
+position: DEF
+current_rank: 157
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Van de Ven
 
-## Current assessment
+## Current placement
 
-Ranked 134 after the ranks 111–140 review with challengers 106–145.
+- Rank: **157** (previously 156)
+- Segment/tier: **Endgame / D+**
+- Status: Available
 
-## Pairwise placement
+## Expansion assessment
 
-- Compared with: **Aaronson**.
-- Decision: Higher expected season points and/or safer usable minutes.
-- Confidence: medium.
-- Reversal trigger: confirmed role, fitness, set pieces, transfer evidence or repeated probable-first-team minutes.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Evidence timeline
+## Comparator range
 
-- 2026-08-02 08:30 AEST — Pairwise-reviewed and placed at rank 134.
+The player belongs around ranks **152–162** pending direct role, preseason and first-team minutes evidence.
+
+## Reversal triggers
+
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
+
+## Evidence
+
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0830-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0830-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 156 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

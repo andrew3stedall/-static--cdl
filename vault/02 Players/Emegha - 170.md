@@ -1,35 +1,37 @@
 ---
 type: player
 fpl_id: 170
-player_name: Emegha
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Forward]]"
-api_status: "Hamstring injury - 75% chance of playing"
-current_rank: 231
-current_segment: Extended watch buffer
-current_tier: Watch
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Emegha
+team: CHE
+position: FWD
+current_rank: 263
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Emegha
 
-## Current assessment
+## Current placement
 
-This player's rank is now 217 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
+- Rank: **263** (previously 231)
+- Segment/tier: **Undrafted buffer / D**
+- Status: Hamstring injury - 75% chance of playing
 
-## Direct range comparison
+## Expansion assessment
 
-Placed between **Kusi-Asare** and **Madueke**.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Reversal trigger
+## Comparator range
 
-Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
+The player belongs around ranks **258–268** pending direct role, preseason and first-team minutes evidence.
 
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
+## Reversal triggers
 
-## 2026-08-02 10:12 AEST
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
 
-Rank updated to 231 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+## Evidence
+
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

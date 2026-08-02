@@ -1,35 +1,37 @@
 ---
 type: player
 fpl_id: 553
-player_name: Isidor
-team: "[[03 Teams/SUN]]"
-position: "[[04 Positions/Forward]]"
-api_status: "Available"
-current_rank: 203
-current_segment: Undrafted buffer
-current_tier: D
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Isidor
+team: SUN
+position: FWD
+current_rank: 216
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Isidor
 
-## Current assessment
+## Current placement
 
-This player's rank is now 189 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
+- Rank: **216** (previously 203)
+- Segment/tier: **Undrafted buffer / D**
+- Status: Available
 
-## Direct range comparison
+## Expansion assessment
 
-Placed between **Yates** and **Akpom**.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Reversal trigger
+## Comparator range
 
-Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
+The player belongs around ranks **211–221** pending direct role, preseason and first-team minutes evidence.
 
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
+## Reversal triggers
 
-## 2026-08-02 10:12 AEST
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
 
-Rank updated to 203 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+## Evidence
+
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

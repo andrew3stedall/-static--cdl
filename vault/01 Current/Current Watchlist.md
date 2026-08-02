@@ -111,3 +111,7 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 - Added 14 previously omitted active players inside the top 140.
 - Highest-upside role checks: Frimpong, Martinelli, Gusto, Estêvão and Delap.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+
+## 350-player expansion — 2026-08-02T10:17:00+10:00
+
+The 96 new depth entries require role confirmation before promotion into the manually reviewed top 140. Prioritise forwards, attacking full-backs, new transfers and players with uncertain club status. See [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]].

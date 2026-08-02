@@ -1,41 +1,37 @@
 ---
 type: player
 fpl_id: 153
-player_name: Disasi
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Defender]]"
-api_status: "Available"
-current_rank: 250
-current_segment: Extended watch buffer
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Disasi
+team: CHE
+position: DEF
+current_rank: 301
+segment: Extended watch buffer
+tier: Watch
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Disasi
 
-## Current assessment
+## Current placement
 
-Ranked 216 after the final 201–220 pairwise review and full active API-pool screen. Raw expected points were assessed before positional scarcity.
+- Rank: **301** (previously 250)
+- Segment/tier: **Extended watch buffer / Watch**
+- Status: Available
 
-## Pairwise placement
+## Expansion assessment
 
-- Immediate comparison: **Costinha / M.Sarr**.
-- Decision: placed after direct comparison of expected points, minutes, role, set pieces, injury/rotation risk and replacement value.
-- Confidence: low to medium; this range is outside the 160-player draft line.
-- Reversal trigger: confirmed first-team role, fitness, penalties, repeated strongest-XI minutes or completed transfer evidence.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Evidence timeline
+## Comparator range
 
-- 2026-08-02 08:48 AEST — ranked 196 → 216 in the stable pairwise pass.
+The player belongs around ranks **296–306** pending direct role, preseason and first-team minutes evidence.
+
+## Reversal triggers
+
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
+
+## Evidence
+
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 250 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

@@ -1,35 +1,37 @@
 ---
 type: player
 fpl_id: 172
-player_name: Wilson
-team: "[[03 Teams/COV]]"
-position: "[[04 Positions/Goalkeeper]]"
-api_status: "Available"
-current_rank: 154
-current_segment: Endgame
-current_tier: D+
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Wilson
+team: COV
+position: GKP
+current_rank: 155
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Wilson
 
-## Current assessment
+## Current placement
 
-This player's rank is now 140 after an adjacent new entrant was inserted; their underlying assessment was not materially changed.
+- Rank: **155** (previously 154)
+- Segment/tier: **Endgame / D+**
+- Status: Available
 
-## Direct range comparison
+## Expansion assessment
 
-Placed between **Spence** and **Kinsky**.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Reversal trigger
+## Comparator range
 
-Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
+The player belongs around ranks **150–160** pending direct role, preseason and first-team minutes evidence.
 
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
+## Reversal triggers
 
-## 2026-08-02 10:12 AEST
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
 
-Rank updated to 154 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+## Evidence
+
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

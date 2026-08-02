@@ -173,3 +173,5 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 - Screened every active player omitted from the 240-player board and inserted 14 credible top-140 candidates.
 - Latest review: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
 - Latest changes: [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]].
+
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review|350-player board expansion]]

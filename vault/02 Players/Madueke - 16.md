@@ -1,41 +1,37 @@
 ---
 type: player
 fpl_id: 16
-player_name: Madueke
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
-api_status: "Available"
-current_rank: 232
-current_segment: Extended watch buffer
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Madueke
+team: ARS
+position: MID
+current_rank: 264
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Madueke
 
-## Current assessment
+## Current placement
 
-Ranked 199 after the final 201–220 pairwise review and full active API-pool screen. Raw expected points were assessed before positional scarcity.
+- Rank: **264** (previously 232)
+- Segment/tier: **Undrafted buffer / D**
+- Status: Available
 
-## Pairwise placement
+## Expansion assessment
 
-- Immediate comparison: **Emegha / Hudson-Odoi**.
-- Decision: placed after direct comparison of expected points, minutes, role, set pieces, injury/rotation risk and replacement value.
-- Confidence: low to medium; this range is outside the 160-player draft line.
-- Reversal trigger: confirmed first-team role, fitness, penalties, repeated strongest-XI minutes or completed transfer evidence.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Evidence timeline
+## Comparator range
 
-- 2026-08-02 08:48 AEST — ranked 214 → 199 in the stable pairwise pass.
+The player belongs around ranks **259–269** pending direct role, preseason and first-team minutes evidence.
+
+## Reversal triggers
+
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
+
+## Evidence
+
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0848-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0848-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 232 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

@@ -1,35 +1,37 @@
 ---
 type: player
 fpl_id: 423
-player_name: Shaw
-team: "[[03 Teams/MUN]]"
-position: "[[04 Positions/Defender]]"
-api_status: "Available"
-current_rank: 162
-current_segment: Undrafted buffer
-current_tier: D+
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Shaw
+team: MUN
+position: DEF
+current_rank: 163
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Shaw
 
-## Current assessment
+## Current placement
 
-This player was insertion-sorted from rank 225 to 148. high ceiling when fit, heavily discounted for availability and role uncertainty.
+- Rank: **163** (previously 162)
+- Segment/tier: **Endgame / D+**
+- Status: Available
 
-## Direct range comparison
+## Expansion assessment
 
-Placed between **Reijnders** and **Digne**.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Reversal trigger
+## Comparator range
 
-Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury news or a transfer can materially change this placement.
+The player belongs around ranks **158–168** pending direct role, preseason and first-team minutes evidence.
 
-## Backlinks
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/1001-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/1001-AEST-changes]]
+## Reversal triggers
 
-## 2026-08-02 10:12 AEST
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
 
-Rank updated to 162 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+## Evidence
+
+- [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]

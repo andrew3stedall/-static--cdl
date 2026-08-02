@@ -1,41 +1,37 @@
 ---
 type: player
 fpl_id: 448
-player_name: Burn
-team: "[[03 Teams/NEW]]"
-position: "[[04 Positions/Defender]]"
-api_status: "Available"
-current_rank: 178
-current_segment: Undrafted buffer
-last_reviewed: 2026-08-02T10:12:00+10:00
+player: Burn
+team: NEW
+position: DEF
+current_rank: 180
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
 # Burn
 
-## Current assessment
+## Current placement
 
-Ranked 153 after the ranks 141–170 pairwise review with challengers 136–175. Raw expected season points were assessed before positional scarcity.
+- Rank: **180** (previously 178)
+- Segment/tier: **Endgame / D+**
+- Status: Available
 
-## Pairwise placement
+## Expansion assessment
 
-- Immediate comparison: **Caicedo / Justin**.
-- Decision: Burn is placed below Caicedo and above Justin after expected points, minutes, role and risk were compared.
-- Confidence: medium.
-- Reversal trigger: confirmed first-team role, fitness, set-piece responsibility or completed transfer evidence that changes expected minutes or points.
+This is a provisional full-pool placement created during the 350-player expansion. It uses current FPL identity, availability, prior points and minutes as screening evidence, then applies position scarcity. It is not treated as more certain than the manually pairwise-reviewed top 140.
 
-## Evidence timeline
+## Comparator range
 
-- 2026-08-02 08:37 AEST — moved from rank 144 to 153 in the stable pairwise pass.
+The player belongs around ranks **175–185** pending direct role, preseason and first-team minutes evidence.
+
+## Reversal triggers
+
+Promote for confirmed starting role, advanced position, penalties/set pieces or repeated probable-first-team minutes. Demote for transfer departure, injury, reserve status or blocked minutes.
+
+## Evidence
+
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
-- [Premier League preseason tracker](https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results)
-
-## Backlinks
-
-- [[01 Current/Current Draft Board]]
-- [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]
-- [[07 Changes/2026/08/2026-08-02/0837-AEST-changes]]
-
-## 2026-08-02 10:12 AEST
-
-Rank updated to 178 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+- [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
