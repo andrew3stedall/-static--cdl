@@ -55,3 +55,13 @@ Rank updated to 92 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+<!-- 0749-aest-nottingham-forest-team-review -->
+## Nottingham Forest team comparison — 0749-AEST
+
+- Internal Forest rank: **5 of 18**.
+- Overall rank: **135** (was 92).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: central-forward ceiling and positional scarcity, with competition risk.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
+

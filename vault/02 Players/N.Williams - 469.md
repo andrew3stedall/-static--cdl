@@ -51,3 +51,13 @@ Compared within ranks 106–145. Current placement: **135**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+<!-- 0749-aest-nottingham-forest-team-review -->
+## Nottingham Forest team comparison — 0749-AEST
+
+- Internal Forest rank: **8 of 18**.
+- Overall rank: **172** (was 135).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: attacking full-back profile and stable route to defensive points.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
+

@@ -37,3 +37,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 ## 2026-08-02 10:12 AEST
 
 Rank updated to 80 after the unranked-player top-140 screen. Evidence: [[06 Reviews/2026/08/2026-08-02/1012-AEST-review]].
+<!-- 0749-aest-nottingham-forest-team-review -->
+## Nottingham Forest team comparison — 0749-AEST
+
+- Internal Forest rank: **6 of 18**.
+- Overall rank: **139** (was 80).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: attacking full-back upside, clean-sheet access and strong minutes security.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
+

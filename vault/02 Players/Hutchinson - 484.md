@@ -48,3 +48,13 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+<!-- 0749-aest-nottingham-forest-team-review -->
+## Nottingham Forest team comparison — 0749-AEST
+
+- Internal Forest rank: **7 of 18**.
+- Overall rank: **156** (was 172).
+- Segment/tier: **Endgame / D+**.
+- Comparator outcome: creative upside and potential advanced role, but uncertain starts.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
+

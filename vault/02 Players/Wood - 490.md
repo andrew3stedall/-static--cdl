@@ -33,3 +33,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+<!-- 0749-aest-nottingham-forest-team-review -->
+## Nottingham Forest team comparison — 0749-AEST
+
+- Internal Forest rank: **2 of 18**.
+- Overall rank: **53** (was 53).
+- Segment/tier: **Core / B-**.
+- Comparator outcome: central striker role, proven finishing and forward scarcity.
+- Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
+
