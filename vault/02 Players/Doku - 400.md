@@ -33,3 +33,14 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+<!-- 0030-aest-man-city-team-review -->
+## Manchester City team comparison — 0030-AEST
+
+- Internal City rank: **6 of 22**.
+- Overall rank: **40** (was 42).
+- Segment/tier: **Core / B**.
+- Comparator outcome: explosive winger ceiling with major minutes volatility.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+

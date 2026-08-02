@@ -35,3 +35,14 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 0030-aest-man-city-team-review -->
+## Manchester City team comparison — 0030-AEST
+
+- Internal City rank: **22 of 22**.
+- Overall rank: **315** (was 254).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: lowest current first-team role certainty in the ranked City pool.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+

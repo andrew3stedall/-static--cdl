@@ -35,3 +35,14 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Compared with immediate neighbours in the 166–205 window.
 - No current evidence justified movement.
 - Review: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+<!-- 0030-aest-man-city-team-review -->
+## Manchester City team comparison — 0030-AEST
+
+- Internal City rank: **21 of 22**.
+- Overall rank: **278** (was 198).
+- Segment/tier: **Undrafted buffer / D**.
+- Comparator outcome: developmental defender with weak current minutes case.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+
