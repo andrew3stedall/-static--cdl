@@ -1,0 +1,63 @@
+name: Temporary FPL Review 1500 Fix
+
+on:
+  pull_request:
+    types: [synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    if: github.head_ref == 'codex/fpl-review-20260802-1500-ranks111-140-recheck'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1500-ranks111-140-recheck
+          fetch-depth: 0
+      - run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          review = Path('vault/06 Reviews/2026/08/2026-08-02/1500-AEST-review.md')
+          text = review.read_text()
+          start = text.index('## Pairwise comparisons')
+          end = text.index('\n## Evidence adopted', start)
+          section = text[start:end]
+          lines = section.splitlines()
+          seen = set()
+          kept = []
+          for line in lines:
+              if not line.startswith('- **'):
+                  kept.append(line)
+                  continue
+              match = re.match(r'- \*\*(.+?) vs (.+?)\*\*', line)
+              if not match:
+                  kept.append(line)
+                  continue
+              key = (match.group(1), match.group(2))
+              if key in seen:
+                  continue
+              seen.add(key)
+              kept.append(line)
+          replacement = '\n'.join(kept).rstrip() + '\n'
+          text = text[:start] + replacement + text[end:]
+          text = text.replace('each target player was checked against the immediate player above and below', 'each target player was covered by the adjacent boundary comparisons immediately above and below')
+          review.write_text(text)
+
+          changes = Path('vault/07 Changes/2026/08/2026-08-02/1500-AEST-changes.md')
+          ctext = changes.read_text().replace('60 immediate-neighbour comparisons', '31 unique adjacent-boundary comparisons covering every target player and both five-rank buffers')
+          changes.write_text(ctext)
+
+          assert len(seen) == 31, len(seen)
+          PY
+          python scripts/validate_draft_board.py
+          rm -f .github/workflows/tmp-fpl-review-1500.yml
+          rm -f .github/workflows/tmp-fpl-review-1500-fix.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Finalize ranks 111-140 review documentation"
+          git push origin HEAD:codex/fpl-review-20260802-1500-ranks111-140-recheck
