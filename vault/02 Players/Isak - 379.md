@@ -34,3 +34,13 @@ Demonstrated 211-point ceiling, clearer striker route after Ekitike injury and p
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+
+<!-- 0018-aest-liverpool-team-review -->
+## Liverpool team comparison — 0018-AEST
+
+- Internal Liverpool rank: **1 of 19**.
+- Overall rank: **4** (was 4).
+- Segment/tier: **Franchise / A+**.
+- Comparator outcome: best raw-points ceiling, penalties-level talismanic role and forward scarcity.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].

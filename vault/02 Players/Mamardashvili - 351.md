@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 0018-aest-liverpool-team-review -->
+## Liverpool team comparison — 0018-AEST
+
+- Internal Liverpool rank: **18 of 19**.
+- Overall rank: **337** (was 332).
+- Segment/tier: **Extended watch buffer / Watch**.
+- Comparator outcome: high-quality goalkeeper but blocked by Alisson.
+- Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
