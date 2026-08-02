@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 2336-aest-crystal-palace-team-review -->
+## Crystal Palace team comparison — 2336-AEST
+
+- Internal Palace rank: **16 of 16**.
+- Overall rank: **330** (was 330).
+- Comparator outcome: lowest current first-team role certainty.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
+

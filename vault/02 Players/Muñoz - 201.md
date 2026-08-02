@@ -33,3 +33,13 @@ Elite attacking-defender profile, but defender replacement value keeps him below
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+
+<!-- 2336-aest-crystal-palace-team-review -->
+## Crystal Palace team comparison — 2336-AEST
+
+- Internal Palace rank: **2 of 16**.
+- Overall rank: **26** (was 26).
+- Comparator outcome: elite attacking defender ceiling and strong minutes.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
+

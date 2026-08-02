@@ -33,3 +33,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+<!-- 2336-aest-crystal-palace-team-review -->
+## Crystal Palace team comparison — 2336-AEST
+
+- Internal Palace rank: **3 of 16**.
+- Overall rank: **49** (was 49).
+- Comparator outcome: best midfield goal threat and direct attacking role.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
+

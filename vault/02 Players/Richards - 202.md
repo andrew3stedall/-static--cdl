@@ -55,3 +55,13 @@ Rank updated to 104 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+
+<!-- 2336-aest-crystal-palace-team-review -->
+## Crystal Palace team comparison — 2336-AEST
+
+- Internal Palace rank: **9 of 16**.
+- Overall rank: **208** (was 104).
+- Comparator outcome: centre-back minutes and clean-sheet floor.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
+
