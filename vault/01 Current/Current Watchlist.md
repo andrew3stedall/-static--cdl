@@ -208,3 +208,6 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 0741-aest-newcastle-team-review -->
 - Newcastle United internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0741-AEST-changes]].
+
+<!-- 0749-aest-nottingham-forest-team-review -->
+- Nottingham Forest internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0749-AEST-changes]].
