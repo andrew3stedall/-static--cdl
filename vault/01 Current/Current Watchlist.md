@@ -160,3 +160,9 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Ranks 171–200 rechecked with challengers 166–205: no rank movement.
 - Priority triggers: Livramento recovery, Chelsea hierarchy, final first-team friendlies and completed transfers.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1658-AEST-review]].
+
+
+## Arsenal internal-order triggers — 1758-AEST
+
+- Saliba and Timber fitness; Havertz central minutes; left-wing hierarchy among Martinelli, Tzolis and Madueke; penalty and set-piece duties.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]

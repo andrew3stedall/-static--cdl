@@ -1,4 +1,6 @@
 ---
+tier: B+
+segment: Foundation
 type: player
 fpl_id: 14
 player_name: Eberechi Eze
@@ -7,7 +9,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 19
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # Eberechi Eze
@@ -33,3 +35,13 @@ Elite technical ceiling and set-piece history, discounted for Arsenal role shari
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2243-AEST-changes]]
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **19**
+- New overall rank: **19**
+- Arsenal order: **4 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]

@@ -1,4 +1,6 @@
 ---
+tier: A+
+segment: Franchise
 type: player
 fpl_id: 12
 player_name: Bukayo Saka
@@ -7,7 +9,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 3
 current_segment: Franchise
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # Bukayo Saka
@@ -34,3 +36,13 @@ Primary Arsenal creator with elite ceiling; prior total was injury-suppressed.
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **3**
+- New overall rank: **3**
+- Arsenal order: **1 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]

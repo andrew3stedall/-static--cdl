@@ -1,13 +1,15 @@
 ---
+tier: C+
+segment: Core
 type: player
 fpl_id: 1
 player_name: Raya
 team: "[[03 Teams/ARS]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 82
+current_rank: 76
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-02T17:58:00+10:00
 ---
 
 # Raya
@@ -44,3 +46,13 @@ Rank updated to 82 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Current status: Available.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1400-AEST-review]].
 - Reversal triggers: confirmed role, set pieces, injury, suspension or transfer competition.
+
+
+## 1758-AEST Arsenal internal comparison
+
+- Previous overall rank: **82**
+- New overall rank: **76**
+- Arsenal order: **9 of 21**
+- Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
+- Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
