@@ -1,0 +1,53 @@
+name: Temporary Repair Draft Ranks
+
+on:
+  pull_request:
+    types: [synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    if: github.head_ref == 'codex/fpl-review-20260802-1228-validate-ranks'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1228-validate-ranks
+          fetch-depth: 0
+      - run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('vault/01 Current/Current Draft Board.md')
+          lines = path.read_text(encoding='utf-8').splitlines()
+          repairs = {
+              5: '| 5 | Palmer | MID | CHE | Franchise | A+ | 154 | Available | 2026-08-01T22:07:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]] |',
+              30: '| 30 | Wilson | MID | LEE | Foundation | B+ | 260 | Available | 2026-08-01T22:43:00+10:00 | [[06 Reviews/2026/08/2026-08-01/2243-AEST-review]] |',
+              296: '| 296 | Martinez | DEF | MUN | Extended watch buffer | Watch | 419 | Thigh injury - 75% chance of playing | 2026-08-02T10:17:00+10:00 | [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]] |',
+          }
+
+          existing = {
+              int(line.split('|')[1].strip())
+              for line in lines
+              if line.startswith('| ') and line.split('|')[1].strip().isdigit()
+          }
+
+          for rank, row in repairs.items():
+              if rank in existing:
+                  continue
+              insert_at = next(
+                  i for i, line in enumerate(lines)
+                  if line.startswith(f'| {rank + 1} |')
+              )
+              lines.insert(insert_at, row)
+
+          path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+          PY
+          python scripts/validate_draft_board.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 'vault/01 Current/Current Draft Board.md'
+          git commit -m "Restore missing draft board ranks"
+          git push origin HEAD:codex/fpl-review-20260802-1228-validate-ranks
