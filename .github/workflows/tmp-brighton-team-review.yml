@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: |
+          sed -i "s/'Mitoma','Groß'/'Mitoma','Welbeck','Groß'/" scripts/review_brighton_team.py
+          sed -i "s/len(bha)==22/len(bha)==23/" scripts/review_brighton_team.py
+          sed -i "s/of 22/of 23/g; s/All 22/All 23/g" scripts/review_brighton_team.py
           python scripts/review_brighton_team.py
           python scripts/validate_draft_board.py
           rm scripts/review_brighton_team.py
