@@ -1,6 +1,6 @@
 ---
 type: changelog
-last_updated: 2026-08-02T12:59:00+10:00
+last_updated: 2026-08-02T18:10:00+10:00
 append_only: true
 ---
 
@@ -1200,3 +1200,29 @@ Every Markdown creation, update, correction or supersession is recorded separate
 | 2026-08-02T12:59:00+10:00 | `vault/02 Players/Tzolis - 557.md` | Updated | Completed ranks 201–220 pairwise review with challengers and full API screening. | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] | [FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [FPL fixtures](https://fantasy.premierleague.com/api/fixtures/); [PL transfers](https://www.premierleague.com/en/transfers/2026-27/summer); [PL preseason](https://www.premierleague.com/en/news/4606700/premier-league-clubs-summer-2026-friendlies-and-tours) |
 | 2026-08-02T12:59:00+10:00 | `vault/02 Players/Xavi - 513.md` | Updated | Completed ranks 201–220 pairwise review with challengers and full API screening. | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] | [FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/); [FPL fixtures](https://fantasy.premierleague.com/api/fixtures/); [PL transfers](https://www.premierleague.com/en/transfers/2026-27/summer); [PL preseason](https://www.premierleague.com/en/news/4606700/premier-league-clubs-summer-2026-friendlies-and-tours) |
 | 2026-08-02T12:59:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Appended an audit row for every Markdown file changed in this run. | [[06 Reviews/2026/08/2026-08-02/1259-AEST-review]] | Per-document audit |
+
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/ARS.md` | Updated | Indexed 21 ranked players for ARS in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/AVL.md` | Created | Indexed 19 ranked players for AVL in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/BHA.md` | Updated | Indexed 22 ranked players for BHA in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/BOU.md` | Created | Indexed 19 ranked players for BOU in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/BRE.md` | Updated | Indexed 20 ranked players for BRE in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/CHE.md` | Updated | Indexed 26 ranked players for CHE in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/COV.md` | Created | Indexed 7 ranked players for COV in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/CRY.md` | Created | Indexed 16 ranked players for CRY in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/EVE.md` | Created | Indexed 15 ranked players for EVE in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/FUL.md` | Created | Indexed 18 ranked players for FUL in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/HUL.md` | Created | Indexed 1 ranked players for HUL in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/IPS.md` | Created | Indexed 6 ranked players for IPS in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/LEE.md` | Created | Indexed 18 ranked players for LEE in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/LIV.md` | Updated | Indexed 19 ranked players for LIV in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/MCI.md` | Updated | Indexed 22 ranked players for MCI in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/MUN.md` | Updated | Indexed 22 ranked players for MUN in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/NEW.md` | Created | Indexed 19 ranked players for NEW in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/NFO.md` | Created | Indexed 18 ranked players for NFO in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/SUN.md` | Created | Indexed 16 ranked players for SUN in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/03 Teams/TOT.md` | Created | Indexed 26 ranked players for TOT in canonical order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/04 Positions/Goalkeeper.md` | Updated | Indexed 23 goalkeepers in canonical overall rank order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/04 Positions/Defender.md` | Updated | Indexed 126 defenders in canonical overall rank order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/04 Positions/Midfielder.md` | Updated | Indexed 149 midfielders in canonical overall rank order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/04 Positions/Forward.md` | Updated | Indexed 52 forwards in canonical overall rank order. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
+| 2026-08-02T18:10:00+10:00 | `vault/00 Meta/Document Changelog.md` | Updated | Recorded every team and position note changed by the canonical rank-index refresh. | Team and position rank-index refresh | [[01 Current/Current Draft Board]]; `scripts/validate_draft_board.py` |
