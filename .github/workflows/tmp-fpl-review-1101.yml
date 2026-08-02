@@ -1,12 +1,12 @@
 name: Temporary FPL ranks 111-140 review
 on:
-  push:
-    paths:
-      - .github/workflows/tmp-fpl-review-1101.yml
+  pull_request:
+    types: [opened, synchronize, reopened]
 permissions:
   contents: write
 jobs:
   review:
+    if: github.head_ref == 'codex/fpl-review-20260802-1101-ranks111-140'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
