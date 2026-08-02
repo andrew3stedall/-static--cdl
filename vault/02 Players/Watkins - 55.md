@@ -7,7 +7,7 @@ position: "[[04 Positions/Forward]]"
 api_status: available
 current_rank: 7
 current_segment: Franchise
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # Ollie Watkins
@@ -34,3 +34,12 @@ Proven durable starting striker with a strong season-long floor and scarce class
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-01/2207-AEST-review]]
 - [[07 Changes/2026/08/2026-08-01/2207-AEST-changes]]
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **7** (previously 7).
+- Internal club order: **1 of 19**.
+- Decision: clear first-choice striker, strongest raw-points projection and forward scarcity.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].

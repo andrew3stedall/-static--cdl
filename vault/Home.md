@@ -169,3 +169,9 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 - [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 1811-AEST Aston Villa review
+
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]]
+- Changes: [[07 Changes/2026/08/2026-08-02/1811-AEST-changes]]

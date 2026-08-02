@@ -7,7 +7,7 @@ position: DEF
 current_rank: 164
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # Digne
@@ -36,3 +36,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **164** (previously 164).
+- Internal club order: **5 of 19**.
+- Decision: set pieces and chance creation beat Maatsen while current minutes remain more secure.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].

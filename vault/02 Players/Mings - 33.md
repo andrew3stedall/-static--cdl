@@ -4,10 +4,10 @@ fpl_id: 33
 player: Mings
 team: AVL
 position: DEF
-current_rank: 300
+current_rank: 269
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # Mings
@@ -35,3 +35,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **269** (previously 300).
+- Internal club order: **11 of 19**.
+- Decision: availability and aerial threat beat speculative attackers and defensive midfielders.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].

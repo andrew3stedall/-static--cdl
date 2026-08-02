@@ -4,10 +4,10 @@ fpl_id: 160
 player: Garnacho
 team: AVL
 position: MID
-current_rank: 265
+current_rank: 120
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # Garnacho
@@ -35,3 +35,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **120** (previously 265).
+- Internal club order: **2 of 19**.
+- Decision: highest direct attacking ceiling after Watkins, but role security remains below Watkins.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].

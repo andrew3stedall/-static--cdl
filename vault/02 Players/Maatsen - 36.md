@@ -4,10 +4,10 @@ fpl_id: 36
 player: Maatsen
 team: AVL
 position: DEF
-current_rank: 276
+current_rank: 231
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-02T18:11:00+10:00
 ---
 
 # Maatsen
@@ -35,3 +35,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+
+## 1811-AEST Aston Villa comparison
+
+- New overall rank: **231** (previously 276).
+- Internal club order: **6 of 19**.
+- Decision: higher upside than the deeper midfield and centre-back group, with rotation risk.
+- Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
+- Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
