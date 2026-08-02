@@ -19,3 +19,4 @@ jobs:
           git fetch origin main
           git merge origin/main -s ours -m "Sync 350-player expansion with current main"
           git push origin HEAD:codex/fpl-review-20260802-1017-expand-350
+# trigger 2026-08-02T10:20:00+10:00
