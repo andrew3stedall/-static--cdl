@@ -1,0 +1,26 @@
+name: Temporary FPL expand 350
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: write
+jobs:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260802-1017-expand-350'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260802-1017-expand-350
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fpl_expand_350.py
+      - run: |
+          rm scripts/fpl_expand_350.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Expand FPL Draft board to 350"
+          git push origin HEAD:codex/fpl-review-20260802-1017-expand-350
