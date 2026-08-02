@@ -35,3 +35,13 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+<!-- 0005-aest-fulham-team-review -->
+## Fulham team comparison — 0005-AEST
+
+- Internal Fulham rank: **16 of 18**.
+- Overall rank: **318** (was 246).
+- Comparator outcome: rotation-level full-back value.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]].
+

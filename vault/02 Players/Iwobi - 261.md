@@ -33,3 +33,13 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - [[01 Current/Current Draft Board]]
 - [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]
 - [[07 Changes/2026/08/2026-08-02/0901-AEST-changes]]
+
+<!-- 0005-aest-fulham-team-review -->
+## Fulham team comparison — 0005-AEST
+
+- Internal Fulham rank: **1 of 18**.
+- Overall rank: **66** (was 66).
+- Comparator outcome: best blend of secure minutes, creativity and attacking returns.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]].
+

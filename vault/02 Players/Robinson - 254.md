@@ -30,3 +30,13 @@ Compared within ranks 106–145. Current placement: **124**. See [[06 Reviews/20
 - Official API status: Available
 - Comparator outcome: retained after direct checks against adjacent ranks in the 106-145 window.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1500-AEST-review]]
+
+<!-- 0005-aest-fulham-team-review -->
+## Fulham team comparison — 0005-AEST
+
+- Internal Fulham rank: **4 of 18**.
+- Overall rank: **113** (was 124).
+- Comparator outcome: elite attacking full-back profile and strong minutes floor.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]].
+

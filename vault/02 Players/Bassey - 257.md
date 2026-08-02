@@ -36,3 +36,13 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Outcome: retained after comparison with immediate neighbours and plausible challengers in ranks 136–175.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 - Reversal trigger: confirmed role, transfer, injury, set-piece or repeated probable-first-team preseason evidence.
+
+<!-- 0005-aest-fulham-team-review -->
+## Fulham team comparison — 0005-AEST
+
+- Internal Fulham rank: **13 of 18**.
+- Overall rank: **261** (was 151).
+- Comparator outcome: secure defensive minutes but limited attacking ceiling.
+- Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
+- Evidence: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]].
+
