@@ -175,3 +175,5 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 - Latest changes: [[07 Changes/2026/08/2026-08-02/1012-AEST-changes]].
 
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review|350-player board expansion]]
+
+- Latest review: [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]; changes: [[07 Changes/2026/08/2026-08-02/1101-AEST-changes]].

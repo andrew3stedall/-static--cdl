@@ -115,3 +115,9 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0837-AEST-review]]; [Official FPL boot
 ## 350-player expansion — 2026-08-02T10:17:00+10:00
 
 The 96 new depth entries require role confirmation before promotion into the manually reviewed top 140. Prioritise forwards, attacking full-backs, new transfers and players with uncertain club status. See [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]].
+
+## Review 1101 AEST
+- Chelsea striker hierarchy: Welbeck, Delap and Jackson.
+- Newcastle attacking rotation around Jacob Murphy.
+- Arsenal defensive availability affecting Hincapie.
+- Evidence: [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]].

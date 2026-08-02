@@ -5,8 +5,8 @@ player: Martinez
 team: MUN
 position: DEF
 current_rank: 296
-segment: Extended watch buffer
-tier: Watch
+segment: Depth
+tier: C
 last_reviewed: 2026-08-02T10:17:00+10:00
 ---
 
@@ -35,3 +35,6 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - [Official FPL bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [Official fixtures](https://fantasy.premierleague.com/api/fixtures/)
 - [[06 Reviews/2026/08/2026-08-02/1017-AEST-review]]
+
+## 2026-08-02 11:01 AEST pairwise review
+Compared within ranks 106–145. Current placement: **111**. See [[06 Reviews/2026/08/2026-08-02/1101-AEST-review]]. Reversal triggers: confirmed role, set pieces, injury or transfer change.
