@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Forward
@@ -66,33 +66,33 @@ Players are listed in canonical overall draft rank order.
 110. [[02 Players/Igor Jesus - 491|Igor Jesus]] — FWD, NFO; Depth / C; Available
 135. [[02 Players/Barry - 249|Barry]] — FWD, EVE; Endgame / D+; Available
 155. [[02 Players/Ekitiké - 380|Ekitiké]] — FWD, LIV; Endgame / D+; Achilles injury - Unknown return date
-173. [[02 Players/Osula - 465|Osula]] — FWD, NEW; Undrafted buffer / D; Available
-189. [[02 Players/Kalimuendo - 493|Kalimuendo]] — FWD, NFO; Deep watch / D-; Available
-193. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD, CHE; Deep watch / D-; Available
+173. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD, CHE; Undrafted buffer / D; Available
+189. [[02 Players/Awoniyi - 492|Awoniyi]] — FWD, NFO; Deep watch / D-; Available
+193. [[02 Players/Kalimuendo - 493|Kalimuendo]] — FWD, NFO; Deep watch / D-; Available
 195. [[02 Players/Emegha - 170|Emegha]] — FWD, CHE; Undrafted buffer / D; Hamstring injury - 75% chance of playing
-196. [[02 Players/Isidor - 553|Isidor]] — FWD, SUN; Undrafted buffer / D; Available
-199. [[02 Players/Wright - 193|Wright]] — FWD, COV; Undrafted buffer / D; Available
-201. [[02 Players/Hirst - 317|Hirst]] — FWD, IPS; Undrafted buffer / D; Available
-205. [[02 Players/Georginio - 125|Georginio]] — FWD, BHA; Undrafted buffer / D; Available
-206. [[02 Players/Nmecha - 347|Nmecha]] — FWD, LEE; Undrafted buffer / D; Available
-207. [[02 Players/Simms - 195|Simms]] — FWD, COV; Undrafted buffer / D; Available
+196. [[02 Players/Osula - 465|Osula]] — FWD, NEW; Undrafted buffer / D; Available
+199. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Undrafted buffer / D; Available
+201. [[02 Players/Georginio - 125|Georginio]] — FWD, BHA; Undrafted buffer / D; Available
+205. [[02 Players/Nmecha - 347|Nmecha]] — FWD, LEE; Undrafted buffer / D; Available
+206. [[02 Players/Simms - 195|Simms]] — FWD, COV; Undrafted buffer / D; Available
+207. [[02 Players/Hirst - 317|Hirst]] — FWD, IPS; Undrafted buffer / D; Available
 210. [[02 Players/Wilson - 108|Wilson]] — FWD, BRE; Undrafted buffer / D; Available
-213. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Undrafted buffer / D; Available
-216. [[02 Players/McBurnie - 295|McBurnie]] — FWD, HUL; Undrafted buffer / D; Available
-219. [[02 Players/Awoniyi - 492|Awoniyi]] — FWD, NFO; Undrafted buffer / D; Available
-223. [[02 Players/Akpom - 320|Akpom]] — FWD, IPS; Extended watch buffer / Watch; Available
-225. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD, COV; Extended watch buffer / Watch; Available
-226. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — FWD, IPS; Extended watch buffer / Watch; Available
-227. [[02 Players/Tzimas - 137|Tzimas]] — FWD, BHA; Extended watch buffer / Watch; Knee injury - 75% chance of playing
-230. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
-234. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
-235. [[02 Players/Kostoulas - 138|Kostoulas]] — FWD, BHA; Extended watch buffer / Watch; Available
+213. [[02 Players/Wright - 193|Wright]] — FWD, COV; Undrafted buffer / D; Available
+216. [[02 Players/Isidor - 553|Isidor]] — FWD, SUN; Undrafted buffer / D; Available
+219. [[02 Players/Akpom - 320|Akpom]] — FWD, IPS; Undrafted buffer / D; Available
+223. [[02 Players/McBurnie - 295|McBurnie]] — FWD, HUL; Extended watch buffer / Watch; Available
+225. [[02 Players/Tzimas - 137|Tzimas]] — FWD, BHA; Extended watch buffer / Watch; Knee injury - 75% chance of playing
+226. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD, COV; Extended watch buffer / Watch; Available
+227. [[02 Players/Kostoulas - 138|Kostoulas]] — FWD, BHA; Extended watch buffer / Watch; Available
+230. [[02 Players/Kusi-Asare - 272|Kusi-Asare]] — FWD, FUL; Extended watch buffer / Watch; Available
+234. [[02 Players/Enes Ünal - 80|Enes Ünal]] — FWD, BOU; Extended watch buffer / Watch; Available
+235. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — FWD, IPS; Extended watch buffer / Watch; Available
 241. [[02 Players/Rodríguez - 81|Rodríguez]] — FWD, BOU; Undrafted buffer / D; Available
-246. [[02 Players/Kusi-Asare - 272|Kusi-Asare]] — FWD, FUL; Undrafted buffer / D; Available
-251. [[02 Players/Enes Ünal - 80|Enes Ünal]] — FWD, BOU; Extended watch buffer / Watch; Available
-316. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD, ARS; Extended watch buffer / Watch; Available
+246. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD, ARS; Undrafted buffer / D; Available
+251. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
+316. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T16:48:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T18:23:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -107,3 +107,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T16:48:00+10:0
 - Positional ranks 1–30 were insertion-sorted with challengers 31–35.
 - Review: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
 - Changes: [[07 Changes/2026/08/2026-08-03/1648-AEST-changes]].
+
+
+## 1823-AEST block 2 review
+
+- Positional ranks 31–52 were insertion-sorted with upper challengers 26–30; there were no lower challengers because only 52 forwards are in the canonical pool.
+- Review: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+- Changes: [[07 Changes/2026/08/2026-08-03/1823-AEST-changes]].

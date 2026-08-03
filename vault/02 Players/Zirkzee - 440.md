@@ -4,10 +4,10 @@ fpl_id: 440
 player: Zirkzee
 team: MUN
 position: FWD
-current_rank: 306
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 199
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Zirkzee
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: forward scarcity but unclear hierarchy and minutes.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **33 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **199 → 199**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

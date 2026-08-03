@@ -5,9 +5,9 @@ player_name: Osula
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 173
+current_rank: 196
 current_segment: Core
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Osula
@@ -50,3 +50,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Overall rank: **173 → 173**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **32 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **196 → 196**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

@@ -234,3 +234,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 1648-aest-forward-block-1 -->
 - Forward ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]] · [[07 Changes/2026/08/2026-08-03/1648-AEST-changes]].
+
+
+<!-- 1823-aest-forward-block-2 -->
+- Forward ranks 31–52 reviewed with upper challengers 26–30: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]] · [[07 Changes/2026/08/2026-08-03/1823-AEST-changes]].

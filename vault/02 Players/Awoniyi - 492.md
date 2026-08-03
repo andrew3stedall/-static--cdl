@@ -4,10 +4,10 @@ fpl_id: 492
 player: Awoniyi
 team: NFO
 position: FWD
-current_rank: 187
+current_rank: 189
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Awoniyi
@@ -49,3 +49,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **29 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **189 → 189**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
