@@ -5,9 +5,9 @@ player_name: Kudus
 team: "[[03 Teams/TOT]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Thigh injury - 75% chance of playing"
-current_rank: 57
+current_rank: 46
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Kudus
@@ -42,4 +42,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: elite ball-carrying and direct goal involvement, with a current thigh discount.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **31** after block 1 with challengers 31–35.
+- Overall rank: **35 → 46**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

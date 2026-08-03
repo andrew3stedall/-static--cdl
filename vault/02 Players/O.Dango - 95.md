@@ -5,9 +5,9 @@ player_name: Ouattara Dango
 team: "[[03 Teams/BRE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 29
+current_rank: 30
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Ouattara Dango
@@ -41,4 +41,11 @@ Direct attacking upside is useful, but role certainty is below Damsgaard's.
 - Comparator outcome: greater direct goal threat but a slightly less stable floor than Damsgaard.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **20** after block 1 with challengers 31–35.
+- Overall rank: **29 → 30**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

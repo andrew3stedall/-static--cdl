@@ -5,9 +5,9 @@ player_name: Schade
 team: "[[03 Teams/BRE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 39
+current_rank: 36
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Schade
@@ -41,4 +41,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: strong attacking ceiling with more role volatility than the top three.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **24** after block 1 with challengers 31–35.
+- Overall rank: **39 → 36**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

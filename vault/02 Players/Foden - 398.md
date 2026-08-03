@@ -5,9 +5,9 @@ player_name: Phil Foden
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 17
+current_rank: 15
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Phil Foden
@@ -43,4 +43,11 @@ High attacking ceiling wins the block despite rotation risk.
 - Comparator outcome: elite attacking ceiling but more rotation risk than Semenyo.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **8** after block 1 with challengers 31–35.
+- Overall rank: **17 → 15**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

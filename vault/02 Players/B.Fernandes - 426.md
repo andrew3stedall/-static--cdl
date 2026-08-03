@@ -5,9 +5,9 @@ player_name: Bruno Fernandes
 team: "[[03 Teams/MUN]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 2
+current_rank: 5
 current_segment: Franchise
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Bruno Fernandes
@@ -43,3 +43,11 @@ last_reviewed: 2026-08-01T22:07:00+10:00
 - Comparator outcome: penalties, set pieces and the strongest secure raw-points projection.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **3** after block 1 with challengers 31–35.
+- Overall rank: **2 → 5**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+
