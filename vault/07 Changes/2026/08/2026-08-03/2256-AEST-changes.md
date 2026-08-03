@@ -45,7 +45,7 @@ block: 31-60
 
 - Unchanged: E.Le Fée, Enzo, Maddison, Sarr, Minteh, Kudus, Hudson-Odoi, Groß, Mac Allister.
 - Upper challengers E.Le Fée, Enzo, Maddison, Sarr and Minteh all retained places above the block boundary.
-- Lower challengers Rashford, Mac Allister, Garnacho, McGinn and Reijnders were tested; Rashford and Reijnders entered the top 60 while Mac Allister, Garnacho and McGinn remained below the boundary.
+- Lower challengers Rashford, Mac Allister, Garnacho, McGinn and Reijnders were tested; Rashford, McGinn and Reijnders entered the top 60 while Mac Allister and Garnacho remained below the boundary.
 - No non-midfielder changed global rank.
 
 ## Injury and role treatment
