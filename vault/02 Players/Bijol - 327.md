@@ -5,9 +5,9 @@ player_name: Bijol
 team: "[[03 Teams/LEE]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 185
+current_rank: 180
 current_segment: Depth
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Bijol
@@ -73,3 +73,11 @@ Rank updated to 103 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Overall rank: **140 → 185**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **58** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **185 → 180**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

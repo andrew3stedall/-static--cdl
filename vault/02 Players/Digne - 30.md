@@ -7,7 +7,7 @@ position: DEF
 current_rank: 164
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Digne
@@ -45,3 +45,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Decision: set pieces and chance creation beat Maatsen while current minutes remain more secure.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **48** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **164 → 164**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

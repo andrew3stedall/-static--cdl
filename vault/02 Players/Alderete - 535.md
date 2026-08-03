@@ -5,9 +5,9 @@ player_name: Alderete
 team: "[[03 Teams/SUN]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 131
+current_rank: 179
 current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Alderete
@@ -61,3 +61,11 @@ Compared within ranks 106–145. Current placement: **129**. See [[06 Reviews/20
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **57** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **182 → 179**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

@@ -5,9 +5,9 @@ player_name: Botman
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 128
+current_rank: 172
 current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Botman
@@ -61,3 +61,11 @@ Compared within ranks 106–145. Current placement: **127**. See [[06 Reviews/20
 - Comparator outcome: clean-sheet floor and strong minutes when fit.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **52** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **179 → 172**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

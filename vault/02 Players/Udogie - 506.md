@@ -4,10 +4,10 @@ fpl_id: 506
 player: Udogie
 team: TOT
 position: DEF
-current_rank: 339
+current_rank: 169
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Udogie
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **50** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **177 → 169**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

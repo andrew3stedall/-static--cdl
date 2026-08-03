@@ -4,10 +4,10 @@ fpl_id: 446
 player: Schär
 team: NEW
 position: DEF
-current_rank: 189
+current_rank: 132
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Schär
@@ -49,3 +49,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: aerial and long-range threat with secure centre-back value.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **30** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **162 → 132**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

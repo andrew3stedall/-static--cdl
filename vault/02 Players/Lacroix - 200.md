@@ -5,10 +5,10 @@ player_name: Lacroix
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 143
+current_rank: 153
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Lacroix
@@ -58,3 +58,11 @@ Rank updated to 100 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Overall rank: **186 → 143**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **43** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **143 → 153**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

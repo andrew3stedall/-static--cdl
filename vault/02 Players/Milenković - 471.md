@@ -4,10 +4,10 @@ fpl_id: 471
 player: Milenković
 team: NFO
 position: DEF
-current_rank: 139
+current_rank: 175
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Milenković
@@ -55,3 +55,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **53** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **180 → 175**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].
