@@ -7,7 +7,7 @@ position: MID
 current_rank: 136
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Garner
@@ -53,4 +53,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Comparator outcome: set pieces and accumulation floor, discounted by groin injury.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **68** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **136 → 136**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 

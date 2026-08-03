@@ -4,10 +4,10 @@ fpl_id: 432
 player: Mainoo
 team: MUN
 position: MID
-current_rank: 197
+current_rank: 202
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Mainoo
@@ -44,3 +44,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: minutes and progression floor with limited direct FPL output.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **86** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **202 → 202**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+

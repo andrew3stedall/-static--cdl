@@ -5,9 +5,9 @@ player_name: Jensen
 team: "[[03 Teams/BRE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 103
+current_rank: 107
 current_segment: Depth
-last_reviewed: 2026-08-03T22:56:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Jensen
@@ -45,4 +45,11 @@ Compared within ranks 106–145. Current placement: **114**. See [[06 Reviews/20
 - Overall rank: **75 → 103**.
 - Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **60** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **103 → 107**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 

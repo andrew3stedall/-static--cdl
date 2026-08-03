@@ -4,10 +4,10 @@ fpl_id: 74
 player: Brooks
 team: BOU
 position: MID
-current_rank: 267
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 129
+segment: Endgame
+tier: D+
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Brooks
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: direct attacking ceiling.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **67** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **128 → 129**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+

@@ -4,10 +4,10 @@ fpl_id: 373
 player: C.Jones
 team: LIV
 position: MID
-current_rank: 173
+current_rank: 203
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # C.Jones
@@ -58,3 +58,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: useful attacking-midfield upside with rotation risk.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **87** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **203 → 203**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+

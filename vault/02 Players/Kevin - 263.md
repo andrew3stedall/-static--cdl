@@ -4,10 +4,10 @@ fpl_id: 263
 player: Kevin
 team: FUL
 position: MID
-current_rank: 310
+current_rank: 218
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Kevin
@@ -44,4 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: attacking ceiling but uncertain minutes.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **92** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **218 → 218**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 

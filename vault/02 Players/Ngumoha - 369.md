@@ -4,10 +4,10 @@ fpl_id: 369
 player: Ngumoha
 team: LIV
 position: MID
-current_rank: 319
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 211
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Ngumoha
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: breakout winger ceiling but weak minutes certainty.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **88** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **211 → 211**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+

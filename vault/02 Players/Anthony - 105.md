@@ -4,10 +4,10 @@ fpl_id: 105
 player: Anthony
 team: BRE
 position: MID
-current_rank: 277
+current_rank: 217
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Anthony
@@ -43,4 +43,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: direct attacking ceiling with uncertain starting status.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **91** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **217 → 217**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 

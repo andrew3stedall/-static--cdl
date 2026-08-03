@@ -7,7 +7,7 @@ position: MID
 current_rank: 98
 segment: Depth
 tier: C
-last_reviewed: 2026-08-03T22:56:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Reijnders
@@ -65,4 +65,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **126 → 98**.
 - Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **56** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **98 → 98**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
