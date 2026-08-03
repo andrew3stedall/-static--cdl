@@ -4,10 +4,10 @@ fpl_id: 513
 player: Xavi
 team: TOT
 position: MID
-current_rank: 240
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T12:59:00+10:00
+current_rank: 174
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Xavi
@@ -35,4 +35,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: high creative ceiling, heavily discounted for knee injury and role uncertainty.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **79** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **174 → 174**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 

@@ -7,7 +7,7 @@ position: MID
 current_rank: 228
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Tzolis
@@ -37,3 +37,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **95** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **228 → 228**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+

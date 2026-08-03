@@ -4,10 +4,10 @@ fpl_id: 484
 player: Hutchinson
 team: NFO
 position: MID
-current_rank: 172
+current_rank: 154
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Hutchinson
@@ -57,4 +57,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: creative upside and potential advanced role, but uncertain starts.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **72** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **156 → 154**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 

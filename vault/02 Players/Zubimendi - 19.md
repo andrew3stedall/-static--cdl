@@ -7,7 +7,7 @@ position: MID
 current_rank: 137
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Zubimendi
@@ -55,3 +55,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **69** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **137 → 137**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+

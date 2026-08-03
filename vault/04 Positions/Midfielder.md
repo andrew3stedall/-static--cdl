@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-03T22:56:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Midfielder
@@ -95,24 +95,24 @@ Players are listed in canonical overall draft rank order.
 93. [[02 Players/Groß - 124|Groß]] — MID, BHA; Depth / C; Available
 94. [[02 Players/Fernandes - 525|Fernandes]] — MID, TOT; Depth / C; Available
 98. [[02 Players/Reijnders - 404|Reijnders]] — MID, MCI; Depth / C; Available
-100. [[02 Players/Anderson - 481|Anderson]] — MID, MCI; Deep watch / D-; Available
-103. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
-106. [[02 Players/McGinn - 45|McGinn]] — MID, AVL; Depth / C; Available
-107. [[02 Players/Aaronson - 337|Aaronson]] — MID, LEE; Depth / C; Available
-111. [[02 Players/Garnacho - 160|Garnacho]] — MID, AVL; Depth / C; Available
-117. [[02 Players/Mac Allister - 372|Mac Allister]] — MID, LIV; Depth / C; Available
+100. [[02 Players/Garnacho - 160|Garnacho]] — MID, AVL; Deep watch / D-; Available
+103. [[02 Players/Mac Allister - 372|Mac Allister]] — MID, LIV; Depth / C; Available
+106. [[02 Players/Anderson - 481|Anderson]] — MID, MCI; Depth / C; Available
+107. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
+111. [[02 Players/McGinn - 45|McGinn]] — MID, AVL; Depth / C; Available
+117. [[02 Players/Aaronson - 337|Aaronson]] — MID, LEE; Depth / C; Available
 120. [[02 Players/Ndoye - 483|Ndoye]] — MID, NFO; Depth / C; Available
 121. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID, BRE; Depth / C; Available
 126. [[02 Players/Scott - 69|Scott]] — MID, BOU; Endgame / D+; Available
-128. [[02 Players/Brooks - 74|Brooks]] — MID, BOU; Undrafted buffer / D; Available
-129. [[02 Players/Adingra - 546|Adingra]] — MID, SUN; Endgame / D+; Available
+128. [[02 Players/Adingra - 546|Adingra]] — MID, SUN; Undrafted buffer / D; Available
+129. [[02 Players/Brooks - 74|Brooks]] — MID, BOU; Endgame / D+; Available
 136. [[02 Players/Garner - 239|Garner]] — MID, EVE; Endgame / D+; Groin injury - Expected back 22 Aug
 137. [[02 Players/Zubimendi - 19|Zubimendi]] — MID, ARS; Endgame / D+; Available
-146. [[02 Players/Sadiki - 545|Sadiki]] — MID, SUN; Endgame / D+; Available
-152. [[02 Players/Bobb - 264|Bobb]] — MID, FUL; Extended watch buffer / Watch; Available
-154. [[02 Players/King - 268|King]] — MID, FUL; Undrafted buffer / D; Available
-156. [[02 Players/Hutchinson - 484|Hutchinson]] — MID, NFO; Endgame / D+; Available
-159. [[02 Players/Gravenberch - 371|Gravenberch]] — MID, LIV; Endgame / D+; Available
+146. [[02 Players/Bobb - 264|Bobb]] — MID, FUL; Endgame / D+; Available
+152. [[02 Players/King - 268|King]] — MID, FUL; Extended watch buffer / Watch; Available
+154. [[02 Players/Hutchinson - 484|Hutchinson]] — MID, NFO; Undrafted buffer / D; Available
+156. [[02 Players/Gravenberch - 371|Gravenberch]] — MID, LIV; Endgame / D+; Available
+159. [[02 Players/Sadiki - 545|Sadiki]] — MID, SUN; Endgame / D+; Available
 161. [[02 Players/Ayari - 129|Ayari]] — MID, BHA; Endgame / D+; Available
 163. [[02 Players/Hinshelwood - 123|Hinshelwood]] — MID, BHA; Undrafted buffer / D; Available
 168. [[02 Players/Ampadu - 338|Ampadu]] — MID, LEE; Undrafted buffer / D; Available
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T22:56:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T23:16:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -211,3 +211,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T22:56:00+10:0
 - Midfield ranks 31–60 were insertion-sorted with challengers 26–30 and 61–65.
 - Review: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 - Changes: [[07 Changes/2026/08/2026-08-03/2256-AEST-changes]].
+
+
+## 2316-AEST block 3 review
+
+- Midfield ranks 61–90 were insertion-sorted with challengers 56–60 and 91–95.
+- Review: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
+- Changes: [[07 Changes/2026/08/2026-08-03/2316-AEST-changes]].

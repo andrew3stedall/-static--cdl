@@ -7,7 +7,7 @@ position: MID
 current_rank: 220
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-03T23:16:00+10:00
 ---
 
 # Wharton
@@ -36,4 +36,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: set-piece and progression value, discounted by ankle fitness.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
+
+## 2316-AEST midfield positional comparison
+
+- Midfield order: **93** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **220 → 220**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
