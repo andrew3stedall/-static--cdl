@@ -4,10 +4,10 @@ fpl_id: 331
 player: Gudmundsson
 team: LEE
 position: DEF
-current_rank: 176
+current_rank: 221
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Gudmundsson
@@ -49,3 +49,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: possible attacking full-back value with uncertain first-choice status.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **71** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **236 → 221**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

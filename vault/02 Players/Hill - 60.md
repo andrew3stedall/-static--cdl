@@ -5,9 +5,9 @@ player_name: Hill
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 130
+current_rank: 232
 current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Hill
@@ -60,3 +60,11 @@ Compared within ranks 106–145. Current placement: **128**. See [[06 Reviews/20
 - Comparator outcome: defensive minutes floor.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **74** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **249 → 232**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

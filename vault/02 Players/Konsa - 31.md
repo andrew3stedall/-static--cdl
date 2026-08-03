@@ -4,10 +4,10 @@ fpl_id: 31
 player: Konsa
 team: AVL
 position: DEF
-current_rank: 259
+current_rank: 249
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Konsa
@@ -45,3 +45,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Decision: best centre-back minutes floor.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **78** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **259 → 249**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
