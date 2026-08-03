@@ -4,10 +4,10 @@ fpl_id: 364
 player: Tsimikas
 team: LIV
 position: DEF
-current_rank: 203
+current_rank: 271
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Tsimikas
@@ -45,3 +45,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: backup full-back value and possible set-piece route.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **90** after the final block with challengers 86–90.
+- Overall rank: **288 → 271**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

@@ -4,10 +4,10 @@ fpl_id: 422
 player: Mazraoui
 team: MUN
 position: DEF
-current_rank: 277
+current_rank: 287
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Mazraoui
@@ -52,3 +52,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **270 → 277**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **95** after the final block with challengers 86–90.
+- Overall rank: **277 → 287**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

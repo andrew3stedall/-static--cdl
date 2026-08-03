@@ -4,10 +4,10 @@ fpl_id: 470
 player: Morato
 team: NFO
 position: DEF
-current_rank: 284
+current_rank: 312
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Morato
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **108** after the final block with challengers 86–90.
+- Overall rank: **347 → 312**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

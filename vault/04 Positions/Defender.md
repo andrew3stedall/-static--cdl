@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Defender
@@ -126,34 +126,34 @@ Players are listed in canonical overall draft rank order.
 265. [[02 Players/Mings - 33|Mings]] — DEF, AVL; Undrafted buffer / D; Available
 266. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Undrafted buffer / D; Available
 269. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Undrafted buffer / D; Available
-270. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Undrafted buffer / D; Available
-271. [[02 Players/Diop - 259|Diop]] — DEF, IPS; Undrafted buffer / D; Available
-274. [[02 Players/Murillo - 472|Murillo]] — DEF, NFO; Deep watch / D-; Muscle injury - 75% chance of playing
-277. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF, MUN; Extended watch buffer / Watch; Available
-278. [[02 Players/Ajer - 87|Ajer]] — DEF, BRE; Undrafted buffer / D; Available
-280. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Undrafted buffer / D; Available
-287. [[02 Players/Burn - 448|Burn]] — DEF, NEW; Extended watch buffer / Watch; Available
-288. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF, LIV; Extended watch buffer / Watch; Available
-293. [[02 Players/Hickey - 90|Hickey]] — DEF, BRE; Extended watch buffer / Watch; Available
-297. [[02 Players/Igor - 118|Igor]] — DEF, BHA; Extended watch buffer / Watch; Available
-298. [[02 Players/Coppola - 117|Coppola]] — DEF, BHA; Extended watch buffer / Watch; Available
+270. [[02 Players/Burn - 448|Burn]] — DEF, NEW; Undrafted buffer / D; Available
+271. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF, LIV; Undrafted buffer / D; Available
+274. [[02 Players/Castagne - 258|Castagne]] — DEF, FUL; Deep watch / D-; Available
+277. [[02 Players/Bradley - 360|Bradley]] — DEF, LIV; Extended watch buffer / Watch; Knee injury - Unknown return date
+278. [[02 Players/Hickey - 90|Hickey]] — DEF, BRE; Undrafted buffer / D; Available
+280. [[02 Players/De Ligt - 416|De Ligt]] — DEF, MUN; Undrafted buffer / D; Back injury - Unknown return date
+287. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF, MUN; Extended watch buffer / Watch; Available
+288. [[02 Players/Murillo - 472|Murillo]] — DEF, NFO; Extended watch buffer / Watch; Muscle injury - 75% chance of playing
+293. [[02 Players/Ajer - 87|Ajer]] — DEF, BRE; Extended watch buffer / Watch; Available
+297. [[02 Players/Diop - 259|Diop]] — DEF, IPS; Extended watch buffer / Watch; Available
+298. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Extended watch buffer / Watch; Available
 299. [[02 Players/Heaven - 421|Heaven]] — DEF, MUN; Extended watch buffer / Watch; Available
 301. [[02 Players/Tosin - 147|Tosin]] — DEF, CHE; Extended watch buffer / Watch; Available
 302. [[02 Players/Acheampong - 151|Acheampong]] — DEF, CHE; Extended watch buffer / Watch; Available
 303. [[02 Players/B.Badiashile - 146|B.Badiashile]] — DEF, CHE; Undrafted buffer / D; Available
-305. [[02 Players/Schuster - 93|Schuster]] — DEF, BRE; Extended watch buffer / Watch; Available
-306. [[02 Players/De Ligt - 416|De Ligt]] — DEF, MUN; Extended watch buffer / Watch; Back injury - Unknown return date
-307. [[02 Players/Costinha - 119|Costinha]] — DEF, BHA; Extended watch buffer / Watch; Available
-309. [[02 Players/Svoboda - 120|Svoboda]] — DEF, BHA; Extended watch buffer / Watch; Available
-312. [[02 Players/Smith - 64|Smith]] — DEF, BOU; Undrafted buffer / D; Available
+305. [[02 Players/Smith - 64|Smith]] — DEF, BOU; Extended watch buffer / Watch; Available
+306. [[02 Players/Milosavljević - 63|Milosavljević]] — DEF, BOU; Extended watch buffer / Watch; Available
+307. [[02 Players/Vuskovic - 504|Vuskovic]] — DEF, BHA; Extended watch buffer / Watch; Available
+309. [[02 Players/Reinildo - 536|Reinildo]] — DEF, SUN; Extended watch buffer / Watch; Available
+312. [[02 Players/Morato - 470|Morato]] — DEF, NFO; Undrafted buffer / D; Available
 315. [[02 Players/Vitor Reis - 396|Vitor Reis]] — DEF, MCI; Extended watch buffer / Watch; Available
-318. [[02 Players/Castagne - 258|Castagne]] — DEF, FUL; Undrafted buffer / D; Available
-319. [[02 Players/Bradley - 360|Bradley]] — DEF, LIV; Extended watch buffer / Watch; Knee injury - Unknown return date
-320. [[02 Players/Vuskovic - 504|Vuskovic]] — DEF, BHA; Extended watch buffer / Watch; Available
-323. [[02 Players/Milosavljević - 63|Milosavljević]] — DEF, BOU; Undrafted buffer / D; Available
-326. [[02 Players/J.Cuenca - 255|J.Cuenca]] — DEF, FUL; Extended watch buffer / Watch; Available
-328. [[02 Players/Anselmino - 561|Anselmino]] — DEF, CHE; Undrafted buffer / D; Available
-329. [[02 Players/Reinildo - 536|Reinildo]] — DEF, SUN; Extended watch buffer / Watch; Available
+318. [[02 Players/Igor - 118|Igor]] — DEF, BHA; Undrafted buffer / D; Available
+319. [[02 Players/Coppola - 117|Coppola]] — DEF, BHA; Extended watch buffer / Watch; Available
+320. [[02 Players/Schuster - 93|Schuster]] — DEF, BRE; Extended watch buffer / Watch; Available
+323. [[02 Players/Costinha - 119|Costinha]] — DEF, BHA; Undrafted buffer / D; Available
+326. [[02 Players/Svoboda - 120|Svoboda]] — DEF, BHA; Extended watch buffer / Watch; Available
+328. [[02 Players/J.Cuenca - 255|J.Cuenca]] — DEF, FUL; Undrafted buffer / D; Available
+329. [[02 Players/Anselmino - 561|Anselmino]] — DEF, CHE; Extended watch buffer / Watch; Available
 331. [[02 Players/Ji-soo - 92|Ji-soo]] — DEF, BRE; Extended watch buffer / Watch; Available
 332. [[02 Players/Jacquet - 362|Jacquet]] — DEF, LIV; Extended watch buffer / Watch; Available
 336. [[02 Players/Diakité - 62|Diakité]] — DEF, BOU; Extended watch buffer / Watch; Available
@@ -161,11 +161,11 @@ Players are listed in canonical overall draft rank order.
 340. [[02 Players/Lindelöf - 37|Lindelöf]] — DEF, AVL; Extended watch buffer / Watch; Available
 341. [[02 Players/Muharemović - 334|Muharemović]] — DEF, LEE; Extended watch buffer / Watch; Available
 343. [[02 Players/Mosquera - 11|Mosquera]] — DEF, ARS; Extended watch buffer / Watch; Available
-347. [[02 Players/Morato - 470|Morato]] — DEF, NFO; Extended watch buffer / Watch; Available
-348. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
-350. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
+347. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
+348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
+350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T08:54:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T09:20:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -194,3 +194,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T08:54:00+10:0
 - Defender ranks 61–90 were insertion-sorted with challengers 56–60 and 91–95.
 - Review: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
 - Changes: [[07 Changes/2026/08/2026-08-04/0854-AEST-changes]].
+
+
+## 0920-AEST final defender review
+
+- Defender ranks 91 onward were insertion-sorted with challengers 86–90.
+- Review: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
+- Changes: [[07 Changes/2026/08/2026-08-04/0920-AEST-changes]].

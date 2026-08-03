@@ -7,7 +7,7 @@ position: DEF
 current_rank: 343
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Mosquera
@@ -49,3 +49,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **123** after the final block with challengers 86–90.
+- Overall rank: **343 → 343**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

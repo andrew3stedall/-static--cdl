@@ -4,10 +4,10 @@ fpl_id: 90
 player: Hickey
 team: BRE
 position: DEF
-current_rank: 331
+current_rank: 278
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Hickey
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
 
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **93** after the final block with challengers 86–90.
+- Overall rank: **293 → 278**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

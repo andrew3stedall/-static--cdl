@@ -4,10 +4,10 @@ fpl_id: 448
 player: Burn
 team: NEW
 position: DEF
-current_rank: 287
+current_rank: 270
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Burn
@@ -54,3 +54,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Overall rank: **280 → 287**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **89** after the final block with challengers 86–90.
+- Overall rank: **287 → 270**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
