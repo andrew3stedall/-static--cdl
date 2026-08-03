@@ -4,10 +4,10 @@ fpl_id: 232
 player: O'Brien
 team: EVE
 position: DEF
-current_rank: 166
+current_rank: 186
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # O'Brien
@@ -57,3 +57,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **62** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **192 → 186**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

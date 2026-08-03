@@ -5,9 +5,9 @@ player_name: De Cuyper
 team: "[[03 Teams/BHA]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 136
+current_rank: 140
 current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # De Cuyper
@@ -40,3 +40,11 @@ Compared within ranks 106–145. Current placement: **132**. See [[06 Reviews/20
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **35** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **138 → 140**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

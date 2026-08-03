@@ -5,9 +5,9 @@ player_name: Cash
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 150
+current_rank: 143
 current_segment: Depth
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Cash
@@ -60,3 +60,11 @@ Compared within ranks 106–145. Current placement: **120**. See [[06 Reviews/20
 - Decision: attacking defender ceiling and goal threat edge Digne narrowly.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **37** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **150 → 143**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

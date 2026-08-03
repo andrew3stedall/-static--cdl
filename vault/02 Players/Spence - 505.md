@@ -4,10 +4,10 @@ fpl_id: 505
 player: Spence
 team: TOT
 position: DEF
-current_rank: 177
+current_rank: 171
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Spence
@@ -49,3 +49,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **51** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **178 → 171**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

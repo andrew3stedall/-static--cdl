@@ -5,9 +5,9 @@ player_name: N.Williams
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Defender]]"
 api_status: Available
-current_rank: 141
+current_rank: 148
 current_segment: Endgame
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # N.Williams
@@ -61,3 +61,11 @@ Compared within ranks 106–145. Current placement: **135**. See [[06 Reviews/20
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **40** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **172 → 148**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

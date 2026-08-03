@@ -4,10 +4,10 @@ fpl_id: 88
 player: Kayode
 team: BRE
 position: DEF
-current_rank: 144
+current_rank: 158
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Kayode
@@ -54,3 +54,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
 
+
+
+## 0844-AEST defender positional comparison
+
+- Defender order: **45** after block 2 with challengers 26–30 and 61–65.
+- Overall rank: **145 → 158**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].

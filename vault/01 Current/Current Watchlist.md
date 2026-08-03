@@ -246,3 +246,7 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 0719-aest-defender-block-1 -->
 - Defender ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0719-AEST-changes]].
+
+
+<!-- 0844-aest-defender-block-2 -->
+- Defender ranks 31–60 reviewed with challengers 26–30 and 61–65: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0844-AEST-changes]].

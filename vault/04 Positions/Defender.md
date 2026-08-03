@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T08:44:00+10:00
 ---
 
 # Defender
@@ -64,45 +64,45 @@ Players are listed in canonical overall draft rank order.
 118. [[02 Players/Gusto - 144|Gusto]] — DEF, CHE; Endgame / D+; Available
 122. [[02 Players/O'Reilly - 387|O'Reilly]] — DEF, MCI; Depth / C; Available
 123. [[02 Players/Rúben - 390|Rúben]] — DEF, MCI; Depth / C; Available
-124. [[02 Players/Sessegnon - 269|Sessegnon]] — DEF, FUL; Endgame / D+; Available
-125. [[02 Players/Romero - 500|Romero]] — DEF, TOT; Depth / C; Available
-127. [[02 Players/Livramento - 450|Livramento]] — DEF, NEW; Endgame / D+; Calf injury - 75% chance of playing
-132. [[02 Players/Mukiele - 533|Mukiele]] — DEF, SUN; Depth / C; Available
-133. [[02 Players/Bogle - 330|Bogle]] — DEF, LEE; Endgame / D+; Available
-134. [[02 Players/Hincapie - 9|Hincapie]] — DEF, ARS; Endgame / D+; Available
-138. [[02 Players/De Cuyper - 115|De Cuyper]] — DEF, BHA; Endgame / D+; Available
-139. [[02 Players/Senesi - 498|Senesi]] — DEF, TOT; Endgame / D+; Available
-140. [[02 Players/Van Hecke - 112|Van Hecke]] — DEF, TOT; Endgame / D+; Available
-141. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Endgame / D+; Available
-143. [[02 Players/Lacroix - 200|Lacroix]] — DEF, CHE; Endgame / D+; Available
-145. [[02 Players/Kayode - 88|Kayode]] — DEF, BRE; Endgame / D+; Available
-147. [[02 Players/Dunk - 116|Dunk]] — DEF, BHA; Core / C+; Available
-148. [[02 Players/F.Kadıoğlu - 113|F.Kadıoğlu]] — DEF, BHA; Endgame / D+; Available
-149. [[02 Players/Shaw - 423|Shaw]] — DEF, MUN; Endgame / D+; Available
-150. [[02 Players/Cash - 32|Cash]] — DEF, AVL; Endgame / D+; Available
-153. [[02 Players/Dalot - 417|Dalot]] — DEF, MUN; Endgame / D+; Available
-157. [[02 Players/Hume - 534|Hume]] — DEF, SUN; Endgame / D+; Available
-158. [[02 Players/Mykolenko - 233|Mykolenko]] — DEF, EVE; Endgame / D+; Available
-160. [[02 Players/Struijk - 328|Struijk]] — DEF, BHA; Endgame / D+; Available
-162. [[02 Players/Schär - 446|Schär]] — DEF, NEW; Undrafted buffer / D; Available
+124. [[02 Players/Romero - 500|Romero]] — DEF, TOT; Endgame / D+; Available
+125. [[02 Players/Livramento - 450|Livramento]] — DEF, NEW; Depth / C; Calf injury - 75% chance of playing
+127. [[02 Players/Mukiele - 533|Mukiele]] — DEF, SUN; Endgame / D+; Available
+132. [[02 Players/Schär - 446|Schär]] — DEF, NEW; Depth / C; Available
+133. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Endgame / D+; Available
+134. [[02 Players/Sessegnon - 269|Sessegnon]] — DEF, FUL; Endgame / D+; Available
+138. [[02 Players/Bogle - 330|Bogle]] — DEF, LEE; Endgame / D+; Available
+139. [[02 Players/Hincapie - 9|Hincapie]] — DEF, ARS; Endgame / D+; Available
+140. [[02 Players/De Cuyper - 115|De Cuyper]] — DEF, BHA; Endgame / D+; Available
+141. [[02 Players/F.Kadıoğlu - 113|F.Kadıoğlu]] — DEF, BHA; Endgame / D+; Available
+143. [[02 Players/Cash - 32|Cash]] — DEF, AVL; Endgame / D+; Available
+145. [[02 Players/Shaw - 423|Shaw]] — DEF, MUN; Endgame / D+; Available
+147. [[02 Players/Dalot - 417|Dalot]] — DEF, MUN; Core / C+; Available
+148. [[02 Players/N.Williams - 469|N.Williams]] — DEF, NFO; Endgame / D+; Available
+149. [[02 Players/Senesi - 498|Senesi]] — DEF, TOT; Endgame / D+; Available
+150. [[02 Players/Van Hecke - 112|Van Hecke]] — DEF, TOT; Endgame / D+; Available
+153. [[02 Players/Lacroix - 200|Lacroix]] — DEF, CHE; Endgame / D+; Available
+157. [[02 Players/Dunk - 116|Dunk]] — DEF, BHA; Endgame / D+; Available
+158. [[02 Players/Kayode - 88|Kayode]] — DEF, BRE; Endgame / D+; Available
+160. [[02 Players/Mykolenko - 233|Mykolenko]] — DEF, EVE; Endgame / D+; Available
+162. [[02 Players/Struijk - 328|Struijk]] — DEF, BHA; Undrafted buffer / D; Available
 164. [[02 Players/Digne - 30|Digne]] — DEF, AVL; Undrafted buffer / D; Available
 166. [[02 Players/Branthwaite - 230|Branthwaite]] — DEF, EVE; Deep watch / D-; Available
-169. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Undrafted buffer / D; Available
-171. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Undrafted buffer / D; Available
-172. [[02 Players/N.Williams - 469|N.Williams]] — DEF, NFO; Undrafted buffer / D; Available
-175. [[02 Players/Ballard - 532|Ballard]] — DEF, SUN; Undrafted buffer / D; Available
-176. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Undrafted buffer / D; Available
-177. [[02 Players/Udogie - 506|Udogie]] — DEF, TOT; Undrafted buffer / D; Available
-178. [[02 Players/Spence - 505|Spence]] — DEF, TOT; Undrafted buffer / D; Available
-179. [[02 Players/Botman - 447|Botman]] — DEF, NEW; Undrafted buffer / D; Available
-180. [[02 Players/Milenković - 471|Milenković]] — DEF, NFO; Undrafted buffer / D; Available
-181. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF, BRE; Endgame / D+; Available
-182. [[02 Players/Alderete - 535|Alderete]] — DEF, SUN; Deep watch / D-; Available
-185. [[02 Players/Bijol - 327|Bijol]] — DEF, LEE; Deep watch / D-; Available
-186. [[02 Players/Richards - 202|Richards]] — DEF, CRY; Depth / C; Available
-188. [[02 Players/Thiaw - 445|Thiaw]] — DEF, NEW; Deep watch / D-; Available
-191. [[02 Players/Boscagli - 114|Boscagli]] — DEF, BHA; Deep watch / D-; Available
-192. [[02 Players/O'Brien - 232|O'Brien]] — DEF, EVE; Undrafted buffer / D; Available
+169. [[02 Players/Udogie - 506|Udogie]] — DEF, TOT; Undrafted buffer / D; Available
+171. [[02 Players/Spence - 505|Spence]] — DEF, TOT; Undrafted buffer / D; Available
+172. [[02 Players/Botman - 447|Botman]] — DEF, NEW; Undrafted buffer / D; Available
+175. [[02 Players/Milenković - 471|Milenković]] — DEF, NFO; Undrafted buffer / D; Available
+176. [[02 Players/Hume - 534|Hume]] — DEF, SUN; Undrafted buffer / D; Available
+177. [[02 Players/Ballard - 532|Ballard]] — DEF, SUN; Undrafted buffer / D; Available
+178. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF, BRE; Undrafted buffer / D; Available
+179. [[02 Players/Alderete - 535|Alderete]] — DEF, SUN; Undrafted buffer / D; Available
+180. [[02 Players/Bijol - 327|Bijol]] — DEF, LEE; Undrafted buffer / D; Available
+181. [[02 Players/Richards - 202|Richards]] — DEF, CRY; Endgame / D+; Available
+182. [[02 Players/Thiaw - 445|Thiaw]] — DEF, NEW; Deep watch / D-; Available
+185. [[02 Players/Boscagli - 114|Boscagli]] — DEF, BHA; Deep watch / D-; Available
+186. [[02 Players/O'Brien - 232|O'Brien]] — DEF, EVE; Depth / C; Available
+188. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Deep watch / D-; Available
+191. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Deep watch / D-; Available
+192. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Undrafted buffer / D; Available
 197. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Undrafted buffer / D; Thigh injury - 75% chance of playing
 204. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Deep watch / D-; Available
 208. [[02 Players/Keane - 231|Keane]] — DEF, EVE; Depth / C; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
 350. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T07:19:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T08:44:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -180,3 +180,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T07:19:00+10:0
 - Defender ranks 1–30 were insertion-sorted with challengers 31–35.
 - Review: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
 - Changes: [[07 Changes/2026/08/2026-08-04/0719-AEST-changes]].
+
+
+## 0844-AEST defender block 2 review
+
+- Defender ranks 31–60 were insertion-sorted with challengers 26–30 and 61–65.
+- Review: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].
+- Changes: [[07 Changes/2026/08/2026-08-04/0844-AEST-changes]].
