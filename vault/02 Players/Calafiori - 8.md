@@ -7,9 +7,9 @@ player_name: Calafiori
 team: "[[03 Teams/ARS]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 82
+current_rank: 95
 current_segment: Depth
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # Calafiori
@@ -67,3 +67,11 @@ Rank updated to 91 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **15** after block 1 with challengers 31–35.
+- Overall rank: **82 → 95**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].

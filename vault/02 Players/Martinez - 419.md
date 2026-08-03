@@ -4,10 +4,10 @@ fpl_id: 419
 player: Martinez
 team: MUN
 position: DEF
-current_rank: 296
+current_rank: 197
 segment: Depth
 tier: C
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # Martinez
@@ -56,3 +56,11 @@ Compared within ranks 106–145. Current placement: **111**. See [[06 Reviews/20
 - Comparator outcome: passing and clean-sheet floor, discounted for injury.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **33** after block 1 with challengers 31–35.
+- Overall rank: **197 → 197**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].

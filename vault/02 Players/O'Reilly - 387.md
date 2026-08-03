@@ -5,9 +5,9 @@ player_name: O'Reilly
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 95
+current_rank: 122
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # O'Reilly
@@ -66,3 +66,11 @@ Rank updated to 95 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
 
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **21** after block 1 with challengers 31–35.
+- Overall rank: **95 → 122**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
