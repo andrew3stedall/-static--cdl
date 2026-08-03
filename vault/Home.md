@@ -230,3 +230,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 
 - Latest team review: [[06 Reviews/2026/08/2026-08-03/0910-AEST-review]] · changes: [[07 Changes/2026/08/2026-08-03/0910-AEST-changes]]
+
+
+<!-- 1648-aest-forward-block-1 -->
+- Forward ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]] · [[07 Changes/2026/08/2026-08-03/1648-AEST-changes]].

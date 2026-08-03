@@ -5,9 +5,9 @@ player_name: Igor Thiago
 team: "[[03 Teams/BRE]]"
 position: "[[04 Positions/Forward]]"
 api_status: available
-current_rank: 6
+current_rank: 7
 current_segment: Franchise
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Igor Thiago
@@ -43,3 +43,9 @@ last_reviewed: 2026-08-01T22:07:00+10:00
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
 
+## 1648-AEST forward positional comparison
+
+- Forward order: **4 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **7 → 7**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

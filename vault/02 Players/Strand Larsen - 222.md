@@ -4,10 +4,10 @@ fpl_id: 222
 player: Strand Larsen
 team: CRY
 position: FWD
-current_rank: 258
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 81
+segment: Extended watch buffer
+tier: Watch
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Strand Larsen
@@ -45,3 +45,9 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
 
+## 1648-AEST forward positional comparison
+
+- Forward order: **21 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **81 → 81**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

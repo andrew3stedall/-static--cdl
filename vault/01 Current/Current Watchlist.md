@@ -217,3 +217,7 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 0835-aest-tottenham-team-review -->
 - Tottenham internal ordering reviewed: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]] · [[07 Changes/2026/08/2026-08-03/0835-AEST-changes]].
+
+
+<!-- 1648-aest-forward-block-1 -->
+- Forward ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]] · [[07 Changes/2026/08/2026-08-03/1648-AEST-changes]].

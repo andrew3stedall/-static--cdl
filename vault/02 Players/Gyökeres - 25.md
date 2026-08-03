@@ -9,7 +9,7 @@ position: "[[04 Positions/Forward]]"
 api_status: available
 current_rank: 9
 current_segment: Foundation
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Viktor Gyökeres
@@ -46,3 +46,10 @@ High-upside Arsenal centre-forward; scarce role and Saka partnership justify pro
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+## 1648-AEST forward positional comparison
+
+- Forward order: **5 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **9 → 9**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

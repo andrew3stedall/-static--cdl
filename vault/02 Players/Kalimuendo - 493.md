@@ -4,10 +4,10 @@ fpl_id: 493
 player: Kalimuendo
 team: NFO
 position: FWD
-current_rank: 193
+current_rank: 189
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Kalimuendo
@@ -49,3 +49,9 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+## 1648-AEST forward positional comparison
+
+- Forward order: **29 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **189 → 189**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

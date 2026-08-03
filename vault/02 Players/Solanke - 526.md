@@ -5,9 +5,9 @@ player_name: Solanke
 team: "[[03 Teams/TOT]]"
 position: "[[04 Positions/Forward]]"
 api_status: available
-current_rank: 34
+current_rank: 27
 current_segment: Core
-last_reviewed: 2026-08-01T22:54:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Solanke
@@ -47,3 +47,9 @@ Forward scarcity and a plausible central Tottenham role justify the largest prom
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+## 1648-AEST forward positional comparison
+
+- Forward order: **8 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **27 → 27**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

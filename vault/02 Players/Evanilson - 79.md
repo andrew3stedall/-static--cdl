@@ -5,9 +5,9 @@ player_name: Evanilson
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 50
+current_rank: 48
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Evanilson
@@ -42,3 +42,10 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: starting-forward scarcity.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+## 1648-AEST forward positional comparison
+
+- Forward order: **11 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **48 → 48**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
