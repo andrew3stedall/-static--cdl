@@ -5,9 +5,9 @@ player_name: Wilson
 team: "[[03 Teams/LEE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 55
+current_rank: 69
 current_segment: Foundation
-last_reviewed: 2026-08-03T21:23:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Wilson
@@ -50,4 +50,11 @@ Potential set-piece value remains attractive, but promoted-team projection is un
 - Overall rank: **30 → 55**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **44** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **55 → 69**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 

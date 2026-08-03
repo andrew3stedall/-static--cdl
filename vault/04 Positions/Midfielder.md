@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-03T21:23:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Midfielder
@@ -70,40 +70,40 @@ Players are listed in canonical overall draft rank order.
 44. [[02 Players/Sarr - 208|Sarr]] — MID, CRY; Core / B; Available
 45. [[02 Players/Minteh - 122|Minteh]] — MID, BHA; Extended watch buffer / Watch; Available
 46. [[02 Players/Kudus - 512|Kudus]] — MID, TOT; Core / B; Thigh injury - 75% chance of playing
-49. [[02 Players/Barnes - 453|Barnes]] — MID, NEW; Core / B-; Available
-52. [[02 Players/Amad - 431|Amad]] — MID, MUN; Core / B-; Available
-54. [[02 Players/McNeil - 241|McNeil]] — MID, EVE; Core / B-; Available
-55. [[02 Players/Wilson - 260|Wilson]] — MID, LEE; Core / B-; Available
-56. [[02 Players/Neto - 156|Neto]] — MID, CHE; Core / B-; Available
-57. [[02 Players/Fernandes - 525|Fernandes]] — MID, TOT; Core / B-; Available
-59. [[02 Players/Tel - 514|Tel]] — MID, TOT; Core / B-; Available
-63. [[02 Players/Okafor - 336|Okafor]] — MID, LEE; Core / B-; Available
-64. [[02 Players/Mitoma - 121|Mitoma]] — MID, BHA; Core / C+; Hamstring injury - Unknown return date
-65. [[02 Players/Xhaka - 544|Xhaka]] — MID, SUN; Core / C+; Available
-66. [[02 Players/Iwobi - 261|Iwobi]] — MID, FUL; Core / C+; Available
-67. [[02 Players/Anderson - 481|Anderson]] — MID, MCI; Core / C+; Available
-69. [[02 Players/Gnonto - 341|Gnonto]] — MID, LEE; Core / C+; Available
-71. [[02 Players/Martinelli - 18|Martinelli]] — MID, ARS; Core / C+; Available
-75. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
-77. [[02 Players/Rayan - 67|Rayan]] — MID, BOU; Core / C+; Available
-79. [[02 Players/Dorgu - 415|Dorgu]] — MID, MUN; Core / C+; Available
+49. [[02 Players/Martinelli - 18|Martinelli]] — MID, ARS; Core / B-; Available
+52. [[02 Players/Neto - 156|Neto]] — MID, CHE; Core / B-; Available
+54. [[02 Players/Barnes - 453|Barnes]] — MID, NEW; Core / B-; Available
+55. [[02 Players/Amad - 431|Amad]] — MID, MUN; Core / B-; Available
+56. [[02 Players/Rashford - 429|Rashford]] — MID, MUN; Core / B-; Available
+57. [[02 Players/McNeil - 241|McNeil]] — MID, EVE; Core / B-; Available
+59. [[02 Players/Mitoma - 121|Mitoma]] — MID, BHA; Core / B-; Hamstring injury - Unknown return date
+63. [[02 Players/Tel - 514|Tel]] — MID, TOT; Core / B-; Available
+64. [[02 Players/Savinho - 403|Savinho]] — MID, MCI; Core / C+; Available
+65. [[02 Players/Estêvão - 157|Estêvão]] — MID, CHE; Core / C+; Available
+66. [[02 Players/Dorgu - 415|Dorgu]] — MID, MUN; Core / C+; Available
+67. [[02 Players/Iwobi - 261|Iwobi]] — MID, FUL; Core / C+; Available
+69. [[02 Players/Wilson - 260|Wilson]] — MID, LEE; Core / C+; Available
+71. [[02 Players/Elanga - 454|Elanga]] — MID, NEW; Core / C+; Available
+75. [[02 Players/J.Murphy - 457|J.Murphy]] — MID, NEW; Depth / C; Available
+77. [[02 Players/Smith Rowe - 262|Smith Rowe]] — MID, FUL; Core / C+; Available
+79. [[02 Players/Gnonto - 341|Gnonto]] — MID, LEE; Core / C+; Available
 80. [[02 Players/Hudson-Odoi - 482|Hudson-Odoi]] — MID, NFO; Depth / C; Thigh injury - 75% chance of playing
-86. [[02 Players/Elanga - 454|Elanga]] — MID, NEW; Depth / C; Available
-88. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID, BRE; Undrafted buffer / D; Available
-89. [[02 Players/Scott - 69|Scott]] — MID, BOU; Depth / C; Available
-92. [[02 Players/Ndoye - 483|Ndoye]] — MID, NFO; Depth / C; Available
+86. [[02 Players/Rayan - 67|Rayan]] — MID, BOU; Depth / C; Available
+88. [[02 Players/Stach - 335|Stach]] — MID, LEE; Undrafted buffer / D; Available
+89. [[02 Players/Xhaka - 544|Xhaka]] — MID, SUN; Depth / C; Available
+92. [[02 Players/Okafor - 336|Okafor]] — MID, LEE; Depth / C; Available
 93. [[02 Players/Groß - 124|Groß]] — MID, BHA; Depth / C; Available
-94. [[02 Players/Stach - 335|Stach]] — MID, LEE; Depth / C; Available
-98. [[02 Players/Savinho - 403|Savinho]] — MID, MCI; Depth / C; Available
-100. [[02 Players/Estêvão - 157|Estêvão]] — MID, CHE; Deep watch / D-; Available
-103. [[02 Players/Aaronson - 337|Aaronson]] — MID, LEE; Depth / C; Available
-106. [[02 Players/Smith Rowe - 262|Smith Rowe]] — MID, FUL; Depth / C; Available
-107. [[02 Players/J.Murphy - 457|J.Murphy]] — MID, NEW; Depth / C; Available
-111. [[02 Players/Rashford - 429|Rashford]] — MID, MUN; Depth / C; Available
+94. [[02 Players/Fernandes - 525|Fernandes]] — MID, TOT; Depth / C; Available
+98. [[02 Players/Reijnders - 404|Reijnders]] — MID, MCI; Depth / C; Available
+100. [[02 Players/Anderson - 481|Anderson]] — MID, MCI; Deep watch / D-; Available
+103. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
+106. [[02 Players/McGinn - 45|McGinn]] — MID, AVL; Depth / C; Available
+107. [[02 Players/Aaronson - 337|Aaronson]] — MID, LEE; Depth / C; Available
+111. [[02 Players/Garnacho - 160|Garnacho]] — MID, AVL; Depth / C; Available
 117. [[02 Players/Mac Allister - 372|Mac Allister]] — MID, LIV; Depth / C; Available
-120. [[02 Players/Garnacho - 160|Garnacho]] — MID, AVL; Depth / C; Available
-121. [[02 Players/McGinn - 45|McGinn]] — MID, AVL; Depth / C; Available
-126. [[02 Players/Reijnders - 404|Reijnders]] — MID, MCI; Endgame / D+; Available
+120. [[02 Players/Ndoye - 483|Ndoye]] — MID, NFO; Depth / C; Available
+121. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID, BRE; Depth / C; Available
+126. [[02 Players/Scott - 69|Scott]] — MID, BOU; Endgame / D+; Available
 128. [[02 Players/Brooks - 74|Brooks]] — MID, BOU; Undrafted buffer / D; Available
 129. [[02 Players/Adingra - 546|Adingra]] — MID, SUN; Endgame / D+; Available
 136. [[02 Players/Garner - 239|Garner]] — MID, EVE; Endgame / D+; Groin injury - Expected back 22 Aug
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T21:23:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T22:56:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -204,3 +204,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T21:23:00+10:0
 - Midfield ranks 1–30 were insertion-sorted with challengers 31–35.
 - Review: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 - Changes: [[07 Changes/2026/08/2026-08-03/2123-AEST-changes]].
+
+
+## 2256-AEST block 2 review
+
+- Midfield ranks 31–60 were insertion-sorted with challengers 26–30 and 61–65.
+- Review: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+- Changes: [[07 Changes/2026/08/2026-08-03/2256-AEST-changes]].

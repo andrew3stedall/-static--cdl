@@ -5,9 +5,9 @@ player_name: McGinn
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: Available
-current_rank: 121
+current_rank: 106
 current_segment: Depth
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # McGinn
@@ -60,3 +60,11 @@ Compared within ranks 106–145. Current placement: **121**. See [[06 Reviews/20
 - Decision: secure minutes and broad route to returns beat the remaining options.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **59** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **121 → 106**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

@@ -4,10 +4,10 @@ fpl_id: 404
 player: Reijnders
 team: MCI
 position: MID
-current_rank: 170
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T16:02:25+10:00
+current_rank: 98
+segment: Depth
+tier: C
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Reijnders
@@ -58,4 +58,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: safer midfield accumulation but less direct FPL output.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **56** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **126 → 98**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 

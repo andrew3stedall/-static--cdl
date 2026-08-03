@@ -4,10 +4,10 @@ fpl_id: 337
 player: Aaronson
 team: LEE
 position: MID
-current_rank: 140
-segment: Endgame
-tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+current_rank: 107
+segment: Depth
+tier: C
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Aaronson
@@ -55,3 +55,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Comparator outcome: advanced midfield role offers more direct returns than the defensive options.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **60** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **103 → 107**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

@@ -241,3 +241,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 2123-aest-midfield-block-1 -->
 - Midfield ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]] · [[07 Changes/2026/08/2026-08-03/2123-AEST-changes]].
+
+<!-- 2256-aest-midfield-block-2 -->
+- Midfield ranks 31–60 reviewed with challengers 26–30 and 61–65: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]] · [[07 Changes/2026/08/2026-08-03/2256-AEST-changes]].
+

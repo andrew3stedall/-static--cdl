@@ -4,10 +4,10 @@ fpl_id: 454
 player: Elanga
 team: NEW
 position: MID
-current_rank: 295
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 71
+segment: Core
+tier: C+
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Elanga
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: pace, chance creation and direct attacking upside.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **45** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **86 → 71**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

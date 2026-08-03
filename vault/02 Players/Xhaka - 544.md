@@ -5,9 +5,9 @@ player_name: Xhaka
 team: "[[03 Teams/SUN]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 65
+current_rank: 89
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Xhaka
@@ -42,4 +42,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: elite minutes security, set pieces and bonus-friendly involvement.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **52** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **65 → 89**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 
