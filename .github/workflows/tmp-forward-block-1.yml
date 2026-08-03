@@ -20,6 +20,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: |
+          sed -i 's/Nmecha/Georginio/g' scripts/review_forward_block_1.py
           python scripts/review_forward_block_1.py
           python scripts/validate_draft_board.py
           rm scripts/review_forward_block_1.py
