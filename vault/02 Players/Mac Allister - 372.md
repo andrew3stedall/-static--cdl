@@ -4,10 +4,10 @@ fpl_id: 372
 player: Mac Allister
 team: LIV
 position: MID
-current_rank: 268
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 117
+segment: Depth
+tier: C
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Mac Allister
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: set pieces and accumulation floor provide the best remaining midfield route.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **62** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **117 → 117**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

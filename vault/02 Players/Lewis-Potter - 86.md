@@ -4,10 +4,10 @@ fpl_id: 86
 player: Lewis-Potter
 team: BRE
 position: MID
-current_rank: 217
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+current_rank: 121
+segment: Depth
+tier: C
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Lewis-Potter
@@ -35,4 +35,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: attacking-role upside outweighs defensive and goalkeeper replacement options.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **64** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **88 → 121**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 

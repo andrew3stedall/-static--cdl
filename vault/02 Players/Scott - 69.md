@@ -5,9 +5,9 @@ player_name: Scott
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: Available
-current_rank: 121
+current_rank: 126
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Scott
@@ -60,3 +60,11 @@ Compared within ranks 106–145. Current placement: **119**. See [[06 Reviews/20
 - Comparator outcome: minutes and progression.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **65** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **89 → 126**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

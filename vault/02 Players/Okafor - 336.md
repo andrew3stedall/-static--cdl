@@ -5,9 +5,9 @@ player_name: Okafor
 team: "[[03 Teams/LEE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 94
+current_rank: 92
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Okafor
@@ -65,3 +65,11 @@ Rank updated to 94 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Comparator outcome: high direct goal involvement, discounted for role and fitness uncertainty.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **53** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **63 → 92**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

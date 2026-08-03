@@ -4,10 +4,10 @@ fpl_id: 429
 player: Rashford
 team: MUN
 position: MID
-current_rank: 200
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+current_rank: 56
+segment: Core
+tier: B-
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Rashford
@@ -44,3 +44,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: proven scoring ceiling, heavily discounted for role uncertainty.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **36** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **111 → 56**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

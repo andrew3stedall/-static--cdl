@@ -4,10 +4,10 @@ fpl_id: 241
 player: McNeil
 team: EVE
 position: MID
-current_rank: 54
+current_rank: 57
 segment: Core
 tier: B-
-last_reviewed: 2026-08-03T21:23:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # McNeil
@@ -51,4 +51,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **45 → 54**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **37** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **54 → 57**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 

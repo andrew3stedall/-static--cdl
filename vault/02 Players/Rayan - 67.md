@@ -5,9 +5,9 @@ player_name: Rayan
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 76
+current_rank: 86
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Rayan
@@ -42,3 +42,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: attacking upside.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **50** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **77 → 86**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

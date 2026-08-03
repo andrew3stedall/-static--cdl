@@ -5,9 +5,9 @@ player_name: Dorgu
 team: "[[03 Teams/MUN]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 79
+current_rank: 66
 current_segment: Core
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Dorgu
@@ -46,3 +46,11 @@ Rank updated to 79 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Comparator outcome: attacking wing-back upside and positional scarcity.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **42** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **79 → 66**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+

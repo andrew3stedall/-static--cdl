@@ -1,5 +1,5 @@
 ---
-tier: C+
+tier: B-
 segment: Core
 type: player
 fpl_id: 18
@@ -7,9 +7,9 @@ player_name: Martinelli
 team: "[[03 Teams/ARS]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 71
+current_rank: 49
 current_segment: Depth
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-03T22:56:00+10:00
 ---
 
 # Martinelli
@@ -37,3 +37,11 @@ Inserted at rank 85 after the full unranked-player screen. Compared with Hall: h
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+## 2256-AEST midfield positional comparison
+
+- Midfield order: **32** after reviewing positional ranks 31–60 with challengers 26–30 and 61–65.
+- Overall rank: **71 → 49**.
+- Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
+
