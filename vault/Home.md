@@ -255,3 +255,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 0706-aest-final-midfield -->
 - Final midfield block completed; all midfielders are positionally reviewed: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0706-AEST-changes]].
+
+
+<!-- 0719-aest-defender-block-1 -->
+- Defender ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0719-AEST-changes]].

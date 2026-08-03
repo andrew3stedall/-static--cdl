@@ -5,10 +5,10 @@ player_name: Hall
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 86
+current_rank: 91
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # Hall
@@ -50,3 +50,11 @@ Rank updated to 86 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Comparator outcome: attacking full-back upside and defender scarcity.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **14** after block 1 with challengers 31–35.
+- Overall rank: **112 → 91**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].

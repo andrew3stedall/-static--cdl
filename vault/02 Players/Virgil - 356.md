@@ -5,9 +5,9 @@ player_name: Virgil van Dijk
 team: "[[03 Teams/LIV]]"
 position: "[[04 Positions/Defender]]"
 api_status: available
-current_rank: 32
+current_rank: 41
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # Virgil van Dijk
@@ -43,3 +43,11 @@ Nailed elite-team defender with set-piece threat, but the position is replaceabl
 - Comparator outcome: elite minutes, clean-sheet access and aerial threat.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **4** after block 1 with challengers 31–35.
+- Overall rank: **32 → 41**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].

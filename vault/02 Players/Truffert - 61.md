@@ -5,9 +5,9 @@ player_name: Truffert
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 89
+current_rank: 104
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # Truffert
@@ -53,3 +53,11 @@ Rank updated to 89 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Comparator outcome: attacking full-back role.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **18** after block 1 with challengers 31–35.
+- Overall rank: **99 → 104**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].

@@ -5,9 +5,9 @@ player_name: Richards
 team: "[[03 Teams/CRY]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 104
+current_rank: 186
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T07:19:00+10:00
 ---
 
 # Richards
@@ -65,3 +65,11 @@ Rank updated to 104 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
 
+
+
+## 0719-AEST defender positional comparison
+
+- Defender order: **32** after block 1 with challengers 31–35.
+- Overall rank: **208 → 186**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
