@@ -4,10 +4,10 @@ fpl_id: 194
 player: Thomas-Asante
 team: COV
 position: FWD
-current_rank: 225
+current_rank: 226
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Thomas-Asante
@@ -34,3 +34,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Coventry order: **6 of 7**; overall rank **225**.
 - Decision: Forward classification preserves upside, but uncertain starts and role competition limit draft priority.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0845-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **44 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **226 → 226**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

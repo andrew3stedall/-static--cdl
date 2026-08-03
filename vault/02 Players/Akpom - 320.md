@@ -4,10 +4,10 @@ fpl_id: 320
 player: Akpom
 team: IPS
 position: FWD
-current_rank: 223
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T12:59:00+10:00
+current_rank: 219
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Akpom
@@ -34,3 +34,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Ipswich order: **2 of 6**; overall rank **223**.
 - Decision: Forward scarcity and senior scoring history keep him second, but minutes and hierarchy remain uncertain.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0910-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **41 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **219 → 219**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

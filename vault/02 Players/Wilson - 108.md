@@ -7,7 +7,7 @@ position: FWD
 current_rank: 210
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Wilson
@@ -36,3 +36,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or transfer status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2032-AEST-review]].
 
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **38 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **210 → 210**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

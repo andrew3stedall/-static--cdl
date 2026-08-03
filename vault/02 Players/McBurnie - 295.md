@@ -4,10 +4,10 @@ fpl_id: 295
 player: McBurnie
 team: HUL
 position: FWD
-current_rank: 216
-segment: Undrafted buffer
-tier: D
-last_reviewed: 2026-08-03T09:03:00+10:00
+current_rank: 223
+segment: Extended watch buffer
+tier: Watch
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # McBurnie
@@ -34,3 +34,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Hull order: **1 of 1**; overall rank **216**, unchanged.
 - Decision: No same-team challenger exists; retain as a low-confidence forward watch option.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0903-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **42 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **223 → 223**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

@@ -4,10 +4,10 @@ fpl_id: 166
 player: N.Jackson
 team: CHE
 position: FWD
-current_rank: 193
-segment: Deep watch
-tier: D-
-last_reviewed: 2026-08-03T16:48:00+10:00
+current_rank: 173
+segment: Undrafted buffer
+tier: D
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # N.Jackson
@@ -50,3 +50,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Overall rank: **193 → 193**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **28 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **173 → 173**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].

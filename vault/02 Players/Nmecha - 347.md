@@ -4,10 +4,10 @@ fpl_id: 347
 player: Nmecha
 team: LEE
 position: FWD
-current_rank: 171
+current_rank: 205
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-03T18:23:00+10:00
 ---
 
 # Nmecha
@@ -58,3 +58,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: forward scarcity retained, but current role certainty is weak.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
+
+
+## 1823-AEST forward positional comparison
+
+- Forward order: **35 of 52** after reviewing ranks 31–52 with upper challengers 26–30.
+- Overall rank: **205 → 205**.
+- Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
