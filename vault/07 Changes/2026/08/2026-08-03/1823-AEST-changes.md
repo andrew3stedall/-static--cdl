@@ -34,8 +34,8 @@ block: 31-52
 
 ## Important no-change decisions
 
-- Unchanged: Barry, Ekitiké, N.Jackson, Awoniyi, Kalimuendo, Emegha, Osula, Zirkzee, Georginio, Nmecha, Simms, Hirst, Wilson, Wright, Isidor, Akpom, McBurnie, Tzimas, Thomas-Asante, Kostoulas, Kusi-Asare, Enes Ünal, Al-Hamadi, Rodríguez, G.Jesus, Markelo, Emersonn.
-- Barry and Ekitiké remained above the block boundary challengers below them.
+- Unchanged: Barry, Ekitiké, Emegha, Wilson and Rodríguez.
+- Barry and Ekitiké remained above the lower block after comparison with the ranks 31–52 group.
 - No non-forward player changed global rank.
 
 ## Next step
