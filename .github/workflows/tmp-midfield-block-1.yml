@@ -20,6 +20,18 @@ jobs:
         with:
           python-version: '3.12'
       - run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/review_midfield_block_1.py')
+          s=p.read_text()
+          s=s.replace("'Enzo','Sarr','Minteh','Fernandes','Amad','Neto','Kudus','Barnes','Wilson']","'Enzo','Maddison','Sarr','Minteh','Kudus','Barnes','Amad','McNeil','Wilson']")
+          old="('Enzo','Sarr','Enzo','Safer minutes and accumulation floor.'),('Sarr','Minteh','Sarr','More established production and role security.'),('Minteh','Fernandes','Minteh','Greater direct attacking upside.'),('Fernandes','Amad','Fernandes','Slightly safer current minutes route.'),('Amad','Neto','Amad','More central creative involvement.'),('Neto','Kudus','Neto','Current fitness advantage; fit Kudus can reverse.'),('Kudus','Barnes','Kudus','Broader attacking role when fit.'),('Barnes','Wilson','Barnes','Higher proven top-flight scoring ceiling.')"
+          new="('Enzo','Maddison','Enzo','Safer minutes and current availability narrowly win.'),('Maddison','Sarr','Maddison','Set pieces and proven creative ceiling.'),('Sarr','Minteh','Sarr','More established production and role security.'),('Minteh','Kudus','Minteh','Current fitness and minutes outlook win; fit Kudus can reverse.'),('Kudus','Barnes','Kudus','Broader attacking role when fit.'),('Barnes','Amad','Barnes','Higher proven goal-scoring ceiling.'),('Amad','McNeil','Amad','More dynamic attacking involvement.'),('McNeil','Wilson','McNeil','Set pieces and proven Premier League production.')"
+          s=s.replace(old,new)
+          s=s.replace('- Neto/Kudus reverses when Kudus is fully fit and secure.','- Minteh/Kudus reverses when Kudus is fully fit and secure.')
+          s=s.replace('- Challengers Amad, Neto, Kudus, Barnes and Wilson did not enter the top 30 midfielders.','- Challengers Kudus, Barnes, Amad, McNeil and Wilson did not enter the top 30 midfielders.')
+          p.write_text(s)
+          PY
           python scripts/review_midfield_block_1.py
           python scripts/validate_draft_board.py
           rm scripts/review_midfield_block_1.py
