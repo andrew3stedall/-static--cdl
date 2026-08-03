@@ -1,0 +1,30 @@
+name: Temporary Forward Block 2 Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260803-1823-forward-31-60'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260803-1823-forward-31-60
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          python scripts/review_forward_block_2.py
+          python scripts/validate_draft_board.py
+          rm scripts/review_forward_block_2.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Review forward positional ranks 31-52"
+          git push origin HEAD:codex/fpl-review-20260803-1823-forward-31-60
