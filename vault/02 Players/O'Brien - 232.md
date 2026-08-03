@@ -7,7 +7,7 @@ position: DEF
 current_rank: 186
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T08:44:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # O'Brien
@@ -65,3 +65,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **192 → 186**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **62** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **186 → 186**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

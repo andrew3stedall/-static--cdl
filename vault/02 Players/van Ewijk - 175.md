@@ -4,10 +4,10 @@ fpl_id: 175
 player: van Ewijk
 team: COV
 position: DEF
-current_rank: 201
+current_rank: 197
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # van Ewijk
@@ -42,3 +42,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Coventry order: **3 of 7**; overall rank **209**.
 - Decision: Attacking full-back upside and a steadier minutes path make him the leading Coventry defender.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0845-AEST-review]].
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **66** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **209 → 197**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

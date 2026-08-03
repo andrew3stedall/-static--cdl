@@ -4,10 +4,10 @@ fpl_id: 394
 player: Alleyne
 team: MCI
 position: DEF
-current_rank: 198
+current_rank: 280
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Alleyne
@@ -46,3 +46,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
 
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **94** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **278 → 280**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

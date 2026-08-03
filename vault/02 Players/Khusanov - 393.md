@@ -4,10 +4,10 @@ fpl_id: 393
 player: Khusanov
 team: MCI
 position: DEF
-current_rank: 185
+current_rank: 248
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Khusanov
@@ -50,3 +50,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
 
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **77** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **254 → 248**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

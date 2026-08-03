@@ -4,10 +4,10 @@ fpl_id: 36
 player: Maatsen
 team: AVL
 position: DEF
-current_rank: 231
+current_rank: 209
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Maatsen
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Decision: higher upside than the deeper midfield and centre-back group, with rotation risk.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **69** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **231 → 209**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

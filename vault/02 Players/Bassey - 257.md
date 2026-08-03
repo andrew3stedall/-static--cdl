@@ -4,10 +4,10 @@ fpl_id: 257
 player: Bassey
 team: FUL
 position: DEF
-current_rank: 151
+current_rank: 254
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Bassey
@@ -46,3 +46,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0005-AEST-review]].
 
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **79** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **261 → 254**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].

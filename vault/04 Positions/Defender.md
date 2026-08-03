@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T08:44:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # Defender
@@ -100,39 +100,39 @@ Players are listed in canonical overall draft rank order.
 182. [[02 Players/Thiaw - 445|Thiaw]] — DEF, NEW; Deep watch / D-; Available
 185. [[02 Players/Boscagli - 114|Boscagli]] — DEF, BHA; Deep watch / D-; Available
 186. [[02 Players/O'Brien - 232|O'Brien]] — DEF, EVE; Depth / C; Available
-188. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Deep watch / D-; Available
-191. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Deep watch / D-; Available
-192. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Undrafted buffer / D; Available
-197. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Undrafted buffer / D; Thigh injury - 75% chance of playing
-204. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Deep watch / D-; Available
-208. [[02 Players/Keane - 231|Keane]] — DEF, EVE; Depth / C; Available
-209. [[02 Players/van Ewijk - 175|van Ewijk]] — DEF, COV; Undrafted buffer / D; Available
-215. [[02 Players/Thomas - 173|Thomas]] — DEF, COV; Undrafted buffer / D; Available
-221. [[02 Players/Canvot - 203|Canvot]] — DEF, CRY; Deep watch / D-; Available
-229. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF, MCI; Depth / C; Available
-231. [[02 Players/Maatsen - 36|Maatsen]] — DEF, AVL; Extended watch buffer / Watch; Available
-232. [[02 Players/Diop - 259|Diop]] — DEF, IPS; Extended watch buffer / Watch; Available
-236. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF, LEE; Extended watch buffer / Watch; Available
-247. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Undrafted buffer / D; Available
-248. [[02 Players/Andersen - 253|Andersen]] — DEF, FUL; Endgame / D+; Suspended until 29 Aug
-249. [[02 Players/Hill - 60|Hill]] — DEF, BOU; Endgame / D+; Available
-254. [[02 Players/Khusanov - 393|Khusanov]] — DEF, MCI; Undrafted buffer / D; Available
-256. [[02 Players/Palestra - 152|Palestra]] — DEF, CHE; Undrafted buffer / D; Available
-259. [[02 Players/Konsa - 31|Konsa]] — DEF, AVL; Undrafted buffer / D; Available
-261. [[02 Players/Bassey - 257|Bassey]] — DEF, FUL; Endgame / D+; Available
-262. [[02 Players/Yoro - 420|Yoro]] — DEF, MUN; Undrafted buffer / D; Available
-263. [[02 Players/Fofana - 145|Fofana]] — DEF, CHE; Extended watch buffer / Watch; Suspended until 6 Sep
-264. [[02 Players/White - 10|White]] — DEF, ARS; Undrafted buffer / D; Available
-265. [[02 Players/Pau - 34|Pau]] — DEF, AVL; Undrafted buffer / D; Available
-266. [[02 Players/Murillo - 472|Murillo]] — DEF, NFO; Undrafted buffer / D; Muscle injury - 75% chance of playing
-269. [[02 Players/Mings - 33|Mings]] — DEF, AVL; Undrafted buffer / D; Available
-270. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF, MUN; Undrafted buffer / D; Available
-271. [[02 Players/Danso - 501|Danso]] — DEF, TOT; Undrafted buffer / D; Available
-274. [[02 Players/Ajer - 87|Ajer]] — DEF, BRE; Deep watch / D-; Available
-277. [[02 Players/Henry - 89|Henry]] — DEF, BRE; Extended watch buffer / Watch; Available
-278. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Undrafted buffer / D; Available
-280. [[02 Players/Burn - 448|Burn]] — DEF, NEW; Undrafted buffer / D; Available
-287. [[02 Players/Robertson - 502|Robertson]] — DEF, TOT; Extended watch buffer / Watch; Available
+188. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Deep watch / D-; Thigh injury - 75% chance of playing
+191. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Deep watch / D-; Available
+192. [[02 Players/Keane - 231|Keane]] — DEF, EVE; Undrafted buffer / D; Available
+197. [[02 Players/van Ewijk - 175|van Ewijk]] — DEF, COV; Undrafted buffer / D; Available
+204. [[02 Players/Thomas - 173|Thomas]] — DEF, COV; Deep watch / D-; Available
+208. [[02 Players/Canvot - 203|Canvot]] — DEF, CRY; Depth / C; Available
+209. [[02 Players/Maatsen - 36|Maatsen]] — DEF, AVL; Undrafted buffer / D; Available
+215. [[02 Players/Pau - 34|Pau]] — DEF, AVL; Undrafted buffer / D; Available
+221. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF, LEE; Deep watch / D-; Available
+229. [[02 Players/Andersen - 253|Andersen]] — DEF, FUL; Depth / C; Suspended until 29 Aug
+231. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Extended watch buffer / Watch; Available
+232. [[02 Players/Hill - 60|Hill]] — DEF, BOU; Extended watch buffer / Watch; Available
+236. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF, MCI; Extended watch buffer / Watch; Available
+247. [[02 Players/Danso - 501|Danso]] — DEF, TOT; Undrafted buffer / D; Available
+248. [[02 Players/Khusanov - 393|Khusanov]] — DEF, MCI; Endgame / D+; Available
+249. [[02 Players/Konsa - 31|Konsa]] — DEF, AVL; Endgame / D+; Available
+254. [[02 Players/Bassey - 257|Bassey]] — DEF, FUL; Undrafted buffer / D; Available
+256. [[02 Players/Yoro - 420|Yoro]] — DEF, MUN; Undrafted buffer / D; Available
+259. [[02 Players/White - 10|White]] — DEF, ARS; Undrafted buffer / D; Available
+261. [[02 Players/Palestra - 152|Palestra]] — DEF, CHE; Endgame / D+; Available
+262. [[02 Players/Fofana - 145|Fofana]] — DEF, CHE; Undrafted buffer / D; Suspended until 6 Sep
+263. [[02 Players/Robertson - 502|Robertson]] — DEF, TOT; Extended watch buffer / Watch; Available
+264. [[02 Players/Henry - 89|Henry]] — DEF, BRE; Undrafted buffer / D; Available
+265. [[02 Players/Mings - 33|Mings]] — DEF, AVL; Undrafted buffer / D; Available
+266. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Undrafted buffer / D; Available
+269. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Undrafted buffer / D; Available
+270. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Undrafted buffer / D; Available
+271. [[02 Players/Diop - 259|Diop]] — DEF, IPS; Undrafted buffer / D; Available
+274. [[02 Players/Murillo - 472|Murillo]] — DEF, NFO; Deep watch / D-; Muscle injury - 75% chance of playing
+277. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF, MUN; Extended watch buffer / Watch; Available
+278. [[02 Players/Ajer - 87|Ajer]] — DEF, BRE; Undrafted buffer / D; Available
+280. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Undrafted buffer / D; Available
+287. [[02 Players/Burn - 448|Burn]] — DEF, NEW; Extended watch buffer / Watch; Available
 288. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF, LIV; Extended watch buffer / Watch; Available
 293. [[02 Players/Hickey - 90|Hickey]] — DEF, BRE; Extended watch buffer / Watch; Available
 297. [[02 Players/Igor - 118|Igor]] — DEF, BHA; Extended watch buffer / Watch; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
 350. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T08:44:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T08:54:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
@@ -187,3 +187,10 @@ Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T08:44:00+10:0
 - Defender ranks 31–60 were insertion-sorted with challengers 26–30 and 61–65.
 - Review: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].
 - Changes: [[07 Changes/2026/08/2026-08-04/0844-AEST-changes]].
+
+
+## 0854-AEST defender block 3 review
+
+- Defender ranks 61–90 were insertion-sorted with challengers 56–60 and 91–95.
+- Review: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+- Changes: [[07 Changes/2026/08/2026-08-04/0854-AEST-changes]].

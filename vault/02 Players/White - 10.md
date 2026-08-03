@@ -4,10 +4,10 @@ fpl_id: 10
 player: White
 team: ARS
 position: DEF
-current_rank: 264
+current_rank: 259
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-04T08:54:00+10:00
 ---
 
 # White
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 0854-AEST defender positional comparison
+
+- Defender order: **81** after block 3 with challengers 56–60 and 91–95.
+- Overall rank: **264 → 259**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
