@@ -4,10 +4,10 @@ fpl_id: 241
 player: McNeil
 team: EVE
 position: MID
-current_rank: 283
-segment: Extended watch buffer
-tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+current_rank: 54
+segment: Core
+tier: B-
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # McNeil
@@ -44,4 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: set pieces and proven chance-creation ceiling.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **34** after block 1 with challengers 31–35.
+- Overall rank: **45 → 54**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

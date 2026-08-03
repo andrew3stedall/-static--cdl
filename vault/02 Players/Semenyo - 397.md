@@ -7,7 +7,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 14
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Antoine Semenyo
@@ -44,4 +44,11 @@ High team ceiling but meaningful competition and rotation risk.
 - Comparator outcome: strongest non-Haaland blend of minutes, direct goal threat and midfield scoring.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0030-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **7** after block 1 with challengers 31–35.
+- Overall rank: **14 → 14**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

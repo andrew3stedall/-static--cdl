@@ -7,7 +7,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 24
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Dominik Szoboszlai
@@ -43,3 +43,11 @@ Strong team context and set-piece routes remain valuable despite deeper usage.
 - Comparator outcome: set pieces and secure minutes outweigh the deeper-role concern.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **16** after block 1 with challengers 31–35.
+- Overall rank: **24 → 24**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+

@@ -285,3 +285,6 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 1823-aest-forward-block-2 -->
 - Forward ranks 31–52 reviewed with upper challengers 26–30: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]] · [[07 Changes/2026/08/2026-08-03/1823-AEST-changes]].
+
+<!-- 2123-aest-midfield-block-1 -->
+- Midfield ranks 1–30 reviewed with challengers 31–35: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]] · [[07 Changes/2026/08/2026-08-03/2123-AEST-changes]].

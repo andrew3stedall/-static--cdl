@@ -5,9 +5,9 @@ player_name: Amad
 team: "[[03 Teams/MUN]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 55
+current_rank: 52
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Amad
@@ -42,3 +42,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: advanced role and chance creation with some rotation risk.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **33** after block 1 with challengers 31–35.
+- Overall rank: **55 → 52**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+

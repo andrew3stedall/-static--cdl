@@ -5,9 +5,9 @@ player_name: Ndiaye
 team: "[[03 Teams/EVE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 38
+current_rank: 35
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Ndiaye
@@ -42,4 +42,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator outcome: best blend of secure attacking role, goal threat and raw-points ceiling.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **23** after block 1 with challengers 31–35.
+- Overall rank: **33 → 35**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

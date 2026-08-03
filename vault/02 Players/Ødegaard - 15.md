@@ -7,9 +7,9 @@ player_name: Martin Ødegaard
 team: "[[03 Teams/ARS]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 20
+current_rank: 22
 current_segment: Foundation
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Martin Ødegaard
@@ -45,3 +45,11 @@ Secure creative role and minutes floor, with less direct goal threat than the at
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **14** after block 1 with challengers 31–35.
+- Overall rank: **20 → 22**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+

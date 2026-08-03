@@ -7,7 +7,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 23
 current_segment: Foundation
-last_reviewed: 2026-08-01T22:43:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Marcus Tavernier
@@ -42,3 +42,11 @@ Repeated preseason involvement supports role, but fixture difficulty limits prom
 - Comparator outcome: set pieces and secure attacking minutes.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **15** after block 1 with challengers 31–35.
+- Overall rank: **23 → 23**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
+

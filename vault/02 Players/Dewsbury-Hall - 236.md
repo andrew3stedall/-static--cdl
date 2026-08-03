@@ -7,7 +7,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 33
 current_segment: Core
-last_reviewed: 2026-08-01T22:54:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Dewsbury-Hall
@@ -46,4 +46,11 @@ Everton advanced-role potential and probable secure minutes keep him above the m
 - Comparator outcome: strong attacking involvement and minutes floor.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **22** after block 1 with challengers 31–35.
+- Overall rank: **38 → 33**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 

@@ -5,9 +5,9 @@ player_name: Cole Palmer
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: available
-current_rank: 5
+current_rank: 2
 current_segment: Franchise
-last_reviewed: 2026-08-01T22:07:00+10:00
+last_reviewed: 2026-08-03T21:23:00+10:00
 ---
 
 # Cole Palmer
@@ -43,4 +43,11 @@ Two prior 200-point seasons, summer rest and no European football; primary Chels
 - Comparator outcome: elite raw-points projection, penalties and set pieces.
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2326-AEST-review]].
+
+## 2123-AEST midfield positional comparison
+
+- Midfield order: **1** after block 1 with challengers 31–35.
+- Overall rank: **5 → 2**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 
