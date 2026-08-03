@@ -4,10 +4,10 @@ fpl_id: 210
 player: Wharton
 team: CRY
 position: MID
-current_rank: 220
+current_rank: 228
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-03T23:16:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Wharton
@@ -44,3 +44,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **95** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **220 → 228**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].

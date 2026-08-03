@@ -4,10 +4,10 @@ fpl_id: 71
 player: Cook
 team: BOU
 position: MID
-current_rank: 323
+current_rank: 286
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Cook
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: minutes and some set pieces.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **123** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **286 → 286**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].

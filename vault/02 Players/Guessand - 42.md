@@ -4,10 +4,10 @@ fpl_id: 42
 player: Guessand
 team: AVL
 position: MID
-current_rank: 276
+current_rank: 268
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Guessand
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Decision: attacking ceiling beats the low-upside midfield group, but role confidence is modest.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **112** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **276 → 268**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].

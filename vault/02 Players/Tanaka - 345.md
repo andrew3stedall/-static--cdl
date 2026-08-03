@@ -4,10 +4,10 @@ fpl_id: 345
 player: Tanaka
 team: LEE
 position: MID
-current_rank: 236
+current_rank: 275
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Tanaka
@@ -37,3 +37,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: minutes and progression floor but low goal involvement.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0012-AEST-review]].
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **115** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **272 → 275**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].

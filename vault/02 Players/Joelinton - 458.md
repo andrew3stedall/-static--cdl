@@ -4,10 +4,10 @@ fpl_id: 458
 player: Joelinton
 team: NEW
 position: MID
-current_rank: 179
+current_rank: 253
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:01:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Joelinton
@@ -49,3 +49,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator outcome: secure physical role but limited direct FPL ceiling and current thigh concern.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **106** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **253 → 253**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].

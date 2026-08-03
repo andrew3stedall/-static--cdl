@@ -4,10 +4,10 @@ fpl_id: 213
 player: Lerma
 team: CRY
 position: MID
-current_rank: 214
+current_rank: 243
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Lerma
@@ -37,3 +37,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
 
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **102** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **237 → 243**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].
