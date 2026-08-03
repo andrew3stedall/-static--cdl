@@ -267,3 +267,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 0854-aest-defender-block-3 -->
 - Defender ranks 61–90 reviewed with challengers 56–60 and 91–95: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0854-AEST-changes]].
+
+
+<!-- 0920-aest-final-defender -->
+- Final defender ranks reviewed with challengers 86–90: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0920-AEST-changes]].

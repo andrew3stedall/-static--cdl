@@ -7,7 +7,7 @@ position: DEF
 current_rank: 340
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Lindelöf
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Decision: lowest current ceiling and weakest route to regular starts.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **121** after the final block with challengers 86–90.
+- Overall rank: **340 → 340**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

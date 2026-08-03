@@ -7,7 +7,7 @@ position: DEF
 current_rank: 266
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Rodon
@@ -74,3 +74,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **188 → 266**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **87** after the final block with challengers 86–90.
+- Overall rank: **266 → 266**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

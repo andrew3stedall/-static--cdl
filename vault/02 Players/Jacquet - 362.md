@@ -4,10 +4,10 @@ fpl_id: 362
 player: Jacquet
 team: LIV
 position: DEF
-current_rank: 211
+current_rank: 332
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Jacquet
@@ -37,3 +37,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: centre-back depth with limited present role certainty.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **118** after the final block with challengers 86–90.
+- Overall rank: **332 → 332**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

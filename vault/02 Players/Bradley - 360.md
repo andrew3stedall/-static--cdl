@@ -4,10 +4,10 @@ fpl_id: 360
 player: Bradley
 team: LIV
 position: DEF
-current_rank: 349
+current_rank: 277
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Bradley
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: attacking full-back upside, heavily injury-discounted.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **92** after the final block with challengers 86–90.
+- Overall rank: **319 → 277**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

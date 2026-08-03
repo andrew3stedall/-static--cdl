@@ -4,10 +4,10 @@ fpl_id: 87
 player: Ajer
 team: BRE
 position: DEF
-current_rank: 278
+current_rank: 293
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Ajer
@@ -56,3 +56,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **274 → 278**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **97** after the final block with challengers 86–90.
+- Overall rank: **278 → 293**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

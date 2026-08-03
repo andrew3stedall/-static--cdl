@@ -4,10 +4,10 @@ fpl_id: 120
 player: Svoboda
 team: BHA
 position: DEF
-current_rank: 307
+current_rank: 326
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # Svoboda
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]].
 
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **114** after the final block with challengers 86–90.
+- Overall rank: **309 → 326**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].

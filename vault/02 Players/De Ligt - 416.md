@@ -4,10 +4,10 @@ fpl_id: 416
 player: De Ligt
 team: MUN
 position: DEF
-current_rank: 346
+current_rank: 280
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T09:20:00+10:00
 ---
 
 # De Ligt
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: centre-back floor heavily discounted by back injury.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 0920-AEST final defender positional comparison
+
+- Defender order: **94** after the final block with challengers 86–90.
+- Overall rank: **306 → 280**.
+- Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
