@@ -4,10 +4,10 @@ fpl_id: 16
 player: Madueke
 team: ARS
 position: MID
-current_rank: 239
+current_rank: 217
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Madueke
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **91** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **239 → 217**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].

@@ -4,10 +4,10 @@ fpl_id: 522
 player: Gray
 team: TOT
 position: MID
-current_rank: 252
+current_rank: 283
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T06:56:00+10:00
 ---
 
 # Gray
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+
+
+## 0656-AEST midfield positional comparison
+
+- Midfield order: **120** after block 4 with challengers 86–90 and 121–125.
+- Overall rank: **252 → 283**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].
