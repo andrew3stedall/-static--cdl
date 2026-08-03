@@ -4,10 +4,10 @@ fpl_id: 162
 player: Andrey Santos
 team: MUN
 position: MID
-current_rank: 311
+current_rank: 346
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Andrey Santos
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: lowest current Manchester United role certainty in the canonical pool.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **148** after the final block with challengers 116–120.
+- Overall rank: **346 → 346**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

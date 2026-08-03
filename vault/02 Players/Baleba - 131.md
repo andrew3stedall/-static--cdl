@@ -4,10 +4,10 @@ fpl_id: 131
 player: Baleba
 team: BHA
 position: MID
-current_rank: 289
+current_rank: 322
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T06:56:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Baleba
@@ -53,3 +53,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **289 → 289**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **138** after the final block with challengers 116–120.
+- Overall rank: **289 → 322**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

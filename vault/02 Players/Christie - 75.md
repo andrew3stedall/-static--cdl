@@ -4,10 +4,10 @@ fpl_id: 75
 player: Christie
 team: BOU
 position: MID
-current_rank: 344
+current_rank: 311
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Christie
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: suspension and limited ceiling.
 - Reversal trigger: verified change in minutes, role, set pieces or fitness.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/1825-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **134** after the final block with challengers 116–120.
+- Overall rank: **344 → 311**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

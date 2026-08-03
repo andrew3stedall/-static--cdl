@@ -4,10 +4,10 @@ fpl_id: 46
 player: Barkley
 team: AVL
 position: MID
-current_rank: 300
+current_rank: 284
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Barkley
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Decision: set-piece possibility and experience edge the youth/depth options.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **121** after the final block with challengers 116–120.
+- Overall rank: **300 → 284**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

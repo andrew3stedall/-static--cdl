@@ -238,3 +238,7 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 0656-aest-midfield-block-4 -->
 - Midfield ranks 91–120 reviewed with challengers 86–90 and 121–125: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0656-AEST-changes]].
+
+
+<!-- 0706-aest-final-midfield -->
+- Final midfield block completed; all midfielders are positionally reviewed: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0706-AEST-changes]].

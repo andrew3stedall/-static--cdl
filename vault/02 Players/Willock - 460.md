@@ -4,10 +4,10 @@ fpl_id: 460
 player: Willock
 team: NEW
 position: MID
-current_rank: 325
+current_rank: 310
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Willock
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: attacking bursts but weak role certainty.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **133** after the final block with challengers 116–120.
+- Overall rank: **325 → 310**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

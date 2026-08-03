@@ -4,10 +4,10 @@ fpl_id: 240
 player: Iroegbunam
 team: EVE
 position: MID
-current_rank: 229
+current_rank: 345
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Iroegbunam
@@ -37,3 +37,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2359-AEST-review]].
 
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **147** after the final block with challengers 116–120.
+- Overall rank: **345 → 345**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

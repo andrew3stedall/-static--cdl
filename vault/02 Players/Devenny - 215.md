@@ -4,10 +4,10 @@ fpl_id: 215
 player: Devenny
 team: CRY
 position: MID
-current_rank: 330
+current_rank: 334
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Devenny
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
 
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **144** after the final block with challengers 116–120.
+- Overall rank: **330 → 334**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].
