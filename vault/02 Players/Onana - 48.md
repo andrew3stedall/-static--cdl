@@ -4,10 +4,10 @@ fpl_id: 48
 player: Onana
 team: AVL
 position: MID
-current_rank: 296
+current_rank: 294
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Onana
@@ -44,3 +44,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Decision: greater box threat than Barkley but injury uncertainty limits him.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **127** after the final block with challengers 116–120.
+- Overall rank: **296 → 294**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

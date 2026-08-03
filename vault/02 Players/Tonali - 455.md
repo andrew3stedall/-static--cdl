@@ -4,10 +4,10 @@ fpl_id: 455
 player: Tonali
 team: TOT
 position: MID
-current_rank: 158
+current_rank: 286
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Tonali
@@ -46,3 +46,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **123** after the final block with challengers 116–120.
+- Overall rank: **308 → 286**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

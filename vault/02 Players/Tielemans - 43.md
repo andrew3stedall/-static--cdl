@@ -4,10 +4,10 @@ fpl_id: 43
 player: Tielemans
 team: MUN
 position: MID
-current_rank: 202
+current_rank: 285
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Tielemans
@@ -44,3 +44,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: current API assignment retained, but injury and role uncertainty dominate.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **122** after the final block with challengers 116–120.
+- Overall rank: **311 → 285**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

@@ -7,7 +7,7 @@ position: MID
 current_rank: 279
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T06:56:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Adams
@@ -52,3 +52,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **275 → 279**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **117** after the final block with challengers 116–120.
+- Overall rank: **279 → 279**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

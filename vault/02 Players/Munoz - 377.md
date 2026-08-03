@@ -4,10 +4,10 @@ fpl_id: 377
 player: Munoz
 team: LIV
 position: MID
-current_rank: 288
+current_rank: 349
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Munoz
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: lowest current first-team role certainty in the ranked Liverpool pool.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **149** after the final block with challengers 116–120.
+- Overall rank: **349 → 349**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].

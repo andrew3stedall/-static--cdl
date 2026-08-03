@@ -4,10 +4,10 @@ fpl_id: 7
 player: Lewis-Skelly
 team: ARS
 position: MID
-current_rank: 334
+current_rank: 344
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-04T07:06:00+10:00
 ---
 
 # Lewis-Skelly
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 0706-AEST final midfield positional comparison
+
+- Midfield order: **146** after the final block with challengers 116–120.
+- Overall rank: **334 → 344**.
+- Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].
