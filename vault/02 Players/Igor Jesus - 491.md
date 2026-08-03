@@ -5,9 +5,9 @@ player_name: Igor Jesus
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 92
+current_rank: 110
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Igor Jesus
@@ -65,3 +65,9 @@ Rank updated to 92 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+## 1648-AEST forward positional comparison
+
+- Forward order: **25 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **110 → 110**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

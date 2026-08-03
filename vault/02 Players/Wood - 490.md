@@ -5,9 +5,9 @@ player_name: Wood
 team: "[[03 Teams/NFO]]"
 position: "[[04 Positions/Forward]]"
 api_status: "Available"
-current_rank: 53
+current_rank: 51
 current_segment: Core
-last_reviewed: 2026-08-02T09:01:00+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Wood
@@ -43,3 +43,9 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0749-AEST-review]].
 
+## 1648-AEST forward positional comparison
+
+- Forward order: **13 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **51 → 51**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].

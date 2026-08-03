@@ -4,10 +4,10 @@ fpl_id: 380
 player: Ekitiké
 team: LIV
 position: FWD
-current_rank: 159
+current_rank: 155
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-03T16:48:00+10:00
 ---
 
 # Ekitiké
@@ -46,3 +46,10 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Comparator outcome: high striker ceiling heavily discounted by the Achilles injury.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+## 1648-AEST forward positional comparison
+
+- Forward order: **27 of 52** after the first 30-player block with challengers 31–35.
+- Overall rank: **155 → 155**.
+- Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
