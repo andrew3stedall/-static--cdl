@@ -4,13 +4,13 @@ league_managers: 8
 picks_per_manager: 20
 total_drafted: 160
 ranking_depth: 350
-last_updated: 2026-08-02T16:02:25+10:00
-status: ranks_141_170_pairwise_rechecked
+last_updated: 2026-08-03T16:48:00+10:00
+status: forward_positions_1_30_reviewed
 ---
 
 # Current Draft Board
 
-This is the **only canonical current overall ordering**. The first 170 have now been manually stable-sorted; this run reviewed ranks 141–170 with challengers from 136–175. Raw expected FPL points are assessed first, followed by minutes, role, set pieces and risk; positional replacement value then determines draft priority in close cross-position comparisons.
+This is the **only canonical current overall ordering**. Forward positional ranks 1–30 have been insertion-sorted with challengers 31–35. Raw expected FPL points were compared first, followed by minutes, role, set pieces and risk; all non-forward global slots were preserved.
 
 ## Advised order
 

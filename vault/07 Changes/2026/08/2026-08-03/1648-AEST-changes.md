@@ -41,7 +41,7 @@ block: 1-30
 ## Important no-change decisions
 
 - Unchanged within the reviewed set: Haaland, Isak, Watkins, Thiago, Gyökeres, João Pedro, Mateta, Solanke, Calvert-Lewin, Marmoush, Evanilson, Šeško, Wood, Wissa, Woltemade, Richarlison, Delap, Havertz, Brobbey, Muniz, Strand Larsen, Beto, Nketiah, Welbeck, Igor Jesus, Barry, Ekitiké, Osula, Kalimuendo, N.Jackson, Emegha, Isidor, Wright, Hirst, Georginio.
-- Challengers Isidor, Wright, Hirst and Georginio did not enter the top 30 forwards.
+- Challengers Emegha, Isidor, Wright, Hirst and Georginio did not enter the top 30 forwards.
 - No non-forward player changed global rank.
 
 ## Status and role changes

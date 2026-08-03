@@ -15,10 +15,10 @@ The scarcest position in an eight-manager, 20-round draft. Proven central starte
 
 1. [[02 Players/Haaland - 411]]
 2. [[02 Players/Isak - 379]]
-3. [[02 Players/Thiago - 106]]
-4. Watkins
-5. João Pedro
-6. Gyökeres
+3. [[02 Players/Watkins - 55]]
+4. [[02 Players/Thiago - 106]]
+5. [[02 Players/Gyökeres - 25]]
+6. [[02 Players/João Pedro - 165]]
 
 ## Current risks
 
