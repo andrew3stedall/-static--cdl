@@ -5,10 +5,10 @@ player_name: Roefs
 team: "[[03 Teams/SUN]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 184
+current_rank: 213
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Roefs
@@ -67,3 +67,12 @@ Rank updated to 105 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **184 → 213**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].

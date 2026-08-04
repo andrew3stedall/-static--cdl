@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Goalkeeper
@@ -41,17 +41,17 @@ Players are listed in canonical overall draft rank order.
 113. [[02 Players/Pickford - 226|Pickford]] — GKP, EVE; Depth / C; Available
 114. [[02 Players/Henderson - 198|Henderson]] — GKP, CRY; Depth / C; Available
 115. [[02 Players/Pope - 442|Pope]] — GKP, NEW; Depth / C; Available
-176. [[02 Players/Vicario - 494|Vicario]] — GKP, TOT; Undrafted buffer / D; Available
-177. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Undrafted buffer / D; Available
-178. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Undrafted buffer / D; Available
-179. [[02 Players/Petrović - 57|Petrović]] — GKP, BOU; Undrafted buffer / D; Available
-180. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Undrafted buffer / D; Available
-181. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Undrafted buffer / D; Available
-182. [[02 Players/Leno - 250|Leno]] — GKP, FUL; Undrafted buffer / D; Available
-183. [[02 Players/Sels - 467|Sels]] — GKP, NFO; Undrafted buffer / D; Available
-184. [[02 Players/Roefs - 529|Roefs]] — GKP, SUN; Undrafted buffer / D; Available
-185. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Undrafted buffer / D; Available
-187. [[02 Players/Martinez - 28|Martinez]] — GKP, AVL; Deep watch / D-; Available
+205. [[02 Players/Vicario - 494|Vicario]] — GKP, TOT; Undrafted buffer / D; Available
+206. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Undrafted buffer / D; Available
+207. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Undrafted buffer / D; Available
+208. [[02 Players/Petrović - 57|Petrović]] — GKP, BOU; Undrafted buffer / D; Available
+209. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Undrafted buffer / D; Available
+210. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Undrafted buffer / D; Available
+211. [[02 Players/Leno - 250|Leno]] — GKP, FUL; Undrafted buffer / D; Available
+212. [[02 Players/Sels - 467|Sels]] — GKP, NFO; Undrafted buffer / D; Available
+213. [[02 Players/Roefs - 529|Roefs]] — GKP, SUN; Undrafted buffer / D; Available
+214. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Undrafted buffer / D; Available
+215. [[02 Players/Martinez - 28|Martinez]] — GKP, AVL; Undrafted buffer / D; Available
 222. [[02 Players/Perri - 326|Perri]] — GKP, LEE; Extended watch buffer / Watch; Available
 244. [[02 Players/Wilson - 172|Wilson]] — GKP, COV; Undrafted buffer / D; Available
 290. [[02 Players/Palmer - 301|Palmer]] — GKP, IPS; Extended watch buffer / Watch; Available
@@ -60,7 +60,7 @@ Players are listed in canonical overall draft rank order.
 339. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
 342. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:22:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T06:24:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

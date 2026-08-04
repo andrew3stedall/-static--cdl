@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Forward
@@ -67,17 +67,17 @@ Players are listed in canonical overall draft rank order.
 130. [[02 Players/Barry - 249|Barry]] — FWD, EVE; Endgame / D+; Available
 162. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD, CHE; Undrafted buffer / D; Available
 174. [[02 Players/Ekitiké - 380|Ekitiké]] — FWD, LIV; Undrafted buffer / D; Achilles injury - Unknown return date
-189. [[02 Players/Awoniyi - 492|Awoniyi]] — FWD, NFO; Deep watch / D-; Available
-193. [[02 Players/Kalimuendo - 493|Kalimuendo]] — FWD, NFO; Deep watch / D-; Available
-195. [[02 Players/Emegha - 170|Emegha]] — FWD, CHE; Undrafted buffer / D; Hamstring injury - 75% chance of playing
-196. [[02 Players/Osula - 465|Osula]] — FWD, NEW; Undrafted buffer / D; Available
-199. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Undrafted buffer / D; Available
-201. [[02 Players/Georginio - 125|Georginio]] — FWD, BHA; Undrafted buffer / D; Available
-205. [[02 Players/Nmecha - 347|Nmecha]] — FWD, LEE; Undrafted buffer / D; Available
-206. [[02 Players/Simms - 195|Simms]] — FWD, COV; Undrafted buffer / D; Available
-207. [[02 Players/Hirst - 317|Hirst]] — FWD, IPS; Undrafted buffer / D; Available
-210. [[02 Players/Wilson - 108|Wilson]] — FWD, BRE; Undrafted buffer / D; Available
-213. [[02 Players/Wright - 193|Wright]] — FWD, COV; Undrafted buffer / D; Available
+178. [[02 Players/Awoniyi - 492|Awoniyi]] — FWD, NFO; Undrafted buffer / D; Available
+182. [[02 Players/Kalimuendo - 493|Kalimuendo]] — FWD, NFO; Undrafted buffer / D; Available
+184. [[02 Players/Emegha - 170|Emegha]] — FWD, CHE; Undrafted buffer / D; Hamstring injury - 75% chance of playing
+185. [[02 Players/Osula - 465|Osula]] — FWD, NEW; Undrafted buffer / D; Available
+187. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Undrafted buffer / D; Available
+189. [[02 Players/Georginio - 125|Georginio]] — FWD, BHA; Undrafted buffer / D; Available
+193. [[02 Players/Nmecha - 347|Nmecha]] — FWD, LEE; Undrafted buffer / D; Available
+194. [[02 Players/Simms - 195|Simms]] — FWD, COV; Undrafted buffer / D; Available
+195. [[02 Players/Hirst - 317|Hirst]] — FWD, IPS; Undrafted buffer / D; Available
+198. [[02 Players/Wilson - 108|Wilson]] — FWD, BRE; Undrafted buffer / D; Available
+201. [[02 Players/Wright - 193|Wright]] — FWD, COV; Undrafted buffer / D; Available
 216. [[02 Players/Isidor - 553|Isidor]] — FWD, SUN; Undrafted buffer / D; Available
 219. [[02 Players/Akpom - 320|Akpom]] — FWD, IPS; Undrafted buffer / D; Available
 223. [[02 Players/McBurnie - 295|McBurnie]] — FWD, HUL; Extended watch buffer / Watch; Available
@@ -92,7 +92,7 @@ Players are listed in canonical overall draft rank order.
 251. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
 316. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:22:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T06:24:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

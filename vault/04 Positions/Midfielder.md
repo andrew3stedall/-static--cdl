@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Midfielder
@@ -120,15 +120,15 @@ Players are listed in canonical overall draft rank order.
 171. [[02 Players/Caicedo - 159|Caicedo]] — MID, CHE; Undrafted buffer / D; Available
 172. [[02 Players/Yeremy - 211|Yeremy]] — MID, CRY; Undrafted buffer / D; Available
 175. [[02 Players/Xavi - 513|Xavi]] — MID, TOT; Undrafted buffer / D; Knee injury - Unknown return date
-190. [[02 Players/Merino - 17|Merino]] — MID, ARS; Deep watch / D-; Available
-194. [[02 Players/Gallagher - 519|Gallagher]] — MID, TOT; Deep watch / D-; Available
-198. [[02 Players/Rodrigo - 402|Rodrigo]] — MID, MCI; Undrafted buffer / D; Back injury - Unknown return date
-200. [[02 Players/Mount - 430|Mount]] — MID, MUN; Undrafted buffer / D; Available
-202. [[02 Players/Mainoo - 432|Mainoo]] — MID, MUN; Undrafted buffer / D; Available
-203. [[02 Players/C.Jones - 373|C.Jones]] — MID, LIV; Undrafted buffer / D; Available
-211. [[02 Players/Ngumoha - 369|Ngumoha]] — MID, LIV; Undrafted buffer / D; Available
-212. [[02 Players/Adli - 77|Adli]] — MID, BOU; Undrafted buffer / D; Available
-214. [[02 Players/Kamada - 214|Kamada]] — MID, CRY; Undrafted buffer / D; Available
+179. [[02 Players/Merino - 17|Merino]] — MID, ARS; Undrafted buffer / D; Available
+183. [[02 Players/Gallagher - 519|Gallagher]] — MID, TOT; Undrafted buffer / D; Available
+188. [[02 Players/Mount - 430|Mount]] — MID, MUN; Undrafted buffer / D; Available
+190. [[02 Players/Mainoo - 432|Mainoo]] — MID, MUN; Undrafted buffer / D; Available
+191. [[02 Players/C.Jones - 373|C.Jones]] — MID, LIV; Undrafted buffer / D; Available
+199. [[02 Players/Ngumoha - 369|Ngumoha]] — MID, LIV; Undrafted buffer / D; Available
+200. [[02 Players/Adli - 77|Adli]] — MID, BOU; Undrafted buffer / D; Available
+202. [[02 Players/Kamada - 214|Kamada]] — MID, CRY; Undrafted buffer / D; Available
+204. [[02 Players/Rodrigo - 402|Rodrigo]] — MID, MCI; Undrafted buffer / D; Back injury - Unknown return date
 217. [[02 Players/Madueke - 16|Madueke]] — MID, ARS; Undrafted buffer / D; Available
 218. [[02 Players/Anthony - 105|Anthony]] — MID, BRE; Extended watch buffer / Watch; Available
 220. [[02 Players/Tzolis - 557|Tzolis]] — MID, ARS; Undrafted buffer / D; Available
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:22:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T06:24:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
