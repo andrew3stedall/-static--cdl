@@ -7,7 +7,7 @@ position: GKP
 current_rank: 290
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Palmer
@@ -42,3 +42,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Ipswich order: **6 of 6**; overall rank **290**.
 - Decision: Goalkeeper floor is replaceable and current role certainty is insufficient to move above the outfield options.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0910-AEST-review]].
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **19 of 23**.
+- Overall rank: **290 → 290**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

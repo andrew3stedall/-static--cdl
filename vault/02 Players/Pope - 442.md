@@ -5,10 +5,10 @@ player_name: Pope
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 107
+current_rank: 115
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Pope
@@ -62,3 +62,11 @@ Compared within ranks 106–145. Current placement: **107**. See [[06 Reviews/20
 - Comparator outcome: starting-goalkeeper floor, discounted for replaceability.
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0741-AEST-review]].
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **6 of 23**.
+- Overall rank: **130 → 115**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

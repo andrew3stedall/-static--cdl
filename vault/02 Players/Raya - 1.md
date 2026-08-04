@@ -9,7 +9,7 @@ position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
 current_rank: 76
 current_segment: Depth
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Raya
@@ -56,3 +56,11 @@ Rank updated to 82 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Placement was decided by raw expected points first, then minutes, role, set pieces, injury/rotation risk, floor/ceiling and finally positional replacement value.
 - Review: [[06 Reviews/2026/08/2026-08-02/1758-AEST-review]]
 - Changes: [[07 Changes/2026/08/2026-08-02/1758-AEST-changes]]
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **1 of 23**.
+- Overall rank: **76 → 76**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].
