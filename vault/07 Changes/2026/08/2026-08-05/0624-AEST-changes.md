@@ -54,5 +54,8 @@ scope: cross-position ranks 181-210
 - Minor flags did not receive large Draft-horizon downgrades.
 - Rodrigo remained materially discounted because his return date is unknown.
 
+## Validation correction
+- The rank deltas above compare against the prior merged board, not the idempotent workflow rerun state.
+
 ## Next block
 Overall ranks 211–240 with challengers 206–210 and 241–245.
