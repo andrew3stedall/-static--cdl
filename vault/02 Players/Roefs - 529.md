@@ -5,10 +5,10 @@ player_name: Roefs
 team: "[[03 Teams/SUN]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 105
+current_rank: 165
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Roefs
@@ -50,3 +50,11 @@ Rank updated to 105 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Reversal trigger: verified change in minutes, role, set pieces, penalties, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0830-AEST-review]].
 
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **14 of 23**.
+- Overall rank: **105 → 165**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

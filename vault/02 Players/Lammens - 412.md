@@ -4,10 +4,10 @@ fpl_id: 412
 player: Lammens
 team: MUN
 position: GKP
-current_rank: 153
+current_rank: 167
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Lammens
@@ -45,3 +45,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Comparator outcome: starting-goalkeeper floor, discounted for replaceability.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **15 of 23**.
+- Overall rank: **116 → 167**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

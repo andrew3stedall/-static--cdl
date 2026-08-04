@@ -4,10 +4,10 @@ fpl_id: 325
 player: Darlow
 team: MUN
 position: GKP
-current_rank: 213
+current_rank: 342
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-02T12:59:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Darlow
@@ -36,3 +36,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Comparator outcome: backup-goalkeeper profile and current injury concern.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0042-AEST-review]].
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **23 of 23**.
+- Overall rank: **321 → 342**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

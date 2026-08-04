@@ -5,9 +5,9 @@ player_name: Martinez
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 244
+current_rank: 187
 current_segment: Depth
-last_reviewed: 2026-08-02T18:11:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Martinez
@@ -57,3 +57,11 @@ Rank updated to 111 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Decision: secure goalkeeper minutes and save/clean-sheet floor beat low-upside outfield depth.
 - Reversal trigger: confirmed role, set-piece, injury or first-team-minute evidence materially changing the comparison.
 - Review: [[06 Reviews/2026/08/2026-08-02/1811-AEST-review]].
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **16 of 23**.
+- Overall rank: **244 → 187**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

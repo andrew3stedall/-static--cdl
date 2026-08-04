@@ -4,10 +4,10 @@ fpl_id: 109
 player: Verbruggen
 team: BHA
 position: GKP
-current_rank: 138
+current_rank: 142
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Verbruggen
@@ -55,3 +55,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2045-AEST-review]].
 
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **11 of 23**.
+- Overall rank: **142 → 142**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

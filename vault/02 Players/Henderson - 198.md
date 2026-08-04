@@ -5,10 +5,10 @@ player_name: Henderson
 team: "[[03 Teams/CRY]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 87
+current_rank: 109
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Henderson
@@ -50,3 +50,11 @@ Rank updated to 87 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Reversal trigger: verified change in minutes, role, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-02/2336-AEST-review]].
 
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **5 of 23**.
+- Overall rank: **167 → 109**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

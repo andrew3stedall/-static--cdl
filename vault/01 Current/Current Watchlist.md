@@ -258,3 +258,7 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 0920-aest-final-defender -->
 - Final defender ranks reviewed with challengers 86–90: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]] · [[07 Changes/2026/08/2026-08-04/0920-AEST-changes]].
+
+
+<!-- 1144-aest-goalkeeper-review -->
+- All goalkeepers positionally reviewed: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]] · [[07 Changes/2026/08/2026-08-04/1144-AEST-changes]].

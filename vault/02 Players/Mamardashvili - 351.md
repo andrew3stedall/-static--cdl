@@ -4,10 +4,10 @@ fpl_id: 351
 player: Mamardashvili
 team: LIV
 position: GKP
-current_rank: 332
+current_rank: 339
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-02T10:17:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Mamardashvili
@@ -45,3 +45,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Comparator outcome: high-quality goalkeeper but blocked by Alisson.
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness or first-choice status.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0018-AEST-review]].
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **22 of 23**.
+- Overall rank: **337 → 339**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].

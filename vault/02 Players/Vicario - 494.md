@@ -5,9 +5,9 @@ player_name: Vicario
 team: "[[03 Teams/TOT]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 96
+current_rank: 116
 current_segment: Depth
-last_reviewed: 2026-08-02T10:12:00+10:00
+last_reviewed: 2026-08-04T11:44:00+10:00
 ---
 
 # Vicario
@@ -35,3 +35,11 @@ Inserted at rank 96 after the full unranked-player screen. Compared with Petrovi
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+
+
+## 1144-AEST goalkeeper positional comparison
+
+- Goalkeeper order: **7 of 23**.
+- Overall rank: **96 → 116**.
+- Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].
