@@ -5,9 +5,9 @@ player_name: Doku
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 38
+current_rank: 39
 current_segment: Core
-last_reviewed: 2026-08-03T21:23:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Doku
@@ -51,3 +51,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2123-AEST-review]].
 
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **38 → 39**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].

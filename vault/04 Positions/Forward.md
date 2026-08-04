@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Forward
@@ -43,18 +43,18 @@ Players are listed in canonical overall draft rank order.
 4. [[02 Players/Isak - 379|Isak]] — FWD, LIV; Franchise / A+; Available
 6. [[02 Players/Watkins - 55|Watkins]] — FWD, AVL; Franchise / A+; Available
 7. [[02 Players/Thiago - 106|Thiago]] — FWD, BRE; Franchise / A+; Available
-9. [[02 Players/Gyökeres - 25|Gyökeres]] — FWD, ARS; Foundation / A; Available
-11. [[02 Players/João Pedro - 165|João Pedro]] — FWD, CHE; Foundation / A; Available
-21. [[02 Players/Mateta - 223|Mateta]] — FWD, CRY; Foundation / B+; Available
-27. [[02 Players/Solanke - 526|Solanke]] — FWD, TOT; Foundation / B+; Available
-34. [[02 Players/Calvert-Lewin - 346|Calvert-Lewin]] — FWD, LEE; Core / B; Available
-37. [[02 Players/Marmoush - 401|Marmoush]] — FWD, MCI; Core / B; Available
+8. [[02 Players/Gyökeres - 25|Gyökeres]] — FWD, ARS; Franchise / A+; Available
+10. [[02 Players/João Pedro - 165|João Pedro]] — FWD, CHE; Foundation / A; Available
+18. [[02 Players/Mateta - 223|Mateta]] — FWD, CRY; Foundation / B+; Available
+26. [[02 Players/Solanke - 526|Solanke]] — FWD, TOT; Foundation / B+; Available
+33. [[02 Players/Marmoush - 401|Marmoush]] — FWD, MCI; Core / B; Available
+35. [[02 Players/Calvert-Lewin - 346|Calvert-Lewin]] — FWD, LEE; Core / B; Available
 48. [[02 Players/Evanilson - 79|Evanilson]] — FWD, BOU; Core / B; Available
-50. [[02 Players/Šeško - 439|Šeško]] — FWD, MUN; Core / B-; Shin injury - 75% chance of playing
-51. [[02 Players/Wood - 490|Wood]] — FWD, NFO; Core / B-; Available
-53. [[02 Players/Wissa - 464|Wissa]] — FWD, NEW; Core / B-; Available
-58. [[02 Players/Woltemade - 463|Woltemade]] — FWD, NEW; Core / B-; Available
-62. [[02 Players/Richarlison - 527|Richarlison]] — FWD, TOT; Core / B-; Available
+49. [[02 Players/Šeško - 439|Šeško]] — FWD, MUN; Core / B-; Shin injury - 75% chance of playing
+51. [[02 Players/Wissa - 464|Wissa]] — FWD, NEW; Core / B-; Available
+59. [[02 Players/Woltemade - 463|Woltemade]] — FWD, NEW; Core / B-; Available
+60. [[02 Players/Wood - 490|Wood]] — FWD, NFO; Core / B-; Available
+61. [[02 Players/Richarlison - 527|Richarlison]] — FWD, TOT; Core / B-; Available
 70. [[02 Players/Delap - 167|Delap]] — FWD, CHE; Core / C+; Available
 72. [[02 Players/Havertz - 26|Havertz]] — FWD, ARS; Deep watch / D-; Available
 73. [[02 Players/Brobbey - 552|Brobbey]] — FWD, SUN; Core / C+; Available
@@ -92,7 +92,7 @@ Players are listed in canonical overall draft rank order.
 251. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
 316. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T18:23:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

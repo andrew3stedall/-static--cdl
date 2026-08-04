@@ -5,9 +5,9 @@ player_name: Gvardiol
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 42
+current_rank: 43
 current_segment: Core
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Gvardiol
@@ -52,3 +52,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Overall rank: **41 → 42**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **42 → 43**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].

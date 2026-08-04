@@ -4,10 +4,10 @@ fpl_id: 157
 player: Estêvão
 team: CHE
 position: MID
-current_rank: 65
+current_rank: 64
 segment: Core
 tier: C+
-last_reviewed: 2026-08-03T22:56:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Estêvão
@@ -56,3 +56,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **65 → 64**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].

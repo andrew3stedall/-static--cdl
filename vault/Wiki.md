@@ -326,3 +326,7 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 2031-aest-cross-position-1-30 -->
 - Cross-position ranks 1–30 reviewed with challengers 31–35; season-horizon injury weighting adopted: [[06 Reviews/2026/08/2026-08-04/2031-AEST-review]] · [[07 Changes/2026/08/2026-08-04/2031-AEST-changes]].
+
+
+<!-- 2041-aest-cross-position-31-60 -->
+- Cross-position ranks 31–60 reviewed with challengers 26–30 and 61–65: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]] · [[07 Changes/2026/08/2026-08-04/2041-AEST-changes]].

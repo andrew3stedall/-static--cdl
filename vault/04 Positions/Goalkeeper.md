@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-04T11:44:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Goalkeeper
@@ -60,7 +60,7 @@ Players are listed in canonical overall draft rank order.
 339. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
 342. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T11:44:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

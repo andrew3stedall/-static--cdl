@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-04T07:06:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Midfielder
@@ -42,44 +42,44 @@ Players are listed in canonical overall draft rank order.
 2. [[02 Players/Palmer - 154|Palmer]] — MID, CHE; Franchise / S; Available
 3. [[02 Players/Saka - 12|Saka]] — MID, ARS; Franchise / A+; Available
 5. [[02 Players/B.Fernandes - 426|B.Fernandes]] — MID, MUN; Franchise / A+; Available
-10. [[02 Players/Mbeumo - 427|Mbeumo]] — MID, MUN; Foundation / A; Available
-12. [[02 Players/Cunha - 428|Cunha]] — MID, MUN; Foundation / A; Available
-13. [[02 Players/Wirtz - 366|Wirtz]] — MID, LIV; Foundation / A; Available
-14. [[02 Players/Semenyo - 397|Semenyo]] — MID, MCI; Foundation / A; Available
-15. [[02 Players/Foden - 398|Foden]] — MID, MCI; Foundation / A; Available
+9. [[02 Players/Mbeumo - 427|Mbeumo]] — MID, MUN; Foundation / A; Available
+11. [[02 Players/Cunha - 428|Cunha]] — MID, MUN; Foundation / A; Available
+12. [[02 Players/Wirtz - 366|Wirtz]] — MID, LIV; Foundation / A; Available
+13. [[02 Players/Semenyo - 397|Semenyo]] — MID, MCI; Foundation / A; Available
+14. [[02 Players/Foden - 398|Foden]] — MID, MCI; Foundation / A; Available
+15. [[02 Players/Gakpo - 367|Gakpo]] — MID, LIV; Foundation / A; Available
 16. [[02 Players/Gibbs-White - 480|Gibbs-White]] — MID, NFO; Foundation / A; Available
 17. [[02 Players/Rogers - 40|Rogers]] — MID, CHE; Foundation / B+; Available
-18. [[02 Players/Gakpo - 367|Gakpo]] — MID, LIV; Foundation / B+; Available
 19. [[02 Players/Eze - 14|Eze]] — MID, ARS; Foundation / B+; Available
 20. [[02 Players/Kluivert - 70|Kluivert]] — MID, BOU; Foundation / B+; Available
 22. [[02 Players/Ødegaard - 15|Ødegaard]] — MID, ARS; Foundation / B+; Available
 23. [[02 Players/Tavernier - 68|Tavernier]] — MID, BOU; Foundation / B+; Available
 24. [[02 Players/Szoboszlai - 368|Szoboszlai]] — MID, LIV; Foundation / B+; Available
 25. [[02 Players/Damsgaard - 96|Damsgaard]] — MID, BRE; Foundation / B+; Available
-28. [[02 Players/Bruno G. - 452|Bruno G.]] — MID, NEW; Foundation / B+; Available
-29. [[02 Players/Cherki - 399|Cherki]] — MID, MCI; Foundation / B+; Available
-30. [[02 Players/O.Dango - 95|O.Dango]] — MID, BRE; Foundation / B+; Available
-31. [[02 Players/Rice - 13|Rice]] — MID, ARS; Foundation / B+; Available
-33. [[02 Players/Dewsbury-Hall - 236|Dewsbury-Hall]] — MID, EVE; Core / B; Available
-35. [[02 Players/Ndiaye - 237|Ndiaye]] — MID, EVE; Core / B; Available
-36. [[02 Players/Schade - 94|Schade]] — MID, BRE; Core / B; Available
-38. [[02 Players/Doku - 400|Doku]] — MID, MCI; Core / B; Available
-39. [[02 Players/E.Le Fée - 542|E.Le Fée]] — MID, SUN; Core / B; Available
-40. [[02 Players/Enzo - 155|Enzo]] — MID, CHE; Core / B; Available
-43. [[02 Players/Maddison - 515|Maddison]] — MID, TOT; Core / B; Available
-44. [[02 Players/Sarr - 208|Sarr]] — MID, CRY; Core / B; Available
-45. [[02 Players/Minteh - 122|Minteh]] — MID, BHA; Extended watch buffer / Watch; Available
-46. [[02 Players/Kudus - 512|Kudus]] — MID, TOT; Core / B; Thigh injury - 75% chance of playing
-49. [[02 Players/Martinelli - 18|Martinelli]] — MID, ARS; Core / B-; Available
+28. [[02 Players/Cherki - 399|Cherki]] — MID, MCI; Foundation / B+; Available
+29. [[02 Players/Bruno G. - 452|Bruno G.]] — MID, NEW; Foundation / B+; Available
+30. [[02 Players/Rice - 13|Rice]] — MID, ARS; Foundation / B+; Available
+31. [[02 Players/O.Dango - 95|O.Dango]] — MID, BRE; Foundation / B+; Available
+34. [[02 Players/Dewsbury-Hall - 236|Dewsbury-Hall]] — MID, EVE; Core / B; Available
+36. [[02 Players/Ndiaye - 237|Ndiaye]] — MID, EVE; Core / B; Available
+37. [[02 Players/Schade - 94|Schade]] — MID, BRE; Core / B; Available
+38. [[02 Players/Kudus - 512|Kudus]] — MID, TOT; Core / B; Thigh injury - 75% chance of playing
+39. [[02 Players/Doku - 400|Doku]] — MID, MCI; Core / B; Available
+40. [[02 Players/E.Le Fée - 542|E.Le Fée]] — MID, SUN; Core / B; Available
+41. [[02 Players/Enzo - 155|Enzo]] — MID, CHE; Core / B; Available
+44. [[02 Players/Maddison - 515|Maddison]] — MID, TOT; Core / B; Available
+45. [[02 Players/Sarr - 208|Sarr]] — MID, CRY; Core / B; Available
+47. [[02 Players/Minteh - 122|Minteh]] — MID, BHA; Core / B; Available
+50. [[02 Players/Martinelli - 18|Martinelli]] — MID, ARS; Core / B-; Available
 52. [[02 Players/Neto - 156|Neto]] — MID, CHE; Core / B-; Available
+53. [[02 Players/Amad - 431|Amad]] — MID, MUN; Core / B-; Available
 54. [[02 Players/Barnes - 453|Barnes]] — MID, NEW; Core / B-; Available
-55. [[02 Players/Amad - 431|Amad]] — MID, MUN; Core / B-; Available
-56. [[02 Players/Rashford - 429|Rashford]] — MID, MUN; Core / B-; Available
-57. [[02 Players/McNeil - 241|McNeil]] — MID, EVE; Core / B-; Available
-59. [[02 Players/Mitoma - 121|Mitoma]] — MID, BHA; Core / B-; Hamstring injury - Unknown return date
-63. [[02 Players/Tel - 514|Tel]] — MID, TOT; Core / B-; Available
-64. [[02 Players/Savinho - 403|Savinho]] — MID, MCI; Core / C+; Available
-65. [[02 Players/Estêvão - 157|Estêvão]] — MID, CHE; Core / C+; Available
+55. [[02 Players/McNeil - 241|McNeil]] — MID, EVE; Core / B-; Available
+58. [[02 Players/Rashford - 429|Rashford]] — MID, MUN; Core / B-; Available
+62. [[02 Players/Tel - 514|Tel]] — MID, TOT; Core / B-; Available
+63. [[02 Players/Savinho - 403|Savinho]] — MID, MCI; Core / B-; Available
+64. [[02 Players/Estêvão - 157|Estêvão]] — MID, CHE; Core / B-; Available
+65. [[02 Players/Mitoma - 121|Mitoma]] — MID, BHA; Core / B-; Hamstring injury - Unknown return date
 66. [[02 Players/Dorgu - 415|Dorgu]] — MID, MUN; Core / C+; Available
 67. [[02 Players/Iwobi - 261|Iwobi]] — MID, FUL; Core / C+; Available
 69. [[02 Players/Wilson - 260|Wilson]] — MID, LEE; Core / C+; Available
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T07:06:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

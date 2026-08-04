@@ -5,9 +5,9 @@ player_name: Mitoma
 team: "[[03 Teams/BHA]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Hamstring injury - Unknown return date"
-current_rank: 59
+current_rank: 65
 current_segment: Core
-last_reviewed: 2026-08-03T22:56:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Mitoma
@@ -50,3 +50,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **59 → 65**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].
