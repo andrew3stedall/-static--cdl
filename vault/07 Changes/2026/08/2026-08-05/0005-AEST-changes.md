@@ -53,5 +53,8 @@ scope: cross-position ranks 121-150
 - Garner did not receive a large short-term injury downgrade.
 - Ekitiké remained heavily discounted because the Achilles return date is unknown.
 
+## Validation note
+- A clean-head commit was made after temporary workflow removal so the repository's configured board validation could run against the exact merge candidate.
+
 ## Next block
 Overall ranks 151–180 with challengers 146–150 and 181–185.
