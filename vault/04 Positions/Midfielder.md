@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Midfielder
@@ -90,19 +90,19 @@ Players are listed in canonical overall draft rank order.
 80. [[02 Players/Hudson-Odoi - 482|Hudson-Odoi]] — MID, NFO; Core / C+; Thigh injury - 75% chance of playing
 87. [[02 Players/Rayan - 67|Rayan]] — MID, BOU; Depth / C; Available
 89. [[02 Players/Xhaka - 544|Xhaka]] — MID, SUN; Depth / C; Available
-91. [[02 Players/Stach - 335|Stach]] — MID, LEE; Depth / C; Available
-92. [[02 Players/Okafor - 336|Okafor]] — MID, LEE; Depth / C; Available
-93. [[02 Players/Groß - 124|Groß]] — MID, BHA; Depth / C; Available
-94. [[02 Players/Fernandes - 525|Fernandes]] — MID, TOT; Depth / C; Available
-98. [[02 Players/Reijnders - 404|Reijnders]] — MID, MCI; Depth / C; Available
-100. [[02 Players/Garnacho - 160|Garnacho]] — MID, AVL; Deep watch / D-; Available
-103. [[02 Players/Mac Allister - 372|Mac Allister]] — MID, LIV; Depth / C; Available
-106. [[02 Players/Anderson - 481|Anderson]] — MID, MCI; Depth / C; Available
-107. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
-111. [[02 Players/McGinn - 45|McGinn]] — MID, AVL; Depth / C; Available
-117. [[02 Players/Aaronson - 337|Aaronson]] — MID, LEE; Depth / C; Available
-120. [[02 Players/Ndoye - 483|Ndoye]] — MID, NFO; Depth / C; Available
-121. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID, BRE; Depth / C; Available
+92. [[02 Players/Reijnders - 404|Reijnders]] — MID, MCI; Depth / C; Available
+93. [[02 Players/Okafor - 336|Okafor]] — MID, LEE; Depth / C; Available
+94. [[02 Players/Groß - 124|Groß]] — MID, BHA; Depth / C; Available
+96. [[02 Players/Garnacho - 160|Garnacho]] — MID, AVL; Depth / C; Available
+97. [[02 Players/Mac Allister - 372|Mac Allister]] — MID, LIV; Depth / C; Available
+99. [[02 Players/Stach - 335|Stach]] — MID, LEE; Depth / C; Available
+100. [[02 Players/Fernandes - 525|Fernandes]] — MID, TOT; Depth / C; Available
+104. [[02 Players/Anderson - 481|Anderson]] — MID, MCI; Depth / C; Available
+105. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
+110. [[02 Players/McGinn - 45|McGinn]] — MID, AVL; Depth / C; Available
+117. [[02 Players/Ndoye - 483|Ndoye]] — MID, NFO; Depth / C; Available
+118. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID, BRE; Depth / C; Available
+125. [[02 Players/Aaronson - 337|Aaronson]] — MID, LEE; Depth / C; Available
 126. [[02 Players/Scott - 69|Scott]] — MID, BOU; Endgame / D+; Available
 128. [[02 Players/Adingra - 546|Adingra]] — MID, SUN; Undrafted buffer / D; Available
 129. [[02 Players/Brooks - 74|Brooks]] — MID, BOU; Endgame / D+; Available
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T23:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

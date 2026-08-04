@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Defender
@@ -52,20 +52,20 @@ Players are listed in canonical overall draft rank order.
 83. [[02 Players/Tarkowski - 229|Tarkowski]] — DEF, EVE; Depth / C; Available
 85. [[02 Players/Aina - 473|Aina]] — DEF, NFO; Depth / C; Available
 86. [[02 Players/Hall - 449|Hall]] — DEF, NEW; Depth / C; Available
+91. [[02 Players/Aït-Nouri - 392|Aït-Nouri]] — DEF, MCI; Depth / C; Available
 95. [[02 Players/Calafiori - 8|Calafiori]] — DEF, ARS; Depth / C; Available
-97. [[02 Players/Aït-Nouri - 392|Aït-Nouri]] — DEF, MCI; Depth / C; Available
-99. [[02 Players/Mitchell - 204|Mitchell]] — DEF, CRY; Depth / C; Available
-101. [[02 Players/Tete - 256|Tete]] — DEF, FUL; Depth / C; Available
-102. [[02 Players/Van de Ven - 503|Van de Ven]] — DEF, TOT; Depth / C; Available
-104. [[02 Players/Truffert - 61|Truffert]] — DEF, BOU; Core / C+; Available
-112. [[02 Players/Collins - 84|Collins]] — DEF, BRE; Depth / C; Available
-113. [[02 Players/Robinson - 254|Robinson]] — DEF, FUL; Depth / C; Available
-114. [[02 Players/Chalobah - 143|Chalobah]] — DEF, CHE; Core / C+; Available
-118. [[02 Players/Gusto - 144|Gusto]] — DEF, CHE; Endgame / D+; Available
-122. [[02 Players/O'Reilly - 387|O'Reilly]] — DEF, MCI; Depth / C; Available
-123. [[02 Players/Rúben - 390|Rúben]] — DEF, MCI; Depth / C; Available
-124. [[02 Players/Romero - 500|Romero]] — DEF, TOT; Endgame / D+; Available
-125. [[02 Players/Livramento - 450|Livramento]] — DEF, NEW; Depth / C; Calf injury - 75% chance of playing
+98. [[02 Players/Truffert - 61|Truffert]] — DEF, BOU; Depth / C; Available
+101. [[02 Players/Mitchell - 204|Mitchell]] — DEF, CRY; Depth / C; Available
+102. [[02 Players/Tete - 256|Tete]] — DEF, FUL; Depth / C; Available
+103. [[02 Players/Van de Ven - 503|Van de Ven]] — DEF, TOT; Depth / C; Available
+108. [[02 Players/Robinson - 254|Robinson]] — DEF, FUL; Depth / C; Available
+109. [[02 Players/Collins - 84|Collins]] — DEF, BRE; Depth / C; Available
+111. [[02 Players/Chalobah - 143|Chalobah]] — DEF, CHE; Depth / C; Available
+112. [[02 Players/Livramento - 450|Livramento]] — DEF, NEW; Depth / C; Calf injury - 75% chance of playing
+119. [[02 Players/Gusto - 144|Gusto]] — DEF, CHE; Depth / C; Available
+120. [[02 Players/O'Reilly - 387|O'Reilly]] — DEF, MCI; Depth / C; Available
+121. [[02 Players/Rúben - 390|Rúben]] — DEF, MCI; Depth / C; Available
+122. [[02 Players/Romero - 500|Romero]] — DEF, TOT; Depth / C; Available
 127. [[02 Players/Mukiele - 533|Mukiele]] — DEF, SUN; Endgame / D+; Available
 132. [[02 Players/Schär - 446|Schär]] — DEF, NEW; Depth / C; Available
 133. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Endgame / D+; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T23:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

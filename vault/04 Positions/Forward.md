@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Forward
@@ -62,8 +62,8 @@ Players are listed in canonical overall draft rank order.
 81. [[02 Players/Strand Larsen - 222|Strand Larsen]] — FWD, CRY; Depth / C; Available
 88. [[02 Players/Beto - 248|Beto]] — FWD, EVE; Depth / C; Available
 90. [[02 Players/Nketiah - 224|Nketiah]] — FWD, CRY; Depth / C; Available
-108. [[02 Players/Welbeck - 136|Welbeck]] — FWD, BHA; Undrafted buffer / D; Available
-110. [[02 Players/Igor Jesus - 491|Igor Jesus]] — FWD, NFO; Depth / C; Available
+106. [[02 Players/Igor Jesus - 491|Igor Jesus]] — FWD, NFO; Depth / C; Available
+107. [[02 Players/Welbeck - 136|Welbeck]] — FWD, BHA; Depth / C; Available
 135. [[02 Players/Barry - 249|Barry]] — FWD, EVE; Endgame / D+; Available
 155. [[02 Players/Ekitiké - 380|Ekitiké]] — FWD, LIV; Endgame / D+; Achilles injury - Unknown return date
 173. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD, CHE; Undrafted buffer / D; Available
@@ -92,7 +92,7 @@ Players are listed in canonical overall draft rank order.
 251. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
 316. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T23:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

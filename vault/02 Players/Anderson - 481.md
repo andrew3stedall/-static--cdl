@@ -5,10 +5,10 @@ player_name: Anderson
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 106
+current_rank: 104
 current_segment: Core
 current_tier: C+
-last_reviewed: 2026-08-03T23:16:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Anderson
@@ -54,3 +54,12 @@ Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury 
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
+
+
+## 2351-AEST cross-position comparison
+
+- Reviewed with overall ranks 91–120 and challengers 86–90 and 121–125.
+- Overall rank: **106 → 104**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].
