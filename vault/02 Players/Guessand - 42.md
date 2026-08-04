@@ -4,10 +4,10 @@ fpl_id: 42
 player: Guessand
 team: AVL
 position: MID
-current_rank: 268
+current_rank: 253
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T06:56:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Guessand
@@ -52,3 +52,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **276 → 268**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].
+
+
+## 0806-AEST cross-position comparison
+
+- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.
+- Overall rank: **268 → 253**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].

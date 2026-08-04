@@ -358,3 +358,7 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 0719-aest-cross-position-211-240 -->
 - Cross-position ranks 211–240 reviewed with challengers 206–210 and 241–245: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]] · [[07 Changes/2026/08/2026-08-05/0719-AEST-changes]].
+
+
+<!-- 0806-aest-cross-position-241-270 -->
+- Cross-position ranks 241–270 reviewed with challengers 236–240 and 271–275: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]] · [[07 Changes/2026/08/2026-08-05/0806-AEST-changes]].

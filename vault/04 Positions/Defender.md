@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Defender
@@ -113,22 +113,22 @@ Players are listed in canonical overall draft rank order.
 225. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Extended watch buffer / Watch; Available
 228. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF, MCI; Extended watch buffer / Watch; Available
 233. [[02 Players/Hill - 60|Hill]] — DEF, BOU; Extended watch buffer / Watch; Available
-247. [[02 Players/Danso - 501|Danso]] — DEF, TOT; Undrafted buffer / D; Available
-248. [[02 Players/Khusanov - 393|Khusanov]] — DEF, MCI; Endgame / D+; Available
-249. [[02 Players/Konsa - 31|Konsa]] — DEF, AVL; Endgame / D+; Available
-254. [[02 Players/Bassey - 257|Bassey]] — DEF, FUL; Undrafted buffer / D; Available
-256. [[02 Players/Yoro - 420|Yoro]] — DEF, MUN; Undrafted buffer / D; Available
-259. [[02 Players/White - 10|White]] — DEF, ARS; Undrafted buffer / D; Available
-261. [[02 Players/Palestra - 152|Palestra]] — DEF, CHE; Endgame / D+; Available
-262. [[02 Players/Fofana - 145|Fofana]] — DEF, CHE; Undrafted buffer / D; Suspended until 6 Sep
-263. [[02 Players/Robertson - 502|Robertson]] — DEF, TOT; Extended watch buffer / Watch; Available
-264. [[02 Players/Henry - 89|Henry]] — DEF, BRE; Undrafted buffer / D; Available
-265. [[02 Players/Mings - 33|Mings]] — DEF, AVL; Undrafted buffer / D; Available
-266. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Undrafted buffer / D; Available
-269. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Undrafted buffer / D; Available
-270. [[02 Players/Burn - 448|Burn]] — DEF, NEW; Undrafted buffer / D; Available
-271. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF, LIV; Undrafted buffer / D; Available
-274. [[02 Players/Castagne - 258|Castagne]] — DEF, FUL; Deep watch / D-; Available
+237. [[02 Players/Konsa - 31|Konsa]] — DEF, AVL; Extended watch buffer / Watch; Available
+238. [[02 Players/Khusanov - 393|Khusanov]] — DEF, MCI; Extended watch buffer / Watch; Available
+239. [[02 Players/Danso - 501|Danso]] — DEF, TOT; Extended watch buffer / Watch; Available
+242. [[02 Players/White - 10|White]] — DEF, ARS; Extended watch buffer / Watch; Available
+243. [[02 Players/Yoro - 420|Yoro]] — DEF, MUN; Extended watch buffer / Watch; Available
+244. [[02 Players/Bassey - 257|Bassey]] — DEF, FUL; Extended watch buffer / Watch; Available
+245. [[02 Players/Robertson - 502|Robertson]] — DEF, TOT; Extended watch buffer / Watch; Available
+246. [[02 Players/Henry - 89|Henry]] — DEF, BRE; Extended watch buffer / Watch; Available
+247. [[02 Players/Mings - 33|Mings]] — DEF, AVL; Extended watch buffer / Watch; Available
+248. [[02 Players/Rodon - 329|Rodon]] — DEF, LEE; Extended watch buffer / Watch; Available
+249. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF, LIV; Extended watch buffer / Watch; Available
+252. [[02 Players/Castagne - 258|Castagne]] — DEF, FUL; Extended watch buffer / Watch; Available
+261. [[02 Players/Palestra - 152|Palestra]] — DEF, CHE; Extended watch buffer / Watch; Available
+262. [[02 Players/Fofana - 145|Fofana]] — DEF, CHE; Extended watch buffer / Watch; Suspended until 6 Sep
+263. [[02 Players/Justin - 332|Justin]] — DEF, LEE; Extended watch buffer / Watch; Available
+264. [[02 Players/Burn - 448|Burn]] — DEF, NEW; Extended watch buffer / Watch; Available
 277. [[02 Players/Bradley - 360|Bradley]] — DEF, LIV; Extended watch buffer / Watch; Knee injury - Unknown return date
 278. [[02 Players/Hickey - 90|Hickey]] — DEF, BRE; Undrafted buffer / D; Available
 280. [[02 Players/De Ligt - 416|De Ligt]] — DEF, MUN; Undrafted buffer / D; Back injury - Unknown return date
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T07:19:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:06:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

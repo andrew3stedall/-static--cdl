@@ -4,10 +4,10 @@ fpl_id: 257
 player: Bassey
 team: FUL
 position: DEF
-current_rank: 254
+current_rank: 244
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Bassey
@@ -54,3 +54,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Overall rank: **261 → 254**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0806-AEST cross-position comparison
+
+- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.
+- Overall rank: **254 → 244**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].
