@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T08:06:00+10:00
+last_reviewed: 2026-08-05T08:16:00+10:00
 ---
 
 # Midfielder
@@ -154,22 +154,22 @@ Players are listed in canonical overall draft rank order.
 259. [[02 Players/Hughes - 212|Hughes]] — MID, CRY; Extended watch buffer / Watch; Available
 260. [[02 Players/Kroupi.Jr - 78|Kroupi.Jr]] — MID, BOU; Extended watch buffer / Watch; Foot injury - Unknown return date
 265. [[02 Players/Tanaka - 345|Tanaka]] — MID, LEE; Extended watch buffer / Watch; Available
-276. [[02 Players/Diarra - 543|Diarra]] — MID, SUN; Undrafted buffer / D; Available
-279. [[02 Players/Adams - 73|Adams]] — MID, BOU; Undrafted buffer / D; Available
-281. [[02 Players/Gomes - 54|Gomes]] — MID, AVL; Extended watch buffer / Watch; Available
-282. [[02 Players/Janelt - 98|Janelt]] — MID, BRE; Extended watch buffer / Watch; Available
-283. [[02 Players/Gray - 522|Gray]] — MID, TOT; Extended watch buffer / Watch; Available
-284. [[02 Players/Barkley - 46|Barkley]] — MID, AVL; Extended watch buffer / Watch; Available
-285. [[02 Players/Tielemans - 43|Tielemans]] — MID, MUN; Extended watch buffer / Watch; Hamstring injury - 75% chance of playing
-286. [[02 Players/Tonali - 455|Tonali]] — MID, TOT; Extended watch buffer / Watch; Available
-289. [[02 Players/Rigg - 548|Rigg]] — MID, SUN; Undrafted buffer / D; Available
-291. [[02 Players/L.Miley - 459|L.Miley]] — MID, NEW; Extended watch buffer / Watch; Leg injury - Expected back 30 Aug
-292. [[02 Players/Yarmoliuk - 102|Yarmoliuk]] — MID, BRE; Undrafted buffer / D; Available
+268. [[02 Players/Diarra - 543|Diarra]] — MID, SUN; Extended watch buffer / Watch; Available
+270. [[02 Players/Tielemans - 43|Tielemans]] — MID, MUN; Extended watch buffer / Watch; Hamstring injury - 75% chance of playing
+271. [[02 Players/Tonali - 455|Tonali]] — MID, TOT; Extended watch buffer / Watch; Available
+272. [[02 Players/Barkley - 46|Barkley]] — MID, AVL; Extended watch buffer / Watch; Available
+273. [[02 Players/Rigg - 548|Rigg]] — MID, SUN; Extended watch buffer / Watch; Available
+276. [[02 Players/Adams - 73|Adams]] — MID, BOU; Extended watch buffer / Watch; Available
+277. [[02 Players/Gomes - 54|Gomes]] — MID, AVL; Extended watch buffer / Watch; Available
+278. [[02 Players/Janelt - 98|Janelt]] — MID, BRE; Extended watch buffer / Watch; Available
+279. [[02 Players/Gray - 522|Gray]] — MID, TOT; Extended watch buffer / Watch; Available
+280. [[02 Players/L.Miley - 459|L.Miley]] — MID, NEW; Extended watch buffer / Watch; Leg injury - Expected back 30 Aug
+285. [[02 Players/Yarmoliuk - 102|Yarmoliuk]] — MID, BRE; Extended watch buffer / Watch; Available
+286. [[02 Players/Sangaré - 488|Sangaré]] — MID, NFO; Extended watch buffer / Watch; Available
+287. [[02 Players/Dominguez - 487|Dominguez]] — MID, NFO; Extended watch buffer / Watch; Available
+291. [[02 Players/Berge - 265|Berge]] — MID, FUL; Extended watch buffer / Watch; Available
+292. [[02 Players/Lukić - 267|Lukić]] — MID, FUL; Extended watch buffer / Watch; Available
 294. [[02 Players/Onana - 48|Onana]] — MID, AVL; Extended watch buffer / Watch; Knee injury - Unknown return date
-295. [[02 Players/Sangaré - 488|Sangaré]] — MID, NFO; Extended watch buffer / Watch; Available
-296. [[02 Players/Dominguez - 487|Dominguez]] — MID, NFO; Extended watch buffer / Watch; Available
-300. [[02 Players/Berge - 265|Berge]] — MID, FUL; Extended watch buffer / Watch; Available
-304. [[02 Players/Lukić - 267|Lukić]] — MID, FUL; Extended watch buffer / Watch; Available
 308. [[02 Players/Gruev - 344|Gruev]] — MID, LEE; Extended watch buffer / Watch; Available
 310. [[02 Players/Willock - 460|Willock]] — MID, NEW; Endgame / D+; Available
 311. [[02 Players/Christie - 75|Christie]] — MID, BOU; Extended watch buffer / Watch; Suspended until 29 Aug
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:06:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:16:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

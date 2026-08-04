@@ -4,10 +4,10 @@ fpl_id: 54
 player: Gomes
 team: AVL
 position: MID
-current_rank: 281
+current_rank: 277
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T07:06:00+10:00
+last_reviewed: 2026-08-05T08:16:00+10:00
 ---
 
 # Gomes
@@ -52,3 +52,12 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Overall rank: **281 → 281**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].
+
+
+## 0816-AEST cross-position comparison
+
+- Reviewed with overall ranks 271–300 and challengers 266–270 and 301–305.
+- Overall rank: **281 → 277**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0816-AEST-review]].

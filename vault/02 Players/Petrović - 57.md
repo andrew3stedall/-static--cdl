@@ -5,10 +5,10 @@ player_name: Petrović
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 266
+current_rank: 295
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T08:06:00+10:00
+last_reviewed: 2026-08-05T08:16:00+10:00
 ---
 
 # Petrović
@@ -111,3 +111,12 @@ Rank updated to 99 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].
+
+
+## 0816-AEST cross-position comparison
+
+- Reviewed with overall ranks 271–300 and challengers 266–270 and 301–305.
+- Overall rank: **266 → 295**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0816-AEST-review]].
