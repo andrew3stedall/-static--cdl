@@ -29,6 +29,18 @@ Rank expected Draft usefulness over the relevant season. Ignore player price, ow
 
 Do not let recent noise override durable role evidence without justification.
 
+## Draft-horizon injury weighting
+
+Judge injury risk over the full season because a drafted player can be held through recovery. Do not apply redraft-style or Gameweek-1 penalties mechanically.
+
+- Expected return within about four weeks: small discount unless recurrence or role loss is credible.
+- Roughly five to ten weeks: moderate discount, scaled by player ceiling, benchability and replacement value.
+- More than ten weeks, repeated setbacks, major surgery or no credible return date: substantial discount.
+- Season-ending or career-altering injury: severe discount.
+- On return, assess whether the player should immediately regain the same role and minutes.
+
+Use official club updates and FPL metadata first. Use Premier Injuries (`https://www.premierinjuries.com/injury-table.php`) as a specialist expected-return source when accessible, recording access failures and corroborating material claims.
+
 ## Segments
 
 - **Franchise:** picks 1–8.

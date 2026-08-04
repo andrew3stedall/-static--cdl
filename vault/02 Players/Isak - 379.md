@@ -7,7 +7,7 @@ position: "[[04 Positions/Forward]]"
 api_status: available
 current_rank: 4
 current_segment: Franchise
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-04T20:31:00+10:00
 ---
 
 # Alexander Isak
@@ -51,3 +51,12 @@ Demonstrated 211-point ceiling, clearer striker route after Ekitike injury and p
 - Overall rank: **4 → 4**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 2031-AEST cross-position comparison
+
+- Overall block order: **4** after comparing ranks 1–30 with challengers 31–35.
+- Overall rank: **4 → 4**.
+- Comparator used raw expected season points first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injuries were weighted over the full draft season; a short expected absence receives only a small discount.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2031-AEST-review]].
