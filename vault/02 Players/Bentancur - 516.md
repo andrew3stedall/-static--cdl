@@ -4,10 +4,10 @@ fpl_id: 516
 player: Bentancur
 team: TOT
 position: MID
-current_rank: 250
+current_rank: 240
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T06:56:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Bentancur
@@ -66,3 +66,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **245 → 250**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0656-AEST-review]].
+
+
+## 0806-AEST cross-position comparison
+
+- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.
+- Overall rank: **250 → 240**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].

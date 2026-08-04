@@ -4,10 +4,10 @@ fpl_id: 27
 player: G.Jesus
 team: ARS
 position: FWD
-current_rank: 246
+current_rank: 236
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # G.Jesus
@@ -53,3 +53,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **246 → 246**.
 - Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+
+
+## 0806-AEST cross-position comparison
+
+- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.
+- Overall rank: **246 → 236**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].

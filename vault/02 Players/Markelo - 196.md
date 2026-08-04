@@ -4,10 +4,10 @@ fpl_id: 196
 player: Markelo
 team: COV
 position: FWD
-current_rank: 251
+current_rank: 255
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Markelo
@@ -42,3 +42,12 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Overall rank: **251 → 251**.
 - Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+
+
+## 0806-AEST cross-position comparison
+
+- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.
+- Overall rank: **251 → 255**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].

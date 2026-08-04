@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Midfielder
@@ -142,18 +142,18 @@ Players are listed in canonical overall draft rank order.
 230. [[02 Players/Talbi - 549|Talbi]] — MID, SUN; Extended watch buffer / Watch; Available
 231. [[02 Players/Lerma - 213|Lerma]] — MID, CRY; Extended watch buffer / Watch; Available
 232. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MID, MCI; Extended watch buffer / Watch; Available
-250. [[02 Players/Bentancur - 516|Bentancur]] — MID, TOT; Undrafted buffer / D; Available
-252. [[02 Players/Odobert - 517|Odobert]] — MID, TOT; Undrafted buffer / D; Knee injury - Unknown return date
-253. [[02 Players/Joelinton - 458|Joelinton]] — MID, NEW; Undrafted buffer / D; Thigh injury - 75% chance of playing
-255. [[02 Players/Gomez - 127|Gomez]] — MID, BHA; Extended watch buffer / Watch; Available
-257. [[02 Players/Johnson - 209|Johnson]] — MID, CRY; Extended watch buffer / Watch; Available
-258. [[02 Players/Hughes - 212|Hughes]] — MID, CRY; Extended watch buffer / Watch; Available
+240. [[02 Players/Bentancur - 516|Bentancur]] — MID, TOT; Extended watch buffer / Watch; Available
+241. [[02 Players/Joelinton - 458|Joelinton]] — MID, NEW; Extended watch buffer / Watch; Thigh injury - 75% chance of playing
+250. [[02 Players/J.Ramsey - 456|J.Ramsey]] — MID, NEW; Extended watch buffer / Watch; Available
+251. [[02 Players/Alcaraz - 243|Alcaraz]] — MID, EVE; Extended watch buffer / Watch; Available
+253. [[02 Players/Guessand - 42|Guessand]] — MID, AVL; Extended watch buffer / Watch; Available
+254. [[02 Players/Chiesa - 370|Chiesa]] — MID, LIV; Extended watch buffer / Watch; Available
+256. [[02 Players/Odobert - 517|Odobert]] — MID, TOT; Extended watch buffer / Watch; Knee injury - Unknown return date
+257. [[02 Players/Gomez - 127|Gomez]] — MID, BHA; Extended watch buffer / Watch; Available
+258. [[02 Players/Johnson - 209|Johnson]] — MID, CRY; Extended watch buffer / Watch; Available
+259. [[02 Players/Hughes - 212|Hughes]] — MID, CRY; Extended watch buffer / Watch; Available
 260. [[02 Players/Kroupi.Jr - 78|Kroupi.Jr]] — MID, BOU; Extended watch buffer / Watch; Foot injury - Unknown return date
-267. [[02 Players/Chiesa - 370|Chiesa]] — MID, LIV; Extended watch buffer / Watch; Available
-268. [[02 Players/Guessand - 42|Guessand]] — MID, AVL; Undrafted buffer / D; Available
-272. [[02 Players/J.Ramsey - 456|J.Ramsey]] — MID, NEW; Undrafted buffer / D; Available
-273. [[02 Players/Alcaraz - 243|Alcaraz]] — MID, EVE; Undrafted buffer / D; Available
-275. [[02 Players/Tanaka - 345|Tanaka]] — MID, LEE; Undrafted buffer / D; Available
+265. [[02 Players/Tanaka - 345|Tanaka]] — MID, LEE; Extended watch buffer / Watch; Available
 276. [[02 Players/Diarra - 543|Diarra]] — MID, SUN; Undrafted buffer / D; Available
 279. [[02 Players/Adams - 73|Adams]] — MID, BOU; Undrafted buffer / D; Available
 281. [[02 Players/Gomes - 54|Gomes]] — MID, AVL; Extended watch buffer / Watch; Available
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T07:19:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:06:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

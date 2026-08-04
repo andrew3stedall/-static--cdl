@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Forward
@@ -88,11 +88,11 @@ Players are listed in canonical overall draft rank order.
 226. [[02 Players/Enes Ünal - 80|Enes Ünal]] — FWD, BOU; Extended watch buffer / Watch; Available
 227. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — FWD, IPS; Extended watch buffer / Watch; Available
 229. [[02 Players/Rodríguez - 81|Rodríguez]] — FWD, BOU; Extended watch buffer / Watch; Available
-246. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD, ARS; Undrafted buffer / D; Available
-251. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
+236. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD, ARS; Extended watch buffer / Watch; Available
+255. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
 316. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T07:19:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:06:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

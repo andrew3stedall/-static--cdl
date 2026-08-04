@@ -4,10 +4,10 @@ fpl_id: 412
 player: Lammens
 team: MUN
 position: GKP
-current_rank: 242
+current_rank: 272
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-05T08:06:00+10:00
 ---
 
 # Lammens
@@ -89,3 +89,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].
+
+
+## 0806-AEST cross-position comparison
+
+- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.
+- Overall rank: **242 → 272**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]].
