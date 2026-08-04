@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T06:24:00+10:00
+last_reviewed: 2026-08-05T07:19:00+10:00
 ---
 
 # Midfielder
@@ -129,19 +129,19 @@ Players are listed in canonical overall draft rank order.
 200. [[02 Players/Adli - 77|Adli]] — MID, BOU; Undrafted buffer / D; Available
 202. [[02 Players/Kamada - 214|Kamada]] — MID, CRY; Undrafted buffer / D; Available
 204. [[02 Players/Rodrigo - 402|Rodrigo]] — MID, MCI; Undrafted buffer / D; Back injury - Unknown return date
-217. [[02 Players/Madueke - 16|Madueke]] — MID, ARS; Undrafted buffer / D; Available
-218. [[02 Players/Anthony - 105|Anthony]] — MID, BRE; Extended watch buffer / Watch; Available
-220. [[02 Players/Tzolis - 557|Tzolis]] — MID, ARS; Undrafted buffer / D; Available
-224. [[02 Players/Kevin - 263|Kevin]] — MID, FUL; Extended watch buffer / Watch; Available
-228. [[02 Players/Wharton - 210|Wharton]] — MID, CRY; Extended watch buffer / Watch; Ankle injury - 75% chance of playing
-233. [[02 Players/P.M.Sarr - 518|P.M.Sarr]] — MID, TOT; Extended watch buffer / Watch; Available
-237. [[02 Players/Buendía - 41|Buendía]] — MID, AVL; Undrafted buffer / D; Available
-238. [[02 Players/Gittens - 158|Gittens]] — MID, CHE; Extended watch buffer / Watch; Available
-239. [[02 Players/Bakwa - 485|Bakwa]] — MID, NFO; Extended watch buffer / Watch; Available
-240. [[02 Players/Bergvall - 520|Bergvall]] — MID, TOT; Extended watch buffer / Watch; Available
-242. [[02 Players/Talbi - 549|Talbi]] — MID, SUN; Undrafted buffer / D; Available
-243. [[02 Players/Lerma - 213|Lerma]] — MID, CRY; Undrafted buffer / D; Available
-245. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MID, MCI; Undrafted buffer / D; Available
+206. [[02 Players/Madueke - 16|Madueke]] — MID, ARS; Undrafted buffer / D; Available
+208. [[02 Players/Tzolis - 557|Tzolis]] — MID, ARS; Undrafted buffer / D; Available
+209. [[02 Players/Gittens - 158|Gittens]] — MID, CHE; Undrafted buffer / D; Available
+210. [[02 Players/Buendía - 41|Buendía]] — MID, AVL; Undrafted buffer / D; Available
+211. [[02 Players/Anthony - 105|Anthony]] — MID, BRE; Undrafted buffer / D; Available
+213. [[02 Players/Kevin - 263|Kevin]] — MID, FUL; Undrafted buffer / D; Available
+216. [[02 Players/Wharton - 210|Wharton]] — MID, CRY; Undrafted buffer / D; Ankle injury - 75% chance of playing
+217. [[02 Players/P.M.Sarr - 518|P.M.Sarr]] — MID, TOT; Undrafted buffer / D; Available
+218. [[02 Players/Bergvall - 520|Bergvall]] — MID, TOT; Undrafted buffer / D; Available
+219. [[02 Players/Bakwa - 485|Bakwa]] — MID, NFO; Undrafted buffer / D; Available
+230. [[02 Players/Talbi - 549|Talbi]] — MID, SUN; Extended watch buffer / Watch; Available
+231. [[02 Players/Lerma - 213|Lerma]] — MID, CRY; Extended watch buffer / Watch; Available
+232. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MID, MCI; Extended watch buffer / Watch; Available
 250. [[02 Players/Bentancur - 516|Bentancur]] — MID, TOT; Undrafted buffer / D; Available
 252. [[02 Players/Odobert - 517|Odobert]] — MID, TOT; Undrafted buffer / D; Knee injury - Unknown return date
 253. [[02 Players/Joelinton - 458|Joelinton]] — MID, NEW; Undrafted buffer / D; Thigh injury - 75% chance of playing
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T06:24:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T07:19:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

@@ -5,9 +5,9 @@ player_name: Kelleher
 team: "[[03 Teams/BRE]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 209
+current_rank: 237
 current_segment: Depth
-last_reviewed: 2026-08-05T06:24:00+10:00
+last_reviewed: 2026-08-05T07:19:00+10:00
 ---
 
 # Kelleher
@@ -106,3 +106,12 @@ Rank updated to 88 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 0719-AEST cross-position comparison
+
+- Reviewed with overall ranks 211–240 and challengers 206–210 and 241–245.
+- Overall rank: **209 → 237**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].

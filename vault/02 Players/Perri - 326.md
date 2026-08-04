@@ -4,10 +4,10 @@ fpl_id: 326
 player: Perri
 team: LEE
 position: GKP
-current_rank: 222
+current_rank: 244
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T11:44:00+10:00
+last_reviewed: 2026-08-05T07:19:00+10:00
 ---
 
 # Perri
@@ -53,3 +53,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **165 → 222**.
 - Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].
+
+
+## 0719-AEST cross-position comparison
+
+- Reviewed with overall ranks 211–240 and challengers 206–210 and 241–245.
+- Overall rank: **222 → 244**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].
