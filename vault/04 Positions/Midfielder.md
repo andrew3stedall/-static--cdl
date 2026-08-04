@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T08:16:00+10:00
+last_reviewed: 2026-08-05T08:44:00+10:00
 ---
 
 # Midfielder
@@ -170,26 +170,26 @@ Players are listed in canonical overall draft rank order.
 291. [[02 Players/Berge - 265|Berge]] — MID, FUL; Extended watch buffer / Watch; Available
 292. [[02 Players/Lukić - 267|Lukić]] — MID, FUL; Extended watch buffer / Watch; Available
 294. [[02 Players/Onana - 48|Onana]] — MID, AVL; Extended watch buffer / Watch; Knee injury - Unknown return date
-308. [[02 Players/Gruev - 344|Gruev]] — MID, LEE; Extended watch buffer / Watch; Available
-310. [[02 Players/Willock - 460|Willock]] — MID, NEW; Endgame / D+; Available
-311. [[02 Players/Christie - 75|Christie]] — MID, BOU; Extended watch buffer / Watch; Suspended until 29 Aug
-313. [[02 Players/Yates - 489|Yates]] — MID, NFO; Undrafted buffer / D; Available
-314. [[02 Players/Longstaff - 339|Longstaff]] — MID, LEE; Extended watch buffer / Watch; Available
-317. [[02 Players/Cook - 71|Cook]] — MID, BOU; Extended watch buffer / Watch; Available
-322. [[02 Players/Baleba - 131|Baleba]] — MID, BHA; Extended watch buffer / Watch; Available
-324. [[02 Players/Kamara - 47|Kamara]] — MID, AVL; Extended watch buffer / Watch; Knee injury - 75% chance of playing
-325. [[02 Players/Manzambi - 53|Manzambi]] — MID, AVL; Extended watch buffer / Watch; Available
-327. [[02 Players/Bogarde - 35|Bogarde]] — MID, AVL; Extended watch buffer / Watch; Available
-330. [[02 Players/Cairney - 266|Cairney]] — MID, FUL; Extended watch buffer / Watch; Available
-333. [[02 Players/Touré - 461|Touré]] — MID, NEW; Extended watch buffer / Watch; Available
-334. [[02 Players/Devenny - 215|Devenny]] — MID, CRY; Extended watch buffer / Watch; Available
-335. [[02 Players/Röhl - 246|Röhl]] — MID, EVE; Extended watch buffer / Watch; Available
+297. [[02 Players/Willock - 460|Willock]] — MID, NEW; Extended watch buffer / Watch; Available
+298. [[02 Players/Christie - 75|Christie]] — MID, BOU; Extended watch buffer / Watch; Suspended until 29 Aug
+302. [[02 Players/Longstaff - 339|Longstaff]] — MID, LEE; Extended watch buffer / Watch; Available
+303. [[02 Players/Yates - 489|Yates]] — MID, NFO; Extended watch buffer / Watch; Available
+304. [[02 Players/Gruev - 344|Gruev]] — MID, LEE; Extended watch buffer / Watch; Available
+305. [[02 Players/Cook - 71|Cook]] — MID, BOU; Extended watch buffer / Watch; Available
+306. [[02 Players/Baleba - 131|Baleba]] — MID, BHA; Extended watch buffer / Watch; Available
+307. [[02 Players/Röhl - 246|Röhl]] — MID, EVE; Extended watch buffer / Watch; Available
+314. [[02 Players/Manzambi - 53|Manzambi]] — MID, AVL; Extended watch buffer / Watch; Available
+315. [[02 Players/Bogarde - 35|Bogarde]] — MID, AVL; Extended watch buffer / Watch; Available
+318. [[02 Players/Cairney - 266|Cairney]] — MID, FUL; Extended watch buffer / Watch; Available
+321. [[02 Players/Touré - 461|Touré]] — MID, NEW; Extended watch buffer / Watch; Available
+322. [[02 Players/Devenny - 215|Devenny]] — MID, CRY; Extended watch buffer / Watch; Available
+323. [[02 Players/Kamara - 47|Kamara]] — MID, AVL; Extended watch buffer / Watch; Knee injury - 75% chance of playing
 344. [[02 Players/Lewis-Skelly - 7|Lewis-Skelly]] — MID, ARS; Extended watch buffer / Watch; Available
 345. [[02 Players/Iroegbunam - 240|Iroegbunam]] — MID, EVE; Extended watch buffer / Watch; Available
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:16:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:44:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

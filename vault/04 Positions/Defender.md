@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-05T08:16:00+10:00
+last_reviewed: 2026-08-05T08:44:00+10:00
 ---
 
 # Defender
@@ -142,20 +142,20 @@ Players are listed in canonical overall draft rank order.
 289. [[02 Players/Wieffer - 130|Wieffer]] — DEF, BHA; Extended watch buffer / Watch; Available
 290. [[02 Players/Heaven - 421|Heaven]] — DEF, MUN; Extended watch buffer / Watch; Available
 293. [[02 Players/Smith - 64|Smith]] — DEF, BOU; Extended watch buffer / Watch; Available
-306. [[02 Players/Milosavljević - 63|Milosavljević]] — DEF, BOU; Extended watch buffer / Watch; Available
-307. [[02 Players/Vuskovic - 504|Vuskovic]] — DEF, BHA; Extended watch buffer / Watch; Available
-309. [[02 Players/Reinildo - 536|Reinildo]] — DEF, SUN; Extended watch buffer / Watch; Available
-312. [[02 Players/Morato - 470|Morato]] — DEF, NFO; Undrafted buffer / D; Available
-315. [[02 Players/Vitor Reis - 396|Vitor Reis]] — DEF, MCI; Extended watch buffer / Watch; Available
-318. [[02 Players/Igor - 118|Igor]] — DEF, BHA; Undrafted buffer / D; Available
-319. [[02 Players/Coppola - 117|Coppola]] — DEF, BHA; Extended watch buffer / Watch; Available
-320. [[02 Players/Schuster - 93|Schuster]] — DEF, BRE; Extended watch buffer / Watch; Available
-323. [[02 Players/Costinha - 119|Costinha]] — DEF, BHA; Undrafted buffer / D; Available
-326. [[02 Players/Svoboda - 120|Svoboda]] — DEF, BHA; Extended watch buffer / Watch; Available
-328. [[02 Players/J.Cuenca - 255|J.Cuenca]] — DEF, FUL; Undrafted buffer / D; Available
-329. [[02 Players/Anselmino - 561|Anselmino]] — DEF, CHE; Extended watch buffer / Watch; Available
-331. [[02 Players/Ji-soo - 92|Ji-soo]] — DEF, BRE; Extended watch buffer / Watch; Available
-332. [[02 Players/Jacquet - 362|Jacquet]] — DEF, LIV; Extended watch buffer / Watch; Available
+299. [[02 Players/Vuskovic - 504|Vuskovic]] — DEF, BHA; Extended watch buffer / Watch; Available
+300. [[02 Players/Reinildo - 536|Reinildo]] — DEF, SUN; Extended watch buffer / Watch; Available
+301. [[02 Players/Morato - 470|Morato]] — DEF, NFO; Extended watch buffer / Watch; Available
+308. [[02 Players/Milosavljević - 63|Milosavljević]] — DEF, BOU; Extended watch buffer / Watch; Available
+309. [[02 Players/Vitor Reis - 396|Vitor Reis]] — DEF, MCI; Extended watch buffer / Watch; Available
+310. [[02 Players/Igor - 118|Igor]] — DEF, BHA; Extended watch buffer / Watch; Available
+311. [[02 Players/Coppola - 117|Coppola]] — DEF, BHA; Extended watch buffer / Watch; Available
+312. [[02 Players/Schuster - 93|Schuster]] — DEF, BRE; Extended watch buffer / Watch; Available
+313. [[02 Players/Costinha - 119|Costinha]] — DEF, BHA; Extended watch buffer / Watch; Available
+316. [[02 Players/J.Cuenca - 255|J.Cuenca]] — DEF, FUL; Extended watch buffer / Watch; Available
+317. [[02 Players/Anselmino - 561|Anselmino]] — DEF, CHE; Extended watch buffer / Watch; Available
+319. [[02 Players/Ji-soo - 92|Ji-soo]] — DEF, BRE; Extended watch buffer / Watch; Available
+320. [[02 Players/Jacquet - 362|Jacquet]] — DEF, LIV; Extended watch buffer / Watch; Available
+324. [[02 Players/Svoboda - 120|Svoboda]] — DEF, BHA; Extended watch buffer / Watch; Available
 336. [[02 Players/Diakité - 62|Diakité]] — DEF, BOU; Extended watch buffer / Watch; Available
 338. [[02 Players/Disasi - 153|Disasi]] — DEF, CHE; Extended watch buffer / Watch; Available
 340. [[02 Players/Lindelöf - 37|Lindelöf]] — DEF, AVL; Extended watch buffer / Watch; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:16:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:44:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

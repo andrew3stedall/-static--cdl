@@ -4,10 +4,10 @@ fpl_id: 316
 player: Emersonn
 team: IPS
 position: FWD
-current_rank: 316
+current_rank: 296
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-05T08:44:00+10:00
 ---
 
 # Emersonn
@@ -42,3 +42,12 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Overall rank: **316 → 316**.
 - Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+
+
+## 0844-AEST cross-position comparison
+
+- Reviewed with overall ranks 301–330 and challengers 296–300 and 331–335.
+- Overall rank: **316 → 296**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
