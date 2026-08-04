@@ -4,10 +4,10 @@ fpl_id: 109
 player: Verbruggen
 team: BHA
 position: GKP
-current_rank: 181
+current_rank: 210
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Verbruggen
@@ -81,3 +81,21 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **181 → 210**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **210 → 210**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].

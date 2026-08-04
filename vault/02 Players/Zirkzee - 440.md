@@ -4,10 +4,10 @@ fpl_id: 440
 player: Zirkzee
 team: MUN
 position: FWD
-current_rank: 199
+current_rank: 187
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Zirkzee
@@ -52,3 +52,21 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **199 → 199**.
 - Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **199 → 187**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **187 → 187**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].

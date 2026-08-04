@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Defender
@@ -99,15 +99,15 @@ Players are listed in canonical overall draft rank order.
 169. [[02 Players/Alderete - 535|Alderete]] — DEF, SUN; Undrafted buffer / D; Available
 170. [[02 Players/Thiaw - 445|Thiaw]] — DEF, NEW; Undrafted buffer / D; Available
 173. [[02 Players/Boscagli - 114|Boscagli]] — DEF, BHA; Undrafted buffer / D; Available
-186. [[02 Players/O'Brien - 232|O'Brien]] — DEF, EVE; Depth / C; Available
-188. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Deep watch / D-; Thigh injury - 75% chance of playing
-191. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Deep watch / D-; Available
-192. [[02 Players/Keane - 231|Keane]] — DEF, EVE; Undrafted buffer / D; Available
-197. [[02 Players/van Ewijk - 175|van Ewijk]] — DEF, COV; Undrafted buffer / D; Available
-204. [[02 Players/Thomas - 173|Thomas]] — DEF, COV; Deep watch / D-; Available
-208. [[02 Players/Canvot - 203|Canvot]] — DEF, CRY; Depth / C; Available
-209. [[02 Players/Maatsen - 36|Maatsen]] — DEF, AVL; Undrafted buffer / D; Available
-215. [[02 Players/Pau - 34|Pau]] — DEF, AVL; Undrafted buffer / D; Available
+176. [[02 Players/O'Brien - 232|O'Brien]] — DEF, EVE; Undrafted buffer / D; Available
+177. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Undrafted buffer / D; Thigh injury - 75% chance of playing
+180. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Undrafted buffer / D; Available
+181. [[02 Players/Keane - 231|Keane]] — DEF, EVE; Undrafted buffer / D; Available
+186. [[02 Players/van Ewijk - 175|van Ewijk]] — DEF, COV; Undrafted buffer / D; Available
+192. [[02 Players/Thomas - 173|Thomas]] — DEF, COV; Undrafted buffer / D; Available
+196. [[02 Players/Canvot - 203|Canvot]] — DEF, CRY; Undrafted buffer / D; Available
+197. [[02 Players/Maatsen - 36|Maatsen]] — DEF, AVL; Undrafted buffer / D; Available
+203. [[02 Players/Pau - 34|Pau]] — DEF, AVL; Undrafted buffer / D; Available
 221. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF, LEE; Deep watch / D-; Available
 229. [[02 Players/Andersen - 253|Andersen]] — DEF, FUL; Depth / C; Suspended until 29 Aug
 231. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Extended watch buffer / Watch; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:22:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T06:24:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

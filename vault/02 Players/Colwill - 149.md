@@ -4,10 +4,10 @@ fpl_id: 149
 player: Colwill
 team: CHE
 position: DEF
-current_rank: 191
+current_rank: 180
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-05T06:24:00+10:00
 ---
 
 # Colwill
@@ -57,3 +57,21 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **204 → 191**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **191 → 180**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **180 → 180**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
