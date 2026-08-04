@@ -5,9 +5,9 @@ player_name: O'Reilly
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 120
+current_rank: 119
 current_segment: Depth
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-05T00:05:00+10:00
 ---
 
 # O'Reilly
@@ -83,3 +83,12 @@ Rank updated to 95 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].
+
+
+## 0005-AEST cross-position comparison
+
+- Reviewed with overall ranks 121–150 and challengers 116–120 and 151–155.
+- Overall rank: **120 → 119**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].

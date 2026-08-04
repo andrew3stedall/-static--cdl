@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-05T00:05:00+10:00
 ---
 
 # Goalkeeper
@@ -41,14 +41,14 @@ Players are listed in canonical overall draft rank order.
 113. [[02 Players/Pickford - 226|Pickford]] — GKP, EVE; Depth / C; Available
 114. [[02 Players/Henderson - 198|Henderson]] — GKP, CRY; Depth / C; Available
 115. [[02 Players/Pope - 442|Pope]] — GKP, NEW; Depth / C; Available
-116. [[02 Players/Vicario - 494|Vicario]] — GKP, TOT; Depth / C; Available
-123. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Depth / C; Available
-124. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Depth / C; Available
-130. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Endgame / D+; Available
-131. [[02 Players/Petrović - 57|Petrović]] — GKP, BOU; Depth / C; Available
-142. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Endgame / D+; Available
-144. [[02 Players/Leno - 250|Leno]] — GKP, FUL; Depth / C; Available
-151. [[02 Players/Sels - 467|Sels]] — GKP, NFO; Depth / C; Available
+147. [[02 Players/Vicario - 494|Vicario]] — GKP, TOT; Endgame / D+; Available
+148. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Endgame / D+; Available
+149. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Endgame / D+; Available
+150. [[02 Players/Petrović - 57|Petrović]] — GKP, BOU; Endgame / D+; Available
+151. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Endgame / D+; Available
+152. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Endgame / D+; Available
+153. [[02 Players/Leno - 250|Leno]] — GKP, FUL; Endgame / D+; Available
+154. [[02 Players/Sels - 467|Sels]] — GKP, NFO; Endgame / D+; Available
 165. [[02 Players/Roefs - 529|Roefs]] — GKP, SUN; Undrafted buffer / D; Available
 167. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Depth / C; Available
 187. [[02 Players/Martinez - 28|Martinez]] — GKP, AVL; Deep watch / D-; Available
@@ -60,7 +60,7 @@ Players are listed in canonical overall draft rank order.
 339. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
 342. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T23:51:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:05:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

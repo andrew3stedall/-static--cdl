@@ -5,10 +5,10 @@ player_name: Lacroix
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 153
+current_rank: 144
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T08:44:00+10:00
+last_reviewed: 2026-08-05T00:05:00+10:00
 ---
 
 # Lacroix
@@ -66,3 +66,12 @@ Rank updated to 100 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Overall rank: **143 → 153**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0844-AEST-review]].
+
+
+## 0005-AEST cross-position comparison
+
+- Reviewed with overall ranks 121–150 and challengers 116–120 and 151–155.
+- Overall rank: **153 → 144**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
