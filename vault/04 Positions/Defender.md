@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Defender
@@ -46,12 +46,12 @@ Players are listed in canonical overall draft rank order.
 46. [[02 Players/Frimpong - 357|Frimpong]] — DEF, LIV; Core / B; Available
 56. [[02 Players/Kerkez - 358|Kerkez]] — DEF, LIV; Core / B-; Available
 57. [[02 Players/James - 142|James]] — DEF, CHE; Core / B-; Available
-68. [[02 Players/Saliba - 6|Saliba]] — DEF, ARS; Core / C+; Back injury - Unknown return date
-78. [[02 Players/J.Timber - 5|J.Timber]] — DEF, ARS; Core / C+; Groin injury - Expected back 21 Aug
+67. [[02 Players/Saliba - 6|Saliba]] — DEF, ARS; Core / C+; Back injury - Unknown return date
+74. [[02 Players/J.Timber - 5|J.Timber]] — DEF, ARS; Core / C+; Groin injury - Expected back 21 Aug
 82. [[02 Players/Guéhi - 388|Guéhi]] — DEF, MCI; Depth / C; Available
-83. [[02 Players/Tarkowski - 229|Tarkowski]] — DEF, EVE; Core / B; Available
+83. [[02 Players/Tarkowski - 229|Tarkowski]] — DEF, EVE; Depth / C; Available
 85. [[02 Players/Aina - 473|Aina]] — DEF, NFO; Depth / C; Available
-91. [[02 Players/Hall - 449|Hall]] — DEF, NEW; Depth / C; Available
+86. [[02 Players/Hall - 449|Hall]] — DEF, NEW; Depth / C; Available
 95. [[02 Players/Calafiori - 8|Calafiori]] — DEF, ARS; Depth / C; Available
 97. [[02 Players/Aït-Nouri - 392|Aït-Nouri]] — DEF, MCI; Depth / C; Available
 99. [[02 Players/Mitchell - 204|Mitchell]] — DEF, CRY; Depth / C; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

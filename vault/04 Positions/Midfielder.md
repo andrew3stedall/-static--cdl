@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Midfielder
@@ -79,18 +79,18 @@ Players are listed in canonical overall draft rank order.
 62. [[02 Players/Tel - 514|Tel]] — MID, TOT; Core / B-; Available
 63. [[02 Players/Savinho - 403|Savinho]] — MID, MCI; Core / B-; Available
 64. [[02 Players/Estêvão - 157|Estêvão]] — MID, CHE; Core / B-; Available
-65. [[02 Players/Mitoma - 121|Mitoma]] — MID, BHA; Core / B-; Hamstring injury - Unknown return date
-66. [[02 Players/Dorgu - 415|Dorgu]] — MID, MUN; Core / C+; Available
-67. [[02 Players/Iwobi - 261|Iwobi]] — MID, FUL; Core / C+; Available
+65. [[02 Players/Dorgu - 415|Dorgu]] — MID, MUN; Core / B-; Available
+66. [[02 Players/Iwobi - 261|Iwobi]] — MID, FUL; Core / C+; Available
 69. [[02 Players/Wilson - 260|Wilson]] — MID, LEE; Core / C+; Available
-71. [[02 Players/Elanga - 454|Elanga]] — MID, NEW; Core / C+; Available
-75. [[02 Players/J.Murphy - 457|J.Murphy]] — MID, NEW; Depth / C; Available
-77. [[02 Players/Smith Rowe - 262|Smith Rowe]] — MID, FUL; Core / C+; Available
+70. [[02 Players/Elanga - 454|Elanga]] — MID, NEW; Core / C+; Available
+71. [[02 Players/Mitoma - 121|Mitoma]] — MID, BHA; Core / C+; Hamstring injury - Unknown return date
+76. [[02 Players/J.Murphy - 457|J.Murphy]] — MID, NEW; Core / C+; Available
+78. [[02 Players/Smith Rowe - 262|Smith Rowe]] — MID, FUL; Core / C+; Available
 79. [[02 Players/Gnonto - 341|Gnonto]] — MID, LEE; Core / C+; Available
-80. [[02 Players/Hudson-Odoi - 482|Hudson-Odoi]] — MID, NFO; Depth / C; Thigh injury - 75% chance of playing
-86. [[02 Players/Rayan - 67|Rayan]] — MID, BOU; Depth / C; Available
-88. [[02 Players/Stach - 335|Stach]] — MID, LEE; Undrafted buffer / D; Available
+80. [[02 Players/Hudson-Odoi - 482|Hudson-Odoi]] — MID, NFO; Core / C+; Thigh injury - 75% chance of playing
+87. [[02 Players/Rayan - 67|Rayan]] — MID, BOU; Depth / C; Available
 89. [[02 Players/Xhaka - 544|Xhaka]] — MID, SUN; Depth / C; Available
+91. [[02 Players/Stach - 335|Stach]] — MID, LEE; Depth / C; Available
 92. [[02 Players/Okafor - 336|Okafor]] — MID, LEE; Depth / C; Available
 93. [[02 Players/Groß - 124|Groß]] — MID, BHA; Depth / C; Available
 94. [[02 Players/Fernandes - 525|Fernandes]] — MID, TOT; Depth / C; Available
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

@@ -5,9 +5,9 @@ player_name: Dorgu
 team: "[[03 Teams/MUN]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: "Available"
-current_rank: 66
+current_rank: 65
 current_segment: Core
-last_reviewed: 2026-08-03T22:56:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Dorgu
@@ -54,3 +54,12 @@ Rank updated to 79 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Comparator: raw expected season FPL points first, then minutes, role, penalties/set pieces, injury and rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2256-AEST-review]].
 
+
+
+## 2055-AEST cross-position comparison
+
+- Reviewed with overall ranks 61–90 and challengers 56–60 and 91–95.
+- Overall rank: **66 → 65**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2055-AEST-review]].

@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Forward
@@ -55,12 +55,12 @@ Players are listed in canonical overall draft rank order.
 59. [[02 Players/Woltemade - 463|Woltemade]] — FWD, NEW; Core / B-; Available
 60. [[02 Players/Wood - 490|Wood]] — FWD, NFO; Core / B-; Available
 61. [[02 Players/Richarlison - 527|Richarlison]] — FWD, TOT; Core / B-; Available
-70. [[02 Players/Delap - 167|Delap]] — FWD, CHE; Core / C+; Available
-72. [[02 Players/Havertz - 26|Havertz]] — FWD, ARS; Deep watch / D-; Available
+68. [[02 Players/Delap - 167|Delap]] — FWD, CHE; Core / C+; Available
+72. [[02 Players/Havertz - 26|Havertz]] — FWD, ARS; Core / C+; Available
 73. [[02 Players/Brobbey - 552|Brobbey]] — FWD, SUN; Core / C+; Available
-74. [[02 Players/Muniz - 271|Muniz]] — FWD, FUL; Undrafted buffer / D; Available
-81. [[02 Players/Strand Larsen - 222|Strand Larsen]] — FWD, CRY; Extended watch buffer / Watch; Available
-87. [[02 Players/Beto - 248|Beto]] — FWD, EVE; Undrafted buffer / D; Available
+75. [[02 Players/Muniz - 271|Muniz]] — FWD, FUL; Core / C+; Available
+81. [[02 Players/Strand Larsen - 222|Strand Larsen]] — FWD, CRY; Depth / C; Available
+88. [[02 Players/Beto - 248|Beto]] — FWD, EVE; Depth / C; Available
 90. [[02 Players/Nketiah - 224|Nketiah]] — FWD, CRY; Depth / C; Available
 108. [[02 Players/Welbeck - 136|Welbeck]] — FWD, BHA; Undrafted buffer / D; Available
 110. [[02 Players/Igor Jesus - 491|Igor Jesus]] — FWD, NFO; Depth / C; Available
@@ -92,7 +92,7 @@ Players are listed in canonical overall draft rank order.
 251. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
 316. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

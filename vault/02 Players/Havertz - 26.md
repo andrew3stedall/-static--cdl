@@ -9,7 +9,7 @@ position: "[[04 Positions/Forward]]"
 api_status: "Available"
 current_rank: 72
 current_segment: Core
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Havertz
@@ -52,3 +52,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Overall rank: **72 → 72**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 2055-AEST cross-position comparison
+
+- Reviewed with overall ranks 61–90 and challengers 56–60 and 91–95.
+- Overall rank: **72 → 72**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2055-AEST-review]].

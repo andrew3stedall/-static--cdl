@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Goalkeeper
@@ -36,7 +36,7 @@ The position is deep relative to an eight-manager league. No goalkeeper is curre
 
 Players are listed in canonical overall draft rank order.
 
-76. [[02 Players/Raya - 1|Raya]] — GKP, ARS; Core / C+; Available
+77. [[02 Players/Raya - 1|Raya]] — GKP, ARS; Core / C+; Available
 84. [[02 Players/Donnarumma - 384|Donnarumma]] — GKP, MCI; Depth / C; Available
 96. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Depth / C; Available
 105. [[02 Players/Pickford - 226|Pickford]] — GKP, EVE; Depth / C; Available
@@ -60,7 +60,7 @@ Players are listed in canonical overall draft rank order.
 339. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
 342. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

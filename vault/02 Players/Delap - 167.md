@@ -4,10 +4,10 @@ fpl_id: 167
 player: Delap
 team: CHE
 position: FWD
-current_rank: 70
+current_rank: 68
 segment: Core
 tier: C+
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Delap
@@ -55,3 +55,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **70 → 70**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 2055-AEST cross-position comparison
+
+- Reviewed with overall ranks 61–90 and challengers 56–60 and 91–95.
+- Overall rank: **70 → 68**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2055-AEST-review]].
