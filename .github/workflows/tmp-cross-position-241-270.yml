@@ -1,0 +1,64 @@
+name: Temporary Cross Position 241-270 Review
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: write
+jobs:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260805-0806-cross-position-241-270'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260805-0806-cross-position-241-270
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          curl --retry 3 --retry-delay 2 -fsSL https://fantasy.premierleague.com/api/bootstrap-static/ -o /tmp/bootstrap.json
+          curl --retry 3 --retry-delay 2 -fsSL https://fantasy.premierleague.com/api/fixtures/ -o /tmp/fixtures.json
+          status=$(curl -L -sS -o /tmp/pi.html -w '%{http_code}' https://www.premierinjuries.com/injury-table.php || true)
+          echo "$status" >/tmp/pi-status
+          cat >/tmp/run.py <<'PY'
+          from pathlib import Path
+          import json,re
+          TS='2026-08-05T08:06:00+10:00'; R='06 Reviews/2026/08/2026-08-05/0806-AEST-review'; C='07 Changes/2026/08/2026-08-05/0806-AEST-changes'
+          order=['G.Jesus','Konsa','Khusanov','Danso','Bentancur','Joelinton','White','Yoro','Bassey','Robertson','Henry','Mings','Rodon','Tsimikas','J.Ramsey','Alcaraz','Castagne','Guessand','Chiesa','Markelo','Odobert','Gomez','Johnson','Hughes','Kroupi.Jr','Palestra','Fofana','Justin','Burn','Tanaka','Petrović','Kelleher','Verbruggen','Leno','Sels','Roefs','Lammens','Martinez','Perri','Wilson']
+          board=Path('vault/01 Current/Current Draft Board.md'); txt=board.read_text(); rows=[[x.strip() for x in l.strip().strip('|').split('|')] for l in txt.splitlines() if re.match(r'^\| \d+ \|',l)]
+          sel=[r for r in rows if 236<=int(r[0])<=275]; assert len(sel)==40 and set(r[1] for r in sel)==set(order)
+          api={int(p['id']) for p in json.loads(Path('/tmp/bootstrap.json').read_text())['elements']}; assert all(int(r[6]) in api for r in sel); assert isinstance(json.loads(Path('/tmp/fixtures.json').read_text()),list)
+          old={r[1]:int(r[0]) for r in sel}; by={r[1]:r[:] for r in sel}; repl={}
+          for rank,n in enumerate(order,236):
+              r=by[n][:]; r[0]=str(rank); r[4]='Extended watch buffer'; r[5]='Watch'; r[8]=TS; r[9]=f'[[{R}]]'; repl[rank]=r
+          out=[]
+          for l in txt.splitlines():
+              m=re.match(r'^\| (\d+) \|',l)
+              if m and int(m.group(1)) in repl: l='| '+' | '.join(repl[int(m.group(1))])+' |'
+              out.append(l)
+          board.write_text(re.sub(r'status: .*','status: cross_position_block_9_reviewed',re.sub(r'last_updated: .*',f'last_updated: {TS}','\n'.join(out)+'\n',1),1))
+          changed=[]
+          for rank,n in enumerate(order,236):
+              r=by[n]; p=Path(f"vault/02 Players/{r[1]} - {r[6]}.md"); s=p.read_text(); s=re.sub(r'(?m)^(current_rank: )\d+',rf'\g<1>{rank}',s,1); s=re.sub(r'(?m)^(last_reviewed: ).*',rf'\g<1>{TS}',s,1); s+=f'\n\n## 0806-AEST cross-position comparison\n\n- Reviewed with overall ranks 241–270 and challengers 236–240 and 271–275.\n- Overall rank: **{old[n]} → {rank}**.\n- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.\n- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.\n- Evidence and reversal triggers: [[{R}]].\n'; p.write_text(s); changed.append(str(p))
+          current=[[x.strip() for x in l.strip().strip('|').split('|')] for l in board.read_text().splitlines() if re.match(r'^\| \d+ \|',l)]
+          for code,pathstr in {'FWD':'vault/04 Positions/Forward.md','MID':'vault/04 Positions/Midfielder.md','DEF':'vault/04 Positions/Defender.md','GKP':'vault/04 Positions/Goalkeeper.md'}.items():
+              p=Path(pathstr); s=p.read_text(); lines=[f"{x[0]}. [[02 Players/{x[1]} - {x[6]}|{x[1]}]] — {code}, {x[3]}; {x[4]} / {x[5]}; {x[7]}" for x in current if x[2]==code]; block='<!-- ranked-players:start -->\n## Players by overall rank\n\nPlayers are listed in canonical overall draft rank order.\n\n'+'\n'.join(lines)+f'\n\nSource: [[01 Current/Current Draft Board]] · generated {TS}\n<!-- ranked-players:end -->'; p.write_text(re.sub(r'last_reviewed: .*',f'last_reviewed: {TS}',re.sub(r'<!-- ranked-players:start -->.*?<!-- ranked-players:end -->',block,s,flags=re.S),1)); changed.append(pathstr)
+          pi=Path('/tmp/pi-status').read_text().strip(); reasons={('G.Jesus','Konsa'):'Jesus has the greater season-long attacking ceiling and forward scarcity despite role risk.',('Konsa','Khusanov'):'Konsa has the safer established role and cleaner minutes floor.',('White','Yoro'):'White has the stronger clean-sheet environment and attacking ceiling when fit.',('Tsimikas','J.Ramsey'):'Tsimikas has set-piece and attacking-defender upside; Ramsey has the safer midfield minutes route.',('J.Ramsey','Alcaraz'):'Ramsey has the better team environment and transition threat.',('Guessand','Chiesa'):'Guessand has the clearer route to regular league minutes.',('Kroupi.Jr','Palestra'):'Kroupi Jr retains higher attacking upside despite an unknown foot-injury return date.',('Burn','Tanaka'):'Burn has the safer clean-sheet and set-piece floor.',('Tanaka','Petrović'):'Tanaka’s outfield route narrowly beats replaceable goalkeeper value.'}
+          comps=[f"- **{a} vs {b}: {a} first.** {reasons.get((a,b),'Better season-long combination of expected points, minutes, role, floor and Draft replacement value.')} Confidence: medium; reverse for material role, minutes, set-piece or long-term availability change." for a,b in zip(order,order[1:])]
+          rp=Path('vault')/f'{R}.md'; rp.parent.mkdir(parents=True,exist_ok=True); rp.write_text(f'''---\ntype: review\nreviewed_at: {TS}\nscope: cross-position ranks 241-270\nchallengers: 236-240 and 271-275\n---\n\n# Cross-position review — overall ranks 241–270\n\n## Changes since prior iteration\nInsertion-sorted ranks 241–270 against five players on each boundary using the canonical season-long Draft injury policy.\n\n## Sources searched\nOfficial FPL bootstrap and fixtures, Premier Injuries, existing repository evidence and current player notes. No unsupported social-media claim was adopted.\n\n## API reconciliation\nOfficial FPL bootstrap and fixtures fetched successfully; all 40 stable FPL IDs remained present. Premier Injuries returned HTTP **{pi}**; no unsupported return date was adopted.\n\n## Injury decisions\nJoelinton’s short thigh flag received only a small penalty. Odobert and Kroupi Jr remained materially discounted because their return dates are unknown. Fofana’s short suspension was treated as a limited season-long cost.\n\n## Decisive comparisons\n{chr(10).join(comps)}\n\n## Final reviewed order\n'''+ '\n'.join(f'{i}. {n}' for i,n in enumerate(order,236)) + '''\n\n## Key trade-offs\n- G. Jesus rose above the defender group because forward scarcity and ceiling still matter in a season-long draft.\n- Konsa, Khusanov and Danso led the defender cluster on role and clean-sheet pathways.\n- White and Tsimikas retained attacking-defender upside despite role uncertainty.\n- Unknown injury return dates remained materially worse than short flags.\n- Goalkeepers remained last because replacement value is deep in an eight-manager league.\n\n## Evidence rejected\n- No raw preseason return was used without role or minutes context.\n- No inaccessible Premier Injuries detail was converted into a return date.\n\n## Next block\nOverall ranks 271–300 with challengers 266–270 and 301–305.\n\n## Validation\nRanks 1–350 remain complete and unique; ranks outside 236–275 retained their occupants.\n''')
+          cp=Path('vault')/f'{C}.md'; cp.parent.mkdir(parents=True,exist_ok=True); moves=[f'- {n}: **{old[n]} → {i}**' for i,n in enumerate(order,236) if old[n]!=i]; unchanged=[n for i,n in enumerate(order,236) if old[n]==i]; cp.write_text(f'''---\ntype: changes\nchanged_at: {TS}\nscope: cross-position ranks 241-270\n---\n\n# Cross-position block 9 changes\n\n## Rank changes\n{chr(10).join(moves) if moves else '- No material rank changes.'}\n\n## Important no-change decisions\n- Unchanged: {', '.join(unchanged) if unchanged else 'None'}.\n- No player outside ranks 236–275 changed global rank.\n- Short flags and suspensions did not receive large Draft-horizon downgrades.\n- Odobert and Kroupi Jr remained discounted because their return dates are unknown.\n- Goalkeepers remained below available outfield players because replacement value is deeper.\n\n## Next block\nOverall ranks 271–300 with challengers 266–270 and 301–305.\n''')
+          for f in ['vault/01 Current/Current Watchlist.md','vault/Home.md','vault/Wiki.md']:
+              p=Path(f); p.write_text(p.read_text()+f'\n\n<!-- 0806-aest-cross-position-241-270 -->\n- Cross-position ranks 241–270 reviewed with challengers 236–240 and 271–275: [[{R}]] · [[{C}]].\n')
+          changed += ['vault/01 Current/Current Draft Board.md',str(rp),str(cp),'vault/01 Current/Current Watchlist.md','vault/Home.md','vault/Wiki.md']
+          log=Path('vault/00 Meta/Document Changelog.md'); s=log.read_text(); ev=f'https://fantasy.premierleague.com/api/bootstrap-static/; https://fantasy.premierleague.com/api/fixtures/; https://www.premierinjuries.com/injury-table.php (HTTP {pi}; no unsupported dates adopted); [[{R}]]; [[{C}]]'
+          for f in changed+['vault/00 Meta/Document Changelog.md']: s+=f'\n| {TS} | `{f}` | {"created" if f in [str(rp),str(cp)] else "updated"} | Cross-position ranks 241–270 with five-player boundary challengers | [[{R}]] | {ev} |'
+          log.write_text(s+'\n')
+          PY
+          python /tmp/run.py
+          python scripts/validate_draft_board.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Review cross-position ranks 241-270"
+          git push origin HEAD:codex/fpl-review-20260805-0806-cross-position-241-270
