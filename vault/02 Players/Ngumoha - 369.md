@@ -70,3 +70,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 0624-AEST cross-position comparison
+
+- Reviewed with overall ranks 181–210 and challengers 176–180 and 211–215.
+- Overall rank: **199 → 199**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
