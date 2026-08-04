@@ -5,9 +5,9 @@ player_name: Scott
 team: "[[03 Teams/BOU]]"
 position: "[[04 Positions/Midfielder]]"
 api_status: Available
-current_rank: 126
+current_rank: 123
 current_segment: Depth
-last_reviewed: 2026-08-03T23:16:00+10:00
+last_reviewed: 2026-08-05T00:05:00+10:00
 ---
 
 # Scott
@@ -75,3 +75,12 @@ Compared within ranks 106–145. Current placement: **119**. See [[06 Reviews/20
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
+
+
+## 0005-AEST cross-position comparison
+
+- Reviewed with overall ranks 121–150 and challengers 116–120 and 151–155.
+- Overall rank: **126 → 123**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].

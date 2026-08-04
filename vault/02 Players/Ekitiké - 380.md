@@ -7,7 +7,7 @@ position: FWD
 current_rank: 155
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-05T00:05:00+10:00
 ---
 
 # Ekitiké
@@ -61,3 +61,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Overall rank: **155 → 155**.
 - Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+
+
+## 0005-AEST cross-position comparison
+
+- Reviewed with overall ranks 121–150 and challengers 116–120 and 151–155.
+- Overall rank: **155 → 155**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].

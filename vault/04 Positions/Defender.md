@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-05T00:05:00+10:00
 ---
 
 # Defender
@@ -62,25 +62,25 @@ Players are listed in canonical overall draft rank order.
 109. [[02 Players/Collins - 84|Collins]] — DEF, BRE; Depth / C; Available
 111. [[02 Players/Chalobah - 143|Chalobah]] — DEF, CHE; Depth / C; Available
 112. [[02 Players/Livramento - 450|Livramento]] — DEF, NEW; Depth / C; Calf injury - 75% chance of playing
-119. [[02 Players/Gusto - 144|Gusto]] — DEF, CHE; Depth / C; Available
-120. [[02 Players/O'Reilly - 387|O'Reilly]] — DEF, MCI; Depth / C; Available
-121. [[02 Players/Rúben - 390|Rúben]] — DEF, MCI; Depth / C; Available
-122. [[02 Players/Romero - 500|Romero]] — DEF, TOT; Depth / C; Available
-127. [[02 Players/Mukiele - 533|Mukiele]] — DEF, SUN; Endgame / D+; Available
-132. [[02 Players/Schär - 446|Schär]] — DEF, NEW; Depth / C; Available
-133. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Endgame / D+; Available
-134. [[02 Players/Sessegnon - 269|Sessegnon]] — DEF, FUL; Endgame / D+; Available
-138. [[02 Players/Bogle - 330|Bogle]] — DEF, LEE; Endgame / D+; Available
-139. [[02 Players/Hincapie - 9|Hincapie]] — DEF, ARS; Endgame / D+; Available
-140. [[02 Players/De Cuyper - 115|De Cuyper]] — DEF, BHA; Endgame / D+; Available
-141. [[02 Players/F.Kadıoğlu - 113|F.Kadıoğlu]] — DEF, BHA; Endgame / D+; Available
-143. [[02 Players/Cash - 32|Cash]] — DEF, AVL; Endgame / D+; Available
-145. [[02 Players/Shaw - 423|Shaw]] — DEF, MUN; Endgame / D+; Available
-147. [[02 Players/Dalot - 417|Dalot]] — DEF, MUN; Core / C+; Available
-148. [[02 Players/N.Williams - 469|N.Williams]] — DEF, NFO; Endgame / D+; Available
-149. [[02 Players/Senesi - 498|Senesi]] — DEF, TOT; Endgame / D+; Available
-150. [[02 Players/Van Hecke - 112|Van Hecke]] — DEF, TOT; Endgame / D+; Available
-153. [[02 Players/Lacroix - 200|Lacroix]] — DEF, CHE; Endgame / D+; Available
+118. [[02 Players/Gusto - 144|Gusto]] — DEF, CHE; Depth / C; Available
+119. [[02 Players/O'Reilly - 387|O'Reilly]] — DEF, MCI; Depth / C; Available
+120. [[02 Players/Rúben - 390|Rúben]] — DEF, MCI; Depth / C; Available
+121. [[02 Players/Romero - 500|Romero]] — DEF, TOT; Depth / C; Available
+124. [[02 Players/Mukiele - 533|Mukiele]] — DEF, SUN; Depth / C; Available
+127. [[02 Players/Schär - 446|Schär]] — DEF, NEW; Depth / C; Available
+128. [[02 Players/Maguire - 418|Maguire]] — DEF, MUN; Depth / C; Available
+129. [[02 Players/Sessegnon - 269|Sessegnon]] — DEF, FUL; Endgame / D+; Available
+133. [[02 Players/Bogle - 330|Bogle]] — DEF, LEE; Endgame / D+; Available
+134. [[02 Players/Hincapie - 9|Hincapie]] — DEF, ARS; Endgame / D+; Available
+135. [[02 Players/De Cuyper - 115|De Cuyper]] — DEF, BHA; Endgame / D+; Available
+136. [[02 Players/F.Kadıoğlu - 113|F.Kadıoğlu]] — DEF, BHA; Endgame / D+; Available
+137. [[02 Players/Cash - 32|Cash]] — DEF, AVL; Endgame / D+; Available
+138. [[02 Players/Shaw - 423|Shaw]] — DEF, MUN; Endgame / D+; Available
+140. [[02 Players/Dalot - 417|Dalot]] — DEF, MUN; Endgame / D+; Available
+141. [[02 Players/N.Williams - 469|N.Williams]] — DEF, NFO; Endgame / D+; Available
+142. [[02 Players/Senesi - 498|Senesi]] — DEF, TOT; Endgame / D+; Available
+143. [[02 Players/Van Hecke - 112|Van Hecke]] — DEF, TOT; Endgame / D+; Available
+144. [[02 Players/Lacroix - 200|Lacroix]] — DEF, CHE; Endgame / D+; Available
 157. [[02 Players/Dunk - 116|Dunk]] — DEF, BHA; Endgame / D+; Available
 158. [[02 Players/Kayode - 88|Kayode]] — DEF, BRE; Endgame / D+; Available
 160. [[02 Players/Mykolenko - 233|Mykolenko]] — DEF, EVE; Endgame / D+; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T23:51:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:05:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
