@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-04T09:20:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Defender
@@ -38,14 +38,14 @@ Defensive-contribution scoring raises the position's floor, but the first baseli
 
 Players are listed in canonical overall draft rank order.
 
-8. [[02 Players/Gabriel - 4|Gabriel]] — DEF, ARS; Franchise / A+; Available
-26. [[02 Players/Pedro Porro - 499|Pedro Porro]] — DEF, TOT; Foundation / B+; Available
+21. [[02 Players/Gabriel - 4|Gabriel]] — DEF, ARS; Foundation / B+; Available
+27. [[02 Players/Pedro Porro - 499|Pedro Porro]] — DEF, TOT; Foundation / B+; Available
 32. [[02 Players/Muñoz - 201|Muñoz]] — DEF, CRY; Foundation / B+; Available
-41. [[02 Players/Virgil - 356|Virgil]] — DEF, LIV; Core / B; Available
-42. [[02 Players/Gvardiol - 391|Gvardiol]] — DEF, MCI; Core / B; Available
-47. [[02 Players/Frimpong - 357|Frimpong]] — DEF, LIV; Core / B; Available
-60. [[02 Players/Kerkez - 358|Kerkez]] — DEF, LIV; Core / B-; Available
-61. [[02 Players/James - 142|James]] — DEF, CHE; Core / B-; Available
+42. [[02 Players/Virgil - 356|Virgil]] — DEF, LIV; Core / B; Available
+43. [[02 Players/Gvardiol - 391|Gvardiol]] — DEF, MCI; Core / B; Available
+46. [[02 Players/Frimpong - 357|Frimpong]] — DEF, LIV; Core / B; Available
+56. [[02 Players/Kerkez - 358|Kerkez]] — DEF, LIV; Core / B-; Available
+57. [[02 Players/James - 142|James]] — DEF, CHE; Core / B-; Available
 68. [[02 Players/Saliba - 6|Saliba]] — DEF, ARS; Core / C+; Back injury - Unknown return date
 78. [[02 Players/J.Timber - 5|J.Timber]] — DEF, ARS; Core / C+; Groin injury - Expected back 21 Aug
 82. [[02 Players/Guéhi - 388|Guéhi]] — DEF, MCI; Depth / C; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T09:20:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:41:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

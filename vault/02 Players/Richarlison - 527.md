@@ -5,9 +5,9 @@ player_name: Richarlison
 team: "[[03 Teams/TOT]]"
 position: "[[04 Positions/Forward]]"
 api_status: available
-current_rank: 62
+current_rank: 61
 current_segment: Core
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Richarlison
@@ -53,3 +53,12 @@ A starting Tottenham striker would have strong draft value, but fitness and comp
 - Overall rank: **62 → 62**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **62 → 61**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].

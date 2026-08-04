@@ -4,10 +4,10 @@ fpl_id: 464
 player: Wissa
 team: NEW
 position: FWD
-current_rank: 53
+current_rank: 51
 segment: Core
 tier: B-
-last_reviewed: 2026-08-03T16:48:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Wissa
@@ -52,3 +52,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **53 → 53**.
 - Comparator: raw expected FPL points first, then minutes, role, penalties/set pieces, injury/rotation risk, floor and ceiling; forward scarcity was applied only after that comparison.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1648-AEST-review]].
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **53 → 51**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].

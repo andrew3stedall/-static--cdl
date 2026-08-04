@@ -5,9 +5,9 @@ player_name: Frimpong
 team: "[[03 Teams/LIV]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 47
+current_rank: 46
 current_segment: Core
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Frimpong
@@ -36,3 +36,12 @@ Inserted at rank 78 after the full unranked-player screen. Compared with Dorgu: 
 - Overall rank: **68 → 47**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **47 → 46**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].

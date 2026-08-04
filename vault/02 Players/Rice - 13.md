@@ -9,7 +9,7 @@ position: "[[04 Positions/Midfielder]]"
 api_status: available
 current_rank: 30
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-04T20:41:00+10:00
 ---
 
 # Declan Rice
@@ -62,3 +62,12 @@ Outstanding minutes and set-piece involvement, but role is less attacking than t
 - Comparator used raw expected season points first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Injuries were weighted over the full draft season; a short expected absence receives only a small discount.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2031-AEST-review]].
+
+
+## 2041-AEST cross-position comparison
+
+- Reviewed in the overall 31–60 block with challengers 26–30 and 61–65.
+- Overall rank: **30 → 30**.
+- Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].
