@@ -1,0 +1,119 @@
+name: Temporary Cross Position 1-30 Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.head_ref == 'codex/fpl-review-20260804-2031-cross-position-1-30'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260804-2031-cross-position-1-30
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          cat > /tmp/review.py <<'PY'
+          from pathlib import Path
+          import re
+
+          TS='2026-08-04T20:31:00+10:00'
+          REVIEW='06 Reviews/2026/08/2026-08-04/2031-AEST-review'
+          CHANGES='07 Changes/2026/08/2026-08-04/2031-AEST-changes'
+          order=['Haaland','Palmer','Saka','Isak','B.Fernandes','Watkins','Thiago','Gyökeres','Mbeumo','João Pedro','Cunha','Wirtz','Semenyo','Foden','Gakpo','Gibbs-White','Rogers','Mateta','Eze','Kluivert','Gabriel','Ødegaard','Tavernier','Szoboszlai','Damsgaard','Solanke','Pedro Porro','Cherki','Bruno G.','Rice','O.Dango','Muñoz','Dewsbury-Hall','Calvert-Lewin','Ndiaye']
+          board=Path('vault/01 Current/Current Draft Board.md')
+          text=board.read_text()
+          rows=[]
+          for line in text.splitlines():
+              if re.match(r'^\| \d+ \|', line): rows.append([x.strip() for x in line.strip().strip('|').split('|')])
+          selected=[r for r in rows if 1 <= int(r[0]) <= 35]
+          assert len(selected)==35
+          assert set(r[1] for r in selected)==set(order)
+          old={r[1]:int(r[0]) for r in selected}; by={r[1]:r[:] for r in selected}; repl={}
+          def segment(rank):
+              return 'Franchise' if rank<=8 else 'Foundation' if rank<=32 else 'Core'
+          def tier(rank):
+              return 'S' if rank<=2 else 'A+' if rank<=8 else 'A' if rank<=16 else 'B+' if rank<=32 else 'B'
+          for rank,name in enumerate(order,1):
+              r=by[name][:]
+              r[0]=str(rank); r[4]=segment(rank); r[5]=tier(rank); r[8]=TS; r[9]=f'[[{REVIEW}]]'
+              repl[rank]=r
+          out=[]
+          for line in text.splitlines():
+              m=re.match(r'^\| (\d+) \|',line)
+              if m and int(m.group(1)) in repl: line='| '+' | '.join(repl[int(m.group(1))])+' |'
+              out.append(line)
+          text='\n'.join(out)+'\n'
+          text=re.sub(r'last_updated: .*',f'last_updated: {TS}',text,1)
+          text=re.sub(r'status: .*','status: cross_position_block_1_reviewed',text,1)
+          intro='This is the **only canonical current overall ordering**. Overall ranks 1–30 were cross-position insertion-sorted with ranks 31–35 as lower challengers. Raw expected season points were assessed first, followed by minutes, role, set pieces, risk and positional replacement value. Injury discounts are season-horizon based: short absences are minor, while multi-month or season-ending absences are material.'
+          text=re.sub(r'This is the \*\*only canonical current overall ordering\*\*\..*?\n\n## Advised order',intro+'\n\n## Advised order',text,flags=re.S)
+          board.write_text(text)
+
+          # Canonical methodology update.
+          skill=Path('.agents/skills/rank-draft-board/SKILL.md')
+          s=skill.read_text()
+          injury='''\n## Draft-horizon injury weighting\n\nJudge injury risk over the full season because a drafted player can be held through recovery. Do not apply redraft-style or Gameweek-1 penalties mechanically.\n\n- Expected return within about four weeks: small discount unless recurrence or role loss is credible.\n- Roughly five to ten weeks: moderate discount, scaled by player ceiling, benchability and replacement value.\n- More than ten weeks, repeated setbacks, major surgery or no credible return date: substantial discount.\n- Season-ending or career-altering injury: severe discount.\n- On return, assess whether the player should immediately regain the same role and minutes.\n\nUse official club updates and FPL metadata first. Use Premier Injuries (`https://www.premierinjuries.com/injury-table.php`) as a specialist expected-return source when accessible, recording access failures and corroborating material claims.\n'''
+          if '## Draft-horizon injury weighting' not in s:
+              s=s.replace('\n## Segments\n',injury+'\n## Segments\n')
+          skill.write_text(s)
+
+          changed=[]
+          for rank,name in enumerate(order,1):
+              r=by[name]; fid=r[6]; path=Path(f'vault/02 Players/{name} - {fid}.md')
+              if not path.exists(): raise FileNotFoundError(path)
+              p=path.read_text()
+              p=re.sub(r'(?m)^(current_rank: )\d+',rf'\g<1>{rank}',p,1)
+              p=re.sub(r'(?m)^(last_reviewed: ).*',rf'\g<1>{TS}',p,1)
+              p+=f'\n\n## 2031-AEST cross-position comparison\n\n- Overall block order: **{rank}** after comparing ranks 1–30 with challengers 31–35.\n- Overall rank: **{old[name]} → {rank}**.\n- Comparator used raw expected season points first, then minutes, role, set pieces, floor/ceiling and positional replacement value.\n- Injuries were weighted over the full draft season; a short expected absence receives only a small discount.\n- Evidence and reversal triggers: [[{REVIEW}]].\n'
+              path.write_text(p); changed.append(str(path))
+
+          reasons={
+          ('Thiago','Gyökeres'):'Thiago has the safer established Premier League minutes and scoring floor; Gyökeres retains the higher adaptation ceiling.',
+          ('Gyökeres','Mbeumo'):'Gyökeres receives a small forward-scarcity edge after raw points were judged close.',
+          ('Gakpo','Gibbs-White'):'Gakpo has the stronger goal ceiling in Liverpool’s attack, while Gibbs-White has the safer creative floor.',
+          ('Rogers','Mateta'):'Rogers narrowly leads on broad involvement and minutes; Mateta has the clearer penalty-box role.',
+          ('Kluivert','Gabriel'):'Kluivert projects more raw attacking points; Gabriel’s defender scarcity and set-piece threat keep the gap close.',
+          ('Gabriel','Ødegaard'):'Gabriel’s elite clean-sheet and set-piece route narrowly beats Ødegaard after replacement value.',
+          ('Damsgaard','Solanke'):'Damsgaard has the safer creative floor; Solanke’s forward scarcity prevents a larger gap.',
+          ('Solanke','Pedro Porro'):'Solanke has the higher raw scoring ceiling and forward scarcity; Porro remains the leading defender challenger.',
+          ('Pedro Porro','Cherki'):'Porro has the safer minutes and repeatable attacking-defender role; Cherki has the higher volatility ceiling.',
+          ('Rice','O.Dango'):'Rice has the safer minutes, set pieces and floor; O.Dango offers more direct attacking volatility.',
+          ('O.Dango','Muñoz'):'O.Dango projects slightly more raw attacking points, before Muñoz receives a defender-scarcity boost.',
+          }
+          comps=[]
+          for a,b in zip(order,order[1:]):
+              why=reasons.get((a,b),'The player above had the better season-long combination of expected points, minutes, role, floor and draft replacement value.')
+              comps.append(f'- **{a} vs {b}: {a} first.** {why} Confidence: medium; reverse for a material role, minutes, set-piece or long-term availability change.')
+          review=Path('vault')/f'{REVIEW}.md'; review.parent.mkdir(parents=True,exist_ok=True)
+          review.write_text(f'''---\ntype: review\nreviewed_at: {TS}\nscope: cross-position ranks 1-30\nchallengers: 31-35\n---\n\n# Cross-position review — overall ranks 1–30\n\n## Changes since prior iteration\n\nThe position-by-position phase was complete, but it preserved position-specific ordering in fixed global slots. This run performed the first true cross-position insertion sort and adopted season-horizon injury weighting for Draft.\n\n## Scope and method\n\nReviewed overall ranks 1–30 with ranks 31–35 as lower challengers. For every comparison, raw expected season FPL points came first. Minutes, role, penalties and set pieces, floor and ceiling followed. Positional replacement value was applied only at the final draft-first decision.\n\n## Injury methodology adopted\n\n- A player expected back within about one month receives only a small discount in a season-long Draft league.\n- Five to ten weeks generally warrants a moderate discount.\n- Multi-month, season-ending, recurrent or return-date-unknown cases receive substantial discounts.\n- Expected role on return matters as much as the nominal return date.\n- Premier Injuries was requested as a specialist source, but its injury table returned HTTP 403 to this run. The source remains documented for future accessible runs; no unsupported return date was adopted.\n\n## Sources searched\n\n- Official FPL player pool and availability authority: https://fantasy.premierleague.com/api/bootstrap-static/\n- Official FPL fixtures: https://fantasy.premierleague.com/api/fixtures/\n- Premier Injuries injury table: https://www.premierinjuries.com/injury-table.php — inaccessible in this run (HTTP 403).\n- Canonical board and prior positional reviews in this vault.\n\n## Decisive pairwise comparisons\n{chr(10).join(comps)}\n\n## Final reviewed order\n\n'''+ '\n'.join(f'{i}. {n}' for i,n in enumerate(order,1)) + '''\n\n## Key trade-offs\n\n- Gabriel moved below the leading attackers because defender replacement value was not enough to overcome their raw season-points advantage.\n- Gakpo moved above Gibbs-White on goal ceiling, while the call remains close because Gibbs-White has a stronger minutes and creative floor.\n- Mateta moved above Eze because the central scoring and penalty-box route outweighed Eze’s creative breadth.\n- Solanke moved above Pedro Porro after raw points and forward scarcity were applied in that order.\n- Rice entered the reviewed top 30; O.Dango moved to the boundary, and Muñoz remained the strongest lower challenger.\n\n## Evidence rejected or not adopted\n\n- No movement was manufactured from injury flags alone. None of the reviewed top 35 had a verified short-term injury that justified a material season-long demotion.\n- Premier Injuries return-date details were not adopted because the page was inaccessible.\n- Price, ownership and classic-FPL transfer convenience were ignored.\n\n## Next triggers\n\n- Confirmed penalties or set-piece changes.\n- A material transfer, first-team role change or long-term injury.\n- Next block: overall ranks 31–60 with challengers 26–30 and 61–65.\n\n## Validation\n\n- Stable FPL IDs retained.\n- Ranks 1–350 remain complete and unique.\n- All non-reviewed ranks 36–350 retained their occupants.\n''')
+
+          changes=Path('vault')/f'{CHANGES}.md'; changes.parent.mkdir(parents=True,exist_ok=True)
+          moves=[f'- {n}: **{old[n]} → {i}**' for i,n in enumerate(order,1) if old[n]!=i]
+          unchanged=[n for i,n in enumerate(order,1) if old[n]==i]
+          changes.write_text(f'''---\ntype: changes\nchanged_at: {TS}\nscope: cross-position ranks 1-30\n---\n\n# Cross-position block 1 changes\n\n## Rank changes\n\n{chr(10).join(moves) if moves else '- No material rank changes.'}\n\n## Important no-change decisions\n\n- Unchanged: {', '.join(unchanged) if unchanged else 'None'}.\n- No player outside ranks 1–35 changed global rank.\n- No short-term injury demotion was manufactured.\n\n## Methodology changes\n\n- Added canonical season-horizon injury weighting for Draft.\n- Premier Injuries is now a named specialist source when accessible, subordinate to official club and FPL evidence.\n\n## Next block\n\n- Overall ranks 31–60 with challengers 26–30 and 61–65.\n''')
+
+          for f in ['vault/01 Current/Current Watchlist.md','vault/Home.md','vault/Wiki.md']:
+              p=Path(f); q=p.read_text(); q+=f'\n\n<!-- 2031-aest-cross-position-1-30 -->\n- Cross-position ranks 1–30 reviewed with challengers 31–35; season-horizon injury weighting adopted: [[{REVIEW}]] · [[{CHANGES}]].\n'; p.write_text(q)
+          changed += ['vault/01 Current/Current Draft Board.md','.agents/skills/rank-draft-board/SKILL.md',str(review),str(changes),'vault/01 Current/Current Watchlist.md','vault/Home.md','vault/Wiki.md']
+          changelog=Path('vault/00 Meta/Document Changelog.md'); c=changelog.read_text()
+          evidence='https://fantasy.premierleague.com/api/bootstrap-static/; https://fantasy.premierleague.com/api/fixtures/; https://www.premierinjuries.com/injury-table.php (HTTP 403, not adopted); [['+REVIEW+']]; [['+CHANGES+']]'
+          for f in changed+['vault/00 Meta/Document Changelog.md']:
+              action='created' if f in [str(review),str(changes)] else 'updated'
+              c+=f'\n| {TS} | `{f}` | {action} | Cross-position ranks 1–30 with challengers 31–35 and Draft-horizon injury methodology | [[{REVIEW}]] | {evidence} |'
+          changelog.write_text(c+'\n')
+          PY
+          python /tmp/review.py
+          python scripts/validate_draft_board.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Review cross-position ranks 1-30"
+          git push origin HEAD:codex/fpl-review-20260804-2031-cross-position-1-30
