@@ -5,9 +5,9 @@ player_name: Vicario
 team: "[[03 Teams/TOT]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 147
+current_rank: 176
 current_segment: Depth
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Vicario
@@ -61,3 +61,12 @@ Inserted at rank 96 after the full unranked-player screen. Compared with Petrovi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
+
+
+## 0022-AEST cross-position comparison
+
+- Reviewed with overall ranks 151–180 and challengers 146–150 and 181–185.
+- Overall rank: **147 → 176**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].

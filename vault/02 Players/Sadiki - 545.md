@@ -4,10 +4,10 @@ fpl_id: 545
 player: Sadiki
 team: SUN
 position: MID
-current_rank: 159
+current_rank: 150
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-03T23:16:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Sadiki
@@ -53,3 +53,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
+
+
+## 0022-AEST cross-position comparison
+
+- Reviewed with overall ranks 151–180 and challengers 146–150 and 181–185.
+- Overall rank: **159 → 150**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].
