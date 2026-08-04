@@ -4,10 +4,10 @@ fpl_id: 75
 player: Christie
 team: BOU
 position: MID
-current_rank: 311
+current_rank: 298
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T07:06:00+10:00
+last_reviewed: 2026-08-05T08:44:00+10:00
 ---
 
 # Christie
@@ -52,3 +52,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **344 → 311**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].
+
+
+## 0844-AEST cross-position comparison
+
+- Reviewed with overall ranks 301–330 and challengers 296–300 and 331–335.
+- Overall rank: **311 → 298**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].

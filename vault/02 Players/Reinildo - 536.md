@@ -4,10 +4,10 @@ fpl_id: 536
 player: Reinildo
 team: SUN
 position: DEF
-current_rank: 309
+current_rank: 300
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-04T09:20:00+10:00
+last_reviewed: 2026-08-05T08:44:00+10:00
 ---
 
 # Reinildo
@@ -57,3 +57,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **329 → 309**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
+
+
+## 0844-AEST cross-position comparison
+
+- Reviewed with overall ranks 301–330 and challengers 296–300 and 331–335.
+- Overall rank: **309 → 300**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
