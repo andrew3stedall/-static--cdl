@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Goalkeeper
@@ -38,12 +38,12 @@ Players are listed in canonical overall draft rank order.
 
 77. [[02 Players/Raya - 1|Raya]] — GKP, ARS; Core / C+; Available
 84. [[02 Players/Donnarumma - 384|Donnarumma]] — GKP, MCI; Depth / C; Available
-96. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Depth / C; Available
-105. [[02 Players/Pickford - 226|Pickford]] — GKP, EVE; Depth / C; Available
-109. [[02 Players/Henderson - 198|Henderson]] — GKP, CRY; Depth / C; Available
+113. [[02 Players/Pickford - 226|Pickford]] — GKP, EVE; Depth / C; Available
+114. [[02 Players/Henderson - 198|Henderson]] — GKP, CRY; Depth / C; Available
 115. [[02 Players/Pope - 442|Pope]] — GKP, NEW; Depth / C; Available
 116. [[02 Players/Vicario - 494|Vicario]] — GKP, TOT; Depth / C; Available
-119. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Depth / C; Available
+123. [[02 Players/A.Becker - 350|A.Becker]] — GKP, LIV; Depth / C; Available
+124. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Depth / C; Available
 130. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Endgame / D+; Available
 131. [[02 Players/Petrović - 57|Petrović]] — GKP, BOU; Depth / C; Available
 142. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Endgame / D+; Available
@@ -60,7 +60,7 @@ Players are listed in canonical overall draft rank order.
 339. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
 342. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T20:55:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-04T23:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

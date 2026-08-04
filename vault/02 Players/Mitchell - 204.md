@@ -5,9 +5,9 @@ player_name: Mitchell
 team: "[[03 Teams/CRY]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 99
+current_rank: 101
 current_segment: Core
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Mitchell
@@ -51,3 +51,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Overall rank: **104 → 99**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2351-AEST cross-position comparison
+
+- Reviewed with overall ranks 91–120 and challengers 86–90 and 121–125.
+- Overall rank: **99 → 101**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].

@@ -5,9 +5,9 @@ player_name: Tete
 team: "[[03 Teams/FUL]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 101
+current_rank: 102
 current_segment: Depth
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Tete
@@ -62,3 +62,12 @@ Rank updated to 81 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Overall rank: **125 → 101**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2351-AEST cross-position comparison
+
+- Reviewed with overall ranks 91–120 and challengers 86–90 and 121–125.
+- Overall rank: **101 → 102**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].

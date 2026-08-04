@@ -4,10 +4,10 @@ fpl_id: 160
 player: Garnacho
 team: AVL
 position: MID
-current_rank: 100
+current_rank: 96
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-03T23:16:00+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Garnacho
@@ -59,3 +59,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/2316-AEST-review]].
 
+
+
+## 2351-AEST cross-position comparison
+
+- Reviewed with overall ranks 91–120 and challengers 86–90 and 121–125.
+- Overall rank: **100 → 96**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].

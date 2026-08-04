@@ -4,10 +4,10 @@ fpl_id: 503
 player: Van de Ven
 team: TOT
 position: DEF
-current_rank: 143
+current_rank: 103
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-02T16:02:25+10:00
+last_reviewed: 2026-08-04T23:51:00+10:00
 ---
 
 # Van de Ven
@@ -55,3 +55,12 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Reversal trigger: verified change in minutes, role, penalties, set pieces, fitness, transfer status or first-choice position.
 - Evidence: [[06 Reviews/2026/08/2026-08-03/0835-AEST-review]].
 
+
+
+## 2351-AEST cross-position comparison
+
+- Reviewed with overall ranks 91–120 and challengers 86–90 and 121–125.
+- Overall rank: **102 → 103**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].
