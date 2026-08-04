@@ -275,3 +275,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 1144-aest-goalkeeper-review -->
 - All goalkeepers positionally reviewed: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]] · [[07 Changes/2026/08/2026-08-04/1144-AEST-changes]].
+
+
+<!-- 2031-aest-cross-position-1-30 -->
+- Cross-position ranks 1–30 reviewed with challengers 31–35; season-horizon injury weighting adopted: [[06 Reviews/2026/08/2026-08-04/2031-AEST-review]] · [[07 Changes/2026/08/2026-08-04/2031-AEST-changes]].

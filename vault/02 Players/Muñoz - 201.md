@@ -7,7 +7,7 @@ position: "[[04 Positions/Defender]]"
 api_status: available
 current_rank: 32
 current_segment: Foundation
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T20:31:00+10:00
 ---
 
 # Daniel Muñoz
@@ -51,3 +51,12 @@ Elite attacking-defender profile, but defender replacement value keeps him below
 - Overall rank: **26 → 32**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2031-AEST cross-position comparison
+
+- Overall block order: **32** after comparing ranks 1–30 with challengers 31–35.
+- Overall rank: **32 → 32**.
+- Comparator used raw expected season points first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Injuries were weighted over the full draft season; a short expected absence receives only a small discount.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2031-AEST-review]].
