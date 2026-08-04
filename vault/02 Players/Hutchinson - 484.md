@@ -7,7 +7,7 @@ position: MID
 current_rank: 146
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Hutchinson
@@ -74,3 +74,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
+
+
+## 0022-AEST cross-position comparison
+
+- Reviewed with overall ranks 151–180 and challengers 146–150 and 181–185.
+- Overall rank: **146 → 146**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].

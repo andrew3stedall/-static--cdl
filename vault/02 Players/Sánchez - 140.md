@@ -5,10 +5,10 @@ player_name: Sánchez
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 149
+current_rank: 178
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Sánchez
@@ -72,3 +72,12 @@ Compared within ranks 106–145. Current placement: **118**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
+
+
+## 0022-AEST cross-position comparison
+
+- Reviewed with overall ranks 151–180 and challengers 146–150 and 181–185.
+- Overall rank: **149 → 178**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].

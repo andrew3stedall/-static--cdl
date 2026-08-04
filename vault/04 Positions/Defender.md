@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Defender
@@ -81,24 +81,24 @@ Players are listed in canonical overall draft rank order.
 142. [[02 Players/Senesi - 498|Senesi]] — DEF, TOT; Endgame / D+; Available
 143. [[02 Players/Van Hecke - 112|Van Hecke]] — DEF, TOT; Endgame / D+; Available
 144. [[02 Players/Lacroix - 200|Lacroix]] — DEF, CHE; Endgame / D+; Available
-157. [[02 Players/Dunk - 116|Dunk]] — DEF, BHA; Endgame / D+; Available
-158. [[02 Players/Kayode - 88|Kayode]] — DEF, BRE; Endgame / D+; Available
-160. [[02 Players/Mykolenko - 233|Mykolenko]] — DEF, EVE; Endgame / D+; Available
-162. [[02 Players/Struijk - 328|Struijk]] — DEF, BHA; Undrafted buffer / D; Available
-164. [[02 Players/Digne - 30|Digne]] — DEF, AVL; Undrafted buffer / D; Available
-166. [[02 Players/Branthwaite - 230|Branthwaite]] — DEF, EVE; Deep watch / D-; Available
-169. [[02 Players/Udogie - 506|Udogie]] — DEF, TOT; Undrafted buffer / D; Available
-171. [[02 Players/Spence - 505|Spence]] — DEF, TOT; Undrafted buffer / D; Available
-172. [[02 Players/Botman - 447|Botman]] — DEF, NEW; Undrafted buffer / D; Available
-175. [[02 Players/Milenković - 471|Milenković]] — DEF, NFO; Undrafted buffer / D; Available
-176. [[02 Players/Hume - 534|Hume]] — DEF, SUN; Undrafted buffer / D; Available
-177. [[02 Players/Ballard - 532|Ballard]] — DEF, SUN; Undrafted buffer / D; Available
-178. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF, BRE; Undrafted buffer / D; Available
-179. [[02 Players/Alderete - 535|Alderete]] — DEF, SUN; Undrafted buffer / D; Available
-180. [[02 Players/Bijol - 327|Bijol]] — DEF, LEE; Undrafted buffer / D; Available
-181. [[02 Players/Richards - 202|Richards]] — DEF, CRY; Endgame / D+; Available
-182. [[02 Players/Thiaw - 445|Thiaw]] — DEF, NEW; Deep watch / D-; Available
-185. [[02 Players/Boscagli - 114|Boscagli]] — DEF, BHA; Deep watch / D-; Available
+148. [[02 Players/Dunk - 116|Dunk]] — DEF, BHA; Endgame / D+; Available
+149. [[02 Players/Kayode - 88|Kayode]] — DEF, BRE; Endgame / D+; Available
+151. [[02 Players/Mykolenko - 233|Mykolenko]] — DEF, EVE; Endgame / D+; Available
+153. [[02 Players/Struijk - 328|Struijk]] — DEF, BHA; Endgame / D+; Available
+155. [[02 Players/Digne - 30|Digne]] — DEF, AVL; Endgame / D+; Available
+156. [[02 Players/Branthwaite - 230|Branthwaite]] — DEF, EVE; Endgame / D+; Available
+158. [[02 Players/Udogie - 506|Udogie]] — DEF, TOT; Endgame / D+; Available
+160. [[02 Players/Spence - 505|Spence]] — DEF, TOT; Endgame / D+; Available
+161. [[02 Players/Botman - 447|Botman]] — DEF, NEW; Undrafted buffer / D; Available
+163. [[02 Players/Milenković - 471|Milenković]] — DEF, NFO; Undrafted buffer / D; Available
+164. [[02 Players/Hume - 534|Hume]] — DEF, SUN; Undrafted buffer / D; Available
+165. [[02 Players/Ballard - 532|Ballard]] — DEF, SUN; Undrafted buffer / D; Available
+166. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF, BRE; Undrafted buffer / D; Available
+167. [[02 Players/Richards - 202|Richards]] — DEF, CRY; Undrafted buffer / D; Available
+168. [[02 Players/Bijol - 327|Bijol]] — DEF, LEE; Undrafted buffer / D; Available
+169. [[02 Players/Alderete - 535|Alderete]] — DEF, SUN; Undrafted buffer / D; Available
+170. [[02 Players/Thiaw - 445|Thiaw]] — DEF, NEW; Undrafted buffer / D; Available
+173. [[02 Players/Boscagli - 114|Boscagli]] — DEF, BHA; Undrafted buffer / D; Available
 186. [[02 Players/O'Brien - 232|O'Brien]] — DEF, EVE; Depth / C; Available
 188. [[02 Players/Martinez - 419|Martinez]] — DEF, MUN; Deep watch / D-; Thigh injury - 75% chance of playing
 191. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Deep watch / D-; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:05:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:22:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

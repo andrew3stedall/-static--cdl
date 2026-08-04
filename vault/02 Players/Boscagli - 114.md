@@ -4,10 +4,10 @@ fpl_id: 114
 player: Boscagli
 team: BHA
 position: DEF
-current_rank: 185
+current_rank: 173
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Boscagli
@@ -65,3 +65,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **185 → 185**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0022-AEST cross-position comparison
+
+- Reviewed with overall ranks 151–180 and challengers 146–150 and 181–185.
+- Overall rank: **185 → 173**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].

@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-05T00:22:00+10:00
 ---
 
 # Midfielder
@@ -111,15 +111,15 @@ Players are listed in canonical overall draft rank order.
 139. [[02 Players/Bobb - 264|Bobb]] — MID, FUL; Endgame / D+; Available
 145. [[02 Players/King - 268|King]] — MID, FUL; Endgame / D+; Available
 146. [[02 Players/Hutchinson - 484|Hutchinson]] — MID, NFO; Endgame / D+; Available
-156. [[02 Players/Gravenberch - 371|Gravenberch]] — MID, LIV; Endgame / D+; Available
-159. [[02 Players/Sadiki - 545|Sadiki]] — MID, SUN; Endgame / D+; Available
-161. [[02 Players/Ayari - 129|Ayari]] — MID, BHA; Endgame / D+; Available
-163. [[02 Players/Hinshelwood - 123|Hinshelwood]] — MID, BHA; Undrafted buffer / D; Available
-168. [[02 Players/Ampadu - 338|Ampadu]] — MID, LEE; Undrafted buffer / D; Available
-170. [[02 Players/Grealish - 238|Grealish]] — MID, MCI; Undrafted buffer / D; Foot injury - 75% chance of playing
-174. [[02 Players/Xavi - 513|Xavi]] — MID, TOT; Undrafted buffer / D; Knee injury - Unknown return date
-183. [[02 Players/Caicedo - 159|Caicedo]] — MID, CHE; Endgame / D+; Available
-184. [[02 Players/Yeremy - 211|Yeremy]] — MID, CRY; Undrafted buffer / D; Available
+147. [[02 Players/Gravenberch - 371|Gravenberch]] — MID, LIV; Endgame / D+; Available
+150. [[02 Players/Sadiki - 545|Sadiki]] — MID, SUN; Endgame / D+; Available
+152. [[02 Players/Ayari - 129|Ayari]] — MID, BHA; Endgame / D+; Available
+154. [[02 Players/Hinshelwood - 123|Hinshelwood]] — MID, BHA; Endgame / D+; Available
+157. [[02 Players/Ampadu - 338|Ampadu]] — MID, LEE; Endgame / D+; Available
+159. [[02 Players/Grealish - 238|Grealish]] — MID, MCI; Endgame / D+; Foot injury - 75% chance of playing
+171. [[02 Players/Caicedo - 159|Caicedo]] — MID, CHE; Undrafted buffer / D; Available
+172. [[02 Players/Yeremy - 211|Yeremy]] — MID, CRY; Undrafted buffer / D; Available
+175. [[02 Players/Xavi - 513|Xavi]] — MID, TOT; Undrafted buffer / D; Knee injury - Unknown return date
 190. [[02 Players/Merino - 17|Merino]] — MID, ARS; Deep watch / D-; Available
 194. [[02 Players/Gallagher - 519|Gallagher]] — MID, TOT; Deep watch / D-; Available
 198. [[02 Players/Rodrigo - 402|Rodrigo]] — MID, MCI; Undrafted buffer / D; Back injury - Unknown return date
@@ -189,7 +189,7 @@ Players are listed in canonical overall draft rank order.
 346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
 349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:05:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T00:22:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
