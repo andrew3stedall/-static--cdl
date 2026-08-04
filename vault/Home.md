@@ -315,3 +315,7 @@ last_updated: 2026-08-02T08:41:00+10:00
 
 <!-- 0806-aest-cross-position-241-270 -->
 - Cross-position ranks 241–270 reviewed with challengers 236–240 and 271–275: [[06 Reviews/2026/08/2026-08-05/0806-AEST-review]] · [[07 Changes/2026/08/2026-08-05/0806-AEST-changes]].
+
+
+<!-- 0816-aest-cross-position-271-300 -->
+- Cross-position ranks 271–300 reviewed with challengers 266–270 and 301–305: [[06 Reviews/2026/08/2026-08-05/0816-AEST-review]] · [[07 Changes/2026/08/2026-08-05/0816-AEST-changes]].

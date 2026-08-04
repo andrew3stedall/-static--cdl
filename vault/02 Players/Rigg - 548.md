@@ -4,10 +4,10 @@ fpl_id: 548
 player: Rigg
 team: SUN
 position: MID
-current_rank: 289
+current_rank: 273
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T07:06:00+10:00
+last_reviewed: 2026-08-05T08:16:00+10:00
 ---
 
 # Rigg
@@ -53,3 +53,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **335 → 289**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].
+
+
+## 0816-AEST cross-position comparison
+
+- Reviewed with overall ranks 271–300 and challengers 266–270 and 301–305.
+- Overall rank: **289 → 273**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0816-AEST-review]].
