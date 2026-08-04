@@ -7,9 +7,9 @@ player_name: Saliba
 team: "[[03 Teams/ARS]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Back injury - Unknown return date"
-current_rank: 68
+current_rank: 67
 current_segment: Core
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Saliba
@@ -53,3 +53,12 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Overall rank: **85 → 68**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2055-AEST cross-position comparison
+
+- Reviewed with overall ranks 61–90 and challengers 56–60 and 91–95.
+- Overall rank: **68 → 67**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2055-AEST-review]].

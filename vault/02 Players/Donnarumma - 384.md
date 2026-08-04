@@ -8,7 +8,7 @@ api_status: "Available"
 current_rank: 84
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T11:44:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Donnarumma
@@ -59,3 +59,12 @@ Rank updated to 84 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Overall rank: **84 → 84**.
 - Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].
+
+
+## 2055-AEST cross-position comparison
+
+- Reviewed with overall ranks 61–90 and challengers 56–60 and 91–95.
+- Overall rank: **84 → 84**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2055-AEST-review]].

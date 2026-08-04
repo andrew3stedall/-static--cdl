@@ -5,10 +5,10 @@ player_name: Hall
 team: "[[03 Teams/NEW]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 91
+current_rank: 86
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T07:19:00+10:00
+last_reviewed: 2026-08-04T20:55:00+10:00
 ---
 
 # Hall
@@ -58,3 +58,12 @@ Rank updated to 86 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Overall rank: **112 → 91**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0719-AEST-review]].
+
+
+## 2055-AEST cross-position comparison
+
+- Reviewed with overall ranks 61–90 and challengers 56–60 and 91–95.
+- Overall rank: **91 → 86**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2055-AEST-review]].
