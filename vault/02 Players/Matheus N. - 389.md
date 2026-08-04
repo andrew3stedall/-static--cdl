@@ -5,9 +5,9 @@ player_name: Matheus N.
 team: "[[03 Teams/MCI]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 236
+current_rank: 228
 current_segment: Depth
-last_reviewed: 2026-08-04T08:54:00+10:00
+last_reviewed: 2026-08-05T07:19:00+10:00
 ---
 
 # Matheus N.
@@ -82,3 +82,12 @@ Rank updated to 97 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Overall rank: **229 → 236**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0854-AEST-review]].
+
+
+## 0719-AEST cross-position comparison
+
+- Reviewed with overall ranks 211–240 and challengers 206–210 and 241–245.
+- Overall rank: **236 → 228**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].

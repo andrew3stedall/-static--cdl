@@ -4,10 +4,10 @@ fpl_id: 80
 player: Enes Ünal
 team: BOU
 position: FWD
-current_rank: 234
+current_rank: 226
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-03T18:23:00+10:00
+last_reviewed: 2026-08-05T07:19:00+10:00
 ---
 
 # Enes Ünal
@@ -52,3 +52,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **234 → 234**.
 - Comparator: raw expected points, then minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-03/1823-AEST-review]].
+
+
+## 0719-AEST cross-position comparison
+
+- Reviewed with overall ranks 211–240 and challengers 206–210 and 241–245.
+- Overall rank: **234 → 226**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].

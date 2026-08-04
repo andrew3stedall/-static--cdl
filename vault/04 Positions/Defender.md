@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-05T06:24:00+10:00
+last_reviewed: 2026-08-05T07:19:00+10:00
 ---
 
 # Defender
@@ -108,11 +108,11 @@ Players are listed in canonical overall draft rank order.
 196. [[02 Players/Canvot - 203|Canvot]] — DEF, CRY; Undrafted buffer / D; Available
 197. [[02 Players/Maatsen - 36|Maatsen]] — DEF, AVL; Undrafted buffer / D; Available
 203. [[02 Players/Pau - 34|Pau]] — DEF, AVL; Undrafted buffer / D; Available
-221. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF, LEE; Deep watch / D-; Available
-229. [[02 Players/Andersen - 253|Andersen]] — DEF, FUL; Depth / C; Suspended until 29 Aug
-231. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Extended watch buffer / Watch; Available
-232. [[02 Players/Hill - 60|Hill]] — DEF, BOU; Extended watch buffer / Watch; Available
-236. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF, MCI; Extended watch buffer / Watch; Available
+220. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF, LEE; Undrafted buffer / D; Available
+223. [[02 Players/Andersen - 253|Andersen]] — DEF, FUL; Extended watch buffer / Watch; Suspended until 29 Aug
+225. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Extended watch buffer / Watch; Available
+228. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF, MCI; Extended watch buffer / Watch; Available
+233. [[02 Players/Hill - 60|Hill]] — DEF, BOU; Extended watch buffer / Watch; Available
 247. [[02 Players/Danso - 501|Danso]] — DEF, TOT; Undrafted buffer / D; Available
 248. [[02 Players/Khusanov - 393|Khusanov]] — DEF, MCI; Endgame / D+; Available
 249. [[02 Players/Konsa - 31|Konsa]] — DEF, AVL; Endgame / D+; Available
@@ -165,7 +165,7 @@ Players are listed in canonical overall draft rank order.
 348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
 350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T06:24:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T07:19:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
