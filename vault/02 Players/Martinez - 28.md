@@ -5,9 +5,9 @@ player_name: Martinez
 team: "[[03 Teams/AVL]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 331
+current_rank: 343
 current_segment: Depth
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Martinez
@@ -119,3 +119,12 @@ Rank updated to 111 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **331 → 343**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

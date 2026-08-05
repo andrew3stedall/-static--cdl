@@ -4,10 +4,10 @@ fpl_id: 7
 player: Lewis-Skelly
 team: ARS
 position: MID
-current_rank: 344
+current_rank: 331
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T07:06:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Lewis-Skelly
@@ -53,3 +53,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **334 → 344**.
 - Raw expected points were compared before minutes, role, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0706-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **344 → 331**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

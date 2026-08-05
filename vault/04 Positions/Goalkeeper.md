@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Goalkeeper
@@ -46,21 +46,21 @@ Players are listed in canonical overall draft rank order.
 235. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Extended watch buffer / Watch; Available
 295. [[02 Players/Petrović - 57|Petrović]] — GKP, BOU; Extended watch buffer / Watch; Available
 325. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Extended watch buffer / Watch; Available
-326. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Extended watch buffer / Watch; Available
-327. [[02 Players/Leno - 250|Leno]] — GKP, FUL; Extended watch buffer / Watch; Available
-328. [[02 Players/Sels - 467|Sels]] — GKP, NFO; Extended watch buffer / Watch; Available
-329. [[02 Players/Roefs - 529|Roefs]] — GKP, SUN; Extended watch buffer / Watch; Available
-330. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Extended watch buffer / Watch; Available
-331. [[02 Players/Martinez - 28|Martinez]] — GKP, AVL; Extended watch buffer / Watch; Available
-332. [[02 Players/Palmer - 301|Palmer]] — GKP, IPS; Extended watch buffer / Watch; Available
-333. [[02 Players/Kinsky - 496|Kinsky]] — GKP, TOT; Extended watch buffer / Watch; Available
-334. [[02 Players/Perri - 326|Perri]] — GKP, LEE; Extended watch buffer / Watch; Available
-335. [[02 Players/Wilson - 172|Wilson]] — GKP, COV; Extended watch buffer / Watch; Available
-337. [[02 Players/Dubravka - 497|Dubravka]] — GKP, TOT; Extended watch buffer / Watch; Available
-339. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
-342. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
+338. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP, BHA; Extended watch buffer / Watch; Available
+339. [[02 Players/Leno - 250|Leno]] — GKP, FUL; Extended watch buffer / Watch; Available
+340. [[02 Players/Sels - 467|Sels]] — GKP, NFO; Extended watch buffer / Watch; Available
+341. [[02 Players/Roefs - 529|Roefs]] — GKP, SUN; Extended watch buffer / Watch; Available
+342. [[02 Players/Lammens - 412|Lammens]] — GKP, MUN; Extended watch buffer / Watch; Available
+343. [[02 Players/Martinez - 28|Martinez]] — GKP, AVL; Extended watch buffer / Watch; Available
+344. [[02 Players/Palmer - 301|Palmer]] — GKP, IPS; Extended watch buffer / Watch; Available
+345. [[02 Players/Kinsky - 496|Kinsky]] — GKP, TOT; Extended watch buffer / Watch; Available
+346. [[02 Players/Perri - 326|Perri]] — GKP, LEE; Extended watch buffer / Watch; Available
+347. [[02 Players/Wilson - 172|Wilson]] — GKP, COV; Extended watch buffer / Watch; Available
+348. [[02 Players/Mamardashvili - 351|Mamardashvili]] — GKP, LIV; Extended watch buffer / Watch; Available
+349. [[02 Players/Dubravka - 497|Dubravka]] — GKP, TOT; Extended watch buffer / Watch; Available
+350. [[02 Players/Darlow - 325|Darlow]] — GKP, MUN; Extended watch buffer / Watch; Unspecified injury - 75% chance of playing
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:44:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T20:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

@@ -5,10 +5,10 @@ player_name: Leno
 team: "[[03 Teams/FUL]]"
 position: "[[04 Positions/Goalkeeper]]"
 api_status: "Available"
-current_rank: 327
+current_rank: 339
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Leno
@@ -142,3 +142,12 @@ Compared within ranks 106–145. Current placement: **106**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **327 → 339**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

@@ -2,7 +2,7 @@
 type: position
 position_name: Defender
 fpl_element_type: 2
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Defender
@@ -156,16 +156,16 @@ Players are listed in canonical overall draft rank order.
 319. [[02 Players/Ji-soo - 92|Ji-soo]] — DEF, BRE; Extended watch buffer / Watch; Available
 320. [[02 Players/Jacquet - 362|Jacquet]] — DEF, LIV; Extended watch buffer / Watch; Available
 324. [[02 Players/Svoboda - 120|Svoboda]] — DEF, BHA; Extended watch buffer / Watch; Available
-336. [[02 Players/Diakité - 62|Diakité]] — DEF, BOU; Extended watch buffer / Watch; Available
-338. [[02 Players/Disasi - 153|Disasi]] — DEF, CHE; Extended watch buffer / Watch; Available
-340. [[02 Players/Lindelöf - 37|Lindelöf]] — DEF, AVL; Extended watch buffer / Watch; Available
-341. [[02 Players/Muharemović - 334|Muharemović]] — DEF, LEE; Extended watch buffer / Watch; Available
-343. [[02 Players/Mosquera - 11|Mosquera]] — DEF, ARS; Extended watch buffer / Watch; Available
-347. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
-348. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
-350. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
+326. [[02 Players/Diakité - 62|Diakité]] — DEF, BOU; Extended watch buffer / Watch; Available
+327. [[02 Players/Disasi - 153|Disasi]] — DEF, CHE; Extended watch buffer / Watch; Available
+328. [[02 Players/Lindelöf - 37|Lindelöf]] — DEF, AVL; Extended watch buffer / Watch; Available
+329. [[02 Players/Muharemović - 334|Muharemović]] — DEF, LEE; Extended watch buffer / Watch; Available
+330. [[02 Players/Mosquera - 11|Mosquera]] — DEF, ARS; Extended watch buffer / Watch; Available
+332. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
+333. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
+337. [[02 Players/Alleyne - 394|Alleyne]] — DEF, MCI; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:44:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T20:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
