@@ -4,10 +4,10 @@ fpl_id: 153
 player: Disasi
 team: CHE
 position: DEF
-current_rank: 338
+current_rank: 327
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T09:20:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Disasi
@@ -53,3 +53,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Overall rank: **338 → 338**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **338 → 327**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

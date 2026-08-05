@@ -4,10 +4,10 @@ fpl_id: 325
 player: Darlow
 team: MUN
 position: GKP
-current_rank: 342
+current_rank: 350
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T11:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Darlow
@@ -44,3 +44,12 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Overall rank: **321 → 342**.
 - Compared on expected clean sheets, save volume, bonus potential, first-choice security, injury risk and replacement value.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/1144-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **342 → 350**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

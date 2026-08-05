@@ -4,10 +4,10 @@ fpl_id: 301
 player: Palmer
 team: IPS
 position: GKP
-current_rank: 332
+current_rank: 344
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Palmer
@@ -68,3 +68,12 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **332 → 344**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

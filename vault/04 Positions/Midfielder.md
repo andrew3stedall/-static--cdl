@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Midfielder
@@ -184,12 +184,12 @@ Players are listed in canonical overall draft rank order.
 321. [[02 Players/Touré - 461|Touré]] — MID, NEW; Extended watch buffer / Watch; Available
 322. [[02 Players/Devenny - 215|Devenny]] — MID, CRY; Extended watch buffer / Watch; Available
 323. [[02 Players/Kamara - 47|Kamara]] — MID, AVL; Extended watch buffer / Watch; Knee injury - 75% chance of playing
-344. [[02 Players/Lewis-Skelly - 7|Lewis-Skelly]] — MID, ARS; Extended watch buffer / Watch; Available
-345. [[02 Players/Iroegbunam - 240|Iroegbunam]] — MID, EVE; Extended watch buffer / Watch; Available
-346. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
-349. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
+331. [[02 Players/Lewis-Skelly - 7|Lewis-Skelly]] — MID, ARS; Extended watch buffer / Watch; Available
+334. [[02 Players/Andrey Santos - 162|Andrey Santos]] — MID, MUN; Extended watch buffer / Watch; Available
+335. [[02 Players/Iroegbunam - 240|Iroegbunam]] — MID, EVE; Extended watch buffer / Watch; Available
+336. [[02 Players/Munoz - 377|Munoz]] — MID, LIV; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:44:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T20:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

@@ -4,10 +4,10 @@ fpl_id: 11
 player: Mosquera
 team: ARS
 position: DEF
-current_rank: 343
+current_rank: 330
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-04T09:20:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Mosquera
@@ -57,3 +57,12 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Overall rank: **343 → 343**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **343 → 330**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].

@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Forward
@@ -92,7 +92,7 @@ Players are listed in canonical overall draft rank order.
 255. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
 296. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T08:44:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T20:51:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

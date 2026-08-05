@@ -4,10 +4,10 @@ fpl_id: 334
 player: Muharemović
 team: LEE
 position: DEF
-current_rank: 341
+current_rank: 329
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-04T09:20:00+10:00
+last_reviewed: 2026-08-05T20:51:00+10:00
 ---
 
 # Muharemović
@@ -45,3 +45,12 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Overall rank: **341 → 341**.
 - Raw expected points were compared before minutes, attacking role, clean-sheet environment, set pieces, injury/rotation risk, floor and ceiling.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/0920-AEST-review]].
+
+
+## 2051-AEST cross-position comparison
+
+- Reviewed in the final overall block, ranks 331–350 with challengers 326–330.
+- Overall rank: **341 → 329**.
+- Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
+- Draft-horizon injury weighting applied.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].
