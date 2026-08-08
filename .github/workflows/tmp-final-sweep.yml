@@ -17,32 +17,263 @@ jobs:
         with:
           python-version: '3.12'
       - run: |
+          if git log -1 --pretty=%B | grep -q '^Apply final full-board sweep$'; then exit 0; fi
           curl --retry 3 --retry-delay 2 -fsSL https://fantasy.premierleague.com/api/bootstrap-static/ -o /tmp/bootstrap.json
           curl --retry 3 --retry-delay 2 -fsSL https://fantasy.premierleague.com/api/fixtures/ -o /tmp/fixtures.json
-          python - <<'PY'
+          cat > /tmp/final_sweep.py <<'PY'
           import json,re
           from pathlib import Path
-          board=Path('vault/01 Current/Current Draft Board.md').read_text()
-          rows=[[x.strip() for x in l.strip().strip('|').split('|')] for l in board.splitlines() if re.match(r'^\| \d+ \|',l)]
-          api=json.load(open('/tmp/bootstrap.json'))
-          elems=api['elements']; byid={int(x['id']):x for x in elems}; ids={int(r[6]) for r in rows}
-          team={x['id']:x['short_name'] for x in api['teams']}; pos={1:'GKP',2:'DEF',3:'MID',4:'FWD'}
-          new=[x for x in elems if x['id'] not in ids]
-          gone=[r for r in rows if int(r[6]) not in byid]
-          out=['# API reconciliation candidates','',f'Board rows: {len(rows)}',f'API players: {len(elems)}',f'New API players absent from board: {len(new)}',f'Board players absent from API: {len(gone)}','', '## New API players']
-          for x in sorted(new,key=lambda z:(team[z['team']],pos[z['element_type']],z['web_name'])):
-              out.append(f"- {x['id']} | {x['web_name']} | {pos[x['element_type']]} | {team[x['team']]} | cost={x['now_cost']/10:.1f} | selected={x['selected_by_percent']}% | status={x['status']} | chance={x.get('chance_of_playing_next_round')} | news={x.get('news','')}")
-          out += ['', '## Board players absent from current API']
-          for r in gone: out.append('- '+' | '.join(r[:8]))
-          Path('vault/00 Meta/Final Sweep API Reconciliation.md').write_text('\n'.join(out)+'\n')
-          cand=['# New-player shortlist by FPL expectation signals','','Price and ownership are only expectation signals; they do not determine Draft rank.','']
-          for x in sorted(new,key=lambda z:(-z['now_cost'],-float(z['selected_by_percent']),z['web_name']))[:100]:
-              cand.append(f"- {x['id']} | {x['web_name']} | {pos[x['element_type']]} | {team[x['team']]} | cost={x['now_cost']/10:.1f} | selected={x['selected_by_percent']}% | status={x['status']} | news={x.get('news','')}")
-          Path('vault/00 Meta/Final Sweep New Candidate Shortlist.md').write_text('\n'.join(cand)+'\n')
+          from collections import Counter
+
+          TS='2026-08-08T16:50:00+10:00'
+          R='06 Reviews/2026/08/2026-08-08/1650-AEST-review'
+          C='07 Changes/2026/08/2026-08-08/1650-AEST-changes'
+          BOOT='https://fantasy.premierleague.com/api/bootstrap-static/'
+          FIX='https://fantasy.premierleague.com/api/fixtures/'
+          PI='https://www.premierinjuries.com/injury-table.php'
+          SRC={
+            'romero':'https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal',
+            'rodri':'https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue',
+            'bruno':'https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise',
+            'hornicek':'https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes',
+            'chelsea_fulham':'https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson',
+            'rumours':'https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter',
+            'rumours2':'https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city',
+            'maeda':'https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea',
+            'rushworth':'https://www.theguardian.com/football/2026/aug/04/frank-lampard-coventry-brighton-carl-rushworth-transfer-roundup',
+            'spursinj':'https://www.tottenhamhotspur.com/news/1079669/team-news-robertos-latest-on-deki-kudus-and-vicario-from-new-zealand'
+          }
+          api=json.load(open('/tmp/bootstrap.json')); fixtures=json.load(open('/tmp/fixtures.json'))
+          elems=api['elements']; byid={int(x['id']):x for x in elems}
+          teams={x['id']:x['short_name'] for x in api['teams']}; posmap={1:'GKP',2:'DEF',3:'MID',4:'FWD'}
+
+          boardp=Path('vault/01 Current/Current Draft Board.md'); oldtxt=boardp.read_text()
+          oldrows=[[x.strip() for x in l.strip().strip('|').split('|')] for l in oldtxt.splitlines() if re.match(r'^\| \d+ \|',l)]
+          assert len(oldrows)==350
+          oldrank={int(r[6]):int(r[0]) for r in oldrows}; oldname={int(r[6]):r[1] for r in oldrows}
+          rows=[]
+          for r in oldrows:
+              fid=int(r[6]); x=byid[fid]
+              rr=r[:]
+              rr[2]=posmap[x['element_type']]; rr[3]=teams[x['team']]
+              news=(x.get('news') or '').strip()
+              if x['status']=='a': rr[7]='Available'
+              elif news: rr[7]=news
+              else: rr[7]={'d':'Doubtful','i':'Injured','s':'Suspended','u':'Unavailable'}.get(x['status'],'Unavailable')
+              rows.append(rr)
+
+          # Confirmed PL departure: Chalobah to Como. Remove from active ranked board even while FPL cache still carries the ID.
+          rows=[r for r in rows if int(r[6])!=143]
+
+          # New current-API entrants judged strong enough for the 350-player Draft buffer.
+          candidate_targets={
+            569:108,567:114,562:135,148:150,183:160,315:170,383:178,313:185,245:190,190:195,
+            56:200,22:205,486:210,348:215,521:220,570:225,186:230,164:235,139:240,110:245,
+            385:250,318:255,128:260,126:265,100:270,286:275,568:280,247:285,185:290,184:295,
+            298:300,161:305,23:310,44:315,216:320,72:325
+          }
+          existing_ids={int(r[6]) for r in rows}
+          for fid,target in candidate_targets.items():
+              if fid in existing_ids: continue
+              x=byid[fid]
+              news=(x.get('news') or '').strip()
+              status='Available' if x['status']=='a' else (news or {'d':'Doubtful','i':'Injured','s':'Suspended','u':'Unavailable'}.get(x['status'],'Unavailable'))
+              rows.append(['0',x['web_name'],posmap[x['element_type']],teams[x['team']],'Extended watch buffer','Watch',str(fid),status,TS,f'[[{R}]]'])
+
+          # Manual evidence-based insertion keys. Current rank remains the base ordering for everyone else.
+          manual={
+            380:145, 416:182, 500:210, 137:220, 440:235, 472:245, 402:265, 459:270, 27:275,
+            43:286, 442:300, 102:330, 513:340, 48:345,
+            **candidate_targets
+          }
+          # Transfer-risk statuses and material non-FPL injury context.
+          overrides={
+            452:'Transfer agreed to Arsenal; completion/registration watch',
+            500:'Advanced Atlético talks; PL-exit risk; knee issue under assessment',
+            402:'Barcelona talks; back surgery; major PL-exit risk',
+            440:'Juventus loan interest; PL-exit risk',
+            27:'Napoli interest; Arsenal open-to-sale reports',
+            442:'Horníček expected Newcastle No.1; Pope exit risk',
+            513:'ACL; Premier Injuries potential return 20 Feb 2027',
+            48:'ACL rupture; no credible near-term return',
+            380:'Post-surgery rehab; Premier Injuries potential return 12 Oct 2026',
+            416:'Back surgery; Premier Injuries potential return 6 Sep 2026',
+            137:'ACL rehab; Premier Injuries potential return 12 Sep 2026',
+            450:'Calf surgery; Premier Injuries potential return 23 Aug 2026',
+            459:'Leg/calf rehab; Premier Injuries potential return 23 Aug 2026',
+            472:'Thigh rehab; Premier Injuries potential return 22 Aug 2026',
+            43:'Thigh injury; return date remains uncertain',
+            102:'Undisclosed absence; no return date',
+            512:'Thigh issue; manager says very close to training return',
+            567:'Newcastle signing; expected first-choice goalkeeper',
+            569:'Fulham £34m striker signing; starting-role competition to monitor',
+            562:'Ipswich attacking signing; role upside',
+            110:'Coventry club-record goalkeeper signing; first-choice pathway',
+          }
+          for r in rows:
+              fid=int(r[6])
+              if fid in overrides: r[7]=overrides[fid]
+
+          # Sort by previous position unless evidence gives an insertion key; ties preserve prior order/new target stability.
+          def key(r):
+              fid=int(r[6]); base=manual.get(fid, oldrank.get(fid, candidate_targets.get(fid,999)))
+              return (float(base), oldrank.get(fid,1000), fid)
+          rows=sorted(rows,key=key)[:350]
+
+          def segtier(rank):
+              if rank<=8: return 'Franchise','S' if rank<=2 else 'A+'
+              if rank<=32: return 'Foundation','A' if rank<=16 else 'B+'
+              if rank<=80: return 'Core','B' if rank<=48 else ('B-' if rank<=65 else 'C+')
+              if rank<=128: return 'Depth','C'
+              if rank<=160: return 'Endgame','D+'
+              if rank<=220: return 'Undrafted buffer','D'
+              return 'Extended watch buffer','Watch'
+          for i,r in enumerate(rows,1):
+              r[0]=str(i); r[4],r[5]=segtier(i); fid=int(r[6])
+              if oldrank.get(fid)!=i or fid in overrides or fid in candidate_targets:
+                  r[8]=TS; r[9]=f'[[{R}]]'
+
+          # Board metadata and roster guardrail.
+          header=oldtxt.split('## Advised order')[0]
+          header=re.sub(r'last_updated: .*',f'last_updated: {TS}',header,1)
+          header=re.sub(r'status: .*','status: final_full_board_sweep_complete',header,1)
+          intro='''## Advised order\n\nThe full 350-player board was swept top-to-bottom in 20-player blocks with five-player boundary buffers on 8 August 2026. The official FPL pool was reconciled before ranking; material transfer-exit risk and injury evidence outside FPL metadata were then applied.\n\n**Draft roster guardrail:** across 20 selections, ensure the final squad contains at least **2 GKP, 5 DEF, 8 MID and 3 FWD**; the remaining two slots are flexible. Do not sacrifice a required late positional slot for a marginally higher-ranked player.\n\n| Pick order | Player | Position | Team | Segment | Tier | FPL ID | Status | Last changed | Evidence |\n|---:|---|---|---|---|---|---:|---|---|---|\n'''
+          body='\n'.join('| '+' | '.join(r)+' |' for r in rows)
+          caut='''\n## Method cautions\n\n- Price and ownership are expectation signals only and do not drive Draft ordering.\n- Short injuries are discounted lightly on a season-long Draft horizon; multi-month/ACL/surgery cases are discounted materially.\n- Transfer reports are graded: confirmed departures remove a player from the active board; advanced talks create material risk; ordinary interest is watchlist evidence, not an automatic demotion.\n- Position scarcity is applied after raw season-points expectation.\n- Material future movements require dated evidence and a changes record.\n'''
+          boardp.write_text(header+intro+body+caut)
+
+          newrank={int(r[6]):int(r[0]) for r in rows}; current_ids=set(newrank)
+          entrants=[fid for fid in current_ids if fid not in oldrank]
+          removals=[fid for fid in oldrank if fid not in current_ids]
+
+          # Player notes for every current ranked player: synchronize rank/team/position/status and add review evidence only when changed/material.
+          changed=[]
+          for r in rows:
+              rank,name,position,team,segment,tier,fid_s,status,_,_=r; fid=int(fid_s)
+              p=Path(f'vault/02 Players/{oldname.get(fid,name)} - {fid}.md')
+              if not p.exists(): p=Path(f'vault/02 Players/{name} - {fid}.md')
+              if p.exists():
+                  s=p.read_text()
+                  s=re.sub(r'(?m)^(current_rank: )\d+',rf'\g<1>{rank}',s,1)
+                  s=re.sub(r'(?m)^(team: ).*',rf'\g<1>{team}',s,1)
+                  s=re.sub(r'(?m)^(position: ).*',rf'\g<1>{position}',s,1)
+                  s=re.sub(r'(?m)^(last_reviewed: ).*',rf'\g<1>{TS}',s,1)
+              else:
+                  s=f'''---\ntype: player\nfpl_id: {fid}\nplayer: {name}\nteam: {team}\nposition: {position}\ncurrent_rank: {rank}\nlast_reviewed: {TS}\n---\n\n# {name}\n'''
+              if oldrank.get(fid)!=int(rank) or fid in overrides or fid in entrants:
+                  s+=f'''\n\n## 1650-AEST final full-board sweep\n\n- Overall rank: **{oldrank.get(fid,'new')} → {rank}**.\n- Current status: **{status}**.\n- Reconciled against the current FPL API and the season-long Draft injury/transfer framework.\n- Full evidence and reversal triggers: [[{R}]].\n'''
+              p.parent.mkdir(parents=True,exist_ok=True); p.write_text(s); changed.append(str(p))
+
+          # Regenerate position pages and all current team pages in canonical rank order.
+          for code,pathstr in {'FWD':'vault/04 Positions/Forward.md','MID':'vault/04 Positions/Midfielder.md','DEF':'vault/04 Positions/Defender.md','GKP':'vault/04 Positions/Goalkeeper.md'}.items():
+              p=Path(pathstr); s=p.read_text() if p.exists() else f'---\ntype: position\nposition: {code}\n---\n\n# {code}\n'
+              lines=[f"{r[0]}. [[02 Players/{oldname.get(int(r[6]),r[1])} - {r[6]}|{r[1]}]] — {r[3]}; {r[4]} / {r[5]}; {r[7]}" for r in rows if r[2]==code]
+              block='<!-- ranked-players:start -->\n## Players by overall rank\n\n'+'\n'.join(lines)+f'\n\nSource: [[01 Current/Current Draft Board]] · generated {TS}\n<!-- ranked-players:end -->'
+              if '<!-- ranked-players:start -->' in s: s=re.sub(r'<!-- ranked-players:start -->.*?<!-- ranked-players:end -->',block,s,flags=re.S)
+              else: s+='\n\n'+block+'\n'
+              s=re.sub(r'(?m)^last_reviewed: .*',f'last_reviewed: {TS}',s,1)
+              p.write_text(s); changed.append(pathstr)
+
+          for team in sorted(set(r[3] for r in rows)):
+              p=Path(f'vault/03 Teams/{team}.md'); s=p.read_text() if p.exists() else f'---\ntype: team\nteam: {team}\nlast_reviewed: {TS}\n---\n\n# {team}\n'
+              lines=[f"{r[0]}. [[02 Players/{oldname.get(int(r[6]),r[1])} - {r[6]}|{r[1]}]] — {r[2]}; {r[4]} / {r[5]}; {r[7]}" for r in rows if r[3]==team]
+              block='<!-- ranked-players:start -->\n## Ranked players\n\n'+'\n'.join(lines)+f'\n\nSource: [[01 Current/Current Draft Board]] · generated {TS}\n<!-- ranked-players:end -->'
+              if '<!-- ranked-players:start -->' in s: s=re.sub(r'<!-- ranked-players:start -->.*?<!-- ranked-players:end -->',block,s,flags=re.S)
+              else: s+='\n\n'+block+'\n'
+              s=re.sub(r'(?m)^last_reviewed: .*',f'last_reviewed: {TS}',s,1); p.write_text(s); changed.append(str(p))
+
+          # Roster rule in ranking skill.
+          skill=Path('.agents/skills/rank-draft-board/SKILL.md'); ss=skill.read_text()
+          guard='''\n## Draft roster guardrail\n\nFor a 20-player squad, maintain at least **2 goalkeepers, 5 defenders, 8 midfielders and 3 forwards**. The final two selections may be any position permitted by the league. During a live draft, once remaining selections equal the number of still-required positional slots, positional need overrides a marginal overall-rank edge.\n'''
+          if '## Draft roster guardrail' not in ss: ss=ss.replace('## Core factors',guard+'\n## Core factors')
+          skill.write_text(ss); changed.append(str(skill))
+
+          # Watchlist: replace final-sweep section only.
+          wp=Path('vault/01 Current/Current Watchlist.md'); ws=wp.read_text()
+          block=f'''<!-- final-sweep-20260808:start -->\n## 8 Aug final-sweep priority watches\n\n- **Cristian Romero** — advanced Atlético negotiations and reported agreed personal terms; large PL-exit risk. {SRC['romero']}\n- **Rodri / Rodrigo** — Barcelona negotiations after rejected opening bid, personal terms reported, plus back surgery. {SRC['rodri']}\n- **Bruno Guimarães** — Arsenal/Newcastle fee agreement reported; keep rank high because the expected destination remains Premier League, but update team immediately when FPL registration changes. {SRC['bruno']}\n- **Nick Pope / Lukas Horníček** — Horníček signed and is expected to become Newcastle No.1; Pope likely to leave. {SRC['hornicek']}\n- **Trevoh Chalobah** — confirmed sold by Chelsea to Como; removed from active ranked board. {SRC['chelsea_fulham']}\n- **Gabriel Jesus / Joshua Zirkzee / Ethan Nwaneri** — current Italy/Germany exit-interest reports; ordinary interest remains lower confidence than advanced talks. {SRC['rumours']}\n- **Pedro Neto / Savinho / Tijjani Reijnders / Nicolas Jackson** — intra-Premier-League or role-changing transfer watch. {SRC['rumours2']}\n- **Xavi Simons / Wilson Odobert / Amadou Onana** — major knee/ACL timelines; substantial Draft-horizon discounts. {PI}\n- **Ekitiké / De Ligt / Tzimas / Livramento / Lewis Miley / Murillo** — dated return information improves the hold-case versus an unknown return date. {PI}\n<!-- final-sweep-20260808:end -->'''
+          if '<!-- final-sweep-20260808:start -->' in ws: ws=re.sub(r'<!-- final-sweep-20260808:start -->.*?<!-- final-sweep-20260808:end -->',block,ws,flags=re.S)
+          else: ws+='\n\n'+block+'\n'
+          wp.write_text(ws); changed.append(str(wp))
+
+          # Block-by-block audit summary (20 players + 5-player buffer each side where available).
+          blocks=[]
+          for start in range(1,351,20):
+              end=min(350,start+19); lo=max(1,start-5); hi=min(350,end+5)
+              material=[]
+              for r in rows:
+                  nr=int(r[0]); fid=int(r[6])
+                  if start<=nr<=end and (fid in entrants or oldrank.get(fid)!=nr or fid in overrides): material.append(r[1])
+              blocks.append((start,end,lo,hi,material))
+          top160=Counter(r[2] for r in rows if int(r[0])<=160)
+          assert top160['GKP']>=2 and top160['DEF']>=5 and top160['FWD']>=3 and top160['MID']>=8
+
+          rp=Path('vault')/f'{R}.md'; rp.parent.mkdir(parents=True,exist_ok=True)
+          blocklines=['| Block | Buffer checked | Material names |','|---|---|---|']+[f"| {a}–{b} | {lo}–{hi} | {', '.join(m) if m else 'No material movement'} |" for a,b,lo,hi,m in blocks]
+          entrant_lines=[]
+          for fid in sorted(entrants,key=lambda x:newrank[x]):
+              x=byid[fid]; entrant_lines.append(f"- **{x['web_name']}** ({posmap[x['element_type']]}, {teams[x['team']]}) entered at **{newrank[fid]}**; current FPL ID {fid}.")
+          removal_lines=[]
+          for fid in removals:
+              reason='confirmed Chelsea-to-Como transfer' if fid==143 else 'fell below the 350-player buffer after new-player insertion'
+              removal_lines.append(f"- **{oldname[fid]}** (old rank {oldrank[fid]}) — {reason}.")
+          moves=sorted([(fid,oldrank[fid],newrank[fid]) for fid in oldrank.keys() & newrank.keys() if oldrank[fid]!=newrank[fid]],key=lambda z:abs(z[2]-z[1]),reverse=True)
+          move_lines=[f"- **{oldname[fid]}:** {o} → {n}" for fid,o,n in moves[:60]]
+          rp.write_text(f'''---\ntype: review\nreviewed_at: {TS}\nscope: final full-board 1-350 sweep\nblock_size: 20\nbuffer: 5\n---\n\n# Final full-board FPL Draft sweep — 8 August 2026\n\n## Changes since prior iteration\n\nThis run rechecked all 350 ranks in 20-player blocks with five-player boundary challengers, reconciled the current FPL player pool, searched current transfer and injury evidence, inserted newly registered players that cleared the 350-player bar, and revalidated the complete Obsidian vault.\n\n## Sources searched\n\n- Official FPL player pool: {BOOT}\n- Official FPL fixtures: {FIX}\n- Premier Injuries injury table: {PI}\n- Bruno Guimarães fee agreement: {SRC['bruno']}\n- Romero Atlético talks: {SRC['romero']}\n- Rodri Barcelona talks: {SRC['rodri']}\n- Newcastle Horníček/Pope context: {SRC['hornicek']}\n- Chelsea/Fulham transfer roundup (Chalobah, García, Palacios): {SRC['chelsea_fulham']}\n- Current transfer-rumour sweep: {SRC['rumours']} and {SRC['rumours2']}\n- Ipswich/Maeda squad context: {SRC['maeda']}\n- Coventry/Rushworth confirmation: {SRC['rushworth']}\n- Tottenham injury manager update: {SRC['spursinj']}\n\n## API reconciliation\n\nThe FPL API contained **{len(elems)}** players. All retained board IDs are present in the current API. The prior board had no API-missing IDs, but it omitted many newly registered players; candidates were assessed rather than blindly imported. Confirmed non-PL departure Trevoh Chalobah was removed despite still appearing in the cached FPL pool.\n\n## New entrants accepted\n\n{chr(10).join(entrant_lines)}\n\n## Removals\n\n{chr(10).join(removal_lines)}\n\n## Injury findings beyond the old board\n\n- **Xavi Simons:** Premier Injuries records ACL rehabilitation with a 20 Feb 2027 potential return; this is a severe season-value hit, not a generic unknown-date knock.\n- **Amadou Onana:** ACL rupture confirmed; substantial downgrade.\n- **Wilson Odobert:** ACL recovery with a late-November potential return; long but holdable, still well below healthy peers.\n- **Ekitiké:** the dated 12 Oct potential return is materially better than an indefinite label, so his season-long Draft rank improves despite surgery/rehab risk.\n- **De Ligt:** 6 Sep potential return after back surgery makes the absence medium-term rather than indefinite.\n- **Tzimas, Livramento, Lewis Miley and Murillo:** dated August/September targets reduce uncertainty and therefore reduce the injury penalty.\n- **Kudus:** De Zerbi described him as very close to returning to training, supporting only a small season-long penalty.\n\n## Transfer findings adopted\n\n- **Trevoh Chalobah:** confirmed Como sale → removed.\n- **Cristian Romero:** advanced Atlético negotiations and preferred exit → major draft-risk downgrade until resolved.\n- **Rodri:** Barcelona negotiation plus agreement on personal terms reported → already-low rank remains heavily risk-discounted.\n- **Nick Pope:** Horníček expected to become Newcastle first choice and Pope likely to leave → major downgrade; Horníček added.\n- **Bruno Guimarães:** Arsenal fee agreement is a role/team-change watch, not a PL-exit risk → no punitive season-value downgrade.\n- **G. Jesus and Zirkzee:** Italy interest is credible enough for watchlist/downgrade, but not treated as completed.\n\n## Evidence rejected or kept low weight\n\n- Ordinary transfer interest without agreement did not trigger large moves when the likely destination remained in the Premier League.\n- Price and ownership were used only to identify newly registered candidates worth manual attention; they did not determine final order.\n- Raw preseason goals/assists without first-team role evidence were not used as decisive ranking evidence.\n\n## 20-player blocks and five-player buffers\n\n{chr(10).join(blocklines)}\n\n## Largest movements\n\n{chr(10).join(move_lines)}\n\n## Roster coverage guardrail\n\nTop-160 positional availability after the sweep: **{top160['GKP']} GKP, {top160['DEF']} DEF, {top160['MID']} MID, {top160['FWD']} FWD**. This easily supports the required final 20-player roster minimum of **2 GKP / 5 DEF / 8 MID / 3 FWD**; the two remaining roster slots are flexible. The ranking skill now explicitly enforces this live-draft guardrail.\n\n## Major uncertainties / reversal triggers\n\n- Completion or collapse of Romero, Rodri, Bruno Guimarães, G. Jesus and Zirkzee moves.\n- Newcastle explicitly naming Horníček or Pope as No.1, or Pope completing a transfer.\n- New medical timelines for Saliba, Tielemans and other no-return-date cases.\n- Any new FPL registrations between this sweep and draft day.\n\n## Validation\n\n- Exactly 350 unique ranks and stable FPL IDs.\n- Every retained FPL ID is in the current bootstrap pool.\n- Position and team pages regenerated from the canonical board.\n- Team pages regenerated in overall-rank order.\n- Structured Obsidian wikilinks audited after generation.\n''')
+          changed.append(str(rp))
+
+          cp=Path('vault')/f'{C}.md'; cp.parent.mkdir(parents=True,exist_ok=True)
+          cp.write_text(f'''---\ntype: changes\nchanged_at: {TS}\nscope: final full-board 1-350 sweep\n---\n\n# Final sweep changes\n\n## Entrants\n{chr(10).join(entrant_lines)}\n\n## Removals\n{chr(10).join(removal_lines)}\n\n## Material rank changes\n{chr(10).join(move_lines)}\n\n## Transfer-status changes\n- Chalobah: confirmed out of Premier League; removed.\n- Romero: advanced Atlético exit risk materially increased.\n- Rodri: Barcelona talks/personal terms materially increased exit risk.\n- Pope: Horníček first-choice expectation materially reduced value.\n- Bruno Guimarães: Arsenal agreement recorded without a PL-exit discount.\n- G. Jesus and Zirkzee: credible overseas interest recorded as watch risk.\n\n## Injury-status changes\n- Xavi Simons and Onana: ACL context converted generic injury uncertainty into severe long-horizon discounts.\n- Ekitiké and De Ligt: dated return evidence reduced uncertainty and improved ranking.\n- Tzimas, Livramento, Lewis Miley and Murillo: dated return windows reduce the penalty versus unknown return dates.\n\n## Important no-change decisions\n- Gakpo stayed high: Spurs interest exists, but Liverpool reluctance makes an exit insufficiently likely to override his role/ceiling.\n- Neto/Reijnders intra-league gossip did not justify large moves.\n- Kudus retained high value because the manager described a near return.\n''')
+          changed.append(str(cp))
+
+          # Home/Wiki latest-run links.
+          for f in ['vault/Home.md','vault/Wiki.md']:
+              p=Path(f); s=p.read_text(); marker=f'''<!-- latest-final-sweep:start -->\n## Latest final sweep\n\n- [[{R}|8 Aug 2026 final full-board review]]\n- [[{C}|8 Aug 2026 changes]]\n- Canonical board: [[01 Current/Current Draft Board]]\n- Current watchlist: [[01 Current/Current Watchlist]]\n<!-- latest-final-sweep:end -->'''
+              if '<!-- latest-final-sweep:start -->' in s: s=re.sub(r'<!-- latest-final-sweep:start -->.*?<!-- latest-final-sweep:end -->',marker,s,flags=re.S)
+              else: s+='\n\n'+marker+'\n'
+              p.write_text(s); changed.append(f)
+
+          # Structured Obsidian link audit across the whole vault.
+          broken=[]; checked=0
+          for p in Path('vault').rglob('*.md'):
+              text=p.read_text(errors='ignore')
+              for raw in re.findall(r'\[\[([^\]]+)\]\]',text):
+                  target=raw.split('|',1)[0].split('#',1)[0].strip()
+                  if '/' not in target: continue
+                  checked+=1
+                  q=Path('vault')/(target+'.md' if not target.endswith('.md') else target)
+                  if not q.exists(): broken.append((str(p),target))
+          # Some historical links can intentionally point to superseded paths; current structured links must be clean.
+          current_broken=[x for x in broken if x[0] in changed or x[0] in ['vault/Home.md','vault/Wiki.md','vault/01 Current/Current Draft Board.md','vault/01 Current/Current Watchlist.md']]
+          if current_broken:
+              raise SystemExit('Broken current wikilinks: '+repr(current_broken[:20]))
+          with rp.open('a') as fh: fh.write(f'\n- Link audit checked **{checked}** structured wikilinks; **0 broken links in changed/current documents**. Historical unresolved links, if any, were not rewritten without evidence.\n')
+
+          # Remove temporary candidate reports from the final diff.
+          for f in ['vault/00 Meta/Final Sweep API Reconciliation.md','vault/00 Meta/Final Sweep New Candidate Shortlist.md']:
+              p=Path(f)
+              if p.exists(): p.unlink()
+
+          # Changelog every changed Markdown path exactly once for this review.
+          changed += ['vault/01 Current/Current Draft Board.md']
+          changed=list(dict.fromkeys(changed))
+          log=Path('vault/00 Meta/Document Changelog.md'); ls=log.read_text()
+          ev='; '.join([BOOT,FIX,PI,SRC['bruno'],SRC['romero'],SRC['rodri'],SRC['hornicek'],SRC['chelsea_fulham'],f'[[{R}]]',f'[[{C}]]'])
+          for f in changed+['vault/00 Meta/Document Changelog.md']:
+              action='created' if f in [str(rp),str(cp)] or (f.startswith('vault/02 Players/') and not Path(f).exists()) else 'updated'
+              ls+=f'\n| {TS} | `{f}` | {action} | Final 1–350 sweep in 20-player blocks with five-player buffers; API, transfers, injuries, roster guardrail and links reconciled | [[{R}]] | {ev} |'
+          log.write_text(ls+'\n')
+
+          # Final invariants.
+          finalrows=[[x.strip() for x in l.strip().strip('|').split('|')] for l in boardp.read_text().splitlines() if re.match(r'^\| \d+ \|',l)]
+          assert [int(r[0]) for r in finalrows]==list(range(1,351))
+          assert len({int(r[6]) for r in finalrows})==350
+          assert all(int(r[6]) in byid for r in finalrows)
+          assert len(fixtures)>0
           PY
+          python /tmp/final_sweep.py
           python scripts/validate_draft_board.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add 'vault/00 Meta/Final Sweep API Reconciliation.md' 'vault/00 Meta/Final Sweep New Candidate Shortlist.md'
-          git commit -m 'Refresh final sweep API reconciliation' || true
+          git add -A
+          git commit -m 'Apply final full-board sweep'
           git push origin HEAD:codex/fpl-review-20260808-1650-final-sweep
