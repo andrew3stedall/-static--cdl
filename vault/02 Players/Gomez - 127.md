@@ -4,7 +4,7 @@ fpl_id: 127
 player: Gomez
 team: BHA
 position: MID
-current_rank: 276
+current_rank: 283
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

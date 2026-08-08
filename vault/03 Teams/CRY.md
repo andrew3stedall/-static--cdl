@@ -2,7 +2,7 @@
 type: team
 team_name: CRY
 team_short: CRY
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # CRY
@@ -21,12 +21,12 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 176. [[02 Players/Yeremy - 211|Yeremy]] — MID; Undrafted buffer / D; Available
 202. [[02 Players/Canvot - 203|Canvot]] — DEF; Undrafted buffer / D; Available
 209. [[02 Players/Kamada - 214|Kamada]] — MID; Undrafted buffer / D; Available
-225. [[02 Players/Wharton - 210|Wharton]] — MID; Extended watch buffer / Watch; Available
-244. [[02 Players/Lerma - 213|Lerma]] — MID; Extended watch buffer / Watch; Available
-277. [[02 Players/Johnson - 209|Johnson]] — MID; Extended watch buffer / Watch; Available
-278. [[02 Players/Hughes - 212|Hughes]] — MID; Extended watch buffer / Watch; Available
+226. [[02 Players/Wharton - 210|Wharton]] — MID; Extended watch buffer / Watch; Available
+246. [[02 Players/Lerma - 213|Lerma]] — MID; Extended watch buffer / Watch; Available
+284. [[02 Players/Johnson - 209|Johnson]] — MID; Extended watch buffer / Watch; Available
+285. [[02 Players/Hughes - 212|Hughes]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

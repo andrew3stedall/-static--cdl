@@ -4,7 +4,7 @@ fpl_id: 27
 player: G.Jesus
 team: ARS
 position: FWD
-current_rank: 297
+current_rank: 304
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

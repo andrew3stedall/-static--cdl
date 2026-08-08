@@ -4,7 +4,7 @@ fpl_id: 161
 player: Lavia
 team: CHE
 position: MID
-current_rank: 333
+current_rank: 340
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

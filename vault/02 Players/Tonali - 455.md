@@ -4,7 +4,7 @@ fpl_id: 455
 player: Tonali
 team: TOT
 position: MID
-current_rank: 293
+current_rank: 300
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-08T16:50:00+10:00

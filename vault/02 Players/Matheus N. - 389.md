@@ -5,7 +5,7 @@ player_name: Matheus N.
 team: MCI
 position: DEF
 api_status: "Available"
-current_rank: 240
+current_rank: 242
 current_segment: Depth
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---

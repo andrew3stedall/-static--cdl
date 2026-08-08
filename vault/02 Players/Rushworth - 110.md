@@ -4,7 +4,7 @@ fpl_id: 110
 player: Rushworth
 team: COV
 position: GKP
-current_rank: 262
+current_rank: 267
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

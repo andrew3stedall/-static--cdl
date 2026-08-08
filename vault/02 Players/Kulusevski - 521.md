@@ -4,7 +4,7 @@ fpl_id: 521
 player: Kulusevski
 team: TOT
 position: MID
-current_rank: 231
+current_rank: 233
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

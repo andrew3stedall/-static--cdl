@@ -177,3 +177,17 @@ scope: final full-board 1-350 sweep
 - Gakpo remains high: Spurs interest exists, but Liverpool reluctance makes an exit insufficiently likely to override role/ceiling.
 - Neto/Reijnders intra-league gossip did not justify large moves.
 - Kudus retains high value because the manager described a near return.
+
+
+## Goalkeeper-tail correction
+
+- Kelleher: outside 350 -> **219**
+- Lammens: outside 350 -> **232**
+- Sels: outside 350 -> **255**
+- Verbruggen: outside 350 -> **258**
+- Leno: outside 350 -> **263**
+- Roefs: outside 350 -> **270**
+- Martinez (GKP): outside 350 -> **277**
+- Jacquet, Ji-soo, Anselmino, J.Cuenca, Costinha, Schuster and Vitor Reis moved outside the active 350.
+
+Reason: starting-goalkeeper season floor and mandatory two-GK roster utility beat speculative reserve outfield minutes.

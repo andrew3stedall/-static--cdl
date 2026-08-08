@@ -4,7 +4,7 @@ fpl_id: 298
 player: Destan
 team: HUL
 position: FWD
-current_rank: 327
+current_rank: 334
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

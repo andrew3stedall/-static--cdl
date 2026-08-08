@@ -4,7 +4,7 @@ fpl_id: 422
 player: Mazraoui
 team: MUN
 position: DEF
-current_rank: 296
+current_rank: 303
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

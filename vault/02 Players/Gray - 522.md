@@ -4,7 +4,7 @@ fpl_id: 522
 player: Gray
 team: TOT
 position: MID
-current_rank: 302
+current_rank: 309
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -4,7 +4,7 @@ fpl_id: 393
 player: Khusanov
 team: MCI
 position: DEF
-current_rank: 252
+current_rank: 254
 segment: Deep watch
 tier: D-
 last_reviewed: 2026-08-08T16:50:00+10:00

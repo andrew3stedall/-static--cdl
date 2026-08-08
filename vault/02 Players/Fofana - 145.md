@@ -4,7 +4,7 @@ fpl_id: 145
 player: Fofana
 team: CHE
 position: DEF
-current_rank: 282
+current_rank: 289
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

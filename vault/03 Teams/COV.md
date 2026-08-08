@@ -2,7 +2,7 @@
 type: team
 team_name: COV
 team_short: COV
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # COV
@@ -16,14 +16,14 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 199. [[02 Players/Simms - 195|Simms]] — FWD; Undrafted buffer / D; Available
 201. [[02 Players/Tchaouna - 190|Tchaouna]] — MID; Undrafted buffer / D; Available
 208. [[02 Players/Wright - 193|Wright]] — FWD; Undrafted buffer / D; Available
-232. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD; Extended watch buffer / Watch; Available
-243. [[02 Players/Mason-Clark - 186|Mason-Clark]] — MID; Extended watch buffer / Watch; Available
-262. [[02 Players/Rushworth - 110|Rushworth]] — GKP; Extended watch buffer / Watch; Coventry club-record goalkeeper signing; first-choice pathway
-273. [[02 Players/Markelo - 196|Markelo]] — FWD; Extended watch buffer / Watch; Available
-315. [[02 Players/Sakamoto - 185|Sakamoto]] — MID; Extended watch buffer / Watch; Available
-320. [[02 Players/Grimes - 184|Grimes]] — MID; Extended watch buffer / Watch; Available
+234. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD; Extended watch buffer / Watch; Available
+245. [[02 Players/Mason-Clark - 186|Mason-Clark]] — MID; Extended watch buffer / Watch; Available
+267. [[02 Players/Rushworth - 110|Rushworth]] — GKP; Extended watch buffer / Watch; Coventry club-record goalkeeper signing; first-choice pathway
+280. [[02 Players/Markelo - 196|Markelo]] — FWD; Extended watch buffer / Watch; Available
+322. [[02 Players/Sakamoto - 185|Sakamoto]] — MID; Extended watch buffer / Watch; Available
+327. [[02 Players/Grimes - 184|Grimes]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

@@ -4,7 +4,7 @@ fpl_id: 440
 player: Zirkzee
 team: MUN
 position: FWD
-current_rank: 248
+current_rank: 250
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

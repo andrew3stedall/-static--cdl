@@ -4,7 +4,7 @@ fpl_id: 286
 player: Belloumi
 team: HUL
 position: MID
-current_rank: 298
+current_rank: 305
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

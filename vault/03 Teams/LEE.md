@@ -2,7 +2,7 @@
 type: team
 team_name: LEE
 team_short: LEE
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # LEE
@@ -20,16 +20,16 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 159. [[02 Players/Ampadu - 338|Ampadu]] — MID; Endgame / D+; Available
 171. [[02 Players/Bijol - 327|Bijol]] — DEF; Undrafted buffer / D; Available
 198. [[02 Players/Nmecha - 347|Nmecha]] — FWD; Undrafted buffer / D; Available
-224. [[02 Players/Piroe - 348|Piroe]] — FWD; Extended watch buffer / Watch; Available
-230. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF; Extended watch buffer / Watch; Available
-265. [[02 Players/Rodon - 329|Rodon]] — DEF; Extended watch buffer / Watch; Available
-268. [[02 Players/Trafford - 385|Trafford]] — GKP; Extended watch buffer / Watch; Available
-283. [[02 Players/Justin - 332|Justin]] — DEF; Extended watch buffer / Watch; Available
-286. [[02 Players/Tanaka - 345|Tanaka]] — MID; Extended watch buffer / Watch; Available
-329. [[02 Players/Longstaff - 339|Longstaff]] — MID; Extended watch buffer / Watch; Available
-331. [[02 Players/Gruev - 344|Gruev]] — MID; Extended watch buffer / Watch; Available
+225. [[02 Players/Piroe - 348|Piroe]] — FWD; Extended watch buffer / Watch; Available
+231. [[02 Players/Gudmundsson - 331|Gudmundsson]] — DEF; Extended watch buffer / Watch; Available
+271. [[02 Players/Rodon - 329|Rodon]] — DEF; Extended watch buffer / Watch; Available
+274. [[02 Players/Trafford - 385|Trafford]] — GKP; Extended watch buffer / Watch; Available
+290. [[02 Players/Justin - 332|Justin]] — DEF; Extended watch buffer / Watch; Available
+293. [[02 Players/Tanaka - 345|Tanaka]] — MID; Extended watch buffer / Watch; Available
+336. [[02 Players/Longstaff - 339|Longstaff]] — MID; Extended watch buffer / Watch; Available
+338. [[02 Players/Gruev - 344|Gruev]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

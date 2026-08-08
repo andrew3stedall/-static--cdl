@@ -4,7 +4,7 @@ fpl_id: 31
 player: Konsa
 team: AVL
 position: DEF
-current_rank: 251
+current_rank: 253
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-08T16:50:00+10:00

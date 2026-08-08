@@ -4,7 +4,7 @@ fpl_id: 485
 player: Bakwa
 team: NFO
 position: MID
-current_rank: 228
+current_rank: 229
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

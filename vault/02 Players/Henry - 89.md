@@ -4,7 +4,7 @@ fpl_id: 89
 player: Henry
 team: BRE
 position: DEF
-current_rank: 263
+current_rank: 268
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -4,7 +4,7 @@ fpl_id: 385
 player: Trafford
 team: LEE
 position: GKP
-current_rank: 268
+current_rank: 274
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

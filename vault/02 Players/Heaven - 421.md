@@ -4,7 +4,7 @@ fpl_id: 421
 player: Heaven
 team: MUN
 position: DEF
-current_rank: 314
+current_rank: 321
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -2,7 +2,7 @@
 type: team
 team_name: Manchester City
 team_short: MCI
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Manchester City
@@ -48,13 +48,12 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 119. [[02 Players/O'Reilly - 387|O'Reilly]] — DEF; Depth / C; Available
 120. [[02 Players/Rúben - 390|Rúben]] — DEF; Depth / C; Available
 161. [[02 Players/Grealish - 238|Grealish]] — MID; Undrafted buffer / D; Foot injury - 75% chance of playing
-240. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF; Extended watch buffer / Watch; Available
-245. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MID; Extended watch buffer / Watch; Available
-252. [[02 Players/Khusanov - 393|Khusanov]] — DEF; Extended watch buffer / Watch; Available
-285. [[02 Players/Rodrigo - 402|Rodrigo]] — MID; Extended watch buffer / Watch; Barcelona talks; back surgery; major PL-exit risk
-337. [[02 Players/Vitor Reis - 396|Vitor Reis]] — DEF; Extended watch buffer / Watch; Available
+242. [[02 Players/Matheus N. - 389|Matheus N.]] — DEF; Extended watch buffer / Watch; Available
+247. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MID; Extended watch buffer / Watch; Available
+254. [[02 Players/Khusanov - 393|Khusanov]] — DEF; Extended watch buffer / Watch; Available
+292. [[02 Players/Rodrigo - 402|Rodrigo]] — MID; Extended watch buffer / Watch; Barcelona talks; back surgery; major PL-exit risk
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

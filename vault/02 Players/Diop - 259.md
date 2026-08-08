@@ -4,7 +4,7 @@ fpl_id: 259
 player: Diop
 team: IPS
 position: DEF
-current_rank: 312
+current_rank: 319
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

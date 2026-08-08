@@ -4,7 +4,7 @@ fpl_id: 209
 player: Johnson
 team: CRY
 position: MID
-current_rank: 277
+current_rank: 284
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

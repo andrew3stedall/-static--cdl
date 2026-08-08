@@ -4,7 +4,7 @@ fpl_id: 131
 player: Baleba
 team: BHA
 position: MID
-current_rank: 334
+current_rank: 341
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

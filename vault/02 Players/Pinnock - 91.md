@@ -4,7 +4,7 @@ fpl_id: 91
 player: Pinnock
 team: BRE
 position: DEF
-current_rank: 236
+current_rank: 238
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

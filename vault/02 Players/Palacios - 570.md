@@ -4,7 +4,7 @@ fpl_id: 570
 player: Palacios
 team: FUL
 position: MID
-current_rank: 237
+current_rank: 239
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

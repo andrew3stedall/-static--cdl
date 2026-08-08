@@ -4,10 +4,10 @@ fpl_id: 467
 player: Sels
 team: NFO
 position: GKP
-current_rank: 340
+current_rank: 255
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Sels
@@ -135,3 +135,10 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].
+
+
+## 1712-AEST goalkeeper-tail correction
+
+- Re-entered the active top 350 at **255** after the final sweep incorrectly let new registrations mechanically displace established/probable starting goalkeepers.
+- Starting-role and two-goalkeeper Draft roster utility outweigh the speculative reserve outfield tail.
+- Evidence: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

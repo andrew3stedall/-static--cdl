@@ -4,7 +4,7 @@ fpl_id: 517
 player: Odobert
 team: TOT
 position: MID
-current_rank: 275
+current_rank: 282
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

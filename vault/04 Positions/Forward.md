@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Forward
@@ -78,24 +78,24 @@ The scarcest position in an eight-manager, 20-round draft. Proven central starte
 207. [[02 Players/Abraham - 56|Abraham]] — AVL; Undrafted buffer / D; Available
 208. [[02 Players/Wright - 193|Wright]] — COV; Undrafted buffer / D; Available
 214. [[02 Players/Isidor - 553|Isidor]] — SUN; Undrafted buffer / D; Available
-221. [[02 Players/Akpom - 320|Akpom]] — IPS; Extended watch buffer / Watch; Available
-223. [[02 Players/Kostoulas - 138|Kostoulas]] — BHA; Extended watch buffer / Watch; Available
-224. [[02 Players/Piroe - 348|Piroe]] — LEE; Extended watch buffer / Watch; Available
-229. [[02 Players/Tzimas - 137|Tzimas]] — BHA; Extended watch buffer / Watch; ACL rehab; Premier Injuries potential return 12 Sep 2026
-232. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — COV; Extended watch buffer / Watch; Available
-233. [[02 Players/McBurnie - 295|McBurnie]] — HUL; Extended watch buffer / Watch; Available
-235. [[02 Players/Kusi-Asare - 272|Kusi-Asare]] — FUL; Extended watch buffer / Watch; Available
-238. [[02 Players/Enes Ünal - 80|Enes Ünal]] — BOU; Extended watch buffer / Watch; Available
-239. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — IPS; Extended watch buffer / Watch; Available
-241. [[02 Players/Rodríguez - 81|Rodríguez]] — BOU; Extended watch buffer / Watch; Available
-248. [[02 Players/Zirkzee - 440|Zirkzee]] — MUN; Extended watch buffer / Watch; Juventus loan interest; PL-exit risk
-255. [[02 Players/Ferguson - 139|Ferguson]] — BHA; Extended watch buffer / Watch; Ankle injury - Expected back 10 Oct
-273. [[02 Players/Markelo - 196|Markelo]] — COV; Extended watch buffer / Watch; Available
-297. [[02 Players/G.Jesus - 27|G.Jesus]] — ARS; Extended watch buffer / Watch; Napoli interest; Arsenal open-to-sale reports
-321. [[02 Players/Emersonn - 316|Emersonn]] — IPS; Extended watch buffer / Watch; Available
-327. [[02 Players/Destan - 298|Destan]] — HUL; Extended watch buffer / Watch; Available
+222. [[02 Players/Akpom - 320|Akpom]] — IPS; Extended watch buffer / Watch; Available
+224. [[02 Players/Kostoulas - 138|Kostoulas]] — BHA; Extended watch buffer / Watch; Available
+225. [[02 Players/Piroe - 348|Piroe]] — LEE; Extended watch buffer / Watch; Available
+230. [[02 Players/Tzimas - 137|Tzimas]] — BHA; Extended watch buffer / Watch; ACL rehab; Premier Injuries potential return 12 Sep 2026
+234. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — COV; Extended watch buffer / Watch; Available
+235. [[02 Players/McBurnie - 295|McBurnie]] — HUL; Extended watch buffer / Watch; Available
+237. [[02 Players/Kusi-Asare - 272|Kusi-Asare]] — FUL; Extended watch buffer / Watch; Available
+240. [[02 Players/Enes Ünal - 80|Enes Ünal]] — BOU; Extended watch buffer / Watch; Available
+241. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — IPS; Extended watch buffer / Watch; Available
+243. [[02 Players/Rodríguez - 81|Rodríguez]] — BOU; Extended watch buffer / Watch; Available
+250. [[02 Players/Zirkzee - 440|Zirkzee]] — MUN; Extended watch buffer / Watch; Juventus loan interest; PL-exit risk
+259. [[02 Players/Ferguson - 139|Ferguson]] — BHA; Extended watch buffer / Watch; Ankle injury - Expected back 10 Oct
+280. [[02 Players/Markelo - 196|Markelo]] — COV; Extended watch buffer / Watch; Available
+304. [[02 Players/G.Jesus - 27|G.Jesus]] — ARS; Extended watch buffer / Watch; Napoli interest; Arsenal open-to-sale reports
+328. [[02 Players/Emersonn - 316|Emersonn]] — IPS; Extended watch buffer / Watch; Available
+334. [[02 Players/Destan - 298|Destan]] — HUL; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

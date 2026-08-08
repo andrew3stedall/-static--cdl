@@ -4,7 +4,7 @@ fpl_id: 549
 player: Talbi
 team: SUN
 position: MID
-current_rank: 242
+current_rank: 244
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

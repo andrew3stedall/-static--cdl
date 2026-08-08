@@ -4,7 +4,7 @@ fpl_id: 194
 player: Thomas-Asante
 team: COV
 position: FWD
-current_rank: 232
+current_rank: 234
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -2,7 +2,7 @@
 type: team
 team_name: Manchester United
 team_short: MUN
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Manchester United
@@ -46,13 +46,14 @@ Manchester United face only one opponent rated above FDR 3 in the opening eight 
 186. [[02 Players/De Ligt - 416|De Ligt]] — DEF; Undrafted buffer / D; Back surgery; Premier Injuries potential return 6 Sep 2026
 192. [[02 Players/Mount - 430|Mount]] — MID; Undrafted buffer / D; Available
 194. [[02 Players/Mainoo - 432|Mainoo]] — MID; Undrafted buffer / D; Available
-248. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD; Extended watch buffer / Watch; Juventus loan interest; PL-exit risk
-258. [[02 Players/Yoro - 420|Yoro]] — DEF; Extended watch buffer / Watch; Available
-296. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF; Extended watch buffer / Watch; Available
-309. [[02 Players/Tielemans - 43|Tielemans]] — MID; Extended watch buffer / Watch; Thigh injury; return date remains uncertain
-314. [[02 Players/Heaven - 421|Heaven]] — DEF; Extended watch buffer / Watch; Available
+232. [[02 Players/Lammens - 412|Lammens]] — GKP; Extended watch buffer / Watch; Available
+250. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD; Extended watch buffer / Watch; Juventus loan interest; PL-exit risk
+262. [[02 Players/Yoro - 420|Yoro]] — DEF; Extended watch buffer / Watch; Available
+303. [[02 Players/Mazraoui - 422|Mazraoui]] — DEF; Extended watch buffer / Watch; Available
+316. [[02 Players/Tielemans - 43|Tielemans]] — MID; Extended watch buffer / Watch; Thigh injury; return date remains uncertain
+321. [[02 Players/Heaven - 421|Heaven]] — DEF; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

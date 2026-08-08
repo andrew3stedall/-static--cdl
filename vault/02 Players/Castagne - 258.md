@@ -4,7 +4,7 @@ fpl_id: 258
 player: Castagne
 team: FUL
 position: DEF
-current_rank: 270
+current_rank: 276
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

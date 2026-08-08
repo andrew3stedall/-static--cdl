@@ -4,7 +4,7 @@ fpl_id: 266
 player: Cairney
 team: FUL
 position: MID
-current_rank: 348
+current_rank: 350
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

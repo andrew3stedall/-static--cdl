@@ -4,7 +4,7 @@ fpl_id: 196
 player: Markelo
 team: COV
 position: FWD
-current_rank: 273
+current_rank: 280
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -4,7 +4,7 @@ fpl_id: 520
 player: Bergvall
 team: TOT
 position: MID
-current_rank: 227
+current_rank: 228
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

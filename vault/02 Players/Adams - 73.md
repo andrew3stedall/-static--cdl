@@ -4,7 +4,7 @@ fpl_id: 73
 player: Adams
 team: BOU
 position: MID
-current_rank: 299
+current_rank: 306
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -4,7 +4,7 @@ fpl_id: 420
 player: Yoro
 team: MUN
 position: DEF
-current_rank: 258
+current_rank: 262
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

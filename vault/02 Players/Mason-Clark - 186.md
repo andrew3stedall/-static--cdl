@@ -4,7 +4,7 @@ fpl_id: 186
 player: Mason-Clark
 team: COV
 position: MID
-current_rank: 243
+current_rank: 245
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

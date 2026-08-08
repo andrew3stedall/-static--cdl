@@ -4,7 +4,7 @@ fpl_id: 164
 player: Quenda
 team: CHE
 position: MID
-current_rank: 250
+current_rank: 252
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

@@ -4,7 +4,7 @@ fpl_id: 568
 player: Barco
 team: CHE
 position: MID
-current_rank: 303
+current_rank: 310
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

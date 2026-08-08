@@ -4,7 +4,7 @@ fpl_id: 54
 player: Gomes
 team: AVL
 position: MID
-current_rank: 300
+current_rank: 307
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

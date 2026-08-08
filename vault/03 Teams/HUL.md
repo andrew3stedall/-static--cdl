@@ -2,7 +2,7 @@
 type: team
 team_name: HUL
 team_short: HUL
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # HUL
@@ -10,11 +10,11 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 <!-- ranked-players:start -->
 ## Ranked players
 
-233. [[02 Players/McBurnie - 295|McBurnie]] — FWD; Extended watch buffer / Watch; Available
-298. [[02 Players/Belloumi - 286|Belloumi]] — MID; Extended watch buffer / Watch; Available
-327. [[02 Players/Destan - 298|Destan]] — FWD; Extended watch buffer / Watch; Available
+235. [[02 Players/McBurnie - 295|McBurnie]] — FWD; Extended watch buffer / Watch; Available
+305. [[02 Players/Belloumi - 286|Belloumi]] — MID; Extended watch buffer / Watch; Available
+334. [[02 Players/Destan - 298|Destan]] — FWD; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 

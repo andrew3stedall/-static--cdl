@@ -4,7 +4,7 @@ fpl_id: 213
 player: Lerma
 team: CRY
 position: MID
-current_rank: 244
+current_rank: 246
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

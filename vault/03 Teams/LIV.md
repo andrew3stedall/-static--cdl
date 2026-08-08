@@ -2,7 +2,7 @@
 type: team
 team_name: Liverpool
 team_short: LIV
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Liverpool
@@ -46,13 +46,12 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 181. [[02 Players/Elliott - 383|Elliott]] — MID; Undrafted buffer / D; Available
 196. [[02 Players/C.Jones - 373|C.Jones]] — MID; Undrafted buffer / D; Available
 205. [[02 Players/Ngumoha - 369|Ngumoha]] — MID; Undrafted buffer / D; Available
-247. [[02 Players/A.Becker - 350|A.Becker]] — GKP; Extended watch buffer / Watch; Available
-266. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF; Extended watch buffer / Watch; Available
-272. [[02 Players/Chiesa - 370|Chiesa]] — MID; Extended watch buffer / Watch; Available
-288. [[02 Players/Bradley - 360|Bradley]] — DEF; Extended watch buffer / Watch; Knee injury - Unknown return date
-350. [[02 Players/Jacquet - 362|Jacquet]] — DEF; Extended watch buffer / Watch; Available
+249. [[02 Players/A.Becker - 350|A.Becker]] — GKP; Extended watch buffer / Watch; Available
+272. [[02 Players/Tsimikas - 364|Tsimikas]] — DEF; Extended watch buffer / Watch; Available
+279. [[02 Players/Chiesa - 370|Chiesa]] — MID; Extended watch buffer / Watch; Available
+295. [[02 Players/Bradley - 360|Bradley]] — DEF; Extended watch buffer / Watch; Knee injury - Unknown return date
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

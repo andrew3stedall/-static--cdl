@@ -2,7 +2,7 @@
 type: team
 team_name: Chelsea
 team_short: CHE
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Chelsea
@@ -56,18 +56,17 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]; [Reuters Welbeck](
 183. [[02 Players/Colwill - 149|Colwill]] — DEF; Undrafted buffer / D; Available
 188. [[02 Players/Emegha - 170|Emegha]] — FWD; Undrafted buffer / D; Hamstring injury - 75% chance of playing
 216. [[02 Players/Gittens - 158|Gittens]] — MID; Undrafted buffer / D; Available
-249. [[02 Players/Sánchez - 140|Sánchez]] — GKP; Extended watch buffer / Watch; Available
-250. [[02 Players/Quenda - 164|Quenda]] — MID; Extended watch buffer / Watch; Available
-281. [[02 Players/Palestra - 152|Palestra]] — DEF; Extended watch buffer / Watch; Available
-282. [[02 Players/Fofana - 145|Fofana]] — DEF; Extended watch buffer / Watch; Suspended until 6 Sep
-303. [[02 Players/Barco - 568|Barco]] — MID; Extended watch buffer / Watch; Available
-305. [[02 Players/Tosin - 147|Tosin]] — DEF; Extended watch buffer / Watch; Available
-306. [[02 Players/B.Badiashile - 146|B.Badiashile]] — DEF; Extended watch buffer / Watch; Available
-307. [[02 Players/Acheampong - 151|Acheampong]] — DEF; Extended watch buffer / Watch; Available
-333. [[02 Players/Lavia - 161|Lavia]] — MID; Extended watch buffer / Watch; Available
-347. [[02 Players/Anselmino - 561|Anselmino]] — DEF; Extended watch buffer / Watch; Available
+251. [[02 Players/Sánchez - 140|Sánchez]] — GKP; Extended watch buffer / Watch; Available
+252. [[02 Players/Quenda - 164|Quenda]] — MID; Extended watch buffer / Watch; Available
+288. [[02 Players/Palestra - 152|Palestra]] — DEF; Extended watch buffer / Watch; Available
+289. [[02 Players/Fofana - 145|Fofana]] — DEF; Extended watch buffer / Watch; Suspended until 6 Sep
+310. [[02 Players/Barco - 568|Barco]] — MID; Extended watch buffer / Watch; Available
+312. [[02 Players/Tosin - 147|Tosin]] — DEF; Extended watch buffer / Watch; Available
+313. [[02 Players/B.Badiashile - 146|B.Badiashile]] — DEF; Extended watch buffer / Watch; Available
+314. [[02 Players/Acheampong - 151|Acheampong]] — DEF; Extended watch buffer / Watch; Available
+340. [[02 Players/Lavia - 161|Lavia]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

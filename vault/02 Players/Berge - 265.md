@@ -4,7 +4,7 @@ fpl_id: 265
 player: Berge
 team: FUL
 position: MID
-current_rank: 316
+current_rank: 323
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-08T16:50:00+10:00

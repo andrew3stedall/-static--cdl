@@ -4,7 +4,7 @@ fpl_id: 472
 player: Murillo
 team: NFO
 position: DEF
-current_rank: 261
+current_rank: 266
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

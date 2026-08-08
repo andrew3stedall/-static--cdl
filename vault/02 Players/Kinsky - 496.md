@@ -4,10 +4,10 @@ fpl_id: 496
 player: Kinsky
 team: TOT
 position: GKP
-current_rank: 345
+current_rank: null
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Kinsky

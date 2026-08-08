@@ -251,3 +251,14 @@ Top-160 positional availability after the sweep: **5 GKP, 49 DEF, 78 MID, 28 FWD
 ## Link audit result
 
 Checked **4245** structured wikilinks across current/player/team/position navigation documents; **0 broken links remain**. Immutable historical review/change records were not rewritten.
+
+
+## 17:12 AEST goalkeeper-tail quality correction
+
+A post-generation sanity check found that mass insertion of new registrations had pushed established/probable starting goalkeepers out of the 350 while leaving speculative reserve outfielders at the tail. That was rejected as a mechanical artefact rather than a valid Draft comparison.
+
+Re-entered: **Kelleher (219), Lammens (232), Sels (255), Verbruggen (258), Leno (263), Roefs (270), Martinez (277)**. Kelleher is Brentford's established replacement for Flekken; Sels started Forest's preseason opener; Leno remains Fulham's senior goalkeeper; Roefs is Sunderland's established first choice; current reporting also supports Lammens as Manchester United's lead goalkeeper.
+
+Removed instead from the ranked tail: **Jacquet, Ji-soo, Anselmino, J.Cuenca, Costinha, Schuster and Vitor Reis**. Their uncertain/reserve minutes do not beat the season-long floor of a starting goalkeeper when every Draft manager needs two.
+
+Sources: https://www.brentfordfc.com/en/news/article/first-team-brentford-sign-caoimhin-kelleher-liverpool; https://www.premierleague.com/en/news/4680049/team-news-glasners-first-xi-confirmed; https://www.fulhamfc.com/players/bernd-leno/; https://www.sunderlandafc.news/club/first-team-squad/

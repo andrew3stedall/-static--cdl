@@ -4,7 +4,7 @@ fpl_id: 139
 player: Ferguson
 team: BHA
 position: FWD
-current_rank: 255
+current_rank: 259
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

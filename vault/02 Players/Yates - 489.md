@@ -4,7 +4,7 @@ fpl_id: 489
 player: Yates
 team: NFO
 position: MID
-current_rank: 330
+current_rank: 337
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

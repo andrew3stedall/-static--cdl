@@ -4,7 +4,7 @@ fpl_id: 81
 player: Rodríguez
 team: BOU
 position: FWD
-current_rank: 241
+current_rank: 243
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

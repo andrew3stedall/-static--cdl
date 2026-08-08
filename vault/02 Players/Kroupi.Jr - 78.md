@@ -4,7 +4,7 @@ fpl_id: 78
 player: Kroupi.Jr
 team: BOU
 position: MID
-current_rank: 279
+current_rank: 286
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

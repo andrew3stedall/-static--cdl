@@ -2,7 +2,7 @@
 type: team
 team_name: NEW
 team_short: NEW
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # NEW
@@ -23,14 +23,14 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 164. [[02 Players/Botman - 447|Botman]] — DEF; Undrafted buffer / D; Available
 173. [[02 Players/Thiaw - 445|Thiaw]] — DEF; Undrafted buffer / D; Available
 189. [[02 Players/Osula - 465|Osula]] — FWD; Undrafted buffer / D; Available
-256. [[02 Players/Joelinton - 458|Joelinton]] — MID; Extended watch buffer / Watch; Thigh injury - 75% chance of playing
-267. [[02 Players/J.Ramsey - 456|J.Ramsey]] — MID; Extended watch buffer / Watch; Available
-284. [[02 Players/Burn - 448|Burn]] — DEF; Extended watch buffer / Watch; Available
-291. [[02 Players/L.Miley - 459|L.Miley]] — MID; Extended watch buffer / Watch; Leg/calf rehab; Premier Injuries potential return 23 Aug 2026
-322. [[02 Players/Willock - 460|Willock]] — MID; Extended watch buffer / Watch; Available
-325. [[02 Players/Pope - 442|Pope]] — GKP; Extended watch buffer / Watch; Hornicek expected Newcastle No.1; Pope exit risk
+260. [[02 Players/Joelinton - 458|Joelinton]] — MID; Extended watch buffer / Watch; Thigh injury - 75% chance of playing
+273. [[02 Players/J.Ramsey - 456|J.Ramsey]] — MID; Extended watch buffer / Watch; Available
+291. [[02 Players/Burn - 448|Burn]] — DEF; Extended watch buffer / Watch; Available
+298. [[02 Players/L.Miley - 459|L.Miley]] — MID; Extended watch buffer / Watch; Leg/calf rehab; Premier Injuries potential return 23 Aug 2026
+329. [[02 Players/Willock - 460|Willock]] — MID; Extended watch buffer / Watch; Available
+332. [[02 Players/Pope - 442|Pope]] — GKP; Extended watch buffer / Watch; Hornicek expected Newcastle No.1; Pope exit risk
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

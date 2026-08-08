@@ -4,7 +4,7 @@ fpl_id: 360
 player: Bradley
 team: LIV
 position: DEF
-current_rank: 288
+current_rank: 295
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

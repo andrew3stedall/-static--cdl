@@ -4,7 +4,7 @@ fpl_id: 23
 player: Fábio Vieira
 team: ARS
 position: MID
-current_rank: 339
+current_rank: 345
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

@@ -2,7 +2,7 @@
 type: position
 position_name: Goalkeeper
 fpl_element_type: 1
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Goalkeeper
@@ -40,14 +40,21 @@ The position is deep relative to an eight-manager league. No goalkeeper is curre
 114. [[02 Players/Henderson - 198|Henderson]] — CRY; Depth / C; Available
 115. [[02 Players/Horníček - 567|Horníček]] — NEW; Depth / C; Newcastle signing; expected first-choice goalkeeper
 211. [[02 Players/Vicario - 494|Vicario]] — TOT; Undrafted buffer / D; Available
-247. [[02 Players/A.Becker - 350|A.Becker]] — LIV; Extended watch buffer / Watch; Available
-249. [[02 Players/Sánchez - 140|Sánchez]] — CHE; Extended watch buffer / Watch; Available
-262. [[02 Players/Rushworth - 110|Rushworth]] — COV; Extended watch buffer / Watch; Coventry club-record goalkeeper signing; first-choice pathway
-268. [[02 Players/Trafford - 385|Trafford]] — LEE; Extended watch buffer / Watch; Available
-319. [[02 Players/Petrović - 57|Petrović]] — BOU; Extended watch buffer / Watch; Available
-325. [[02 Players/Pope - 442|Pope]] — NEW; Extended watch buffer / Watch; Hornicek expected Newcastle No.1; Pope exit risk
+219. [[02 Players/Kelleher - 82|Kelleher]] — BRE; Undrafted buffer / D; Available
+232. [[02 Players/Lammens - 412|Lammens]] — MUN; Extended watch buffer / Watch; Available
+249. [[02 Players/A.Becker - 350|A.Becker]] — LIV; Extended watch buffer / Watch; Available
+251. [[02 Players/Sánchez - 140|Sánchez]] — CHE; Extended watch buffer / Watch; Available
+255. [[02 Players/Sels - 467|Sels]] — NFO; Extended watch buffer / Watch; Available
+258. [[02 Players/Verbruggen - 109|Verbruggen]] — BHA; Extended watch buffer / Watch; Available
+263. [[02 Players/Leno - 250|Leno]] — FUL; Extended watch buffer / Watch; Available
+267. [[02 Players/Rushworth - 110|Rushworth]] — COV; Extended watch buffer / Watch; Coventry club-record goalkeeper signing; first-choice pathway
+270. [[02 Players/Roefs - 529|Roefs]] — SUN; Extended watch buffer / Watch; Available
+274. [[02 Players/Trafford - 385|Trafford]] — LEE; Extended watch buffer / Watch; Available
+277. [[02 Players/Martinez - 28|Martinez]] — AVL; Extended watch buffer / Watch; Available
+326. [[02 Players/Petrović - 57|Petrović]] — BOU; Extended watch buffer / Watch; Available
+332. [[02 Players/Pope - 442|Pope]] — NEW; Extended watch buffer / Watch; Hornicek expected Newcastle No.1; Pope exit risk
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

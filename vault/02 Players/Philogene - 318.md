@@ -4,7 +4,7 @@ fpl_id: 318
 player: Philogene
 team: IPS
 position: MID
-current_rank: 274
+current_rank: 281
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

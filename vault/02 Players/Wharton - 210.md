@@ -4,7 +4,7 @@ fpl_id: 210
 player: Wharton
 team: CRY
 position: MID
-current_rank: 225
+current_rank: 226
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

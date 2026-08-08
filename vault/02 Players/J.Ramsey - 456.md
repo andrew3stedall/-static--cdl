@@ -4,7 +4,7 @@ fpl_id: 456
 player: J.Ramsey
 team: NEW
 position: MID
-current_rank: 267
+current_rank: 273
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

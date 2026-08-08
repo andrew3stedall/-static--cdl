@@ -4,7 +4,7 @@ fpl_id: 460
 player: Willock
 team: NEW
 position: MID
-current_rank: 322
+current_rank: 329
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

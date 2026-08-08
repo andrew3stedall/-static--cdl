@@ -4,7 +4,7 @@ fpl_id: 295
 player: McBurnie
 team: HUL
 position: FWD
-current_rank: 233
+current_rank: 235
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

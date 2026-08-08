@@ -4,7 +4,7 @@ fpl_id: 448
 player: Burn
 team: NEW
 position: DEF
-current_rank: 284
+current_rank: 291
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

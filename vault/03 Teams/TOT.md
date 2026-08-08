@@ -2,7 +2,7 @@
 type: team
 team_name: TOT
 team_short: TOT
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # TOT
@@ -25,17 +25,17 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 187. [[02 Players/Gallagher - 519|Gallagher]] — MID; Undrafted buffer / D; Available
 211. [[02 Players/Vicario - 494|Vicario]] — GKP; Undrafted buffer / D; Available
 217. [[02 Players/Romero - 500|Romero]] — DEF; Undrafted buffer / D; Advanced Atletico talks; PL-exit risk; knee issue under assessment
-226. [[02 Players/P.M.Sarr - 518|P.M.Sarr]] — MID; Extended watch buffer / Watch; Available
-227. [[02 Players/Bergvall - 520|Bergvall]] — MID; Extended watch buffer / Watch; Available
-231. [[02 Players/Kulusevski - 521|Kulusevski]] — MID; Extended watch buffer / Watch; Knee injury - Unknown return date
-253. [[02 Players/Danso - 501|Danso]] — DEF; Extended watch buffer / Watch; Available
-254. [[02 Players/Bentancur - 516|Bentancur]] — MID; Extended watch buffer / Watch; Available
-260. [[02 Players/Robertson - 502|Robertson]] — DEF; Extended watch buffer / Watch; Available
-275. [[02 Players/Odobert - 517|Odobert]] — MID; Extended watch buffer / Watch; Knee injury - Unknown return date
-293. [[02 Players/Tonali - 455|Tonali]] — MID; Extended watch buffer / Watch; Available
-302. [[02 Players/Gray - 522|Gray]] — MID; Extended watch buffer / Watch; Available
+227. [[02 Players/P.M.Sarr - 518|P.M.Sarr]] — MID; Extended watch buffer / Watch; Available
+228. [[02 Players/Bergvall - 520|Bergvall]] — MID; Extended watch buffer / Watch; Available
+233. [[02 Players/Kulusevski - 521|Kulusevski]] — MID; Extended watch buffer / Watch; Knee injury - Unknown return date
+256. [[02 Players/Danso - 501|Danso]] — DEF; Extended watch buffer / Watch; Available
+257. [[02 Players/Bentancur - 516|Bentancur]] — MID; Extended watch buffer / Watch; Available
+265. [[02 Players/Robertson - 502|Robertson]] — DEF; Extended watch buffer / Watch; Available
+282. [[02 Players/Odobert - 517|Odobert]] — MID; Extended watch buffer / Watch; Knee injury - Unknown return date
+300. [[02 Players/Tonali - 455|Tonali]] — MID; Extended watch buffer / Watch; Available
+309. [[02 Players/Gray - 522|Gray]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

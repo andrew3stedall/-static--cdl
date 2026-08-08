@@ -4,7 +4,7 @@ fpl_id: 272
 player: Kusi-Asare
 team: FUL
 position: FWD
-current_rank: 235
+current_rank: 237
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

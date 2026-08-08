@@ -4,7 +4,7 @@ fpl_id: 152
 player: Palestra
 team: CHE
 position: DEF
-current_rank: 281
+current_rank: 288
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

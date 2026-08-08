@@ -4,7 +4,7 @@ fpl_id: 46
 player: Barkley
 team: AVL
 position: MID
-current_rank: 294
+current_rank: 301
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

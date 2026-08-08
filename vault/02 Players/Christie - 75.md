@@ -4,7 +4,7 @@ fpl_id: 75
 player: Christie
 team: BOU
 position: MID
-current_rank: 323
+current_rank: 330
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

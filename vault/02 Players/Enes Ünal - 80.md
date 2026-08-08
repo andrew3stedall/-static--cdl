@@ -4,7 +4,7 @@ fpl_id: 80
 player: Enes Ünal
 team: BOU
 position: FWD
-current_rank: 238
+current_rank: 240
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

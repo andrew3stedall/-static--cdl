@@ -4,7 +4,7 @@ fpl_id: 332
 player: Justin
 team: LEE
 position: DEF
-current_rank: 283
+current_rank: 290
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

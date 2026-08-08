@@ -4,7 +4,7 @@ fpl_id: 184
 player: Grimes
 team: COV
 position: MID
-current_rank: 320
+current_rank: 327
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

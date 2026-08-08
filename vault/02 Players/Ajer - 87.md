@@ -4,7 +4,7 @@ fpl_id: 87
 player: Ajer
 team: BRE
 position: DEF
-current_rank: 304
+current_rank: 311
 segment: Deep watch
 tier: D-
 last_reviewed: 2026-08-08T16:50:00+10:00

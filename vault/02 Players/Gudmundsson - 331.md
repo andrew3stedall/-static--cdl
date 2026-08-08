@@ -4,7 +4,7 @@ fpl_id: 331
 player: Gudmundsson
 team: LEE
 position: DEF
-current_rank: 230
+current_rank: 231
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

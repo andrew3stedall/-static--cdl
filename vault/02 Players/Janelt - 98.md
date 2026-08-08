@@ -4,7 +4,7 @@ fpl_id: 98
 player: Janelt
 team: BRE
 position: MID
-current_rank: 301
+current_rank: 308
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

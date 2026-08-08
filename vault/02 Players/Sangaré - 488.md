@@ -4,7 +4,7 @@ fpl_id: 488
 player: Sangaré
 team: NFO
 position: MID
-current_rank: 310
+current_rank: 317
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

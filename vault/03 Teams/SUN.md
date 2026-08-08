@@ -2,7 +2,7 @@
 type: team
 team_name: SUN
 team_short: SUN
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # SUN
@@ -20,12 +20,13 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 168. [[02 Players/Ballard - 532|Ballard]] — DEF; Undrafted buffer / D; Available
 172. [[02 Players/Alderete - 535|Alderete]] — DEF; Undrafted buffer / D; Available
 214. [[02 Players/Isidor - 553|Isidor]] — FWD; Undrafted buffer / D; Available
-242. [[02 Players/Talbi - 549|Talbi]] — MID; Extended watch buffer / Watch; Available
-289. [[02 Players/Diarra - 543|Diarra]] — MID; Extended watch buffer / Watch; Available
-295. [[02 Players/Rigg - 548|Rigg]] — MID; Extended watch buffer / Watch; Available
-326. [[02 Players/Reinildo - 536|Reinildo]] — DEF; Extended watch buffer / Watch; Available
+244. [[02 Players/Talbi - 549|Talbi]] — MID; Extended watch buffer / Watch; Available
+270. [[02 Players/Roefs - 529|Roefs]] — GKP; Extended watch buffer / Watch; Available
+296. [[02 Players/Diarra - 543|Diarra]] — MID; Extended watch buffer / Watch; Available
+302. [[02 Players/Rigg - 548|Rigg]] — MID; Extended watch buffer / Watch; Available
+333. [[02 Players/Reinildo - 536|Reinildo]] — DEF; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

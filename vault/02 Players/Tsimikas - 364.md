@@ -4,7 +4,7 @@ fpl_id: 364
 player: Tsimikas
 team: LIV
 position: DEF
-current_rank: 266
+current_rank: 272
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

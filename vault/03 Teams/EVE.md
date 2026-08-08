@@ -2,7 +2,7 @@
 type: team
 team_name: EVE
 team_short: EVE
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # EVE
@@ -23,11 +23,11 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 178. [[02 Players/O'Brien - 232|O'Brien]] — DEF; Undrafted buffer / D; Available
 184. [[02 Players/Keane - 231|Keane]] — DEF; Undrafted buffer / D; Available
 195. [[02 Players/Dibling - 245|Dibling]] — MID; Undrafted buffer / D; Available
-269. [[02 Players/Alcaraz - 243|Alcaraz]] — MID; Extended watch buffer / Watch; Available
-308. [[02 Players/Hackney - 247|Hackney]] — MID; Extended watch buffer / Watch; Available
-335. [[02 Players/Röhl - 246|Röhl]] — MID; Extended watch buffer / Watch; Available
+275. [[02 Players/Alcaraz - 243|Alcaraz]] — MID; Extended watch buffer / Watch; Available
+315. [[02 Players/Hackney - 247|Hackney]] — MID; Extended watch buffer / Watch; Available
+342. [[02 Players/Röhl - 246|Röhl]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

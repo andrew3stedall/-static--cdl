@@ -5,7 +5,7 @@ player_name: Petrović
 team: BOU
 position: GKP
 api_status: "Available"
-current_rank: 319
+current_rank: 326
 current_segment: Depth
 current_tier: C
 last_reviewed: 2026-08-08T16:50:00+10:00

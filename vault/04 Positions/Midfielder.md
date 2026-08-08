@@ -2,7 +2,7 @@
 type: position
 position_name: Midfielder
 fpl_element_type: 3
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Midfielder
@@ -137,72 +137,72 @@ The deepest position by player count, but elite attacking roles remain scarce. M
 215. [[02 Players/Tzolis - 557|Tzolis]] — ARS; Undrafted buffer / D; Available
 216. [[02 Players/Gittens - 158|Gittens]] — CHE; Undrafted buffer / D; Available
 218. [[02 Players/Buendía - 41|Buendía]] — AVL; Undrafted buffer / D; Available
-219. [[02 Players/McAtee - 486|McAtee]] — NFO; Undrafted buffer / D; Available
-220. [[02 Players/Anthony - 105|Anthony]] — BRE; Undrafted buffer / D; Available
-222. [[02 Players/Kevin - 263|Kevin]] — FUL; Extended watch buffer / Watch; Available
-225. [[02 Players/Wharton - 210|Wharton]] — CRY; Extended watch buffer / Watch; Available
-226. [[02 Players/P.M.Sarr - 518|P.M.Sarr]] — TOT; Extended watch buffer / Watch; Available
-227. [[02 Players/Bergvall - 520|Bergvall]] — TOT; Extended watch buffer / Watch; Available
-228. [[02 Players/Bakwa - 485|Bakwa]] — NFO; Extended watch buffer / Watch; Available
-231. [[02 Players/Kulusevski - 521|Kulusevski]] — TOT; Extended watch buffer / Watch; Knee injury - Unknown return date
-237. [[02 Players/Palacios - 570|Palacios]] — FUL; Extended watch buffer / Watch; Available
-242. [[02 Players/Talbi - 549|Talbi]] — SUN; Extended watch buffer / Watch; Available
-243. [[02 Players/Mason-Clark - 186|Mason-Clark]] — COV; Extended watch buffer / Watch; Available
-244. [[02 Players/Lerma - 213|Lerma]] — CRY; Extended watch buffer / Watch; Available
-245. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MCI; Extended watch buffer / Watch; Available
-250. [[02 Players/Quenda - 164|Quenda]] — CHE; Extended watch buffer / Watch; Available
-254. [[02 Players/Bentancur - 516|Bentancur]] — TOT; Extended watch buffer / Watch; Available
-256. [[02 Players/Joelinton - 458|Joelinton]] — NEW; Extended watch buffer / Watch; Thigh injury - 75% chance of playing
-267. [[02 Players/J.Ramsey - 456|J.Ramsey]] — NEW; Extended watch buffer / Watch; Available
-269. [[02 Players/Alcaraz - 243|Alcaraz]] — EVE; Extended watch buffer / Watch; Available
-271. [[02 Players/Guessand - 42|Guessand]] — AVL; Extended watch buffer / Watch; Available
-272. [[02 Players/Chiesa - 370|Chiesa]] — LIV; Extended watch buffer / Watch; Available
-274. [[02 Players/Philogene - 318|Philogene]] — IPS; Extended watch buffer / Watch; Available
-275. [[02 Players/Odobert - 517|Odobert]] — TOT; Extended watch buffer / Watch; Knee injury - Unknown return date
-276. [[02 Players/Gomez - 127|Gomez]] — BHA; Extended watch buffer / Watch; Available
-277. [[02 Players/Johnson - 209|Johnson]] — CRY; Extended watch buffer / Watch; Available
-278. [[02 Players/Hughes - 212|Hughes]] — CRY; Extended watch buffer / Watch; Available
-279. [[02 Players/Kroupi.Jr - 78|Kroupi.Jr]] — BOU; Extended watch buffer / Watch; Foot injury - Unknown return date
-280. [[02 Players/Buonanotte - 128|Buonanotte]] — BHA; Extended watch buffer / Watch; Available
-285. [[02 Players/Rodrigo - 402|Rodrigo]] — MCI; Extended watch buffer / Watch; Barcelona talks; back surgery; major PL-exit risk
-286. [[02 Players/Tanaka - 345|Tanaka]] — LEE; Extended watch buffer / Watch; Available
-287. [[02 Players/O'Riley - 126|O'Riley]] — BHA; Extended watch buffer / Watch; Available
-289. [[02 Players/Diarra - 543|Diarra]] — SUN; Extended watch buffer / Watch; Available
-291. [[02 Players/L.Miley - 459|L.Miley]] — NEW; Extended watch buffer / Watch; Leg/calf rehab; Premier Injuries potential return 23 Aug 2026
-292. [[02 Players/Carvalho - 100|Carvalho]] — BRE; Extended watch buffer / Watch; Lack of match fitness - 25% chance of playing
-293. [[02 Players/Tonali - 455|Tonali]] — TOT; Extended watch buffer / Watch; Available
-294. [[02 Players/Barkley - 46|Barkley]] — AVL; Extended watch buffer / Watch; Available
-295. [[02 Players/Rigg - 548|Rigg]] — SUN; Extended watch buffer / Watch; Available
-298. [[02 Players/Belloumi - 286|Belloumi]] — HUL; Extended watch buffer / Watch; Available
-299. [[02 Players/Adams - 73|Adams]] — BOU; Extended watch buffer / Watch; Available
-300. [[02 Players/Gomes - 54|Gomes]] — AVL; Extended watch buffer / Watch; Available
-301. [[02 Players/Janelt - 98|Janelt]] — BRE; Extended watch buffer / Watch; Available
-302. [[02 Players/Gray - 522|Gray]] — TOT; Extended watch buffer / Watch; Available
-303. [[02 Players/Barco - 568|Barco]] — CHE; Extended watch buffer / Watch; Available
-308. [[02 Players/Hackney - 247|Hackney]] — EVE; Extended watch buffer / Watch; Available
-309. [[02 Players/Tielemans - 43|Tielemans]] — MUN; Extended watch buffer / Watch; Thigh injury; return date remains uncertain
-310. [[02 Players/Sangaré - 488|Sangaré]] — NFO; Extended watch buffer / Watch; Available
-311. [[02 Players/Dominguez - 487|Dominguez]] — NFO; Extended watch buffer / Watch; Available
-315. [[02 Players/Sakamoto - 185|Sakamoto]] — COV; Extended watch buffer / Watch; Available
-316. [[02 Players/Berge - 265|Berge]] — FUL; Extended watch buffer / Watch; Available
-317. [[02 Players/Lukić - 267|Lukić]] — FUL; Extended watch buffer / Watch; Available
-320. [[02 Players/Grimes - 184|Grimes]] — COV; Extended watch buffer / Watch; Available
-322. [[02 Players/Willock - 460|Willock]] — NEW; Extended watch buffer / Watch; Available
-323. [[02 Players/Christie - 75|Christie]] — BOU; Extended watch buffer / Watch; Suspended until 29 Aug
-329. [[02 Players/Longstaff - 339|Longstaff]] — LEE; Extended watch buffer / Watch; Available
-330. [[02 Players/Yates - 489|Yates]] — NFO; Extended watch buffer / Watch; Available
-331. [[02 Players/Gruev - 344|Gruev]] — LEE; Extended watch buffer / Watch; Available
-332. [[02 Players/Cook - 71|Cook]] — BOU; Extended watch buffer / Watch; Available
-333. [[02 Players/Lavia - 161|Lavia]] — CHE; Extended watch buffer / Watch; Available
-334. [[02 Players/Baleba - 131|Baleba]] — BHA; Extended watch buffer / Watch; Ankle injury - Expected back 23 Aug
-335. [[02 Players/Röhl - 246|Röhl]] — EVE; Extended watch buffer / Watch; Available
-339. [[02 Players/Fábio Vieira - 23|Fábio Vieira]] — ARS; Extended watch buffer / Watch; Available
-343. [[02 Players/Manzambi - 53|Manzambi]] — AVL; Extended watch buffer / Watch; Available
-344. [[02 Players/Bogarde - 35|Bogarde]] — AVL; Extended watch buffer / Watch; Available
-345. [[02 Players/Bailey - 44|Bailey]] — AVL; Extended watch buffer / Watch; Available
-348. [[02 Players/Cairney - 266|Cairney]] — FUL; Extended watch buffer / Watch; Available
+220. [[02 Players/McAtee - 486|McAtee]] — NFO; Undrafted buffer / D; Available
+221. [[02 Players/Anthony - 105|Anthony]] — BRE; Extended watch buffer / Watch; Available
+223. [[02 Players/Kevin - 263|Kevin]] — FUL; Extended watch buffer / Watch; Available
+226. [[02 Players/Wharton - 210|Wharton]] — CRY; Extended watch buffer / Watch; Available
+227. [[02 Players/P.M.Sarr - 518|P.M.Sarr]] — TOT; Extended watch buffer / Watch; Available
+228. [[02 Players/Bergvall - 520|Bergvall]] — TOT; Extended watch buffer / Watch; Available
+229. [[02 Players/Bakwa - 485|Bakwa]] — NFO; Extended watch buffer / Watch; Available
+233. [[02 Players/Kulusevski - 521|Kulusevski]] — TOT; Extended watch buffer / Watch; Knee injury - Unknown return date
+239. [[02 Players/Palacios - 570|Palacios]] — FUL; Extended watch buffer / Watch; Available
+244. [[02 Players/Talbi - 549|Talbi]] — SUN; Extended watch buffer / Watch; Available
+245. [[02 Players/Mason-Clark - 186|Mason-Clark]] — COV; Extended watch buffer / Watch; Available
+246. [[02 Players/Lerma - 213|Lerma]] — CRY; Extended watch buffer / Watch; Available
+247. [[02 Players/N.Gonzalez - 405|N.Gonzalez]] — MCI; Extended watch buffer / Watch; Available
+252. [[02 Players/Quenda - 164|Quenda]] — CHE; Extended watch buffer / Watch; Available
+257. [[02 Players/Bentancur - 516|Bentancur]] — TOT; Extended watch buffer / Watch; Available
+260. [[02 Players/Joelinton - 458|Joelinton]] — NEW; Extended watch buffer / Watch; Thigh injury - 75% chance of playing
+273. [[02 Players/J.Ramsey - 456|J.Ramsey]] — NEW; Extended watch buffer / Watch; Available
+275. [[02 Players/Alcaraz - 243|Alcaraz]] — EVE; Extended watch buffer / Watch; Available
+278. [[02 Players/Guessand - 42|Guessand]] — AVL; Extended watch buffer / Watch; Available
+279. [[02 Players/Chiesa - 370|Chiesa]] — LIV; Extended watch buffer / Watch; Available
+281. [[02 Players/Philogene - 318|Philogene]] — IPS; Extended watch buffer / Watch; Available
+282. [[02 Players/Odobert - 517|Odobert]] — TOT; Extended watch buffer / Watch; Knee injury - Unknown return date
+283. [[02 Players/Gomez - 127|Gomez]] — BHA; Extended watch buffer / Watch; Available
+284. [[02 Players/Johnson - 209|Johnson]] — CRY; Extended watch buffer / Watch; Available
+285. [[02 Players/Hughes - 212|Hughes]] — CRY; Extended watch buffer / Watch; Available
+286. [[02 Players/Kroupi.Jr - 78|Kroupi.Jr]] — BOU; Extended watch buffer / Watch; Foot injury - Unknown return date
+287. [[02 Players/Buonanotte - 128|Buonanotte]] — BHA; Extended watch buffer / Watch; Available
+292. [[02 Players/Rodrigo - 402|Rodrigo]] — MCI; Extended watch buffer / Watch; Barcelona talks; back surgery; major PL-exit risk
+293. [[02 Players/Tanaka - 345|Tanaka]] — LEE; Extended watch buffer / Watch; Available
+294. [[02 Players/O'Riley - 126|O'Riley]] — BHA; Extended watch buffer / Watch; Available
+296. [[02 Players/Diarra - 543|Diarra]] — SUN; Extended watch buffer / Watch; Available
+298. [[02 Players/L.Miley - 459|L.Miley]] — NEW; Extended watch buffer / Watch; Leg/calf rehab; Premier Injuries potential return 23 Aug 2026
+299. [[02 Players/Carvalho - 100|Carvalho]] — BRE; Extended watch buffer / Watch; Lack of match fitness - 25% chance of playing
+300. [[02 Players/Tonali - 455|Tonali]] — TOT; Extended watch buffer / Watch; Available
+301. [[02 Players/Barkley - 46|Barkley]] — AVL; Extended watch buffer / Watch; Available
+302. [[02 Players/Rigg - 548|Rigg]] — SUN; Extended watch buffer / Watch; Available
+305. [[02 Players/Belloumi - 286|Belloumi]] — HUL; Extended watch buffer / Watch; Available
+306. [[02 Players/Adams - 73|Adams]] — BOU; Extended watch buffer / Watch; Available
+307. [[02 Players/Gomes - 54|Gomes]] — AVL; Extended watch buffer / Watch; Available
+308. [[02 Players/Janelt - 98|Janelt]] — BRE; Extended watch buffer / Watch; Available
+309. [[02 Players/Gray - 522|Gray]] — TOT; Extended watch buffer / Watch; Available
+310. [[02 Players/Barco - 568|Barco]] — CHE; Extended watch buffer / Watch; Available
+315. [[02 Players/Hackney - 247|Hackney]] — EVE; Extended watch buffer / Watch; Available
+316. [[02 Players/Tielemans - 43|Tielemans]] — MUN; Extended watch buffer / Watch; Thigh injury; return date remains uncertain
+317. [[02 Players/Sangaré - 488|Sangaré]] — NFO; Extended watch buffer / Watch; Available
+318. [[02 Players/Dominguez - 487|Dominguez]] — NFO; Extended watch buffer / Watch; Available
+322. [[02 Players/Sakamoto - 185|Sakamoto]] — COV; Extended watch buffer / Watch; Available
+323. [[02 Players/Berge - 265|Berge]] — FUL; Extended watch buffer / Watch; Available
+324. [[02 Players/Lukić - 267|Lukić]] — FUL; Extended watch buffer / Watch; Available
+327. [[02 Players/Grimes - 184|Grimes]] — COV; Extended watch buffer / Watch; Available
+329. [[02 Players/Willock - 460|Willock]] — NEW; Extended watch buffer / Watch; Available
+330. [[02 Players/Christie - 75|Christie]] — BOU; Extended watch buffer / Watch; Suspended until 29 Aug
+336. [[02 Players/Longstaff - 339|Longstaff]] — LEE; Extended watch buffer / Watch; Available
+337. [[02 Players/Yates - 489|Yates]] — NFO; Extended watch buffer / Watch; Available
+338. [[02 Players/Gruev - 344|Gruev]] — LEE; Extended watch buffer / Watch; Available
+339. [[02 Players/Cook - 71|Cook]] — BOU; Extended watch buffer / Watch; Available
+340. [[02 Players/Lavia - 161|Lavia]] — CHE; Extended watch buffer / Watch; Available
+341. [[02 Players/Baleba - 131|Baleba]] — BHA; Extended watch buffer / Watch; Ankle injury - Expected back 23 Aug
+342. [[02 Players/Röhl - 246|Röhl]] — EVE; Extended watch buffer / Watch; Available
+345. [[02 Players/Fábio Vieira - 23|Fábio Vieira]] — ARS; Extended watch buffer / Watch; Available
+347. [[02 Players/Manzambi - 53|Manzambi]] — AVL; Extended watch buffer / Watch; Available
+348. [[02 Players/Bogarde - 35|Bogarde]] — AVL; Extended watch buffer / Watch; Available
+349. [[02 Players/Bailey - 44|Bailey]] — AVL; Extended watch buffer / Watch; Available
+350. [[02 Players/Cairney - 266|Cairney]] — FUL; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

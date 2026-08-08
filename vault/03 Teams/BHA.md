@@ -25,20 +25,20 @@ Evidence: [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]; [Reuters Welbeck](
 156. [[02 Players/Hinshelwood - 123|Hinshelwood]] — MID; Endgame / D+; Available
 177. [[02 Players/Boscagli - 114|Boscagli]] — DEF; Undrafted buffer / D; Available
 193. [[02 Players/Georginio - 125|Georginio]] — FWD; Undrafted buffer / D; Available
-223. [[02 Players/Kostoulas - 138|Kostoulas]] — FWD; Extended watch buffer / Watch; Available
-229. [[02 Players/Tzimas - 137|Tzimas]] — FWD; Extended watch buffer / Watch; ACL rehab; Premier Injuries potential return 12 Sep 2026
-255. [[02 Players/Ferguson - 139|Ferguson]] — FWD; Extended watch buffer / Watch; Ankle injury - Expected back 10 Oct
-276. [[02 Players/Gomez - 127|Gomez]] — MID; Extended watch buffer / Watch; Available
-280. [[02 Players/Buonanotte - 128|Buonanotte]] — MID; Extended watch buffer / Watch; Available
-287. [[02 Players/O'Riley - 126|O'Riley]] — MID; Extended watch buffer / Watch; Available
-313. [[02 Players/Wieffer - 130|Wieffer]] — DEF; Extended watch buffer / Watch; Available
-324. [[02 Players/Vuskovic - 504|Vuskovic]] — DEF; Extended watch buffer / Watch; Available
-334. [[02 Players/Baleba - 131|Baleba]] — MID; Extended watch buffer / Watch; Ankle injury - Expected back 23 Aug
-338. [[02 Players/Igor - 118|Igor]] — DEF; Extended watch buffer / Watch; Available
-340. [[02 Players/Coppola - 117|Coppola]] — DEF; Extended watch buffer / Watch; Available
-342. [[02 Players/Costinha - 119|Costinha]] — DEF; Extended watch buffer / Watch; Available
+224. [[02 Players/Kostoulas - 138|Kostoulas]] — FWD; Extended watch buffer / Watch; Available
+230. [[02 Players/Tzimas - 137|Tzimas]] — FWD; Extended watch buffer / Watch; ACL rehab; Premier Injuries potential return 12 Sep 2026
+258. [[02 Players/Verbruggen - 109|Verbruggen]] — GKP; Extended watch buffer / Watch; Available
+259. [[02 Players/Ferguson - 139|Ferguson]] — FWD; Extended watch buffer / Watch; Ankle injury - Expected back 10 Oct
+283. [[02 Players/Gomez - 127|Gomez]] — MID; Extended watch buffer / Watch; Available
+287. [[02 Players/Buonanotte - 128|Buonanotte]] — MID; Extended watch buffer / Watch; Available
+294. [[02 Players/O'Riley - 126|O'Riley]] — MID; Extended watch buffer / Watch; Available
+320. [[02 Players/Wieffer - 130|Wieffer]] — DEF; Extended watch buffer / Watch; Available
+331. [[02 Players/Vuskovic - 504|Vuskovic]] — DEF; Extended watch buffer / Watch; Available
+341. [[02 Players/Baleba - 131|Baleba]] — MID; Extended watch buffer / Watch; Ankle injury - Expected back 23 Aug
+344. [[02 Players/Igor - 118|Igor]] — DEF; Extended watch buffer / Watch; Available
+346. [[02 Players/Coppola - 117|Coppola]] — DEF; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

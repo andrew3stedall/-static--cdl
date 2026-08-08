@@ -4,10 +4,10 @@ fpl_id: 396
 player: Vitor Reis
 team: MCI
 position: DEF
-current_rank: 337
+current_rank: null
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Vitor Reis
@@ -71,3 +71,10 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Current status: **Available**.
 - Reconciled against the current FPL API and season-long Draft injury/transfer framework.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].
+
+
+## 1712-AEST final-tail correction
+
+- Removed from the active top 350 after direct comparison with probable starting goalkeepers.
+- Remains a watchlist/deep-pool player rather than a current ranked selection.
+- Evidence: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

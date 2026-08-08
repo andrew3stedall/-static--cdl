@@ -5,7 +5,7 @@ player_name: Hill
 team: BOU
 position: DEF
 api_status: Available
-current_rank: 246
+current_rank: 248
 current_segment: Endgame
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---

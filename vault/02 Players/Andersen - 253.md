@@ -4,7 +4,7 @@ fpl_id: 253
 player: Andersen
 team: FUL
 position: DEF
-current_rank: 234
+current_rank: 236
 segment: Endgame
 tier: D+
 last_reviewed: 2026-08-08T16:50:00+10:00

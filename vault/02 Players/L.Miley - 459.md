@@ -4,7 +4,7 @@ fpl_id: 459
 player: L.Miley
 team: NEW
 position: MID
-current_rank: 291
+current_rank: 298
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

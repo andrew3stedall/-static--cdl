@@ -4,7 +4,7 @@ fpl_id: 501
 player: Danso
 team: TOT
 position: DEF
-current_rank: 253
+current_rank: 256
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -4,7 +4,7 @@ fpl_id: 118
 player: Igor
 team: BHA
 position: DEF
-current_rank: 338
+current_rank: 344
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

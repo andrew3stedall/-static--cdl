@@ -4,7 +4,7 @@ fpl_id: 267
 player: Lukić
 team: FUL
 position: MID
-current_rank: 317
+current_rank: 324
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

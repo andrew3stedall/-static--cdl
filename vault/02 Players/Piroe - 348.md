@@ -4,7 +4,7 @@ fpl_id: 348
 player: Piroe
 team: LEE
 position: FWD
-current_rank: 224
+current_rank: 225
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

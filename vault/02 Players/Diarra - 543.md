@@ -4,7 +4,7 @@ fpl_id: 543
 player: Diarra
 team: SUN
 position: MID
-current_rank: 289
+current_rank: 296
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

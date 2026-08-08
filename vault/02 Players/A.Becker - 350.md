@@ -5,7 +5,7 @@ player_name: A.Becker
 team: LIV
 position: GKP
 api_status: "Available"
-current_rank: 247
+current_rank: 249
 current_segment: Depth
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---

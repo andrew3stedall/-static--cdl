@@ -238,138 +238,138 @@ The full 350-player board was swept top-to-bottom in 20-player blocks with five-
 | 216 | Gittens | MID | CHE | Undrafted buffer | D | 158 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
 | 217 | Romero | DEF | TOT | Undrafted buffer | D | 500 | Advanced Atletico talks; PL-exit risk; knee issue under assessment | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
 | 218 | Buendía | MID | AVL | Undrafted buffer | D | 41 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 219 | McAtee | MID | NFO | Undrafted buffer | D | 486 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 220 | Anthony | MID | BRE | Undrafted buffer | D | 105 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 221 | Akpom | FWD | IPS | Extended watch buffer | Watch | 320 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 222 | Kevin | MID | FUL | Extended watch buffer | Watch | 263 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 223 | Kostoulas | FWD | BHA | Extended watch buffer | Watch | 138 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 224 | Piroe | FWD | LEE | Extended watch buffer | Watch | 348 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 225 | Wharton | MID | CRY | Extended watch buffer | Watch | 210 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 226 | P.M.Sarr | MID | TOT | Extended watch buffer | Watch | 518 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 227 | Bergvall | MID | TOT | Extended watch buffer | Watch | 520 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 228 | Bakwa | MID | NFO | Extended watch buffer | Watch | 485 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 229 | Tzimas | FWD | BHA | Extended watch buffer | Watch | 137 | ACL rehab; Premier Injuries potential return 12 Sep 2026 | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 230 | Gudmundsson | DEF | LEE | Extended watch buffer | Watch | 331 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 231 | Kulusevski | MID | TOT | Extended watch buffer | Watch | 521 | Knee injury - Unknown return date | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 232 | Thomas-Asante | FWD | COV | Extended watch buffer | Watch | 194 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 233 | McBurnie | FWD | HUL | Extended watch buffer | Watch | 295 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 234 | Andersen | DEF | FUL | Extended watch buffer | Watch | 253 | Suspended until 30 Aug | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 235 | Kusi-Asare | FWD | FUL | Extended watch buffer | Watch | 272 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 236 | Pinnock | DEF | BRE | Extended watch buffer | Watch | 91 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 237 | Palacios | MID | FUL | Extended watch buffer | Watch | 570 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 238 | Enes Ünal | FWD | BOU | Extended watch buffer | Watch | 80 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 239 | Al-Hamadi | FWD | IPS | Extended watch buffer | Watch | 322 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 240 | Matheus N. | DEF | MCI | Extended watch buffer | Watch | 389 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 241 | Rodríguez | FWD | BOU | Extended watch buffer | Watch | 81 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 242 | Talbi | MID | SUN | Extended watch buffer | Watch | 549 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 243 | Mason-Clark | MID | COV | Extended watch buffer | Watch | 186 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 244 | Lerma | MID | CRY | Extended watch buffer | Watch | 213 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 245 | N.Gonzalez | MID | MCI | Extended watch buffer | Watch | 405 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 246 | Hill | DEF | BOU | Extended watch buffer | Watch | 60 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 247 | A.Becker | GKP | LIV | Extended watch buffer | Watch | 350 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 248 | Zirkzee | FWD | MUN | Extended watch buffer | Watch | 440 | Juventus loan interest; PL-exit risk | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 249 | Sánchez | GKP | CHE | Extended watch buffer | Watch | 140 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 250 | Quenda | MID | CHE | Extended watch buffer | Watch | 164 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 251 | Konsa | DEF | AVL | Extended watch buffer | Watch | 31 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 252 | Khusanov | DEF | MCI | Extended watch buffer | Watch | 393 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 253 | Danso | DEF | TOT | Extended watch buffer | Watch | 501 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 254 | Bentancur | MID | TOT | Extended watch buffer | Watch | 516 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 255 | Ferguson | FWD | BHA | Extended watch buffer | Watch | 139 | Ankle injury - Expected back 10 Oct | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 256 | Joelinton | MID | NEW | Extended watch buffer | Watch | 458 | Thigh injury - 75% chance of playing | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 257 | White | DEF | ARS | Extended watch buffer | Watch | 10 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 258 | Yoro | DEF | MUN | Extended watch buffer | Watch | 420 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 259 | Bassey | DEF | FUL | Extended watch buffer | Watch | 257 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 260 | Robertson | DEF | TOT | Extended watch buffer | Watch | 502 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 261 | Murillo | DEF | NFO | Extended watch buffer | Watch | 472 | Thigh rehab; Premier Injuries potential return 22 Aug 2026 | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 262 | Rushworth | GKP | COV | Extended watch buffer | Watch | 110 | Coventry club-record goalkeeper signing; first-choice pathway | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 263 | Henry | DEF | BRE | Extended watch buffer | Watch | 89 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 264 | Mings | DEF | AVL | Extended watch buffer | Watch | 33 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 265 | Rodon | DEF | LEE | Extended watch buffer | Watch | 329 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 266 | Tsimikas | DEF | LIV | Extended watch buffer | Watch | 364 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 267 | J.Ramsey | MID | NEW | Extended watch buffer | Watch | 456 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 268 | Trafford | GKP | LEE | Extended watch buffer | Watch | 385 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 269 | Alcaraz | MID | EVE | Extended watch buffer | Watch | 243 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 270 | Castagne | DEF | FUL | Extended watch buffer | Watch | 258 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 271 | Guessand | MID | AVL | Extended watch buffer | Watch | 42 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 272 | Chiesa | MID | LIV | Extended watch buffer | Watch | 370 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 273 | Markelo | FWD | COV | Extended watch buffer | Watch | 196 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 274 | Philogene | MID | IPS | Extended watch buffer | Watch | 318 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 275 | Odobert | MID | TOT | Extended watch buffer | Watch | 517 | Knee injury - Unknown return date | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 276 | Gomez | MID | BHA | Extended watch buffer | Watch | 127 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 277 | Johnson | MID | CRY | Extended watch buffer | Watch | 209 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 278 | Hughes | MID | CRY | Extended watch buffer | Watch | 212 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 279 | Kroupi.Jr | MID | BOU | Extended watch buffer | Watch | 78 | Foot injury - Unknown return date | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 280 | Buonanotte | MID | BHA | Extended watch buffer | Watch | 128 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 281 | Palestra | DEF | CHE | Extended watch buffer | Watch | 152 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 282 | Fofana | DEF | CHE | Extended watch buffer | Watch | 145 | Suspended until 6 Sep | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 283 | Justin | DEF | LEE | Extended watch buffer | Watch | 332 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 284 | Burn | DEF | NEW | Extended watch buffer | Watch | 448 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 285 | Rodrigo | MID | MCI | Extended watch buffer | Watch | 402 | Barcelona talks; back surgery; major PL-exit risk | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 286 | Tanaka | MID | LEE | Extended watch buffer | Watch | 345 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 287 | O'Riley | MID | BHA | Extended watch buffer | Watch | 126 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 288 | Bradley | DEF | LIV | Extended watch buffer | Watch | 360 | Knee injury - Unknown return date | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 289 | Diarra | MID | SUN | Extended watch buffer | Watch | 543 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 290 | Hickey | DEF | BRE | Extended watch buffer | Watch | 90 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 291 | L.Miley | MID | NEW | Extended watch buffer | Watch | 459 | Leg/calf rehab; Premier Injuries potential return 23 Aug 2026 | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 292 | Carvalho | MID | BRE | Extended watch buffer | Watch | 100 | Lack of match fitness - 25% chance of playing | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 293 | Tonali | MID | TOT | Extended watch buffer | Watch | 455 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 294 | Barkley | MID | AVL | Extended watch buffer | Watch | 46 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 295 | Rigg | MID | SUN | Extended watch buffer | Watch | 548 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 296 | Mazraoui | DEF | MUN | Extended watch buffer | Watch | 422 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 297 | G.Jesus | FWD | ARS | Extended watch buffer | Watch | 27 | Napoli interest; Arsenal open-to-sale reports | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 298 | Belloumi | MID | HUL | Extended watch buffer | Watch | 286 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 299 | Adams | MID | BOU | Extended watch buffer | Watch | 73 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 300 | Gomes | MID | AVL | Extended watch buffer | Watch | 54 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 301 | Janelt | MID | BRE | Extended watch buffer | Watch | 98 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 302 | Gray | MID | TOT | Extended watch buffer | Watch | 522 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 303 | Barco | MID | CHE | Extended watch buffer | Watch | 568 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 304 | Ajer | DEF | BRE | Extended watch buffer | Watch | 87 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 305 | Tosin | DEF | CHE | Extended watch buffer | Watch | 147 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 306 | B.Badiashile | DEF | CHE | Extended watch buffer | Watch | 146 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 307 | Acheampong | DEF | CHE | Extended watch buffer | Watch | 151 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 308 | Hackney | MID | EVE | Extended watch buffer | Watch | 247 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 309 | Tielemans | MID | MUN | Extended watch buffer | Watch | 43 | Thigh injury; return date remains uncertain | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 310 | Sangaré | MID | NFO | Extended watch buffer | Watch | 488 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 311 | Dominguez | MID | NFO | Extended watch buffer | Watch | 487 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 312 | Diop | DEF | IPS | Extended watch buffer | Watch | 259 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 313 | Wieffer | DEF | BHA | Extended watch buffer | Watch | 130 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 314 | Heaven | DEF | MUN | Extended watch buffer | Watch | 421 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 315 | Sakamoto | MID | COV | Extended watch buffer | Watch | 185 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 316 | Berge | MID | FUL | Extended watch buffer | Watch | 265 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 317 | Lukić | MID | FUL | Extended watch buffer | Watch | 267 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 318 | Smith | DEF | BOU | Extended watch buffer | Watch | 64 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 319 | Petrović | GKP | BOU | Extended watch buffer | Watch | 57 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 320 | Grimes | MID | COV | Extended watch buffer | Watch | 184 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 321 | Emersonn | FWD | IPS | Extended watch buffer | Watch | 316 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 322 | Willock | MID | NEW | Extended watch buffer | Watch | 460 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 323 | Christie | MID | BOU | Extended watch buffer | Watch | 75 | Suspended until 29 Aug | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 324 | Vuskovic | DEF | BHA | Extended watch buffer | Watch | 504 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 325 | Pope | GKP | NEW | Extended watch buffer | Watch | 442 | Hornicek expected Newcastle No.1; Pope exit risk | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 326 | Reinildo | DEF | SUN | Extended watch buffer | Watch | 536 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 327 | Destan | FWD | HUL | Extended watch buffer | Watch | 298 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 328 | Morato | DEF | NFO | Extended watch buffer | Watch | 470 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 329 | Longstaff | MID | LEE | Extended watch buffer | Watch | 339 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 330 | Yates | MID | NFO | Extended watch buffer | Watch | 489 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 331 | Gruev | MID | LEE | Extended watch buffer | Watch | 344 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 332 | Cook | MID | BOU | Extended watch buffer | Watch | 71 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 333 | Lavia | MID | CHE | Extended watch buffer | Watch | 161 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 334 | Baleba | MID | BHA | Extended watch buffer | Watch | 131 | Ankle injury - Expected back 23 Aug | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 335 | Röhl | MID | EVE | Extended watch buffer | Watch | 246 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 336 | Milosavljević | DEF | BOU | Extended watch buffer | Watch | 63 | Unspecified injury - Unknown return date | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 337 | Vitor Reis | DEF | MCI | Extended watch buffer | Watch | 396 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 338 | Igor | DEF | BHA | Extended watch buffer | Watch | 118 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 339 | Fábio Vieira | MID | ARS | Extended watch buffer | Watch | 23 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 340 | Coppola | DEF | BHA | Extended watch buffer | Watch | 117 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 341 | Schuster | DEF | BRE | Extended watch buffer | Watch | 93 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 342 | Costinha | DEF | BHA | Extended watch buffer | Watch | 119 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 343 | Manzambi | MID | AVL | Extended watch buffer | Watch | 53 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 344 | Bogarde | MID | AVL | Extended watch buffer | Watch | 35 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 345 | Bailey | MID | AVL | Extended watch buffer | Watch | 44 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 346 | J.Cuenca | DEF | FUL | Extended watch buffer | Watch | 255 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 347 | Anselmino | DEF | CHE | Extended watch buffer | Watch | 561 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 348 | Cairney | MID | FUL | Extended watch buffer | Watch | 266 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 349 | Ji-soo | DEF | BRE | Extended watch buffer | Watch | 92 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
-| 350 | Jacquet | DEF | LIV | Extended watch buffer | Watch | 362 | Available | 2026-08-08T16:50:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 219 | Kelleher | GKP | BRE | Undrafted buffer | D | 82 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 220 | McAtee | MID | NFO | Undrafted buffer | D | 486 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 221 | Anthony | MID | BRE | Extended watch buffer | Watch | 105 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 222 | Akpom | FWD | IPS | Extended watch buffer | Watch | 320 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 223 | Kevin | MID | FUL | Extended watch buffer | Watch | 263 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 224 | Kostoulas | FWD | BHA | Extended watch buffer | Watch | 138 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 225 | Piroe | FWD | LEE | Extended watch buffer | Watch | 348 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 226 | Wharton | MID | CRY | Extended watch buffer | Watch | 210 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 227 | P.M.Sarr | MID | TOT | Extended watch buffer | Watch | 518 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 228 | Bergvall | MID | TOT | Extended watch buffer | Watch | 520 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 229 | Bakwa | MID | NFO | Extended watch buffer | Watch | 485 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 230 | Tzimas | FWD | BHA | Extended watch buffer | Watch | 137 | ACL rehab; Premier Injuries potential return 12 Sep 2026 | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 231 | Gudmundsson | DEF | LEE | Extended watch buffer | Watch | 331 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 232 | Lammens | GKP | MUN | Extended watch buffer | Watch | 412 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 233 | Kulusevski | MID | TOT | Extended watch buffer | Watch | 521 | Knee injury - Unknown return date | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 234 | Thomas-Asante | FWD | COV | Extended watch buffer | Watch | 194 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 235 | McBurnie | FWD | HUL | Extended watch buffer | Watch | 295 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 236 | Andersen | DEF | FUL | Extended watch buffer | Watch | 253 | Suspended until 30 Aug | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 237 | Kusi-Asare | FWD | FUL | Extended watch buffer | Watch | 272 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 238 | Pinnock | DEF | BRE | Extended watch buffer | Watch | 91 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 239 | Palacios | MID | FUL | Extended watch buffer | Watch | 570 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 240 | Enes Ünal | FWD | BOU | Extended watch buffer | Watch | 80 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 241 | Al-Hamadi | FWD | IPS | Extended watch buffer | Watch | 322 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 242 | Matheus N. | DEF | MCI | Extended watch buffer | Watch | 389 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 243 | Rodríguez | FWD | BOU | Extended watch buffer | Watch | 81 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 244 | Talbi | MID | SUN | Extended watch buffer | Watch | 549 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 245 | Mason-Clark | MID | COV | Extended watch buffer | Watch | 186 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 246 | Lerma | MID | CRY | Extended watch buffer | Watch | 213 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 247 | N.Gonzalez | MID | MCI | Extended watch buffer | Watch | 405 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 248 | Hill | DEF | BOU | Extended watch buffer | Watch | 60 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 249 | A.Becker | GKP | LIV | Extended watch buffer | Watch | 350 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 250 | Zirkzee | FWD | MUN | Extended watch buffer | Watch | 440 | Juventus loan interest; PL-exit risk | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 251 | Sánchez | GKP | CHE | Extended watch buffer | Watch | 140 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 252 | Quenda | MID | CHE | Extended watch buffer | Watch | 164 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 253 | Konsa | DEF | AVL | Extended watch buffer | Watch | 31 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 254 | Khusanov | DEF | MCI | Extended watch buffer | Watch | 393 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 255 | Sels | GKP | NFO | Extended watch buffer | Watch | 467 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 256 | Danso | DEF | TOT | Extended watch buffer | Watch | 501 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 257 | Bentancur | MID | TOT | Extended watch buffer | Watch | 516 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 258 | Verbruggen | GKP | BHA | Extended watch buffer | Watch | 109 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 259 | Ferguson | FWD | BHA | Extended watch buffer | Watch | 139 | Ankle injury - Expected back 10 Oct | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 260 | Joelinton | MID | NEW | Extended watch buffer | Watch | 458 | Thigh injury - 75% chance of playing | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 261 | White | DEF | ARS | Extended watch buffer | Watch | 10 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 262 | Yoro | DEF | MUN | Extended watch buffer | Watch | 420 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 263 | Leno | GKP | FUL | Extended watch buffer | Watch | 250 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 264 | Bassey | DEF | FUL | Extended watch buffer | Watch | 257 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 265 | Robertson | DEF | TOT | Extended watch buffer | Watch | 502 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 266 | Murillo | DEF | NFO | Extended watch buffer | Watch | 472 | Thigh rehab; Premier Injuries potential return 22 Aug 2026 | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 267 | Rushworth | GKP | COV | Extended watch buffer | Watch | 110 | Coventry club-record goalkeeper signing; first-choice pathway | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 268 | Henry | DEF | BRE | Extended watch buffer | Watch | 89 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 269 | Mings | DEF | AVL | Extended watch buffer | Watch | 33 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 270 | Roefs | GKP | SUN | Extended watch buffer | Watch | 529 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 271 | Rodon | DEF | LEE | Extended watch buffer | Watch | 329 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 272 | Tsimikas | DEF | LIV | Extended watch buffer | Watch | 364 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 273 | J.Ramsey | MID | NEW | Extended watch buffer | Watch | 456 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 274 | Trafford | GKP | LEE | Extended watch buffer | Watch | 385 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 275 | Alcaraz | MID | EVE | Extended watch buffer | Watch | 243 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 276 | Castagne | DEF | FUL | Extended watch buffer | Watch | 258 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 277 | Martinez | GKP | AVL | Extended watch buffer | Watch | 28 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 278 | Guessand | MID | AVL | Extended watch buffer | Watch | 42 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 279 | Chiesa | MID | LIV | Extended watch buffer | Watch | 370 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 280 | Markelo | FWD | COV | Extended watch buffer | Watch | 196 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 281 | Philogene | MID | IPS | Extended watch buffer | Watch | 318 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 282 | Odobert | MID | TOT | Extended watch buffer | Watch | 517 | Knee injury - Unknown return date | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 283 | Gomez | MID | BHA | Extended watch buffer | Watch | 127 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 284 | Johnson | MID | CRY | Extended watch buffer | Watch | 209 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 285 | Hughes | MID | CRY | Extended watch buffer | Watch | 212 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 286 | Kroupi.Jr | MID | BOU | Extended watch buffer | Watch | 78 | Foot injury - Unknown return date | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 287 | Buonanotte | MID | BHA | Extended watch buffer | Watch | 128 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 288 | Palestra | DEF | CHE | Extended watch buffer | Watch | 152 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 289 | Fofana | DEF | CHE | Extended watch buffer | Watch | 145 | Suspended until 6 Sep | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 290 | Justin | DEF | LEE | Extended watch buffer | Watch | 332 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 291 | Burn | DEF | NEW | Extended watch buffer | Watch | 448 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 292 | Rodrigo | MID | MCI | Extended watch buffer | Watch | 402 | Barcelona talks; back surgery; major PL-exit risk | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 293 | Tanaka | MID | LEE | Extended watch buffer | Watch | 345 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 294 | O'Riley | MID | BHA | Extended watch buffer | Watch | 126 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 295 | Bradley | DEF | LIV | Extended watch buffer | Watch | 360 | Knee injury - Unknown return date | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 296 | Diarra | MID | SUN | Extended watch buffer | Watch | 543 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 297 | Hickey | DEF | BRE | Extended watch buffer | Watch | 90 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 298 | L.Miley | MID | NEW | Extended watch buffer | Watch | 459 | Leg/calf rehab; Premier Injuries potential return 23 Aug 2026 | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 299 | Carvalho | MID | BRE | Extended watch buffer | Watch | 100 | Lack of match fitness - 25% chance of playing | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 300 | Tonali | MID | TOT | Extended watch buffer | Watch | 455 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 301 | Barkley | MID | AVL | Extended watch buffer | Watch | 46 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 302 | Rigg | MID | SUN | Extended watch buffer | Watch | 548 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 303 | Mazraoui | DEF | MUN | Extended watch buffer | Watch | 422 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 304 | G.Jesus | FWD | ARS | Extended watch buffer | Watch | 27 | Napoli interest; Arsenal open-to-sale reports | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 305 | Belloumi | MID | HUL | Extended watch buffer | Watch | 286 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 306 | Adams | MID | BOU | Extended watch buffer | Watch | 73 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 307 | Gomes | MID | AVL | Extended watch buffer | Watch | 54 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 308 | Janelt | MID | BRE | Extended watch buffer | Watch | 98 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 309 | Gray | MID | TOT | Extended watch buffer | Watch | 522 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 310 | Barco | MID | CHE | Extended watch buffer | Watch | 568 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 311 | Ajer | DEF | BRE | Extended watch buffer | Watch | 87 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 312 | Tosin | DEF | CHE | Extended watch buffer | Watch | 147 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 313 | B.Badiashile | DEF | CHE | Extended watch buffer | Watch | 146 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 314 | Acheampong | DEF | CHE | Extended watch buffer | Watch | 151 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 315 | Hackney | MID | EVE | Extended watch buffer | Watch | 247 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 316 | Tielemans | MID | MUN | Extended watch buffer | Watch | 43 | Thigh injury; return date remains uncertain | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 317 | Sangaré | MID | NFO | Extended watch buffer | Watch | 488 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 318 | Dominguez | MID | NFO | Extended watch buffer | Watch | 487 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 319 | Diop | DEF | IPS | Extended watch buffer | Watch | 259 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 320 | Wieffer | DEF | BHA | Extended watch buffer | Watch | 130 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 321 | Heaven | DEF | MUN | Extended watch buffer | Watch | 421 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 322 | Sakamoto | MID | COV | Extended watch buffer | Watch | 185 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 323 | Berge | MID | FUL | Extended watch buffer | Watch | 265 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 324 | Lukić | MID | FUL | Extended watch buffer | Watch | 267 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 325 | Smith | DEF | BOU | Extended watch buffer | Watch | 64 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 326 | Petrović | GKP | BOU | Extended watch buffer | Watch | 57 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 327 | Grimes | MID | COV | Extended watch buffer | Watch | 184 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 328 | Emersonn | FWD | IPS | Extended watch buffer | Watch | 316 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 329 | Willock | MID | NEW | Extended watch buffer | Watch | 460 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 330 | Christie | MID | BOU | Extended watch buffer | Watch | 75 | Suspended until 29 Aug | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 331 | Vuskovic | DEF | BHA | Extended watch buffer | Watch | 504 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 332 | Pope | GKP | NEW | Extended watch buffer | Watch | 442 | Hornicek expected Newcastle No.1; Pope exit risk | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 333 | Reinildo | DEF | SUN | Extended watch buffer | Watch | 536 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 334 | Destan | FWD | HUL | Extended watch buffer | Watch | 298 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 335 | Morato | DEF | NFO | Extended watch buffer | Watch | 470 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 336 | Longstaff | MID | LEE | Extended watch buffer | Watch | 339 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 337 | Yates | MID | NFO | Extended watch buffer | Watch | 489 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 338 | Gruev | MID | LEE | Extended watch buffer | Watch | 344 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 339 | Cook | MID | BOU | Extended watch buffer | Watch | 71 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 340 | Lavia | MID | CHE | Extended watch buffer | Watch | 161 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 341 | Baleba | MID | BHA | Extended watch buffer | Watch | 131 | Ankle injury - Expected back 23 Aug | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 342 | Röhl | MID | EVE | Extended watch buffer | Watch | 246 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 343 | Milosavljević | DEF | BOU | Extended watch buffer | Watch | 63 | Unspecified injury - Unknown return date | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 344 | Igor | DEF | BHA | Extended watch buffer | Watch | 118 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 345 | Fábio Vieira | MID | ARS | Extended watch buffer | Watch | 23 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 346 | Coppola | DEF | BHA | Extended watch buffer | Watch | 117 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 347 | Manzambi | MID | AVL | Extended watch buffer | Watch | 53 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 348 | Bogarde | MID | AVL | Extended watch buffer | Watch | 35 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 349 | Bailey | MID | AVL | Extended watch buffer | Watch | 44 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
+| 350 | Cairney | MID | FUL | Extended watch buffer | Watch | 266 | Available | 2026-08-08T17:12:00+10:00 | [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]] |
 ## Method cautions
 
 - Price and ownership are expectation signals only and do not drive Draft ordering.

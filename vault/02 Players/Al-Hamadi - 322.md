@@ -4,7 +4,7 @@ fpl_id: 322
 player: Al-Hamadi
 team: IPS
 position: FWD
-current_rank: 239
+current_rank: 241
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

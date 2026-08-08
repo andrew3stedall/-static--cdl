@@ -4,7 +4,7 @@ fpl_id: 502
 player: Robertson
 team: TOT
 position: DEF
-current_rank: 260
+current_rank: 265
 segment: Extended watch buffer
 tier: Watch
 last_reviewed: 2026-08-08T16:50:00+10:00

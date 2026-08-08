@@ -5,9 +5,9 @@ player_name: Chalobah
 team: "[[03 Teams/CHE]]"
 position: "[[04 Positions/Defender]]"
 api_status: "Available"
-current_rank: 111
+current_rank: null
 current_segment: Core
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Chalobah

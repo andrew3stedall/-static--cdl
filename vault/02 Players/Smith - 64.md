@@ -4,7 +4,7 @@ fpl_id: 64
 player: Smith
 team: BOU
 position: DEF
-current_rank: 318
+current_rank: 325
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

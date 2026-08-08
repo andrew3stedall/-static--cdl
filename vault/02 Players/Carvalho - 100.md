@@ -4,7 +4,7 @@ fpl_id: 100
 player: Carvalho
 team: BRE
 position: MID
-current_rank: 292
+current_rank: 299
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

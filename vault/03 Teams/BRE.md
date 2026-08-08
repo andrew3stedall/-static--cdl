@@ -2,7 +2,7 @@
 type: team
 team_name: Brentford
 team_short: BRE
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Brentford
@@ -41,17 +41,16 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 150. [[02 Players/Kayode - 88|Kayode]] — DEF; Endgame / D+; Available
 169. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF; Undrafted buffer / D; Available
 204. [[02 Players/Wilson - 108|Wilson]] — FWD; Undrafted buffer / D; Available
-220. [[02 Players/Anthony - 105|Anthony]] — MID; Undrafted buffer / D; Available
-236. [[02 Players/Pinnock - 91|Pinnock]] — DEF; Extended watch buffer / Watch; Available
-263. [[02 Players/Henry - 89|Henry]] — DEF; Extended watch buffer / Watch; Available
-290. [[02 Players/Hickey - 90|Hickey]] — DEF; Extended watch buffer / Watch; Available
-292. [[02 Players/Carvalho - 100|Carvalho]] — MID; Extended watch buffer / Watch; Lack of match fitness - 25% chance of playing
-301. [[02 Players/Janelt - 98|Janelt]] — MID; Extended watch buffer / Watch; Available
-304. [[02 Players/Ajer - 87|Ajer]] — DEF; Extended watch buffer / Watch; Available
-341. [[02 Players/Schuster - 93|Schuster]] — DEF; Extended watch buffer / Watch; Available
-349. [[02 Players/Ji-soo - 92|Ji-soo]] — DEF; Extended watch buffer / Watch; Available
+219. [[02 Players/Kelleher - 82|Kelleher]] — GKP; Undrafted buffer / D; Available
+221. [[02 Players/Anthony - 105|Anthony]] — MID; Extended watch buffer / Watch; Available
+238. [[02 Players/Pinnock - 91|Pinnock]] — DEF; Extended watch buffer / Watch; Available
+268. [[02 Players/Henry - 89|Henry]] — DEF; Extended watch buffer / Watch; Available
+297. [[02 Players/Hickey - 90|Hickey]] — DEF; Extended watch buffer / Watch; Available
+299. [[02 Players/Carvalho - 100|Carvalho]] — MID; Extended watch buffer / Watch; Lack of match fitness - 25% chance of playing
+308. [[02 Players/Janelt - 98|Janelt]] — MID; Extended watch buffer / Watch; Available
+311. [[02 Players/Ajer - 87|Ajer]] — DEF; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

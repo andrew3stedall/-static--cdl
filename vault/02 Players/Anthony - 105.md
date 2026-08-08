@@ -4,7 +4,7 @@ fpl_id: 105
 player: Anthony
 team: BRE
 position: MID
-current_rank: 220
+current_rank: 221
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00

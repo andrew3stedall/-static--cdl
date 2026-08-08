@@ -4,7 +4,7 @@ fpl_id: 185
 player: Sakamoto
 team: COV
 position: MID
-current_rank: 315
+current_rank: 322
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

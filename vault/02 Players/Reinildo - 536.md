@@ -4,7 +4,7 @@ fpl_id: 536
 player: Reinildo
 team: SUN
 position: DEF
-current_rank: 326
+current_rank: 333
 segment: Deep watch
 tier: D-
 last_reviewed: 2026-08-08T16:50:00+10:00

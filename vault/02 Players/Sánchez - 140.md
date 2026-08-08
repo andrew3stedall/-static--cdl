@@ -5,7 +5,7 @@ player_name: Sánchez
 team: CHE
 position: GKP
 api_status: "Available"
-current_rank: 249
+current_rank: 251
 current_segment: Depth
 current_tier: C
 last_reviewed: 2026-08-08T16:50:00+10:00

@@ -4,7 +4,7 @@ fpl_id: 486
 player: McAtee
 team: NFO
 position: MID
-current_rank: 219
+current_rank: 220
 last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 

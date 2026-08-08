@@ -2,7 +2,7 @@
 type: team
 team_name: Arsenal
 team_short: ARS
-last_reviewed: 2026-08-08T16:50:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Arsenal
@@ -53,11 +53,11 @@ last_reviewed: 2026-08-08T16:50:00+10:00
 212. [[02 Players/Nwaneri - 22|Nwaneri]] — MID; Undrafted buffer / D; Available
 213. [[02 Players/Madueke - 16|Madueke]] — MID; Undrafted buffer / D; Available
 215. [[02 Players/Tzolis - 557|Tzolis]] — MID; Undrafted buffer / D; Available
-257. [[02 Players/White - 10|White]] — DEF; Extended watch buffer / Watch; Available
-297. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD; Extended watch buffer / Watch; Napoli interest; Arsenal open-to-sale reports
-339. [[02 Players/Fábio Vieira - 23|Fábio Vieira]] — MID; Extended watch buffer / Watch; Available
+261. [[02 Players/White - 10|White]] — DEF; Extended watch buffer / Watch; Available
+304. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD; Extended watch buffer / Watch; Napoli interest; Arsenal open-to-sale reports
+345. [[02 Players/Fábio Vieira - 23|Fábio Vieira]] — MID; Extended watch buffer / Watch; Available
 
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

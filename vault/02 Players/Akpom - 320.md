@@ -4,7 +4,7 @@ fpl_id: 320
 player: Akpom
 team: IPS
 position: FWD
-current_rank: 221
+current_rank: 222
 segment: Undrafted buffer
 tier: D
 last_reviewed: 2026-08-08T16:50:00+10:00
