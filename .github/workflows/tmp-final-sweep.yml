@@ -1,0 +1,44 @@
+name: Temporary Final Sweep
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: write
+jobs:
+  sweep:
+    if: github.head_ref == 'codex/fpl-review-20260808-1650-final-sweep'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/fpl-review-20260808-1650-final-sweep
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          curl --retry 3 --retry-delay 2 -fsSL https://fantasy.premierleague.com/api/bootstrap-static/ -o /tmp/bootstrap.json
+          curl --retry 3 --retry-delay 2 -fsSL https://fantasy.premierleague.com/api/fixtures/ -o /tmp/fixtures.json
+          python - <<'PY'
+          import json,re
+          from pathlib import Path
+          board=Path('vault/01 Current/Current Draft Board.md').read_text()
+          rows=[[x.strip() for x in l.strip().strip('|').split('|')] for l in board.splitlines() if re.match(r'^\| \d+ \|',l)]
+          api=json.load(open('/tmp/bootstrap.json'))
+          elems=api['elements']; byid={int(x['id']):x for x in elems}; ids={int(r[6]) for r in rows}
+          team={x['id']:x['short_name'] for x in api['teams']}; pos={1:'GKP',2:'DEF',3:'MID',4:'FWD'}
+          new=[x for x in elems if x['id'] not in ids]
+          gone=[r for r in rows if int(r[6]) not in byid]
+          out=['# API reconciliation candidates','',f'Board rows: {len(rows)}',f'API players: {len(elems)}',f'New API players absent from board: {len(new)}',f'Board players absent from API: {len(gone)}','', '## New API players']
+          for x in sorted(new,key=lambda z:(team[z['team']],pos[z['element_type']],z['web_name'])):
+              out.append(f"- {x['id']} | {x['web_name']} | {pos[x['element_type']]} | {team[x['team']]} | status={x['status']} | chance={x.get('chance_of_playing_next_round')} | news={x.get('news','')}")
+          out += ['', '## Board players absent from current API']
+          for r in gone: out.append('- '+' | '.join(r[:8]))
+          Path('vault/00 Meta/Final Sweep API Reconciliation.md').write_text('\n'.join(out)+'\n')
+          PY
+          python scripts/validate_draft_board.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 'vault/00 Meta/Final Sweep API Reconciliation.md'
+          git commit -m 'Generate final sweep API reconciliation' || true
+          git push origin HEAD:codex/fpl-review-20260808-1650-final-sweep
