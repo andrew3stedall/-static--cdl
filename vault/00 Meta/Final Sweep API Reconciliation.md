@@ -1,0 +1,233 @@
+# API reconciliation candidates
+
+Board rows: 350
+API players: 573
+New API players absent from board: 223
+Board players absent from API: 0
+
+## New API players
+- 2 | Arrizabalaga | GKP | ARS | status=a | chance=None | news=
+- 3 | Meslier | GKP | ARS | status=a | chance=None | news=
+- 20 | Dowman | MID | ARS | status=a | chance=None | news=
+- 23 | Fábio Vieira | MID | ARS | status=a | chance=None | news=
+- 24 | Nelson | MID | ARS | status=a | chance=None | news=
+- 22 | Nwaneri | MID | ARS | status=a | chance=None | news=
+- 38 | A.García | DEF | AVL | status=a | chance=None | news=
+- 39 | Nedeljkovic | DEF | AVL | status=a | chance=None | news=
+- 56 | Abraham | FWD | AVL | status=a | chance=100 | news=
+- 29 | M.Bizot | GKP | AVL | status=a | chance=None | news=
+- 52 | Alysson | MID | AVL | status=a | chance=None | news=
+- 44 | Bailey | MID | AVL | status=a | chance=None | news=
+- 50 | Burrowes | MID | AVL | status=a | chance=None | news=
+- 51 | George Hemmings | MID | AVL | status=a | chance=None | news=
+- 49 | Iling Jr | MID | AVL | status=a | chance=None | news=
+- 139 | Ferguson | FWD | BHA | status=i | chance=0 | news=Ankle injury - Expected back 10 Oct
+- 111 | Steele | GKP | BHA | status=a | chance=None | news=
+- 128 | Buonanotte | MID | BHA | status=a | chance=None | news=
+- 132 | Howell | MID | BHA | status=a | chance=None | news=
+- 126 | O'Riley | MID | BHA | status=a | chance=None | news=
+- 134 | Oriola | MID | BHA | status=a | chance=None | news=
+- 133 | Watson | MID | BHA | status=u | chance=0 | news=Has joined Leicester City on loan for the rest of the season
+- 135 | Yohanna | MID | BHA | status=a | chance=None | news=
+- 65 | J.Araujo | DEF | BOU | status=a | chance=None | news=
+- 573 | Sanchez | DEF | BOU | status=a | chance=None | news=
+- 566 | Silva | DEF | BOU | status=a | chance=None | news=
+- 66 | Soler | DEF | BOU | status=a | chance=None | news=
+- 59 | Dennis | GKP | BOU | status=a | chance=None | news=
+- 58 | Forster | GKP | BOU | status=a | chance=None | news=
+- 72 | Gannon-Doak | MID | BOU | status=a | chance=None | news=
+- 76 | Tóth.A | MID | BOU | status=a | chance=None | news=
+- 107 | Furo | FWD | BRE | status=a | chance=None | news=
+- 83 | Valdimarsson | GKP | BRE | status=a | chance=None | news=
+- 100 | Carvalho | MID | BRE | status=d | chance=25 | news=Lack of match fitness - 25% chance of playing
+- 103 | Dasilva | MID | BRE | status=a | chance=None | news=
+- 99 | Milambo | MID | BRE | status=d | chance=75 | news=Knee injury - 75% chance of playing
+- 565 | Sangaré | MID | BRE | status=a | chance=None | news=
+- 148 | Hato | DEF | CHE | status=a | chance=None | news=
+- 168 | Marc Guiu | FWD | CHE | status=a | chance=None | news=
+- 169 | Mheuka | FWD | CHE | status=a | chance=None | news=
+- 141 | Jörgensen | GKP | CHE | status=a | chance=None | news=
+- 560 | Penders | GKP | CHE | status=a | chance=None | news=
+- 568 | Barco | MID | CHE | status=a | chance=None | news=
+- 163 | D.Essugo | MID | CHE | status=a | chance=None | news=
+- 101 | Henderson | MID | CHE | status=u | chance=0 | news=has departed the club as a free agent.
+- 161 | Lavia | MID | CHE | status=a | chance=None | news=
+- 164 | Quenda | MID | CHE | status=a | chance=100 | news=
+- 182 | Amenda | DEF | COV | status=a | chance=None | news=
+- 178 | Bidwell | DEF | COV | status=a | chance=None | news=
+- 181 | Brau | DEF | COV | status=a | chance=None | news=
+- 176 | Dasilva | DEF | COV | status=a | chance=None | news=
+- 177 | Kesler-Hayden | DEF | COV | status=a | chance=None | news=
+- 174 | Kitching | DEF | COV | status=a | chance=None | news=
+- 179 | Latibeaudiere | DEF | COV | status=a | chance=None | news=
+- 180 | Woolfenden | DEF | COV | status=a | chance=None | news=
+- 197 | Bassette | FWD | COV | status=u | chance=0 | news=Has joined KVC Westerlo on loan for the rest of the season
+- 171 | Dovin | GKP | COV | status=a | chance=None | news=
+- 110 | Rushworth | GKP | COV | status=a | chance=None | news=
+- 192 | Andrews | MID | COV | status=a | chance=None | news=
+- 191 | Borges Rodrigues | MID | COV | status=a | chance=None | news=
+- 187 | Eccles | MID | COV | status=a | chance=None | news=
+- 184 | Grimes | MID | COV | status=a | chance=None | news=
+- 186 | Mason-Clark | MID | COV | status=a | chance=None | news=
+- 104 | Onyeka | MID | COV | status=a | chance=None | news=
+- 183 | Rudoni | MID | COV | status=d | chance=75 | news=Shoulder injury - 75% chance of playing
+- 185 | Sakamoto | MID | COV | status=a | chance=None | news=
+- 189 | Shepherd | MID | COV | status=a | chance=None | news=
+- 190 | Tchaouna | MID | COV | status=a | chance=None | news=
+- 188 | Torp | MID | COV | status=a | chance=None | news=
+- 220 | Cardines | DEF | CRY | status=a | chance=None | news=
+- 206 | Chadi Riad | DEF | CRY | status=a | chance=None | news=
+- 207 | Mingueza | DEF | CRY | status=a | chance=None | news=
+- 205 | Sosa | DEF | CRY | status=a | chance=None | news=
+- 225 | Uche | FWD | CRY | status=u | chance=0 | news=has returned to Getafe CF
+- 199 | Benitez | GKP | CRY | status=a | chance=None | news=
+- 555 | Matthews | GKP | CRY | status=a | chance=None | news=
+- 218 | Doucouré | MID | CRY | status=a | chance=None | news=
+- 221 | Drakes-Thomas | MID | CRY | status=a | chance=None | news=
+- 216 | Esse | MID | CRY | status=a | chance=None | news=
+- 219 | J.Rak-Sakyi | MID | CRY | status=a | chance=None | news=
+- 217 | M.França | MID | CRY | status=a | chance=None | news=
+- 235 | Aznou | DEF | EVE | status=a | chance=None | news=
+- 234 | Patterson | DEF | EVE | status=a | chance=None | news=
+- 228 | King | GKP | EVE | status=a | chance=None | news=
+- 227 | Travers | GKP | EVE | status=a | chance=None | news=
+- 244 | Armstrong | MID | EVE | status=a | chance=None | news=
+- 245 | Dibling | MID | EVE | status=a | chance=None | news=
+- 242 | George | MID | EVE | status=a | chance=None | news=
+- 247 | Hackney | MID | EVE | status=a | chance=None | news=
+- 21 | Nørgaard | MID | EVE | status=a | chance=None | news=
+- 569 | García | FWD | FUL | status=a | chance=None | news=
+- 251 | Lecomte | GKP | FUL | status=a | chance=None | news=
+- 252 | McNally | GKP | FUL | status=a | chance=None | news=
+- 570 | Palacios | MID | FUL | status=a | chance=None | news=
+- 270 | Reed | MID | FUL | status=a | chance=None | news=
+- 279 | Ajayi | DEF | HUL | status=a | chance=None | news=
+- 280 | Coyle | DEF | HUL | status=a | chance=None | news=
+- 281 | Drameh | DEF | HUL | status=a | chance=None | news=
+- 277 | Egan | DEF | HUL | status=a | chance=None | news=
+- 282 | Giles | DEF | HUL | status=a | chance=None | news=
+- 278 | Hughes | DEF | HUL | status=i | chance=0 | news=Groin injury - Unknown return date
+- 283 | Jacob | DEF | HUL | status=d | chance=75 | news=Hip injury - 75% chance of playing
+- 284 | McCarthy | DEF | HUL | status=a | chance=None | news=
+- 285 | McNair | DEF | HUL | status=a | chance=None | news=
+- 556 | Targett | DEF | HUL | status=a | chance=None | news=
+- 299 | Burstow | FWD | HUL | status=u | chance=0 | news=Has joined Sheffield Wednesday on loan for the rest of the season
+- 298 | Destan | FWD | HUL | status=a | chance=None | news=
+- 274 | Butland | GKP | HUL | status=a | chance=None | news=
+- 275 | Cartwright | GKP | HUL | status=u | chance=0 | news=Has joined Grimsby Town on loan for the rest of the season
+- 276 | Lo-Tutala | GKP | HUL | status=a | chance=None | news=
+- 273 | Phillips | GKP | HUL | status=a | chance=None | news=
+- 572 | Tzolakis | GKP | HUL | status=a | chance=None | news=
+- 296 | Akintola | MID | HUL | status=a | chance=None | news=
+- 286 | Belloumi | MID | HUL | status=a | chance=None | news=
+- 289 | Crooks | MID | HUL | status=a | chance=None | news=
+- 288 | Dowell | MID | HUL | status=a | chance=None | news=
+- 297 | Gyabi | MID | HUL | status=i | chance=0 | news=Thigh injury - Unknown return date
+- 293 | Kamara | MID | HUL | status=a | chance=None | news=
+- 291 | Matazo | MID | HUL | status=i | chance=0 | news=Knee injury - Unknown return date
+- 287 | Millar | MID | HUL | status=a | chance=None | news=
+- 563 | Morita | MID | HUL | status=a | chance=None | news=
+- 290 | Slater | MID | HUL | status=a | chance=None | news=
+- 294 | Zambrano | MID | HUL | status=i | chance=0 | news=Thigh injury - Unknown return date
+- 292 | Ömür | MID | HUL | status=a | chance=None | news=
+- 305 | Davis | DEF | IPS | status=a | chance=None | news=
+- 308 | Furlong | DEF | IPS | status=a | chance=None | news=
+- 306 | Greaves | DEF | IPS | status=a | chance=None | news=
+- 307 | Johnson | DEF | IPS | status=a | chance=None | news=
+- 303 | Kipré | DEF | IPS | status=a | chance=None | news=
+- 304 | O'Shea | DEF | IPS | status=a | chance=None | news=
+- 321 | Walle Egeli | FWD | IPS | status=a | chance=None | news=
+- 302 | Button | GKP | IPS | status=a | chance=None | news=
+- 564 | Scherpen | GKP | IPS | status=a | chance=None | news=
+- 554 | Van Oevelen | GKP | IPS | status=a | chance=None | news=
+- 300 | Walton | GKP | IPS | status=a | chance=None | news=
+- 311 | Burns | MID | IPS | status=a | chance=None | news=
+- 313 | Clarke | MID | IPS | status=a | chance=None | news=
+- 315 | Fatawu | MID | IPS | status=a | chance=None | news=
+- 571 | Florentino | MID | IPS | status=a | chance=None | news=
+- 562 | Maeda | MID | IPS | status=a | chance=None | news=
+- 310 | Matusiwa | MID | IPS | status=i | chance=0 | news=Muscular injury - Unknown return date
+- 323 | McAteer | MID | IPS | status=a | chance=None | news=
+- 324 | Mehmeti | MID | IPS | status=a | chance=None | news=
+- 309 | Núñez | MID | IPS | status=a | chance=None | news=
+- 314 | Ogbene | MID | IPS | status=a | chance=None | news=
+- 318 | Philogene | MID | IPS | status=a | chance=None | news=
+- 319 | Szmodics | MID | IPS | status=a | chance=None | news=
+- 312 | Taylor | MID | IPS | status=i | chance=0 | news=Knee injury - Unknown return date
+- 333 | Bornauw | DEF | LEE | status=a | chance=None | news=
+- 349 | Mateo Joseph | FWD | LEE | status=i | chance=0 | news=Knee injury - Unknown return date
+- 348 | Piroe | FWD | LEE | status=a | chance=None | news=
+- 385 | Trafford | GKP | LEE | status=a | chance=None | news=
+- 340 | Gelhardt | MID | LEE | status=a | chance=None | news=
+- 342 | Harrison | MID | LEE | status=u | chance=0 | news=Has joined New England Revolution permanently
+- 343 | James | MID | LEE | status=a | chance=None | news=
+- 359 | Gomez | DEF | LIV | status=i | chance=0 | news=Muscular injury - Unknown return date
+- 363 | Leoni | DEF | LIV | status=i | chance=0 | news=Knee injury - Unknown return date
+- 361 | Lucky | DEF | LIV | status=a | chance=None | news=
+- 365 | Ramsay | DEF | LIV | status=a | chance=None | news=
+- 382 | Danns | FWD | LIV | status=i | chance=0 | news=Unspecified injury - Unknown return date
+- 355 | Davies | GKP | LIV | status=a | chance=None | news=
+- 354 | Jaros | GKP | LIV | status=i | chance=0 | news=Knee injury - Unknown return date
+- 353 | Pecsi | GKP | LIV | status=a | chance=None | news=
+- 352 | Woodman | GKP | LIV | status=a | chance=None | news=
+- 376 | Bajcetic | MID | LIV | status=i | chance=0 | news=Hamstring injury - Expected back 23 Aug
+- 383 | Elliott | MID | LIV | status=a | chance=None | news=
+- 374 | Endo | MID | LIV | status=d | chance=75 | news=Ankle injury - 75% chance of playing
+- 381 | Koumas | MID | LIV | status=a | chance=None | news=
+- 378 | McConnell | MID | LIV | status=a | chance=None | news=
+- 375 | Nyoni | MID | LIV | status=a | chance=None | news=
+- 395 | Lewis | DEF | MCI | status=a | chance=None | news=
+- 386 | Bettinelli | GKP | MCI | status=a | chance=None | news=
+- 407 | Echeverri | MID | MCI | status=a | chance=None | news=
+- 406 | Kovačić | MID | MCI | status=a | chance=None | news=
+- 410 | Monga | MID | MCI | status=a | chance=None | news=
+- 409 | Mukasa | MID | MCI | status=a | chance=None | news=
+- 408 | Phillips | MID | MCI | status=a | chance=None | news=
+- 424 | Amass | DEF | MUN | status=a | chance=None | news=
+- 425 | Fredricson | DEF | MUN | status=a | chance=None | news=
+- 441 | Obi | FWD | MUN | status=a | chance=None | news=
+- 413 | Bayindir | GKP | MUN | status=a | chance=None | news=
+- 414 | Heaton | GKP | MUN | status=a | chance=None | news=
+- 437 | Bendito Mantato | MID | MUN | status=a | chance=None | news=
+- 436 | Collyer | MID | MUN | status=a | chance=None | news=
+- 438 | Fletcher | MID | MUN | status=a | chance=None | news=
+- 434 | J.Fletcher | MID | MUN | status=a | chance=None | news=
+- 435 | Lacey | MID | MUN | status=a | chance=None | news=
+- 433 | Ugarte | MID | MUN | status=i | chance=0 | news=Knee injury - Unknown return date
+- 451 | A.Murphy | DEF | NEW | status=a | chance=None | news=
+- 466 | Neave | FWD | NEW | status=a | chance=None | news=
+- 443 | Gillespie | GKP | NEW | status=a | chance=None | news=
+- 567 | Horníček | GKP | NEW | status=a | chance=None | news=
+- 444 | Jaouen | GKP | NEW | status=a | chance=None | news=
+- 559 | Bamba | MID | NEW | status=a | chance=None | news=
+- 462 | Steur | MID | NEW | status=a | chance=None | news=
+- 477 | Abbott | DEF | NFO | status=a | chance=None | news=
+- 479 | Bindon | DEF | NFO | status=a | chance=None | news=
+- 474 | Jair Cunha | DEF | NFO | status=a | chance=None | news=
+- 478 | Netz | DEF | NFO | status=a | chance=None | news=
+- 476 | O.Richards | DEF | NFO | status=a | chance=None | news=
+- 475 | Savona | DEF | NFO | status=i | chance=0 | news=Knee injury - Unknown return date
+- 468 | John | GKP | NFO | status=a | chance=None | news=
+- 486 | McAtee | MID | NFO | status=a | chance=None | news=
+- 558 | Schlager | MID | NFO | status=a | chance=None | news=
+- 538 | Hjelde | DEF | SUN | status=a | chance=None | news=
+- 540 | Masuaku | DEF | SUN | status=a | chance=None | news=
+- 541 | Meunier | DEF | SUN | status=a | chance=None | news=
+- 537 | Seelt | DEF | SUN | status=a | chance=None | news=
+- 531 | Ellborg | GKP | SUN | status=a | chance=None | news=
+- 530 | Patterson | GKP | SUN | status=a | chance=None | news=
+- 551 | Angulo | MID | SUN | status=a | chance=None | news=
+- 550 | Jocelin.T | MID | SUN | status=a | chance=None | news=
+- 547 | Mundle | MID | SUN | status=a | chance=None | news=
+- 509 | Byfield | DEF | TOT | status=a | chance=None | news=
+- 508 | Davies | DEF | TOT | status=a | chance=None | news=
+- 507 | Phillips | DEF | TOT | status=a | chance=None | news=
+- 510 | Rowswell | DEF | TOT | status=a | chance=None | news=
+- 511 | Souza | DEF | TOT | status=a | chance=None | news=
+- 528 | Scarlett | FWD | TOT | status=a | chance=None | news=
+- 495 | Austin | GKP | TOT | status=a | chance=None | news=
+- 521 | Kulusevski | MID | TOT | status=i | chance=0 | news=Knee injury - Unknown return date
+- 523 | Moore | MID | TOT | status=a | chance=None | news=
+- 524 | Olusesi | MID | TOT | status=a | chance=None | news=
+
+## Board players absent from current API
