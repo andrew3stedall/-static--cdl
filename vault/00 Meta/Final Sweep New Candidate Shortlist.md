@@ -1,0 +1,104 @@
+# New-player shortlist by FPL expectation signals
+
+Price and ownership are only expectation signals; they do not determine Draft rank.
+
+- 521 | Kulusevski | MID | TOT | cost=6.5 | selected=0.0% | status=i | news=Knee injury - Unknown return date
+- 569 | García | FWD | FUL | cost=6.0 | selected=1.3% | status=a | news=
+- 565 | Sangaré | MID | BRE | cost=5.5 | selected=1.2% | status=a | news=
+- 562 | Maeda | MID | IPS | cost=5.5 | selected=0.4% | status=a | news=
+- 313 | Clarke | MID | IPS | cost=5.5 | selected=0.3% | status=a | news=
+- 315 | Fatawu | MID | IPS | cost=5.5 | selected=0.3% | status=a | news=
+- 247 | Hackney | MID | EVE | cost=5.5 | selected=0.3% | status=a | news=
+- 186 | Mason-Clark | MID | COV | cost=5.5 | selected=0.3% | status=a | news=
+- 20 | Dowman | MID | ARS | cost=5.5 | selected=0.2% | status=a | news=
+- 318 | Philogene | MID | IPS | cost=5.5 | selected=0.2% | status=a | news=
+- 188 | Torp | MID | COV | cost=5.5 | selected=0.2% | status=a | news=
+- 56 | Abraham | FWD | AVL | cost=5.5 | selected=0.1% | status=a | news=
+- 44 | Bailey | MID | AVL | cost=5.5 | selected=0.1% | status=a | news=
+- 245 | Dibling | MID | EVE | cost=5.5 | selected=0.1% | status=a | news=
+- 383 | Elliott | MID | LIV | cost=5.5 | selected=0.1% | status=a | news=
+- 242 | George | MID | EVE | cost=5.5 | selected=0.1% | status=a | news=
+- 486 | McAtee | MID | NFO | cost=5.5 | selected=0.1% | status=a | news=
+- 126 | O'Riley | MID | BHA | cost=5.5 | selected=0.1% | status=a | news=
+- 570 | Palacios | MID | FUL | cost=5.5 | selected=0.1% | status=a | news=
+- 164 | Quenda | MID | CHE | cost=5.5 | selected=0.1% | status=a | news=
+- 190 | Tchaouna | MID | COV | cost=5.5 | selected=0.1% | status=a | news=
+- 568 | Barco | MID | CHE | cost=5.5 | selected=0.0% | status=a | news=
+- 23 | Fábio Vieira | MID | ARS | cost=5.5 | selected=0.0% | status=a | news=
+- 406 | Kovačić | MID | MCI | cost=5.5 | selected=0.0% | status=a | news=
+- 24 | Nelson | MID | ARS | cost=5.5 | selected=0.0% | status=a | news=
+- 22 | Nwaneri | MID | ARS | cost=5.5 | selected=0.0% | status=a | news=
+- 385 | Trafford | GKP | LEE | cost=5.0 | selected=1.8% | status=a | news=
+- 286 | Belloumi | MID | HUL | cost=5.0 | selected=0.5% | status=a | news=
+- 21 | Nørgaard | MID | EVE | cost=5.0 | selected=0.5% | status=a | news=
+- 348 | Piroe | FWD | LEE | cost=5.0 | selected=0.5% | status=a | news=
+- 168 | Marc Guiu | FWD | CHE | cost=5.0 | selected=0.4% | status=a | news=
+- 183 | Rudoni | MID | COV | cost=5.0 | selected=0.3% | status=d | news=Shoulder injury - 75% chance of playing
+- 184 | Grimes | MID | COV | cost=5.0 | selected=0.2% | status=a | news=
+- 567 | Horníček | GKP | NEW | cost=5.0 | selected=0.2% | status=a | news=
+- 309 | Núñez | MID | IPS | cost=5.0 | selected=0.2% | status=a | news=
+- 104 | Onyeka | MID | COV | cost=5.0 | selected=0.2% | status=a | news=
+- 566 | Silva | DEF | BOU | cost=5.0 | selected=0.2% | status=a | news=
+- 551 | Angulo | MID | SUN | cost=5.0 | selected=0.1% | status=a | news=
+- 244 | Armstrong | MID | EVE | cost=5.0 | selected=0.1% | status=a | news=
+- 2 | Arrizabalaga | GKP | ARS | cost=5.0 | selected=0.1% | status=a | news=
+- 559 | Bamba | MID | NEW | cost=5.0 | selected=0.1% | status=a | news=
+- 128 | Buonanotte | MID | BHA | cost=5.0 | selected=0.1% | status=a | news=
+- 311 | Burns | MID | IPS | cost=5.0 | selected=0.1% | status=a | news=
+- 218 | Doucouré | MID | CRY | cost=5.0 | selected=0.1% | status=a | news=
+- 216 | Esse | MID | CRY | cost=5.0 | selected=0.1% | status=a | news=
+- 72 | Gannon-Doak | MID | BOU | cost=5.0 | selected=0.1% | status=a | news=
+- 359 | Gomez | DEF | LIV | cost=5.0 | selected=0.1% | status=i | news=Muscular injury - Unknown return date
+- 343 | James | MID | LEE | cost=5.0 | selected=0.1% | status=a | news=
+- 141 | Jörgensen | GKP | CHE | cost=5.0 | selected=0.1% | status=a | news=
+- 435 | Lacey | MID | MUN | cost=5.0 | selected=0.1% | status=a | news=
+- 324 | Mehmeti | MID | IPS | cost=5.0 | selected=0.1% | status=a | news=
+- 3 | Meslier | GKP | ARS | cost=5.0 | selected=0.1% | status=a | news=
+- 287 | Millar | MID | HUL | cost=5.0 | selected=0.1% | status=a | news=
+- 523 | Moore | MID | TOT | cost=5.0 | selected=0.1% | status=a | news=
+- 563 | Morita | MID | HUL | cost=5.0 | selected=0.1% | status=a | news=
+- 375 | Nyoni | MID | LIV | cost=5.0 | selected=0.1% | status=a | news=
+- 185 | Sakamoto | MID | COV | cost=5.0 | selected=0.1% | status=a | news=
+- 558 | Schlager | MID | NFO | cost=5.0 | selected=0.1% | status=a | news=
+- 462 | Steur | MID | NEW | cost=5.0 | selected=0.1% | status=a | news=
+- 319 | Szmodics | MID | IPS | cost=5.0 | selected=0.1% | status=a | news=
+- 227 | Travers | GKP | EVE | cost=5.0 | selected=0.1% | status=a | news=
+- 135 | Yohanna | MID | BHA | cost=5.0 | selected=0.1% | status=a | news=
+- 296 | Akintola | MID | HUL | cost=5.0 | selected=0.0% | status=a | news=
+- 52 | Alysson | MID | AVL | cost=5.0 | selected=0.0% | status=a | news=
+- 376 | Bajcetic | MID | LIV | cost=5.0 | selected=0.0% | status=i | news=Hamstring injury - Expected back 23 Aug
+- 100 | Carvalho | MID | BRE | cost=5.0 | selected=0.0% | status=d | news=Lack of match fitness - 25% chance of playing
+- 436 | Collyer | MID | MUN | cost=5.0 | selected=0.0% | status=a | news=
+- 103 | Dasilva | MID | BRE | cost=5.0 | selected=0.0% | status=a | news=
+- 187 | Eccles | MID | COV | cost=5.0 | selected=0.0% | status=a | news=
+- 407 | Echeverri | MID | MCI | cost=5.0 | selected=0.0% | status=a | news=
+- 374 | Endo | MID | LIV | cost=5.0 | selected=0.0% | status=d | news=Ankle injury - 75% chance of playing
+- 139 | Ferguson | FWD | BHA | cost=5.0 | selected=0.0% | status=i | news=Ankle injury - Expected back 10 Oct
+- 571 | Florentino | MID | IPS | cost=5.0 | selected=0.0% | status=a | news=
+- 340 | Gelhardt | MID | LEE | cost=5.0 | selected=0.0% | status=a | news=
+- 342 | Harrison | MID | LEE | cost=5.0 | selected=0.0% | status=u | news=Has joined New England Revolution permanently
+- 101 | Henderson | MID | CHE | cost=5.0 | selected=0.0% | status=u | news=has departed the club as a free agent.
+- 49 | Iling Jr | MID | AVL | cost=5.0 | selected=0.0% | status=a | news=
+- 434 | J.Fletcher | MID | MUN | cost=5.0 | selected=0.0% | status=a | news=
+- 219 | J.Rak-Sakyi | MID | CRY | cost=5.0 | selected=0.0% | status=a | news=
+- 550 | Jocelin.T | MID | SUN | cost=5.0 | selected=0.0% | status=a | news=
+- 293 | Kamara | MID | HUL | cost=5.0 | selected=0.0% | status=a | news=
+- 381 | Koumas | MID | LIV | cost=5.0 | selected=0.0% | status=a | news=
+- 161 | Lavia | MID | CHE | cost=5.0 | selected=0.0% | status=a | news=
+- 217 | M.França | MID | CRY | cost=5.0 | selected=0.0% | status=a | news=
+- 310 | Matusiwa | MID | IPS | cost=5.0 | selected=0.0% | status=i | news=Muscular injury - Unknown return date
+- 99 | Milambo | MID | BRE | cost=5.0 | selected=0.0% | status=d | news=Knee injury - 75% chance of playing
+- 410 | Monga | MID | MCI | cost=5.0 | selected=0.0% | status=a | news=
+- 547 | Mundle | MID | SUN | cost=5.0 | selected=0.0% | status=a | news=
+- 314 | Ogbene | MID | IPS | cost=5.0 | selected=0.0% | status=a | news=
+- 408 | Phillips | MID | MCI | cost=5.0 | selected=0.0% | status=a | news=
+- 76 | Tóth.A | MID | BOU | cost=5.0 | selected=0.0% | status=a | news=
+- 225 | Uche | FWD | CRY | cost=5.0 | selected=0.0% | status=u | news=has returned to Getafe CF
+- 433 | Ugarte | MID | MUN | cost=5.0 | selected=0.0% | status=i | news=Knee injury - Unknown return date
+- 133 | Watson | MID | BHA | cost=5.0 | selected=0.0% | status=u | news=Has joined Leicester City on loan for the rest of the season
+- 292 | Ömür | MID | HUL | cost=5.0 | selected=0.0% | status=a | news=
+- 298 | Destan | FWD | HUL | cost=4.5 | selected=2.6% | status=a | news=
+- 321 | Walle Egeli | FWD | IPS | cost=4.5 | selected=2.1% | status=a | news=
+- 290 | Slater | MID | HUL | cost=4.5 | selected=2.0% | status=a | news=
+- 528 | Scarlett | FWD | TOT | cost=4.5 | selected=1.7% | status=a | news=
+- 323 | McAteer | MID | IPS | cost=4.5 | selected=1.6% | status=a | news=
