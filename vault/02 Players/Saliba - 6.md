@@ -4,12 +4,12 @@ segment: Depth
 type: player
 fpl_id: 6
 player_name: Saliba
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Defender]]"
+team: ARS
+position: DEF
 api_status: "Back injury - Unknown return date"
 current_rank: 67
 current_segment: Core
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Saliba

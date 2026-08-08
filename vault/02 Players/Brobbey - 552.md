@@ -2,12 +2,12 @@
 type: player
 fpl_id: 552
 player_name: Brobbey
-team: "[[03 Teams/SUN]]"
-position: "[[04 Positions/Forward]]"
+team: SUN
+position: FWD
 api_status: Available
 current_rank: 73
 current_segment: Depth
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Brobbey

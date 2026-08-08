@@ -2,12 +2,12 @@
 type: player
 fpl_id: 447
 player_name: Botman
-team: "[[03 Teams/NEW]]"
-position: "[[04 Positions/Defender]]"
+team: NEW
+position: DEF
 api_status: Available
-current_rank: 161
+current_rank: 164
 current_segment: Endgame
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Botman
@@ -78,3 +78,11 @@ Compared within ranks 106–145. Current placement: **127**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **161 -> 164**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

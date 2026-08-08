@@ -2,12 +2,12 @@
 type: player
 fpl_id: 388
 player_name: Guéhi
-team: "[[03 Teams/MCI]]"
-position: "[[04 Positions/Defender]]"
+team: MCI
+position: DEF
 api_status: "Available"
 current_rank: 82
 current_segment: Core
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Guéhi

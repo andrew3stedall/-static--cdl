@@ -2,12 +2,12 @@
 type: player
 fpl_id: 144
 player_name: Gusto
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Defender]]"
+team: CHE
+position: DEF
 api_status: "Available"
 current_rank: 118
 current_segment: Endgame
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Gusto

@@ -2,12 +2,12 @@
 type: player
 fpl_id: 387
 player_name: O'Reilly
-team: "[[03 Teams/MCI]]"
-position: "[[04 Positions/Defender]]"
+team: MCI
+position: DEF
 api_status: "Available"
 current_rank: 119
 current_segment: Depth
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # O'Reilly

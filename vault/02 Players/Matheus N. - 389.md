@@ -2,12 +2,12 @@
 type: player
 fpl_id: 389
 player_name: Matheus N.
-team: "[[03 Teams/MCI]]"
-position: "[[04 Positions/Defender]]"
+team: MCI
+position: DEF
 api_status: "Available"
-current_rank: 228
+current_rank: 240
 current_segment: Depth
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Matheus N.
@@ -91,3 +91,11 @@ Rank updated to 97 after the unranked-player top-140 screen. Evidence: [[06 Revi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **228 -> 240**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

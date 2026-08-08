@@ -1,0 +1,19 @@
+---
+type: player
+fpl_id: 570
+player: Palacios
+team: FUL
+position: MID
+current_rank: 237
+last_reviewed: 2026-08-08T16:50:00+10:00
+---
+
+# Palacios
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **new -> 237**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

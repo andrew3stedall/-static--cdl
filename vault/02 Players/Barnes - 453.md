@@ -2,12 +2,12 @@
 type: player
 fpl_id: 453
 player_name: Barnes
-team: "[[03 Teams/NEW]]"
-position: "[[04 Positions/Midfielder]]"
+team: NEW
+position: MID
 api_status: "Available"
 current_rank: 54
 current_segment: Core
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Barnes

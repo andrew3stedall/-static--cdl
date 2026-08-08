@@ -2,12 +2,12 @@
 type: player
 fpl_id: 473
 player_name: Aina
-team: "[[03 Teams/NFO]]"
-position: "[[04 Positions/Defender]]"
+team: NFO
+position: DEF
 api_status: "Available"
 current_rank: 85
 current_segment: Depth
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Aina

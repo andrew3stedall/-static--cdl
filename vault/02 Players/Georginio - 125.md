@@ -4,10 +4,10 @@ fpl_id: 125
 player: Georginio
 team: BHA
 position: FWD
-current_rank: 189
+current_rank: 193
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T06:24:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Georginio
@@ -78,3 +78,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **189 -> 193**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

@@ -2,12 +2,12 @@
 type: player
 fpl_id: 95
 player_name: Ouattara Dango
-team: "[[03 Teams/BRE]]"
-position: "[[04 Positions/Midfielder]]"
+team: BRE
+position: MID
 api_status: available
 current_rank: 31
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Ouattara Dango
@@ -18,7 +18,7 @@ Direct attacking upside is useful, but role certainty is below Damsgaard's.
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Wilson]]
+- Compared with: [[02 Players/Wilson - 172|Wilson]]
 - Decision: Dango is preferred for superior open-play threat; Wilson can pass him if penalties and a central role are confirmed.
 - Confidence: Low-medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

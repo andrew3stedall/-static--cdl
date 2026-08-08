@@ -2,12 +2,12 @@
 type: player
 fpl_id: 204
 player_name: Mitchell
-team: "[[03 Teams/CRY]]"
-position: "[[04 Positions/Defender]]"
+team: CRY
+position: DEF
 api_status: "Available"
 current_rank: 101
 current_segment: Core
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Mitchell

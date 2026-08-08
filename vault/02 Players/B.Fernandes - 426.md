@@ -2,12 +2,12 @@
 type: player
 fpl_id: 426
 player_name: Bruno Fernandes
-team: "[[03 Teams/MUN]]"
-position: "[[04 Positions/Midfielder]]"
+team: MUN
+position: MID
 api_status: available
 current_rank: 5
 current_segment: Franchise
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Bruno Fernandes

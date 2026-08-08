@@ -2,12 +2,12 @@
 type: player
 fpl_id: 368
 player_name: Dominik Szoboszlai
-team: "[[03 Teams/LIV]]"
-position: "[[04 Positions/Midfielder]]"
+team: LIV
+position: MID
 api_status: available
 current_rank: 24
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Dominik Szoboszlai
@@ -18,7 +18,7 @@ Strong team context and set-piece routes remain valuable despite deeper usage.
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Bruno G.]]
+- Compared with: [[02 Players/Bruno G. - 452|Bruno G.]]
 - Decision: Szoboszlai has the higher attacking ceiling; Bruno Guimarães has the safer minutes floor.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

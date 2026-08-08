@@ -2,12 +2,12 @@
 type: player
 fpl_id: 223
 player_name: Jean-Philippe Mateta
-team: "[[03 Teams/CRY]]"
-position: "[[04 Positions/Forward]]"
+team: CRY
+position: FWD
 api_status: available
 current_rank: 18
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Jean-Philippe Mateta
@@ -18,7 +18,7 @@ Nailed central-forward profile creates meaningful replacement value.
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Kluivert]]
+- Compared with: [[02 Players/Kluivert - 70|Kluivert]]
 - Decision: Mateta is drafted first because comparable raw points plus forward scarcity outweigh Kluivert's midfield scoring routes.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

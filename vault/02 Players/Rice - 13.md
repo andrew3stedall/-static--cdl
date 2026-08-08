@@ -4,12 +4,12 @@ segment: Foundation
 type: player
 fpl_id: 13
 player_name: Declan Rice
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
+team: ARS
+position: MID
 api_status: available
 current_rank: 30
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Declan Rice
@@ -20,7 +20,7 @@ Outstanding minutes and set-piece involvement, but role is less attacking than t
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Virgil]]
+- Compared with: [[02 Players/Virgil - 356|Virgil]]
 - Decision: Rice is expected to score slightly more through set pieces and midfield scoring; defender scarcity does not reverse it.
 - Confidence: Medium-high
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

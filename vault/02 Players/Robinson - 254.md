@@ -2,12 +2,12 @@
 type: player
 fpl_id: 254
 player_name: Robinson
-team: "[[03 Teams/FUL]]"
-position: "[[04 Positions/Defender]]"
+team: FUL
+position: DEF
 api_status: "Available"
 current_rank: 108
 current_segment: Endgame
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Robinson

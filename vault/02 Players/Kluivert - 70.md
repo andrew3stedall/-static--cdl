@@ -2,12 +2,12 @@
 type: player
 fpl_id: 70
 player_name: Justin Kluivert
-team: "[[03 Teams/BOU]]"
-position: "[[04 Positions/Midfielder]]"
+team: BOU
+position: MID
 api_status: available
 current_rank: 20
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Justin Kluivert
@@ -18,7 +18,7 @@ High-value attacking role and possible penalties, moderated by difficult opening
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Tavernier]]
+- Compared with: [[02 Players/Tavernier - 68|Tavernier]]
 - Decision: Kluivert has the stronger central and penalty upside; reverse if Tavernier clearly owns more set pieces and minutes.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

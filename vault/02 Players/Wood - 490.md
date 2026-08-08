@@ -2,12 +2,12 @@
 type: player
 fpl_id: 490
 player_name: Wood
-team: "[[03 Teams/NFO]]"
-position: "[[04 Positions/Forward]]"
+team: NFO
+position: FWD
 api_status: "Available"
 current_rank: 60
 current_segment: Core
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Wood

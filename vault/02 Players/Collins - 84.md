@@ -2,12 +2,12 @@
 type: player
 fpl_id: 84
 player_name: Collins
-team: "[[03 Teams/BRE]]"
-position: "[[04 Positions/Defender]]"
+team: BRE
+position: DEF
 api_status: "Available"
-current_rank: 109
+current_rank: 110
 current_segment: Core
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Collins
@@ -59,3 +59,11 @@ Rechecked in the transfer-driven ranks 41–70 pass. Relative comparator held; r
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **109 -> 110**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

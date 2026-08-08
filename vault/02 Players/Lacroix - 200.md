@@ -2,13 +2,13 @@
 type: player
 fpl_id: 200
 player_name: Lacroix
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Defender]]"
+team: CHE
+position: DEF
 api_status: "Available"
 current_rank: 144
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Lacroix

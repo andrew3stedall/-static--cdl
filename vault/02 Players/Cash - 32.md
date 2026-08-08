@@ -2,12 +2,12 @@
 type: player
 fpl_id: 32
 player_name: Cash
-team: "[[03 Teams/AVL]]"
-position: "[[04 Positions/Defender]]"
+team: AVL
+position: DEF
 api_status: Available
 current_rank: 137
 current_segment: Depth
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Cash

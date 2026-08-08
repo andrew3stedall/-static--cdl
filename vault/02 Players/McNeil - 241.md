@@ -7,7 +7,7 @@ position: MID
 current_rank: 55
 segment: Core
 tier: B-
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # McNeil

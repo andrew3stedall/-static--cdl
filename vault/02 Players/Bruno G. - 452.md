@@ -2,12 +2,12 @@
 type: player
 fpl_id: 452
 player_name: Bruno Guimarães
-team: "[[03 Teams/NEW]]"
-position: "[[04 Positions/Midfielder]]"
+team: NEW
+position: MID
 api_status: available
 current_rank: 29
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Bruno Guimarães
@@ -18,7 +18,7 @@ Excellent minutes security and floor, but fewer high-value attacking actions tha
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Muñoz]]
+- Compared with: [[02 Players/Muñoz - 201|Muñoz]]
 - Decision: Bruno leads on expected season points and availability; Muñoz gains only a modest scarcity adjustment at defender.
 - Confidence: Medium-high
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.
@@ -69,3 +69,11 @@ Excellent minutes security and floor, but fewer high-value attacking actions tha
 - Raw expected season points were considered before minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Injury weighting used the full Draft season: short absences were minor, while uncertain or multi-month cases remained material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2041-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **29 -> 29**.
+- Current status: **Transfer agreed to Arsenal; completion/registration watch**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

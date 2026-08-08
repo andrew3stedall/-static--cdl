@@ -2,12 +2,12 @@
 type: player
 fpl_id: 236
 player_name: Dewsbury-Hall
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Midfielder]]"
+team: EVE
+position: MID
 api_status: available
 current_rank: 34
 current_segment: Core
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Dewsbury-Hall

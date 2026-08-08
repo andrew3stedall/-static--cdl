@@ -2,12 +2,12 @@
 type: player
 fpl_id: 491
 player_name: Igor Jesus
-team: "[[03 Teams/NFO]]"
-position: "[[04 Positions/Forward]]"
+team: NFO
+position: FWD
 api_status: "Available"
 current_rank: 106
 current_segment: Depth
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Igor Jesus

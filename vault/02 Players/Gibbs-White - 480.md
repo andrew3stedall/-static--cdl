@@ -2,12 +2,12 @@
 type: player
 fpl_id: 480
 player_name: Morgan Gibbs-White
-team: "[[03 Teams/NFO]]"
-position: "[[04 Positions/Midfielder]]"
+team: NFO
+position: MID
 api_status: available
 current_rank: 16
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Morgan Gibbs-White

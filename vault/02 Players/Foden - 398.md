@@ -2,12 +2,12 @@
 type: player
 fpl_id: 398
 player_name: Phil Foden
-team: "[[03 Teams/MCI]]"
-position: "[[04 Positions/Midfielder]]"
+team: MCI
+position: MID
 api_status: available
 current_rank: 14
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Phil Foden
@@ -18,7 +18,7 @@ High attacking ceiling wins the block despite rotation risk.
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Gakpo]]
+- Compared with: [[02 Players/Gakpo - 367|Gakpo]]
 - Decision: Foden is drafted first for the stronger proven peak and central-attacking upside; reverse if preseason shows a non-starting role.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

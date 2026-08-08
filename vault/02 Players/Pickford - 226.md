@@ -2,12 +2,12 @@
 type: player
 fpl_id: 226
 player_name: Pickford
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: EVE
+position: GKP
 api_status: "Available"
 current_rank: 113
 current_segment: Depth
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Pickford

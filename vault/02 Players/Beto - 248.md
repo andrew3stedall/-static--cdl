@@ -2,13 +2,13 @@
 type: player
 fpl_id: 248
 player_name: Beto
-team: "[[03 Teams/EVE]]"
-position: "[[04 Positions/Forward]]"
+team: EVE
+position: FWD
 api_status: "Available"
 current_rank: 88
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Beto

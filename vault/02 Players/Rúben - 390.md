@@ -2,13 +2,13 @@
 type: player
 fpl_id: 390
 player_name: Rúben
-team: "[[03 Teams/MCI]]"
-position: "[[04 Positions/Defender]]"
+team: MCI
+position: DEF
 api_status: "Available"
 current_rank: 120
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Rúben

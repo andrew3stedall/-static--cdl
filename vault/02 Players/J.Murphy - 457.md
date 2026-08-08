@@ -2,12 +2,12 @@
 type: player
 fpl_id: 457
 player_name: J.Murphy
-team: "[[03 Teams/NEW]]"
-position: "[[04 Positions/Midfielder]]"
+team: NEW
+position: MID
 api_status: "Available"
 current_rank: 76
 current_segment: Depth
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # J.Murphy

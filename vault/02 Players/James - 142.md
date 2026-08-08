@@ -2,12 +2,12 @@
 type: player
 fpl_id: 142
 player_name: James
-team: "[[03 Teams/CHE]]"
-position: "[[04 Positions/Defender]]"
+team: CHE
+position: DEF
 api_status: "Available"
 current_rank: 57
 current_segment: Core
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # James

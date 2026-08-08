@@ -2,12 +2,12 @@
 type: player
 fpl_id: 356
 player_name: Virgil van Dijk
-team: "[[03 Teams/LIV]]"
-position: "[[04 Positions/Defender]]"
+team: LIV
+position: DEF
 api_status: available
 current_rank: 42
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Virgil van Dijk
@@ -18,7 +18,7 @@ Nailed elite-team defender with set-piece threat, but the position is replaceabl
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Dewsbury-Hall]]
+- Compared with: [[02 Players/Dewsbury-Hall - 236|Dewsbury-Hall]]
 - Decision: Virgil retains rank 32 on clean-sheet floor; Dewsbury-Hall passes him if an advanced Everton role and set pieces are confirmed.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

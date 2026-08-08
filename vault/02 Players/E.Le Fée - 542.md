@@ -2,12 +2,12 @@
 type: player
 fpl_id: 542
 player_name: E.Le Fée
-team: "[[03 Teams/SUN]]"
-position: "[[04 Positions/Midfielder]]"
+team: SUN
+position: MID
 api_status: "Available"
 current_rank: 40
 current_segment: Core
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # E.Le Fée

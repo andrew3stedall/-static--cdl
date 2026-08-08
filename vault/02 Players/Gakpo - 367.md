@@ -2,12 +2,12 @@
 type: player
 fpl_id: 367
 player_name: Cody Gakpo
-team: "[[03 Teams/LIV]]"
-position: "[[04 Positions/Midfielder]]"
+team: LIV
+position: MID
 api_status: available
 current_rank: 15
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Cody Gakpo
@@ -18,7 +18,7 @@ Likely Liverpool attacking starter with strong team environment, but role is les
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Eze]]
+- Compared with: [[02 Players/Eze - 14|Eze]]
 - Decision: Gakpo is preferred because his route to starts in Liverpool's front line is clearer than Eze's exact Arsenal role.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

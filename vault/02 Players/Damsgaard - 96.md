@@ -2,12 +2,12 @@
 type: player
 fpl_id: 96
 player_name: Mikkel Damsgaard
-team: "[[03 Teams/BRE]]"
-position: "[[04 Positions/Midfielder]]"
+team: BRE
+position: MID
 api_status: available
 current_rank: 25
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Mikkel Damsgaard
@@ -18,7 +18,7 @@ Secure creative involvement offers a useful floor without elite goal volume.
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/O.Dango]]
+- Compared with: [[02 Players/O.Dango - 95|O.Dango]]
 - Decision: Damsgaard has the clearer creative role and minutes expectation.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

@@ -2,7 +2,7 @@
 type: team
 team_name: Arsenal
 team_short: ARS
-last_reviewed: 2026-08-02T17:58:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Arsenal
@@ -33,33 +33,31 @@ last_reviewed: 2026-08-02T17:58:00+10:00
 - [[01 Current/Current Watchlist]]
 
 <!-- ranked-players:start -->
-## Players by overall rank
+## Ranked players
 
-Players are listed in canonical overall draft rank order after the Arsenal internal comparison.
+3. [[02 Players/Saka - 12|Saka]] — MID; Franchise / A+; Available
+8. [[02 Players/Gyökeres - 25|Gyökeres]] — FWD; Franchise / A+; Available
+19. [[02 Players/Eze - 14|Eze]] — MID; Foundation / B+; Available
+21. [[02 Players/Gabriel - 4|Gabriel]] — DEF; Foundation / B+; Available
+22. [[02 Players/Ødegaard - 15|Ødegaard]] — MID; Foundation / B+; Available
+30. [[02 Players/Rice - 13|Rice]] — MID; Foundation / B+; Available
+50. [[02 Players/Martinelli - 18|Martinelli]] — MID; Core / B-; Available
+67. [[02 Players/Saliba - 6|Saliba]] — DEF; Core / C+; Back injury - Unknown return date
+72. [[02 Players/Havertz - 26|Havertz]] — FWD; Core / C+; Available
+74. [[02 Players/J.Timber - 5|J.Timber]] — DEF; Core / C+; Groin injury - Expected back 21 Aug
+77. [[02 Players/Raya - 1|Raya]] — GKP; Core / C+; Available
+95. [[02 Players/Calafiori - 8|Calafiori]] — DEF; Depth / C; Available
+131. [[02 Players/Zubimendi - 19|Zubimendi]] — MID; Endgame / D+; Available
+133. [[02 Players/Hincapie - 9|Hincapie]] — DEF; Endgame / D+; Available
+182. [[02 Players/Merino - 17|Merino]] — MID; Undrafted buffer / D; Available
+212. [[02 Players/Nwaneri - 22|Nwaneri]] — MID; Undrafted buffer / D; Available
+213. [[02 Players/Madueke - 16|Madueke]] — MID; Undrafted buffer / D; Available
+215. [[02 Players/Tzolis - 557|Tzolis]] — MID; Undrafted buffer / D; Available
+257. [[02 Players/White - 10|White]] — DEF; Extended watch buffer / Watch; Available
+297. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD; Extended watch buffer / Watch; Napoli interest; Arsenal open-to-sale reports
+339. [[02 Players/Fábio Vieira - 23|Fábio Vieira]] — MID; Extended watch buffer / Watch; Available
 
-3. [[02 Players/Saka - 12|Saka]] — MID, ARS; Franchise / A+; Available
-8. [[02 Players/Gabriel - 4|Gabriel]] — DEF, ARS; Franchise / A+; Available
-9. [[02 Players/Gyökeres - 25|Gyökeres]] — FWD, ARS; Foundation / A; Available
-19. [[02 Players/Eze - 14|Eze]] — MID, ARS; Foundation / B+; Available
-20. [[02 Players/Ødegaard - 15|Ødegaard]] — MID, ARS; Foundation / B+; Available
-31. [[02 Players/Rice - 13|Rice]] — MID, ARS; Foundation / B+; Available
-70. [[02 Players/Havertz - 26|Havertz]] — FWD, ARS; Core / C+; Available
-71. [[02 Players/Martinelli - 18|Martinelli]] — MID, ARS; Core / C+; Available
-76. [[02 Players/Raya - 1|Raya]] — GKP, ARS; Core / C+; Available
-82. [[02 Players/Calafiori - 8|Calafiori]] — DEF, ARS; Depth / C; Available
-85. [[02 Players/Saliba - 6|Saliba]] — DEF, ARS; Depth / C; Back injury - Unknown return date
-91. [[02 Players/J.Timber - 5|J.Timber]] — DEF, ARS; Depth / C; Groin injury - Expected back 21 Aug
-134. [[02 Players/Hincapie - 9|Hincapie]] — DEF, ARS; Endgame / D+; Available
-137. [[02 Players/Zubimendi - 19|Zubimendi]] — MID, ARS; Endgame / D+; Available
-190. [[02 Players/Merino - 17|Merino]] — MID, ARS; Deep watch / D-; Available
-228. [[02 Players/Tzolis - 557|Tzolis]] — MID, ARS; Extended watch buffer / Watch; Available
-239. [[02 Players/Madueke - 16|Madueke]] — MID, ARS; Extended watch buffer / Watch; Available
-264. [[02 Players/White - 10|White]] — DEF, ARS; Undrafted buffer / D; Available
-316. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD, ARS; Extended watch buffer / Watch; Available
-334. [[02 Players/Lewis-Skelly - 7|Lewis-Skelly]] — MID, ARS; Extended watch buffer / Watch; Available
-343. [[02 Players/Mosquera - 11|Mosquera]] — DEF, ARS; Extended watch buffer / Watch; Available
-
-Source: [[01 Current/Current Draft Board]] · reviewed 2026-08-02T17:58:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

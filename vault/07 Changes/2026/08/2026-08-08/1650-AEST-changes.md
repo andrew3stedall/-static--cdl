@@ -1,0 +1,179 @@
+---
+type: changes
+changed_at: 2026-08-08T16:50:00+10:00
+scope: final full-board 1-350 sweep
+---
+
+# Final sweep changes
+
+## Entrants
+- **García** (FWD, FUL) entered at **109**; FPL ID 569.
+- **Horníček** (GKP, NEW) entered at **115**; FPL ID 567.
+- **Maeda** (MID, IPS) entered at **135**; FPL ID 562.
+- **Hato** (DEF, CHE) entered at **152**; FPL ID 148.
+- **Rudoni** (MID, COV) entered at **163**; FPL ID 183.
+- **Fatawu** (MID, IPS) entered at **174**; FPL ID 315.
+- **Elliott** (MID, LIV) entered at **181**; FPL ID 383.
+- **Clarke** (MID, IPS) entered at **190**; FPL ID 313.
+- **Dibling** (MID, EVE) entered at **195**; FPL ID 245.
+- **Tchaouna** (MID, COV) entered at **201**; FPL ID 190.
+- **Abraham** (FWD, AVL) entered at **207**; FPL ID 56.
+- **Nwaneri** (MID, ARS) entered at **212**; FPL ID 22.
+- **McAtee** (MID, NFO) entered at **219**; FPL ID 486.
+- **Piroe** (FWD, LEE) entered at **224**; FPL ID 348.
+- **Kulusevski** (MID, TOT) entered at **231**; FPL ID 521.
+- **Palacios** (MID, FUL) entered at **237**; FPL ID 570.
+- **Mason-Clark** (MID, COV) entered at **243**; FPL ID 186.
+- **Quenda** (MID, CHE) entered at **250**; FPL ID 164.
+- **Ferguson** (FWD, BHA) entered at **255**; FPL ID 139.
+- **Rushworth** (GKP, COV) entered at **262**; FPL ID 110.
+- **Trafford** (GKP, LEE) entered at **268**; FPL ID 385.
+- **Philogene** (MID, IPS) entered at **274**; FPL ID 318.
+- **Buonanotte** (MID, BHA) entered at **280**; FPL ID 128.
+- **O'Riley** (MID, BHA) entered at **287**; FPL ID 126.
+- **Carvalho** (MID, BRE) entered at **292**; FPL ID 100.
+- **Belloumi** (MID, HUL) entered at **298**; FPL ID 286.
+- **Barco** (MID, CHE) entered at **303**; FPL ID 568.
+- **Hackney** (MID, EVE) entered at **308**; FPL ID 247.
+- **Sakamoto** (MID, COV) entered at **315**; FPL ID 185.
+- **Grimes** (MID, COV) entered at **320**; FPL ID 184.
+- **Destan** (FWD, HUL) entered at **327**; FPL ID 298.
+- **Lavia** (MID, CHE) entered at **333**; FPL ID 161.
+- **Fábio Vieira** (MID, ARS) entered at **339**; FPL ID 23.
+- **Bailey** (MID, AVL) entered at **345**; FPL ID 44.
+
+## Removals
+- **Chalobah** (old rank 111) — confirmed Chelsea-to-Como transfer.
+- **Xavi** (old rank 175) — fell below the 350-player buffer after new-player insertion.
+- **Yarmoliuk** (old rank 285) — fell below the 350-player buffer after new-player insertion.
+- **Onana** (old rank 294) — fell below the 350-player buffer after new-player insertion.
+- **Touré** (old rank 321) — fell below the 350-player buffer after new-player insertion.
+- **Devenny** (old rank 322) — fell below the 350-player buffer after new-player insertion.
+- **Kamara** (old rank 323) — fell below the 350-player buffer after new-player insertion.
+- **Svoboda** (old rank 324) — fell below the 350-player buffer after new-player insertion.
+- **Kelleher** (old rank 325) — fell below the 350-player buffer after new-player insertion.
+- **Diakité** (old rank 326) — fell below the 350-player buffer after new-player insertion.
+- **Disasi** (old rank 327) — fell below the 350-player buffer after new-player insertion.
+- **Lindelöf** (old rank 328) — fell below the 350-player buffer after new-player insertion.
+- **Muharemović** (old rank 329) — fell below the 350-player buffer after new-player insertion.
+- **Mosquera** (old rank 330) — fell below the 350-player buffer after new-player insertion.
+- **Lewis-Skelly** (old rank 331) — fell below the 350-player buffer after new-player insertion.
+- **O'Nien** (old rank 332) — fell below the 350-player buffer after new-player insertion.
+- **M.Sarr** (old rank 333) — fell below the 350-player buffer after new-player insertion.
+- **Andrey Santos** (old rank 334) — fell below the 350-player buffer after new-player insertion.
+- **Iroegbunam** (old rank 335) — fell below the 350-player buffer after new-player insertion.
+- **Munoz** (old rank 336) — fell below the 350-player buffer after new-player insertion.
+- **Alleyne** (old rank 337) — fell below the 350-player buffer after new-player insertion.
+- **Verbruggen** (old rank 338) — fell below the 350-player buffer after new-player insertion.
+- **Leno** (old rank 339) — fell below the 350-player buffer after new-player insertion.
+- **Sels** (old rank 340) — fell below the 350-player buffer after new-player insertion.
+- **Roefs** (old rank 341) — fell below the 350-player buffer after new-player insertion.
+- **Lammens** (old rank 342) — fell below the 350-player buffer after new-player insertion.
+- **Martinez** (old rank 343) — fell below the 350-player buffer after new-player insertion.
+- **Palmer** (old rank 344) — fell below the 350-player buffer after new-player insertion.
+- **Kinsky** (old rank 345) — fell below the 350-player buffer after new-player insertion.
+- **Perri** (old rank 346) — fell below the 350-player buffer after new-player insertion.
+- **Wilson** (old rank 347) — fell below the 350-player buffer after new-player insertion.
+- **Mamardashvili** (old rank 348) — fell below the 350-player buffer after new-player insertion.
+- **Dubravka** (old rank 349) — fell below the 350-player buffer after new-player insertion.
+- **Darlow** (old rank 350) — fell below the 350-player buffer after new-player insertion.
+
+## Material rank changes
+- **Pope:** 115 -> 325
+- **Romero:** 121 -> 217
+- **Rodrigo:** 204 -> 285
+- **De Ligt:** 267 -> 186
+- **G.Jesus:** 236 -> 297
+- **Zirkzee:** 187 -> 248
+- **Tielemans:** 270 -> 309
+- **Ji-soo:** 319 -> 349
+- **J.Cuenca:** 316 -> 346
+- **Cairney:** 318 -> 348
+- **Jacquet:** 320 -> 350
+- **Anselmino:** 317 -> 347
+- **Bogarde:** 315 -> 344
+- **Manzambi:** 314 -> 343
+- **Schuster:** 312 -> 341
+- **Coppola:** 311 -> 340
+- **Costinha:** 313 -> 342
+- **Milosavljević:** 308 -> 336
+- **Igor:** 310 -> 338
+- **Baleba:** 306 -> 334
+- **Röhl:** 307 -> 335
+- **Ekitiké:** 174 -> 146
+- **Vitor Reis:** 309 -> 337
+- **Cook:** 305 -> 332
+- **Longstaff:** 302 -> 329
+- **Gruev:** 304 -> 331
+- **Morato:** 301 -> 328
+- **Yates:** 303 -> 330
+- **Reinildo:** 300 -> 326
+- **Smith:** 293 -> 318
+- **Christie:** 298 -> 323
+- **Berge:** 291 -> 316
+- **Lukić:** 292 -> 317
+- **Emersonn:** 296 -> 321
+- **Willock:** 297 -> 322
+- **Vuskovic:** 299 -> 324
+- **Petrović:** 295 -> 319
+- **Wieffer:** 289 -> 313
+- **Diop:** 288 -> 312
+- **Heaven:** 290 -> 314
+- **Dominguez:** 287 -> 311
+- **Sangaré:** 286 -> 310
+- **Gomes:** 277 -> 300
+- **Adams:** 276 -> 299
+- **Ajer:** 281 -> 304
+- **Janelt:** 278 -> 301
+- **B.Badiashile:** 283 -> 306
+- **Tosin:** 282 -> 305
+- **Acheampong:** 284 -> 307
+- **Gray:** 279 -> 302
+- **Barkley:** 272 -> 294
+- **Bradley:** 266 -> 288
+- **Mazraoui:** 274 -> 296
+- **Tonali:** 271 -> 293
+- **Rigg:** 273 -> 295
+- **Hickey:** 269 -> 290
+- **Tanaka:** 265 -> 286
+- **Diarra:** 268 -> 289
+- **Fofana:** 262 -> 282
+- **Palestra:** 261 -> 281
+- **Justin:** 263 -> 283
+- **Burn:** 264 -> 284
+- **Kroupi.Jr:** 260 -> 279
+- **Gomez:** 257 -> 276
+- **Johnson:** 258 -> 277
+- **Hughes:** 259 -> 278
+- **Odobert:** 256 -> 275
+- **Guessand:** 253 -> 271
+- **Markelo:** 255 -> 273
+- **Alcaraz:** 251 -> 269
+- **Castagne:** 252 -> 270
+- **Chiesa:** 254 -> 272
+- **Mings:** 247 -> 264
+- **Henry:** 246 -> 263
+- **Rodon:** 248 -> 265
+- **Tsimikas:** 249 -> 266
+- **J.Ramsey:** 250 -> 267
+- **White:** 242 -> 257
+- **Tzimas:** 214 -> 229
+- **Bassey:** 244 -> 259
+
+## Transfer-status changes
+- Chalobah: confirmed out of the Premier League; removed.
+- Romero: advanced Atletico exit risk materially increased.
+- Rodri: Barcelona talks/personal terms materially increased exit risk.
+- Pope: Hornicek first-choice expectation materially reduced value.
+- Bruno Guimaraes: Arsenal agreement recorded without a Premier-League-exit discount.
+- Gabriel Jesus and Zirkzee: credible overseas interest recorded as watch risk.
+
+## Injury-status changes
+- Xavi Simons and Onana: ACL context converts generic uncertainty into severe long-horizon discounts.
+- Ekitike and De Ligt: dated return evidence reduces uncertainty and improves rank.
+- Tzimas, Livramento, Lewis Miley and Murillo: dated return windows reduce the penalty versus unknown return dates.
+
+## Important no-change decisions
+- Gakpo remains high: Spurs interest exists, but Liverpool reluctance makes an exit insufficiently likely to override role/ceiling.
+- Neto/Reijnders intra-league gossip did not justify large moves.
+- Kudus retains high value because the manager described a near return.

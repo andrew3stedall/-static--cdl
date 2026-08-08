@@ -2,12 +2,12 @@
 type: player
 fpl_id: 68
 player_name: Marcus Tavernier
-team: "[[03 Teams/BOU]]"
-position: "[[04 Positions/Midfielder]]"
+team: BOU
+position: MID
 api_status: available
 current_rank: 23
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Marcus Tavernier
@@ -18,7 +18,7 @@ Repeated preseason involvement supports role, but fixture difficulty limits prom
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Szoboszlai]]
+- Compared with: [[02 Players/Szoboszlai - 368|Szoboszlai]]
 - Decision: Tavernier's attacking role is preferred to Szoboszlai's deeper preseason usage.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

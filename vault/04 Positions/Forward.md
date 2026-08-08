@@ -2,7 +2,7 @@
 type: position
 position_name: Forward
 fpl_element_type: 4
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Forward
@@ -37,62 +37,65 @@ The scarcest position in an eight-manager, 20-round draft. Proven central starte
 <!-- ranked-players:start -->
 ## Players by overall rank
 
-Players are listed in canonical overall draft rank order.
+1. [[02 Players/Haaland - 411|Haaland]] — MCI; Franchise / S; Available
+4. [[02 Players/Isak - 379|Isak]] — LIV; Franchise / A+; Available
+6. [[02 Players/Watkins - 55|Watkins]] — AVL; Franchise / A+; Available
+7. [[02 Players/Thiago - 106|Thiago]] — BRE; Franchise / A+; Available
+8. [[02 Players/Gyökeres - 25|Gyökeres]] — ARS; Franchise / A+; Available
+10. [[02 Players/João Pedro - 165|João Pedro]] — CHE; Foundation / A; Available
+18. [[02 Players/Mateta - 223|Mateta]] — CRY; Foundation / B+; Available
+26. [[02 Players/Solanke - 526|Solanke]] — TOT; Foundation / B+; Available
+33. [[02 Players/Marmoush - 401|Marmoush]] — MCI; Core / B; Available
+35. [[02 Players/Calvert-Lewin - 346|Calvert-Lewin]] — LEE; Core / B; Available
+48. [[02 Players/Evanilson - 79|Evanilson]] — BOU; Core / B; Available
+49. [[02 Players/Šeško - 439|Šeško]] — MUN; Core / B-; Shin injury - 75% chance of playing
+51. [[02 Players/Wissa - 464|Wissa]] — NEW; Core / B-; Available
+59. [[02 Players/Woltemade - 463|Woltemade]] — NEW; Core / B-; Available
+60. [[02 Players/Wood - 490|Wood]] — NFO; Core / B-; Available
+61. [[02 Players/Richarlison - 527|Richarlison]] — TOT; Core / B-; Available
+68. [[02 Players/Delap - 167|Delap]] — CHE; Core / C+; Available
+72. [[02 Players/Havertz - 26|Havertz]] — ARS; Core / C+; Available
+73. [[02 Players/Brobbey - 552|Brobbey]] — SUN; Core / C+; Available
+75. [[02 Players/Muniz - 271|Muniz]] — FUL; Core / C+; Available
+81. [[02 Players/Strand Larsen - 222|Strand Larsen]] — CRY; Depth / C; Available
+88. [[02 Players/Beto - 248|Beto]] — EVE; Depth / C; Available
+90. [[02 Players/Nketiah - 224|Nketiah]] — CRY; Depth / C; Available
+106. [[02 Players/Igor Jesus - 491|Igor Jesus]] — NFO; Depth / C; Available
+107. [[02 Players/Welbeck - 136|Welbeck]] — CHE; Depth / C; Available
+109. [[02 Players/García - 569|García]] — FUL; Depth / C; Fulham striker signing; starting-role competition to monitor
+129. [[02 Players/Barry - 249|Barry]] — EVE; Endgame / D+; Available
+146. [[02 Players/Ekitiké - 380|Ekitiké]] — LIV; Endgame / D+; Post-surgery rehab; Premier Injuries potential return 12 Oct 2026
+165. [[02 Players/N.Jackson - 166|N.Jackson]] — CHE; Undrafted buffer / D; Available
+180. [[02 Players/Awoniyi - 492|Awoniyi]] — NFO; Undrafted buffer / D; Available
+185. [[02 Players/Kalimuendo - 493|Kalimuendo]] — NFO; Undrafted buffer / D; Available
+188. [[02 Players/Emegha - 170|Emegha]] — CHE; Undrafted buffer / D; Hamstring injury - 75% chance of playing
+189. [[02 Players/Osula - 465|Osula]] — NEW; Undrafted buffer / D; Available
+193. [[02 Players/Georginio - 125|Georginio]] — BHA; Undrafted buffer / D; Available
+198. [[02 Players/Nmecha - 347|Nmecha]] — LEE; Undrafted buffer / D; Available
+199. [[02 Players/Simms - 195|Simms]] — COV; Undrafted buffer / D; Available
+200. [[02 Players/Hirst - 317|Hirst]] — IPS; Undrafted buffer / D; Available
+204. [[02 Players/Wilson - 108|Wilson]] — BRE; Undrafted buffer / D; Available
+207. [[02 Players/Abraham - 56|Abraham]] — AVL; Undrafted buffer / D; Available
+208. [[02 Players/Wright - 193|Wright]] — COV; Undrafted buffer / D; Available
+214. [[02 Players/Isidor - 553|Isidor]] — SUN; Undrafted buffer / D; Available
+221. [[02 Players/Akpom - 320|Akpom]] — IPS; Extended watch buffer / Watch; Available
+223. [[02 Players/Kostoulas - 138|Kostoulas]] — BHA; Extended watch buffer / Watch; Available
+224. [[02 Players/Piroe - 348|Piroe]] — LEE; Extended watch buffer / Watch; Available
+229. [[02 Players/Tzimas - 137|Tzimas]] — BHA; Extended watch buffer / Watch; ACL rehab; Premier Injuries potential return 12 Sep 2026
+232. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — COV; Extended watch buffer / Watch; Available
+233. [[02 Players/McBurnie - 295|McBurnie]] — HUL; Extended watch buffer / Watch; Available
+235. [[02 Players/Kusi-Asare - 272|Kusi-Asare]] — FUL; Extended watch buffer / Watch; Available
+238. [[02 Players/Enes Ünal - 80|Enes Ünal]] — BOU; Extended watch buffer / Watch; Available
+239. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — IPS; Extended watch buffer / Watch; Available
+241. [[02 Players/Rodríguez - 81|Rodríguez]] — BOU; Extended watch buffer / Watch; Available
+248. [[02 Players/Zirkzee - 440|Zirkzee]] — MUN; Extended watch buffer / Watch; Juventus loan interest; PL-exit risk
+255. [[02 Players/Ferguson - 139|Ferguson]] — BHA; Extended watch buffer / Watch; Ankle injury - Expected back 10 Oct
+273. [[02 Players/Markelo - 196|Markelo]] — COV; Extended watch buffer / Watch; Available
+297. [[02 Players/G.Jesus - 27|G.Jesus]] — ARS; Extended watch buffer / Watch; Napoli interest; Arsenal open-to-sale reports
+321. [[02 Players/Emersonn - 316|Emersonn]] — IPS; Extended watch buffer / Watch; Available
+327. [[02 Players/Destan - 298|Destan]] — HUL; Extended watch buffer / Watch; Available
 
-1. [[02 Players/Haaland - 411|Haaland]] — FWD, MCI; Franchise / S; Available
-4. [[02 Players/Isak - 379|Isak]] — FWD, LIV; Franchise / A+; Available
-6. [[02 Players/Watkins - 55|Watkins]] — FWD, AVL; Franchise / A+; Available
-7. [[02 Players/Thiago - 106|Thiago]] — FWD, BRE; Franchise / A+; Available
-8. [[02 Players/Gyökeres - 25|Gyökeres]] — FWD, ARS; Franchise / A+; Available
-10. [[02 Players/João Pedro - 165|João Pedro]] — FWD, CHE; Foundation / A; Available
-18. [[02 Players/Mateta - 223|Mateta]] — FWD, CRY; Foundation / B+; Available
-26. [[02 Players/Solanke - 526|Solanke]] — FWD, TOT; Foundation / B+; Available
-33. [[02 Players/Marmoush - 401|Marmoush]] — FWD, MCI; Core / B; Available
-35. [[02 Players/Calvert-Lewin - 346|Calvert-Lewin]] — FWD, LEE; Core / B; Available
-48. [[02 Players/Evanilson - 79|Evanilson]] — FWD, BOU; Core / B; Available
-49. [[02 Players/Šeško - 439|Šeško]] — FWD, MUN; Core / B-; Shin injury - 75% chance of playing
-51. [[02 Players/Wissa - 464|Wissa]] — FWD, NEW; Core / B-; Available
-59. [[02 Players/Woltemade - 463|Woltemade]] — FWD, NEW; Core / B-; Available
-60. [[02 Players/Wood - 490|Wood]] — FWD, NFO; Core / B-; Available
-61. [[02 Players/Richarlison - 527|Richarlison]] — FWD, TOT; Core / B-; Available
-68. [[02 Players/Delap - 167|Delap]] — FWD, CHE; Core / C+; Available
-72. [[02 Players/Havertz - 26|Havertz]] — FWD, ARS; Core / C+; Available
-73. [[02 Players/Brobbey - 552|Brobbey]] — FWD, SUN; Core / C+; Available
-75. [[02 Players/Muniz - 271|Muniz]] — FWD, FUL; Core / C+; Available
-81. [[02 Players/Strand Larsen - 222|Strand Larsen]] — FWD, CRY; Depth / C; Available
-88. [[02 Players/Beto - 248|Beto]] — FWD, EVE; Depth / C; Available
-90. [[02 Players/Nketiah - 224|Nketiah]] — FWD, CRY; Depth / C; Available
-106. [[02 Players/Igor Jesus - 491|Igor Jesus]] — FWD, NFO; Depth / C; Available
-107. [[02 Players/Welbeck - 136|Welbeck]] — FWD, BHA; Depth / C; Available
-130. [[02 Players/Barry - 249|Barry]] — FWD, EVE; Endgame / D+; Available
-162. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD, CHE; Undrafted buffer / D; Available
-174. [[02 Players/Ekitiké - 380|Ekitiké]] — FWD, LIV; Undrafted buffer / D; Achilles injury - Unknown return date
-178. [[02 Players/Awoniyi - 492|Awoniyi]] — FWD, NFO; Undrafted buffer / D; Available
-182. [[02 Players/Kalimuendo - 493|Kalimuendo]] — FWD, NFO; Undrafted buffer / D; Available
-184. [[02 Players/Emegha - 170|Emegha]] — FWD, CHE; Undrafted buffer / D; Hamstring injury - 75% chance of playing
-185. [[02 Players/Osula - 465|Osula]] — FWD, NEW; Undrafted buffer / D; Available
-187. [[02 Players/Zirkzee - 440|Zirkzee]] — FWD, MUN; Undrafted buffer / D; Available
-189. [[02 Players/Georginio - 125|Georginio]] — FWD, BHA; Undrafted buffer / D; Available
-193. [[02 Players/Nmecha - 347|Nmecha]] — FWD, LEE; Undrafted buffer / D; Available
-194. [[02 Players/Simms - 195|Simms]] — FWD, COV; Undrafted buffer / D; Available
-195. [[02 Players/Hirst - 317|Hirst]] — FWD, IPS; Undrafted buffer / D; Available
-198. [[02 Players/Wilson - 108|Wilson]] — FWD, BRE; Undrafted buffer / D; Available
-201. [[02 Players/Wright - 193|Wright]] — FWD, COV; Undrafted buffer / D; Available
-207. [[02 Players/Isidor - 553|Isidor]] — FWD, SUN; Undrafted buffer / D; Available
-212. [[02 Players/Akpom - 320|Akpom]] — FWD, IPS; Undrafted buffer / D; Available
-214. [[02 Players/Tzimas - 137|Tzimas]] — FWD, BHA; Undrafted buffer / D; Knee injury - 75% chance of playing
-215. [[02 Players/Kostoulas - 138|Kostoulas]] — FWD, BHA; Undrafted buffer / D; Available
-221. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD, COV; Extended watch buffer / Watch; Available
-222. [[02 Players/McBurnie - 295|McBurnie]] — FWD, HUL; Extended watch buffer / Watch; Available
-224. [[02 Players/Kusi-Asare - 272|Kusi-Asare]] — FWD, FUL; Extended watch buffer / Watch; Available
-226. [[02 Players/Enes Ünal - 80|Enes Ünal]] — FWD, BOU; Extended watch buffer / Watch; Available
-227. [[02 Players/Al-Hamadi - 322|Al-Hamadi]] — FWD, IPS; Extended watch buffer / Watch; Available
-229. [[02 Players/Rodríguez - 81|Rodríguez]] — FWD, BOU; Extended watch buffer / Watch; Available
-236. [[02 Players/G.Jesus - 27|G.Jesus]] — FWD, ARS; Extended watch buffer / Watch; Available
-255. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
-296. [[02 Players/Emersonn - 316|Emersonn]] — FWD, IPS; Extended watch buffer / Watch; Available
-
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-05T20:51:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

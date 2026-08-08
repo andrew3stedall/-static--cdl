@@ -2,34 +2,30 @@
 type: team
 team_name: SUN
 team_short: SUN
-last_reviewed: 2026-08-03T08:30:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # SUN
 
 <!-- ranked-players:start -->
-## Players by overall rank
+## Ranked players
 
-Players are listed in canonical overall draft rank order.
+40. [[02 Players/E.Le Fée - 542|E.Le Fée]] — MID; Core / B; Available
+73. [[02 Players/Brobbey - 552|Brobbey]] — FWD; Core / C+; Available
+89. [[02 Players/Xhaka - 544|Xhaka]] — MID; Depth / C; Available
+123. [[02 Players/Mukiele - 533|Mukiele]] — DEF; Depth / C; Available
+124. [[02 Players/Adingra - 546|Adingra]] — MID; Depth / C; Available
+151. [[02 Players/Sadiki - 545|Sadiki]] — MID; Endgame / D+; Available
+167. [[02 Players/Hume - 534|Hume]] — DEF; Undrafted buffer / D; Available
+168. [[02 Players/Ballard - 532|Ballard]] — DEF; Undrafted buffer / D; Available
+172. [[02 Players/Alderete - 535|Alderete]] — DEF; Undrafted buffer / D; Available
+214. [[02 Players/Isidor - 553|Isidor]] — FWD; Undrafted buffer / D; Available
+242. [[02 Players/Talbi - 549|Talbi]] — MID; Extended watch buffer / Watch; Available
+289. [[02 Players/Diarra - 543|Diarra]] — MID; Extended watch buffer / Watch; Available
+295. [[02 Players/Rigg - 548|Rigg]] — MID; Extended watch buffer / Watch; Available
+326. [[02 Players/Reinildo - 536|Reinildo]] — DEF; Extended watch buffer / Watch; Available
 
-43. [[02 Players/E.Le Fée - 542|E.Le Fée]] — MID, SUN; Core / B; Available
-65. [[02 Players/Xhaka - 544|Xhaka]] — MID, SUN; Core / C+; Available
-73. [[02 Players/Brobbey - 552|Brobbey]] — FWD, SUN; Core / C+; Available
-101. [[02 Players/Mukiele - 533|Mukiele]] — DEF, SUN; Depth / C; Available
-105. [[02 Players/Roefs - 529|Roefs]] — GKP, SUN; Depth / C; Available
-123. [[02 Players/Ballard - 532|Ballard]] — DEF, SUN; Depth / C; Available
-129. [[02 Players/Adingra - 546|Adingra]] — MID, SUN; Endgame / D+; Available
-146. [[02 Players/Sadiki - 545|Sadiki]] — MID, SUN; Endgame / D+; Available
-157. [[02 Players/Hume - 534|Hume]] — DEF, SUN; Endgame / D+; Available
-182. [[02 Players/Alderete - 535|Alderete]] — DEF, SUN; Deep watch / D-; Available
-199. [[02 Players/Isidor - 553|Isidor]] — FWD, SUN; Undrafted buffer / D; Available
-233. [[02 Players/Talbi - 549|Talbi]] — MID, SUN; Extended watch buffer / Watch; Available
-273. [[02 Players/Diarra - 543|Diarra]] — MID, SUN; Undrafted buffer / D; Available
-329. [[02 Players/Reinildo - 536|Reinildo]] — DEF, SUN; Extended watch buffer / Watch; Available
-335. [[02 Players/Rigg - 548|Rigg]] — MID, SUN; Extended watch buffer / Watch; Available
-350. [[02 Players/O'Nien - 539|O'Nien]] — DEF, SUN; Extended watch buffer / Watch; Available
-
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T08:30:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T16:50:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->
