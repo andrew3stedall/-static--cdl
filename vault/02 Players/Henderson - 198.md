@@ -2,13 +2,13 @@
 type: player
 fpl_id: 198
 player_name: Henderson
-team: "[[03 Teams/CRY]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: CRY
+position: GKP
 api_status: "Available"
 current_rank: 114
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Henderson

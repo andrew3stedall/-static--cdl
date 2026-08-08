@@ -2,12 +2,12 @@
 type: player
 fpl_id: 469
 player_name: N.Williams
-team: "[[03 Teams/NFO]]"
-position: "[[04 Positions/Defender]]"
+team: NFO
+position: DEF
 api_status: Available
 current_rank: 141
 current_segment: Endgame
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # N.Williams

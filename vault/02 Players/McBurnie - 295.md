@@ -4,10 +4,10 @@ fpl_id: 295
 player: McBurnie
 team: HUL
 position: FWD
-current_rank: 222
+current_rank: 235
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # McBurnie
@@ -51,3 +51,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **222 -> 233**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

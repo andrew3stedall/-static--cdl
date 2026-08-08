@@ -2,13 +2,13 @@
 type: player
 fpl_id: 529
 player_name: Roefs
-team: "[[03 Teams/SUN]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: SUN
+position: GKP
 api_status: "Available"
-current_rank: 341
+current_rank: 270
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Roefs
@@ -130,3 +130,10 @@ Rank updated to 105 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].
+
+
+## 1712-AEST goalkeeper-tail correction
+
+- Re-entered the active top 350 at **270** after the final sweep incorrectly let new registrations mechanically displace established/probable starting goalkeepers.
+- Starting-role and two-goalkeeper Draft roster utility outweigh the speculative reserve outfield tail.
+- Evidence: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

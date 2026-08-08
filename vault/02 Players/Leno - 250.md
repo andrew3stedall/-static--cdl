@@ -2,13 +2,13 @@
 type: player
 fpl_id: 250
 player_name: Leno
-team: "[[03 Teams/FUL]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: FUL
+position: GKP
 api_status: "Available"
-current_rank: 339
+current_rank: 263
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Leno
@@ -151,3 +151,10 @@ Compared within ranks 106–145. Current placement: **106**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]].
+
+
+## 1712-AEST goalkeeper-tail correction
+
+- Re-entered the active top 350 at **263** after the final sweep incorrectly let new registrations mechanically displace established/probable starting goalkeepers.
+- Starting-role and two-goalkeeper Draft roster utility outweigh the speculative reserve outfield tail.
+- Evidence: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

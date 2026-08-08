@@ -2,12 +2,12 @@
 type: player
 fpl_id: 346
 player_name: Dominic Calvert-Lewin
-team: "[[03 Teams/LEE]]"
-position: "[[04 Positions/Forward]]"
+team: LEE
+position: FWD
 api_status: available
 current_rank: 35
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Dominic Calvert-Lewin
@@ -18,7 +18,7 @@ Forward scarcity and central role preserve value, with fitness and team-strength
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Damsgaard]]
+- Compared with: [[02 Players/Damsgaard - 96|Damsgaard]]
 - Decision: Calvert-Lewin is drafted first because forward replacement value offsets Damsgaard's safer creative floor.
 - Confidence: Low-medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

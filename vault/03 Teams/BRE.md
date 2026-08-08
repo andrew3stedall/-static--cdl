@@ -2,7 +2,7 @@
 type: team
 team_name: Brentford
 team_short: BRE
-last_reviewed: 2026-08-02T20:32:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Brentford
@@ -29,32 +29,28 @@ last_reviewed: 2026-08-02T20:32:00+10:00
 - [[06 Reviews/2026/08/2026-08-01/1848-AEST-review]]
 
 <!-- ranked-players:start -->
-## Players by overall rank
+## Ranked players
 
-Players are listed in canonical overall draft rank order.
+7. [[02 Players/Thiago - 106|Thiago]] — FWD; Franchise / A+; Available
+25. [[02 Players/Damsgaard - 96|Damsgaard]] — MID; Foundation / B+; Available
+31. [[02 Players/O.Dango - 95|O.Dango]] — MID; Foundation / B+; Available
+37. [[02 Players/Schade - 94|Schade]] — MID; Core / B; Available
+105. [[02 Players/Jensen - 97|Jensen]] — MID; Depth / C; Available
+110. [[02 Players/Collins - 84|Collins]] — DEF; Depth / C; Available
+117. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID; Depth / C; Available
+150. [[02 Players/Kayode - 88|Kayode]] — DEF; Endgame / D+; Available
+169. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF; Undrafted buffer / D; Available
+204. [[02 Players/Wilson - 108|Wilson]] — FWD; Undrafted buffer / D; Available
+219. [[02 Players/Kelleher - 82|Kelleher]] — GKP; Undrafted buffer / D; Available
+221. [[02 Players/Anthony - 105|Anthony]] — MID; Extended watch buffer / Watch; Available
+238. [[02 Players/Pinnock - 91|Pinnock]] — DEF; Extended watch buffer / Watch; Available
+268. [[02 Players/Henry - 89|Henry]] — DEF; Extended watch buffer / Watch; Available
+297. [[02 Players/Hickey - 90|Hickey]] — DEF; Extended watch buffer / Watch; Available
+299. [[02 Players/Carvalho - 100|Carvalho]] — MID; Extended watch buffer / Watch; Lack of match fitness - 25% chance of playing
+308. [[02 Players/Janelt - 98|Janelt]] — MID; Extended watch buffer / Watch; Available
+311. [[02 Players/Ajer - 87|Ajer]] — DEF; Extended watch buffer / Watch; Available
 
-6. [[02 Players/Thiago - 106|Thiago]] — FWD, BRE; Franchise / A+; Available
-28. [[02 Players/Damsgaard - 96|Damsgaard]] — MID, BRE; Foundation / B+; Available
-29. [[02 Players/O.Dango - 95|O.Dango]] — MID, BRE; Foundation / B+; Available
-39. [[02 Players/Schade - 94|Schade]] — MID, BRE; Core / B; Available
-75. [[02 Players/Jensen - 97|Jensen]] — MID, BRE; Depth / C; Available
-88. [[02 Players/Lewis-Potter - 86|Lewis-Potter]] — MID, BRE; Undrafted buffer / D; Available
-114. [[02 Players/Collins - 84|Collins]] — DEF, BRE; Core / C+; Available
-144. [[02 Players/Kelleher - 82|Kelleher]] — GKP, BRE; Depth / C; Available
-145. [[02 Players/Kayode - 88|Kayode]] — DEF, BRE; Endgame / D+; Available
-181. [[02 Players/Van den Berg - 85|Van den Berg]] — DEF, BRE; Endgame / D+; Available
-210. [[02 Players/Wilson - 108|Wilson]] — FWD, BRE; Undrafted buffer / D; Available
-217. [[02 Players/Anthony - 105|Anthony]] — MID, BRE; Undrafted buffer / D; Available
-247. [[02 Players/Pinnock - 91|Pinnock]] — DEF, BRE; Undrafted buffer / D; Available
-274. [[02 Players/Ajer - 87|Ajer]] — DEF, BRE; Deep watch / D-; Available
-277. [[02 Players/Henry - 89|Henry]] — DEF, BRE; Extended watch buffer / Watch; Available
-282. [[02 Players/Janelt - 98|Janelt]] — MID, BRE; Extended watch buffer / Watch; Available
-292. [[02 Players/Yarmoliuk - 102|Yarmoliuk]] — MID, BRE; Undrafted buffer / D; Available
-293. [[02 Players/Hickey - 90|Hickey]] — DEF, BRE; Extended watch buffer / Watch; Available
-305. [[02 Players/Schuster - 93|Schuster]] — DEF, BRE; Extended watch buffer / Watch; Available
-331. [[02 Players/Ji-soo - 92|Ji-soo]] — DEF, BRE; Extended watch buffer / Watch; Available
-
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-02T20:32:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

@@ -4,10 +4,10 @@ fpl_id: 325
 player: Darlow
 team: MUN
 position: GKP
-current_rank: 350
+current_rank: null
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Darlow

@@ -2,12 +2,12 @@
 type: player
 fpl_id: 526
 player_name: Solanke
-team: "[[03 Teams/TOT]]"
-position: "[[04 Positions/Forward]]"
+team: TOT
+position: FWD
 api_status: available
 current_rank: 26
 current_segment: Core
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Solanke

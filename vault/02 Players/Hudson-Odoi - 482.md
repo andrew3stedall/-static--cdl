@@ -7,7 +7,7 @@ position: MID
 current_rank: 80
 segment: Depth
 tier: C
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Hudson-Odoi

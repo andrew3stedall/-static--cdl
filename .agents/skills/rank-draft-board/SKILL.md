@@ -14,6 +14,11 @@ Rank expected Draft usefulness over the relevant season. Ignore player price, ow
 - 160 players drafted.
 - Maintain at least 220 ranked players.
 
+
+## Draft roster guardrail
+
+For a 20-player squad, maintain at least **2 goalkeepers, 5 defenders, 8 midfielders and 3 forwards**. The final two selections may be any position permitted by the league. During a live draft, once remaining selections equal the number of still-required positional slots, positional need overrides a marginal overall-rank edge.
+
 ## Core factors
 
 - expected minutes and starting security;

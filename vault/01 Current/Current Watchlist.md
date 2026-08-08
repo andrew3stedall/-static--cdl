@@ -314,3 +314,18 @@ Latest review: [[06 Reviews/2026/08/2026-08-02/1602-AEST-review]]
 
 <!-- 2051-aest-cross-position-331-350 -->
 - Final cross-position ranks 331–350 reviewed with challengers 326–330: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]] · [[07 Changes/2026/08/2026-08-05/2051-AEST-changes]]. Full 1–350 cross-position pass complete.
+
+
+<!-- final-sweep-20260808:start -->
+## 8 Aug final-sweep priority watches
+
+- **Cristian Romero** — advanced Atletico negotiations and reported agreed personal terms; large PL-exit risk. https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal
+- **Rodri / Rodrigo** — Barcelona negotiations after rejected opening bid, personal terms reported, plus back surgery. https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue
+- **Bruno Guimaraes** — Arsenal/Newcastle fee agreement reported; expected destination remains Premier League, so this is primarily a role/team-change watch. https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise
+- **Nick Pope / Lukas Hornicek** — Hornicek signed and is expected to become Newcastle No.1; Pope likely to leave. https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes
+- **Trevoh Chalobah** — confirmed sold by Chelsea to Como; removed from active ranked board. https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson
+- **Gabriel Jesus / Joshua Zirkzee / Ethan Nwaneri** — current overseas exit-interest reports; ordinary interest remains lower confidence than advanced talks. https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter
+- **Pedro Neto / Savinho / Tijjani Reijnders / Nicolas Jackson** — intra-Premier-League or role-changing transfer watch. https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city
+- **Xavi Simons / Wilson Odobert / Amadou Onana** — major knee/ACL timelines; substantial Draft-horizon discounts. https://www.premierinjuries.com/injury-table.php
+- **Ekitike / De Ligt / Tzimas / Livramento / Lewis Miley / Murillo** — dated return information improves the hold case versus an unknown return date. https://www.premierinjuries.com/injury-table.php
+<!-- final-sweep-20260808:end -->

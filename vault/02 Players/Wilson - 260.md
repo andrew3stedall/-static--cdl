@@ -2,12 +2,12 @@
 type: player
 fpl_id: 260
 player_name: Wilson
-team: "[[03 Teams/LEE]]"
-position: "[[04 Positions/Midfielder]]"
+team: LEE
+position: MID
 api_status: available
 current_rank: 69
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Wilson
@@ -18,7 +18,7 @@ Potential set-piece value remains attractive, but promoted-team projection is un
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Rice]]
+- Compared with: [[02 Players/Rice - 13|Rice]]
 - Decision: Wilson has more plausible direct attacking routes; Rice owns the safer minutes and floor.
 - Confidence: Low-medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

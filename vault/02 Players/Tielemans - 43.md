@@ -4,10 +4,10 @@ fpl_id: 43
 player: Tielemans
 team: MUN
 position: MID
-current_rank: 270
+current_rank: 316
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T08:16:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Tielemans
@@ -61,3 +61,11 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0816-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **270 -> 309**.
+- Current status: **Thigh injury; return date remains uncertain**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

@@ -4,10 +4,10 @@ fpl_id: 337
 player: Aaronson
 team: LEE
 position: MID
-current_rank: 122
+current_rank: 121
 segment: Depth
 tier: C
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Aaronson
@@ -88,3 +88,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **122 -> 121**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

@@ -2,12 +2,12 @@
 type: player
 fpl_id: 330
 player_name: Bogle
-team: "[[03 Teams/LEE]]"
-position: "[[04 Positions/Defender]]"
+team: LEE
+position: DEF
 api_status: "Available"
-current_rank: 133
+current_rank: 132
 current_segment: Endgame
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Bogle
@@ -57,3 +57,11 @@ Compared within ranks 106–145. Current placement: **133**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **133 -> 132**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

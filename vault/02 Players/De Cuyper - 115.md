@@ -2,12 +2,12 @@
 type: player
 fpl_id: 115
 player_name: De Cuyper
-team: "[[03 Teams/BHA]]"
-position: "[[04 Positions/Defender]]"
+team: BHA
+position: DEF
 api_status: "Available"
-current_rank: 135
+current_rank: 134
 current_segment: Endgame
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # De Cuyper
@@ -57,3 +57,11 @@ Compared within ranks 106–145. Current placement: **132**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0005-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **135 -> 134**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

@@ -4,12 +4,12 @@ segment: Depth
 type: player
 fpl_id: 8
 player_name: Calafiori
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Defender]]"
+team: ARS
+position: DEF
 api_status: "Available"
 current_rank: 95
 current_segment: Depth
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Calafiori

@@ -374,3 +374,13 @@ The 81–110 block was manually pairwise-sorted with challengers from 76–115. 
 
 <!-- 2051-aest-cross-position-331-350 -->
 - Final cross-position ranks 331–350 reviewed with challengers 326–330: [[06 Reviews/2026/08/2026-08-05/2051-AEST-review]] · [[07 Changes/2026/08/2026-08-05/2051-AEST-changes]]. Full 1–350 cross-position pass complete.
+
+
+<!-- latest-final-sweep:start -->
+## Latest final sweep
+
+- [[06 Reviews/2026/08/2026-08-08/1650-AEST-review|8 Aug 2026 final full-board review]]
+- [[07 Changes/2026/08/2026-08-08/1650-AEST-changes|8 Aug 2026 changes]]
+- Canonical board: [[01 Current/Current Draft Board]]
+- Current watchlist: [[01 Current/Current Watchlist]]
+<!-- latest-final-sweep:end -->

@@ -2,7 +2,7 @@
 type: team
 team_name: Chelsea
 team_short: CHE
-last_reviewed: 2026-08-02T23:26:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Chelsea
@@ -37,37 +37,36 @@ Welbeck transfer adds another centre-forward option alongside Delap, João Pedro
 Evidence: [[06 Reviews/2026/08/2026-08-02/0901-AEST-review]]; [Reuters Welbeck](https://www.reuters.com/sports/soccer/chelsea-bring-35-year-old-striker-welbeck-from-brighton-2026-08-01/).
 
 <!-- ranked-players:start -->
-## Players by overall rank
+## Ranked players
 
-Players are listed in canonical overall draft rank order.
+2. [[02 Players/Palmer - 154|Palmer]] — MID; Franchise / S; Available
+10. [[02 Players/João Pedro - 165|João Pedro]] — FWD; Foundation / A; Available
+17. [[02 Players/Rogers - 40|Rogers]] — MID; Foundation / B+; Available
+41. [[02 Players/Enzo - 155|Enzo]] — MID; Core / B; Available
+52. [[02 Players/Neto - 156|Neto]] — MID; Core / B-; Available
+57. [[02 Players/James - 142|James]] — DEF; Core / B-; Available
+64. [[02 Players/Estêvão - 157|Estêvão]] — MID; Core / B-; Available
+68. [[02 Players/Delap - 167|Delap]] — FWD; Core / C+; Available
+107. [[02 Players/Welbeck - 136|Welbeck]] — FWD; Depth / C; Available
+118. [[02 Players/Gusto - 144|Gusto]] — DEF; Depth / C; Available
+144. [[02 Players/Lacroix - 200|Lacroix]] — DEF; Endgame / D+; Available
+152. [[02 Players/Hato - 148|Hato]] — DEF; Endgame / D+; Available
+165. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD; Undrafted buffer / D; Available
+175. [[02 Players/Caicedo - 159|Caicedo]] — MID; Undrafted buffer / D; Available
+183. [[02 Players/Colwill - 149|Colwill]] — DEF; Undrafted buffer / D; Available
+188. [[02 Players/Emegha - 170|Emegha]] — FWD; Undrafted buffer / D; Hamstring injury - 75% chance of playing
+216. [[02 Players/Gittens - 158|Gittens]] — MID; Undrafted buffer / D; Available
+251. [[02 Players/Sánchez - 140|Sánchez]] — GKP; Extended watch buffer / Watch; Available
+252. [[02 Players/Quenda - 164|Quenda]] — MID; Extended watch buffer / Watch; Available
+288. [[02 Players/Palestra - 152|Palestra]] — DEF; Extended watch buffer / Watch; Available
+289. [[02 Players/Fofana - 145|Fofana]] — DEF; Extended watch buffer / Watch; Suspended until 6 Sep
+310. [[02 Players/Barco - 568|Barco]] — MID; Extended watch buffer / Watch; Available
+312. [[02 Players/Tosin - 147|Tosin]] — DEF; Extended watch buffer / Watch; Available
+313. [[02 Players/B.Badiashile - 146|B.Badiashile]] — DEF; Extended watch buffer / Watch; Available
+314. [[02 Players/Acheampong - 151|Acheampong]] — DEF; Extended watch buffer / Watch; Available
+340. [[02 Players/Lavia - 161|Lavia]] — MID; Extended watch buffer / Watch; Available
 
-5. [[02 Players/Palmer - 154|Palmer]] — MID, CHE; Franchise / A+; Available
-11. [[02 Players/João Pedro - 165|João Pedro]] — FWD, CHE; Foundation / A; Available
-16. [[02 Players/Rogers - 40|Rogers]] — MID, CHE; Foundation / A; Available
-44. [[02 Players/Enzo - 155|Enzo]] — MID, CHE; Core / B; Available
-56. [[02 Players/Neto - 156|Neto]] — MID, CHE; Core / B-; Available
-61. [[02 Players/James - 142|James]] — DEF, CHE; Core / B-; Available
-72. [[02 Players/Delap - 167|Delap]] — FWD, CHE; Deep watch / D-; Available
-100. [[02 Players/Estêvão - 157|Estêvão]] — MID, CHE; Deep watch / D-; Available
-118. [[02 Players/Gusto - 144|Gusto]] — DEF, CHE; Endgame / D+; Available
-131. [[02 Players/Sánchez - 140|Sánchez]] — GKP, CHE; Depth / C; Available
-147. [[02 Players/Chalobah - 143|Chalobah]] — DEF, CHE; Core / C+; Available
-183. [[02 Players/Caicedo - 159|Caicedo]] — MID, CHE; Endgame / D+; Available
-186. [[02 Players/Lacroix - 200|Lacroix]] — DEF, CHE; Depth / C; Available
-195. [[02 Players/N.Jackson - 166|N.Jackson]] — FWD, CHE; Undrafted buffer / D; Available
-196. [[02 Players/Emegha - 170|Emegha]] — FWD, CHE; Undrafted buffer / D; Hamstring injury - 75% chance of playing
-204. [[02 Players/Colwill - 149|Colwill]] — DEF, CHE; Deep watch / D-; Available
-255. [[02 Players/Gittens - 158|Gittens]] — MID, CHE; Extended watch buffer / Watch; Available
-256. [[02 Players/Palestra - 152|Palestra]] — DEF, CHE; Undrafted buffer / D; Available
-263. [[02 Players/Fofana - 145|Fofana]] — DEF, CHE; Extended watch buffer / Watch; Suspended until 6 Sep
-301. [[02 Players/Tosin - 147|Tosin]] — DEF, CHE; Extended watch buffer / Watch; Available
-302. [[02 Players/Acheampong - 151|Acheampong]] — DEF, CHE; Extended watch buffer / Watch; Available
-303. [[02 Players/B.Badiashile - 146|B.Badiashile]] — DEF, CHE; Undrafted buffer / D; Available
-328. [[02 Players/Anselmino - 561|Anselmino]] — DEF, CHE; Undrafted buffer / D; Available
-338. [[02 Players/Disasi - 153|Disasi]] — DEF, CHE; Extended watch buffer / Watch; Available
-348. [[02 Players/M.Sarr - 150|M.Sarr]] — DEF, CHE; Extended watch buffer / Watch; Available
-
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-02T23:26:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

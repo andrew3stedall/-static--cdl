@@ -2,13 +2,13 @@
 type: player
 fpl_id: 442
 player_name: Pope
-team: "[[03 Teams/NEW]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: NEW
+position: GKP
 api_status: "Available"
-current_rank: 115
+current_rank: 332
 current_segment: Depth
 current_tier: C
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Pope
@@ -79,3 +79,11 @@ Compared within ranks 106–145. Current placement: **107**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **115 -> 325**.
+- Current status: **Hornicek expected Newcastle No.1; Pope exit risk**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

@@ -2,12 +2,12 @@
 type: player
 fpl_id: 499
 player_name: Pedro Porro
-team: "[[03 Teams/TOT]]"
-position: "[[04 Positions/Defender]]"
+team: TOT
+position: DEF
 api_status: "Available"
 current_rank: 27
 current_segment: Core
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Pedro Porro

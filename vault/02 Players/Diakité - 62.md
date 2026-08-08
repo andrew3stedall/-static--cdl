@@ -4,10 +4,10 @@ fpl_id: 62
 player: Diakité
 team: BOU
 position: DEF
-current_rank: 326
+current_rank: null
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-05T20:51:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Diakité

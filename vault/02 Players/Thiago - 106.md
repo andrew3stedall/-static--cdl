@@ -2,12 +2,12 @@
 type: player
 fpl_id: 106
 player_name: Igor Thiago
-team: "[[03 Teams/BRE]]"
-position: "[[04 Positions/Forward]]"
+team: BRE
+position: FWD
 api_status: available
 current_rank: 7
 current_segment: Franchise
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Igor Thiago

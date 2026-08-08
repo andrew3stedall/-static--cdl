@@ -2,13 +2,13 @@
 type: player
 fpl_id: 338
 player_name: Ampadu
-team: "[[03 Teams/LEE]]"
-position: "[[04 Positions/Midfielder]]"
+team: LEE
+position: MID
 api_status: "Available"
-current_rank: 157
+current_rank: 159
 current_segment: Core
 current_tier: C+
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Ampadu
@@ -56,3 +56,11 @@ Confirmed first-choice status, repeated probable-XI minutes, set pieces, injury 
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **157 -> 159**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

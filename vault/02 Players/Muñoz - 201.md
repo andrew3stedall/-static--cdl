@@ -2,12 +2,12 @@
 type: player
 fpl_id: 201
 player_name: Daniel Muñoz
-team: "[[03 Teams/CRY]]"
-position: "[[04 Positions/Defender]]"
+team: CRY
+position: DEF
 api_status: available
 current_rank: 32
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Daniel Muñoz
@@ -18,7 +18,7 @@ Elite attacking-defender profile, but defender replacement value keeps him below
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Calvert-Lewin]]
+- Compared with: [[02 Players/Calvert-Lewin - 346|Calvert-Lewin]]
 - Decision: Muñoz has the safer all-round points routes; Calvert-Lewin passes him if a nailed, fit penalty-taking striker role is confirmed.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

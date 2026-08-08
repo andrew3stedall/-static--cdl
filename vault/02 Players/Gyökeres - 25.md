@@ -4,12 +4,12 @@ segment: Foundation
 type: player
 fpl_id: 25
 player_name: Viktor Gyökeres
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Forward]]"
+team: ARS
+position: FWD
 api_status: available
 current_rank: 8
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Viktor Gyökeres

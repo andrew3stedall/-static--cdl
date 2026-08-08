@@ -2,12 +2,12 @@
 type: player
 fpl_id: 350
 player_name: A.Becker
-team: "[[03 Teams/LIV]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: LIV
+position: GKP
 api_status: "Available"
-current_rank: 234
+current_rank: 249
 current_segment: Depth
-last_reviewed: 2026-08-05T07:19:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # A.Becker
@@ -139,3 +139,11 @@ Compared within ranks 106–145. Current placement: **109**. See [[06 Reviews/20
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0719-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **234 -> 247**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

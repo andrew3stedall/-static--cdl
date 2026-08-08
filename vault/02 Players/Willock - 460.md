@@ -4,10 +4,10 @@ fpl_id: 460
 player: Willock
 team: NEW
 position: MID
-current_rank: 297
+current_rank: 329
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Willock
@@ -62,3 +62,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **297 -> 322**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

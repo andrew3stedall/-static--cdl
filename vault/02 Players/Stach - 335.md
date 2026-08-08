@@ -2,12 +2,12 @@
 type: player
 fpl_id: 335
 player_name: Stach
-team: "[[03 Teams/LEE]]"
-position: "[[04 Positions/Midfielder]]"
+team: LEE
+position: MID
 api_status: "Available"
 current_rank: 99
 current_segment: Core
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Stach

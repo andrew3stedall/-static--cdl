@@ -2,25 +2,28 @@
 type: team
 team_name: COV
 team_short: COV
-last_reviewed: 2026-08-03T08:45:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # COV
 
 <!-- ranked-players:start -->
-## Players by overall rank
+## Ranked players
 
-Players are listed in canonical overall draft rank order.
+163. [[02 Players/Rudoni - 183|Rudoni]] — MID; Undrafted buffer / D; Shoulder injury - 75% chance of playing
+191. [[02 Players/van Ewijk - 175|van Ewijk]] — DEF; Undrafted buffer / D; Available
+197. [[02 Players/Thomas - 173|Thomas]] — DEF; Undrafted buffer / D; Available
+199. [[02 Players/Simms - 195|Simms]] — FWD; Undrafted buffer / D; Available
+201. [[02 Players/Tchaouna - 190|Tchaouna]] — MID; Undrafted buffer / D; Available
+208. [[02 Players/Wright - 193|Wright]] — FWD; Undrafted buffer / D; Available
+234. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD; Extended watch buffer / Watch; Available
+245. [[02 Players/Mason-Clark - 186|Mason-Clark]] — MID; Extended watch buffer / Watch; Available
+267. [[02 Players/Rushworth - 110|Rushworth]] — GKP; Extended watch buffer / Watch; Coventry club-record goalkeeper signing; first-choice pathway
+280. [[02 Players/Markelo - 196|Markelo]] — FWD; Extended watch buffer / Watch; Available
+322. [[02 Players/Sakamoto - 185|Sakamoto]] — MID; Extended watch buffer / Watch; Available
+327. [[02 Players/Grimes - 184|Grimes]] — MID; Extended watch buffer / Watch; Available
 
-201. [[02 Players/Wright - 193|Wright]] — FWD, COV; Undrafted buffer / D; Available
-207. [[02 Players/Simms - 195|Simms]] — FWD, COV; Undrafted buffer / D; Available
-209. [[02 Players/van Ewijk - 175|van Ewijk]] — DEF, COV; Undrafted buffer / D; Available
-215. [[02 Players/Thomas - 173|Thomas]] — DEF, COV; Undrafted buffer / D; Available
-222. [[02 Players/Wilson - 172|Wilson]] — GKP, COV; Extended watch buffer / Watch; Available
-225. [[02 Players/Thomas-Asante - 194|Thomas-Asante]] — FWD, COV; Extended watch buffer / Watch; Available
-230. [[02 Players/Markelo - 196|Markelo]] — FWD, COV; Extended watch buffer / Watch; Available
-
-Source: [[01 Current/Current Draft Board]] · generated 2026-08-03T08:45:00+10:00
+Source: [[01 Current/Current Draft Board]] · generated 2026-08-08T17:12:00+10:00
 <!-- ranked-players:end -->
 
 <!-- 1658-AEST-1658-aest-block-review -->

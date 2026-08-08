@@ -4,12 +4,12 @@ segment: Foundation
 type: player
 fpl_id: 14
 player_name: Eberechi Eze
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
+team: ARS
+position: MID
 api_status: available
 current_rank: 19
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Eberechi Eze
@@ -20,7 +20,7 @@ Elite technical ceiling and set-piece history, discounted for Arsenal role shari
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Ødegaard]]
+- Compared with: [[02 Players/Ødegaard - 15|Ødegaard]]
 - Decision: Eze narrowly leads on direct goal threat; Ødegaard passes him if Eze is not a regular starter or loses set pieces.
 - Confidence: Low-medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

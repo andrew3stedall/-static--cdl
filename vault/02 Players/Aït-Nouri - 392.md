@@ -2,12 +2,12 @@
 type: player
 fpl_id: 392
 player_name: Aït-Nouri
-team: "[[03 Teams/MCI]]"
-position: "[[04 Positions/Defender]]"
+team: MCI
+position: DEF
 api_status: Available
 current_rank: 91
 current_segment: Endgame
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Aït-Nouri

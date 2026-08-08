@@ -4,10 +4,10 @@ fpl_id: 455
 player: Tonali
 team: TOT
 position: MID
-current_rank: 271
+current_rank: 300
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-05T08:16:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Tonali
@@ -63,3 +63,11 @@ Confidence is medium-low because ranks 141 onward are still being manually stabi
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0816-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **271 -> 293**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

@@ -7,7 +7,7 @@ position: DEF
 current_rank: 103
 segment: Endgame
 tier: D+
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Van de Ven

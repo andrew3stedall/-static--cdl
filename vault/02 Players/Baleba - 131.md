@@ -4,10 +4,10 @@ fpl_id: 131
 player: Baleba
 team: BHA
 position: MID
-current_rank: 306
+current_rank: 341
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Baleba
@@ -70,3 +70,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **306 -> 334**.
+- Current status: **Ankle injury - Expected back 23 Aug**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

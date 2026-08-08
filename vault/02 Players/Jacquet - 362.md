@@ -4,10 +4,10 @@ fpl_id: 362
 player: Jacquet
 team: LIV
 position: DEF
-current_rank: 320
+current_rank: null
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Jacquet
@@ -54,3 +54,18 @@ Confidence is low-to-medium. Reverse for confirmed starting role, penalties or s
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0844-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **320 -> 350**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].
+
+
+## 1712-AEST final-tail correction
+
+- Removed from the active top 350 after direct comparison with probable starting goalkeepers.
+- Remains a watchlist/deep-pool player rather than a current ranked selection.
+- Evidence: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

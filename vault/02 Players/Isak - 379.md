@@ -2,12 +2,12 @@
 type: player
 fpl_id: 379
 player_name: Alexander Isak
-team: "[[03 Teams/LIV]]"
-position: "[[04 Positions/Forward]]"
+team: LIV
+position: FWD
 api_status: available
 current_rank: 4
 current_segment: Franchise
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Alexander Isak

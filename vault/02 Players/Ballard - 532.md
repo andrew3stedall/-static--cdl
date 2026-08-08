@@ -2,12 +2,12 @@
 type: player
 fpl_id: 532
 player_name: Ballard
-team: "[[03 Teams/SUN]]"
-position: "[[04 Positions/Defender]]"
+team: SUN
+position: DEF
 api_status: "Available"
-current_rank: 165
+current_rank: 168
 current_segment: Depth
-last_reviewed: 2026-08-05T00:22:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Ballard
@@ -90,3 +90,11 @@ Rank updated to 101 after the unranked-player top-140 screen. Evidence: [[06 Rev
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0022-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **165 -> 168**.
+- Current status: **Available**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

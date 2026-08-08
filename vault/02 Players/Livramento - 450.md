@@ -7,7 +7,7 @@ position: DEF
 current_rank: 112
 segment: Deep watch
 tier: D-
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Livramento
@@ -66,3 +66,11 @@ Confidence is low to medium. Reverse for confirmed starting roles, repeated prob
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-04/2351-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **112 -> 112**.
+- Current status: **Calf surgery; Premier Injuries potential return 23 Aug 2026**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

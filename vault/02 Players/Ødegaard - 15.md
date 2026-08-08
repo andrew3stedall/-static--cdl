@@ -4,12 +4,12 @@ segment: Foundation
 type: player
 fpl_id: 15
 player_name: Martin Ødegaard
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
+team: ARS
+position: MID
 api_status: available
 current_rank: 22
 current_segment: Foundation
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Martin Ødegaard
@@ -20,7 +20,7 @@ Secure creative role and minutes floor, with less direct goal threat than the at
 
 ## Pairwise placement
 
-- Compared with: [[02 Players/Mateta]]
+- Compared with: [[02 Players/Mateta - 223|Mateta]]
 - Decision: Ødegaard projects for the safer season total; Mateta's forward scarcity keeps the draft decision close.
 - Confidence: Medium
 - Reversal trigger: new evidence materially changing starting role, minutes, set pieces, fitness or positional replacement value.

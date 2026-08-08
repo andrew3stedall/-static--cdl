@@ -7,7 +7,7 @@ position: MID
 current_rank: 145
 segment: Extended watch buffer
 tier: Watch
-last_reviewed: 2026-08-05T00:05:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # King

@@ -4,12 +4,12 @@ segment: Core
 type: player
 fpl_id: 1
 player_name: Raya
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Goalkeeper]]"
+team: ARS
+position: GKP
 api_status: "Available"
 current_rank: 77
 current_segment: Depth
-last_reviewed: 2026-08-04T20:55:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Raya

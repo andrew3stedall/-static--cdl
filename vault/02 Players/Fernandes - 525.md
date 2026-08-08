@@ -2,12 +2,12 @@
 type: player
 fpl_id: 525
 player_name: Fernandes
-team: "[[03 Teams/TOT]]"
-position: "[[04 Positions/Midfielder]]"
+team: TOT
+position: MID
 api_status: "Available"
 current_rank: 100
 current_segment: Core
-last_reviewed: 2026-08-04T23:51:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Fernandes

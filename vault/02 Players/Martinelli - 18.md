@@ -4,12 +4,12 @@ segment: Core
 type: player
 fpl_id: 18
 player_name: Martinelli
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
+team: ARS
+position: MID
 api_status: "Available"
 current_rank: 50
 current_segment: Depth
-last_reviewed: 2026-08-04T20:41:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Martinelli

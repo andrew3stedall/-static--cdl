@@ -4,10 +4,10 @@ fpl_id: 170
 player: Emegha
 team: CHE
 position: FWD
-current_rank: 184
+current_rank: 188
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T06:24:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Emegha
@@ -77,3 +77,11 @@ Promote for confirmed starting role, advanced position, penalties/set pieces or 
 - Raw expected season points came first, then minutes, role, set pieces, floor/ceiling and positional replacement value.
 - Draft-horizon injury weighting applied; short absences were minor, unknown or multi-month cases material.
 - Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-05/0624-AEST-review]].
+
+
+## 1650-AEST final full-board sweep
+
+- Overall rank: **184 -> 188**.
+- Current status: **Hamstring injury - 75% chance of playing**.
+- Reconciled against the current FPL API and season-long Draft injury/transfer framework.
+- Evidence and reversal triggers: [[06 Reviews/2026/08/2026-08-08/1650-AEST-review]].

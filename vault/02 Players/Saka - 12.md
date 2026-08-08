@@ -4,12 +4,12 @@ segment: Franchise
 type: player
 fpl_id: 12
 player_name: Bukayo Saka
-team: "[[03 Teams/ARS]]"
-position: "[[04 Positions/Midfielder]]"
+team: ARS
+position: MID
 api_status: available
 current_rank: 3
 current_segment: Franchise
-last_reviewed: 2026-08-04T20:31:00+10:00
+last_reviewed: 2026-08-08T16:50:00+10:00
 ---
 
 # Bukayo Saka

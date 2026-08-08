@@ -4,10 +4,10 @@ fpl_id: 47
 player: Kamara
 team: AVL
 position: MID
-current_rank: 323
+current_rank: null
 segment: Undrafted buffer
 tier: D
-last_reviewed: 2026-08-05T08:44:00+10:00
+last_reviewed: 2026-08-08T17:12:00+10:00
 ---
 
 # Kamara
